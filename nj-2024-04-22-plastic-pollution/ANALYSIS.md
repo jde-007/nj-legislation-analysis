@@ -309,6 +309,36 @@ Based on hearing transcript analysis, the following legislative actions appear l
 
 ---
 
+## Part VIII: Bill Tracking
+
+### Bills Referenced During Hearing
+
+This was an **informational hearing** — witnesses discussed policy concepts and prior legislation but did not testify on specific pending bills. The hearing laid groundwork for future legislation.
+
+### Post-Hearing Bill Research
+
+**Status:** Pending  
+**Search terms:** plastic, microplastic, single-use, recycling, EPR, extended producer responsibility  
+**Session:** 2024-2025  
+**Committees:** Senate Environment and Energy; Assembly Environment, Natural Resources, and Solid Waste
+
+| Bill # | Title | Sponsor | Status | Connection to Hearing |
+|--------|-------|---------|--------|----------------------|
+| *To be researched* | | | | |
+
+### Methodology
+
+To trace hearing influence to legislation:
+1. Search NJ Legislature bill database by keywords from hearing
+2. Filter by committee and session
+3. Compare bill language to testimony claims
+4. Note direct quotes/citations in committee statements
+5. Track legislative history (introduction → committee → floor vote)
+
+See: `templates/bill_search_guide.md` for detailed search instructions.
+
+---
+
 ## Appendix A: Database Schema
 
 This analysis is supported by a SQLite database containing:

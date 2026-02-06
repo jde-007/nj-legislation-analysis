@@ -288,6 +288,35 @@ The hearing centered on the pending Resilient Environments and Landscapes (REAL)
 
 ---
 
+## Bill Tracking
+
+### Bills Referenced During Hearing
+
+This was an **informational hearing** focused on climate science briefings rather than specific pending legislation. Scientists presented findings to inform future policy decisions.
+
+### Post-Hearing Bill Research
+
+**Status:** Pending  
+**Search terms:** climate, resilience, flood, coastal, sea level, storm, adaptation  
+**Session:** 2024-2025  
+**Committees:** Senate Environment and Energy; Assembly Environment, Natural Resources, and Solid Waste
+
+| Bill # | Title | Sponsor | Status | Connection to Hearing |
+|--------|-------|---------|--------|----------------------|
+| *To be researched* | | | | |
+
+### Key Policy Recommendations from Testimony
+
+Based on testimony, future legislation likely to address:
+1. **Managed Retreat / Blue Acres expansion** — Drs. Broccoli and Lin both mentioned buyout programs
+2. **Flood Disclosure Requirements** — Dr. Lin's work on property risk communication
+3. **Infrastructure Resilience Standards** — Updated building codes for sea-level rise
+4. **Emergency Planning Updates** — Storm surge evacuation protocols
+
+See: `templates/bill_search_guide.md` for detailed search instructions.
+
+---
+
 ## Database Statistics
 
 ```
