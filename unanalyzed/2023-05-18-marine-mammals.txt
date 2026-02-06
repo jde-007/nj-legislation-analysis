@@ -1,0 +1,3444 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+ASSEMBLY SCIENCE, INNOVATION,  
+AND TECHNOLOGY COMMITTEE 
+ 
+“The Committee will receive testimony from invited guests from the scientific community 
+concerning marine mammal deaths that have occurred along the Atlantic Coast” 
+ 
+ 
+LOCATION: 
+Committee Room 16 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+May 18, 2023 
+10:00 a.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Assemblyman P. Christopher Tully, Chair 
+Assemblywoman Linda S. Carter, Vice Chair 
+Assemblyman William F. Moen 
+Assemblywoman Ellen J. Park 
+Assemblyman Christian E. Barranco 
+Assemblyman Antwan L. McClellan 
+ 
+ 
+ 
+ 
+ALSO PRESENT: 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Jonathan Allotey 
+ 
+ 
+ 
+ 
+ 
+ 
+Jack Barnes 
+Mikaela Chianese 
+ 
+ 
+ 
+Alexandra Hayes 
+Suzanne Miller 
+ 
+ 
+ 
+Elizabeth Theodore 
+ 
+ 
+Reina Smrdelj 
+Office of Legislative Services  
+ 
+Assembly Majority 
+ 
+ 
+Assembly Republican 
+Committee Aides 
+ 
+ 
+ 
+Committee Aides 
+ 
+ 
+Committee Aide
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+Shawn M. LaTourette 
+Commissioner 
+New Jersey Department of Environmental Protection (DEP) 
+2 
+ 
+Danielle Brown 
+Director of Research 
+Gotham Whale, and 
+Ph.D. candidate 
+Rutgers University 
+30 
+ 
+Josh T. Kohut, Ph.D. 
+Professor of Oceanography 
+Center for Ocean Observing Leadership 
+Rutgers University 
+35 
+ 
+Sheila Dean 
+Director 
+Marine Mammal Stranding Center 
+39 
+ 
+Douglas Nowacek, Ph.D. 
+Professor of Conservation Technology in Environment and Engineering 
+Marine Science & Conservation Marine Lab 
+Duke University 
+54 
+ 
+Robert A. DiGiovanni, Jr. 
+Founder and Chief Scientist 
+Atlantic Marine Conservation Society 
+63 
+ 
+ 
+ 
+APPENDIX: 
+ 
+Testimony and additional materials 
+Submitted by 
+Josh T. Kohut, Ph.D. 
+1x 
+ 
+Testimony and additional materials 
+submitted by 
+Sheila Dean 
+11x 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+APPENDIX (continued) 
+ 
+Testimony 
+submitted by 
+Alex Sauickie III 
+Assemblyman 
+New Jersey Legislative District 12 
+17x 
+ 
+Testimony 
+submitted by 
+Christopher J. Connors 
+Senator, and 
+Brian E. Rumpf 
+Assemblyman, and 
+DiAnne C. Gove 
+Assemblywoman 
+New Jersey Legislative District 9 
+20x 
+ 
+ 
+mej: 1-75
+ 
+ 
+ 
+1 
+ 
+ 
+ASSEMBLYMAN P. CHRISTOPHER TULLY (Chair):  Good 
+morning. 
+ 
+ 
+Welcome, everyone, to today’s Assembly Science Tech and 
+Innovation Committee. 
+ 
+ 
+Please stand up for the Pledge of Allegiance. 
+ 
+ 
+(Pledge of Allegiance recited) 
+ 
+ 
+ASSEMBLYMAN TULLY:  OK, Mikaela, please take the roll. 
+ 
+ 
+MS. CHIANESE:  Assemblyman Barranco. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Here. 
+ 
+ 
+MS. CHIANESE:  Assemblyman McClellan. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Here. 
+ 
+ 
+MS. CHIANESE:  Assemblywoman Park. 
+ 
+ 
+ASSEMBLYWOMAN PARK:  Here. 
+ 
+ 
+MS. CHIANESE:  Assemblyman Moen. 
+ 
+ 
+ASSEMBLYMAN MOEN:  Here. 
+ 
+ 
+MS. CHIANESE:  Vice-Chair Carter. 
+ 
+ 
+ASSEMBLYWOMAN LINDA S. CARTER (Vice-Chair):  
+Here. 
+ 
+ 
+MS. CHIANESE:  Chairman Tully. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Here. 
+ 
+ 
+MS. CHIANESE:  You have a quorum. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+ 
+ 
+Good morning, everybody, and thank you for being here today. 
+ 
+ 
+Like many of you, we’re upset about whales washing up on our 
+shores, and are seeking evidence today of what’s contributing to it.  Today’s 
+hearing will be a science-based bipartisan opportunity to take testimony and 
+ 
+ 
+ 
+2 
+hear recommendations from the scientific community about what the State 
+of New Jersey can do to address this issue. 
+ 
+ 
+The public has a right to know that their government is 
+monitoring issues of great public interests and concern.  But, before acting, 
+we must understand the problem.  It’s important to hear and understand the 
+facts from the scientific experts, and we are going to take a thoughtful data-
+driven, fact-based approach today. 
+ 
+ 
+We’re not here to draw any conclusions, but we’re here to collect 
+evidence.  As more evidence becomes available from reports conducted for 
+both the State and Federal level, the Legislature may hold additional 
+hearings. 
+ 
+ 
+We are obviously very distressed over the increase in large marine 
+mammals washing ashore, and we also know that this can negatively impact 
+the quality of life in our shore communities, which is an economic hub of our 
+state.  Twelve members of the New Jersey Congressional Delegation have 
+written letters about whale deaths, and we share their concerns.  We want to 
+be part of ensuring that the public and the Legislature is receiving solid 
+scientific information. 
+ 
+ 
+I look forward to what we will learn today, and I thank our 
+invited guests for testifying. 
+ 
+ 
+And, with that, we’re going to start with Shawn LaTourette, our 
+DEP Commissioner. 
+ 
+ 
+Shawn, are you here?  Here you go. 
+ 
+ 
+Commissioner, thank you so much for being here today. 
+S H A W N   M.   L a T O U R E T T E:  It’s a pleasure, thank you for the 
+invitation. 
+ 
+ 
+ 
+3 
+ 
+ 
+So, I’ll start by offering a few opening remarks, and leave plenty 
+of time to address questions, concerns that this panel may have relative to, 
+as you described, Chairman, an important issue -- one that we at the 
+Department of Environmental Protection take with the utmost seriousness. 
+ 
+ 
+For those of you who I have not had the pleasure of engaging 
+much with, my name is Shawn LaTourette, and I have the distinction of 
+serving as New Jersey’s Commissioner of Environmental Protection. 
+ 
+ 
+And, to my mind -- and to the minds of the hundreds of 
+environmental professionals who serve our residents every single day at DEP 
+-- one of the foundational imperatives for us is the management of the public 
+trust.  Because every single natural resource of this state -- the air, the land, 
+the water; our open and wild spaces; our fish and wildlife and their habitats  
+-- every single one of these natural resources belong to the people.  Not to the 
+government; not to this panel; not to the fine professionals of the DEP who 
+work so hard every day to protect them.  Every single natural resource belongs 
+to the people of this state.  And, we are charged with protecting those 
+resources -- holding them in trust and ensuring their good care. 
+ 
+ 
+And, there’s many ways that we do that that are relevant to 
+today’s inquiry.  One of the ways that we do that is through our management 
+of our coastal resources.  So, New Jersey discharges responsibilities under the 
+Coastal Zone Management Act -- the Federal Coastal Zone Management Act, 
+and our State coastal environmental laws.  And, those laws require the sound 
+management of marine resources.  So, in fulfilling our mission, we regulate 
+activities in state waters, including the development of energy-generating 
+facilities and infrastructure, and we otherwise coordinate environmental 
+reviews across Federal government agencies. 
+ 
+ 
+ 
+4 
+ 
+ 
+We at DEP expect -- but, importantly, legally require -- that every 
+regulated entity, including offshore wind project sponsors, pursue 
+development objectives, including assessing potential environmental impacts 
+with a sound and responsible approach that requires the avoidance, the 
+minimization, and the mitigation of potentially adverse impacts upon natural 
+resources.  That is a fundamental part of our mission. 
+ 
+ 
+But, we have another really important mission:  We serve, in 
+many respects, as this state’s climate science agency.  The Division of Science 
+and Research at the Department of Environmental Protection; the climate 
+mitigation and monitoring program; our air quality energy and sustainability 
+program; our climate resilience planning program -- all of these 
+instrumentalities come together to study and to report on New Jersey’s 
+climate experience. 
+ 
+ 
+And, the truth is that New Jersey is ground zero for some of the 
+worst impacts of climate change.  Many of you see this unfolding across your 
+districts.  We have a risk of increasing sea levels two times greater than most 
+other places on the planet.  We have experienced dramatic increases in 
+extreme rainfall, that many of you on this panel had held the hands and the 
+sorrows of community members as they have lost lives and livelihoods in flash 
+floods.  We have an increasing risk of extreme temperature and heat, 
+particularly in our most densely populated areas of this state, and we have an 
+increasing risk of wildfire afflicting many parts of New Jersey. 
+ 
+ 
+All of these experiences are outlined in our New Jersey Climate 
+Science Report.  And, one of those findings within our climate science report 
+-- which has been previously presented to this Legislature -- is the effect of 
+our climate experience on the ocean.  And, this is really critically important, 
+ 
+ 
+ 
+5 
+because as a function of our changing climate, our oceans are getting warmer; 
+they’re acidifying.  We are seeing changes in habitat.  We’re seeing changes 
+in habitat, particularly if you were to look at Chapter 6 of the New Jersey 
+Climate Science report.  You would see a recognition of the climate effects 
+on the ocean and how those effects are changing the migration patterns of 
+certain species -- including menhaden, which is a prey fish for marine 
+mammals. 
+ 
+ 
+And, what is happening?  What is happening with menhaden is, 
+as habitat becomes destructed, these prey fish are moving landward.  And, as 
+these prey fish move landward, their predators are following them.  Their 
+predators include whales.  And, as these prey fish -- particularly at certain 
+times of year while migrations are occurring -- as they move landward, whales 
+are chasing them.  And, this landward migration is bringing whales into direct 
+conflict with a shipping superhighway that resides just off our coast.  A 
+shipping superhighway that has experienced great growth -- great growth in 
+deliveries to what is the busiest port in the nation.  And, we are seeing 
+mortality of whales in many instances because of ship strikes as these marine 
+mammals are drawn closer to our shoreline because of changing climate 
+conditions that affect the habitat of their prey. 
+ 
+ 
+Now, we take this deeply seriously, and have been working with 
+partners in the Federal government to further study, monitor, and understand 
+these interactions.  But, at the same time, what we are also evaluating is, as a 
+function of our routine work with Federal counterparts -- so, for example, the 
+Department of Interior’s Bureau of Ocean Energy Management, or the 
+National Oceanic and Atmospheric Administration’s Fisheries Service, also 
+known as NOAA Fisheries.  Because each of these entities, alongside the 
+ 
+ 
+ 
+6 
+Department 
+of 
+Environmental 
+Protection, 
+regulates 
+infrastructure 
+development -- any kind of infrastructure development.  Whether it’s a 
+pipeline, a telecommunications cable, an offshore wind project -- without bias 
+or preference to any outcome, seeking only to ensure the paradigm that I 
+mentioned earlier:  the avoidance of adverse impacts to our environment;  the 
+minimization of adverse impacts that cannot be fully avoided; and the 
+mitigation, meaning compensation and restoration for environmental 
+impacts that are not fully avoided or minimized.  And, we do this work 
+together with these Federal entities, with respect to offshore wind.  Which, 
+as this panel knows, has been identified as a culprit in the death of marine 
+mammals.   
+ 
+ 
+It is my hope that this panel takes away a really important point:  
+The culprit is a changing climate, and our inability -- societally -- to get it 
+under control.  The 1980s were the last decade to get climate change under 
+control, and we failed, miserably.  And, as a reflection -- as an outcome of 
+that -- we have seen increasing temperatures that stress public health; 
+increasing rainfall; extreme weather that has devastated communities; rising 
+sea levels that will deeply affect our shoreline; and the disruption of our fish 
+and wildlife.  That’s what’s on display here. 
+ 
+ 
+But, that’s not a conclusion that we draw instantaneously 
+because our reports and science tell us.  But, through the examination of 
+multiple lines of evidence, we examine whether there is a potential for the 
+exploration and development of offshore wind facilities to have adverse 
+impacts, as I mentioned earlier. And, that happens in two phases:  First, with 
+respect to the investigatory phase, because -- as I believe everyone knows, and 
+in case there is any mistake about it, there are no offshore wind development 
+ 
+ 
+ 
+7 
+projects under construction right now, and there are no wind turbines off the 
+New Jersey coast, and there won’t be until at least next year, assuming all 
+permits that are being pursued are received.  But, there is exploratory work 
+that is occurring; surveying of the ocean environment.  And, I believe some 
+of the folks here today will speak to that. 
+ 
+ 
+But, in the work to identify whether that surveying activity could 
+have an adverse effect on the environment, there are numerous studies that 
+are undertaken, and the Federal government -- not the State government -- 
+the Federal government authorizes survey work with certain restrictions and 
+monitoring requirements to ensure the avoidance of conflicts with the species 
+of concern, whales or otherwise. 
+ 
+ 
+And, so, what I am trying to convey to you all is that the 
+environmental statutory and regulatory framework that this Legislature and 
+that our Congress, nationally, have enacted over the years, is performing its 
+works.  It’s doing the job of ensuring the avoidance and minimization of 
+adverse environmental impacts in the evaluation and potential construction 
+of infrastructure facilities -- no question. 
+ 
+ 
+But, what that statutory framework and regulatory framework 
+does not do is protect whales from a changing climate.  That is the job of all 
+of us, and it is a deeply necessary job that we perform together to ensure a 
+quick and just transition to a cleaner economy.  Because with the continued 
+emission of fossil fuels, the continued emission of carbon dioxide and 
+methane and other climate pollutants into our environment, these conditions 
+affecting whales will only worsen.  Because, our overall climate experience is 
+worsening at a horrifying pace. 
+ 
+ 
+ 
+8 
+ 
+ 
+It would be a mistake for this Committee to convene and discuss 
+only the implication of marine mammals, because we are in a climate 
+emergency, and we all have to act together, and fast with due regard for the 
+safety and security of our environment -- the fish and wildlife and all of us 
+who occupy, rely upon, and enjoy that environment.  And, we can do that, 
+but we shouldn’t be distracted.  We shouldn’t be distracted by 
+misinformation.  We should call out disinformation every single time we see 
+it.  Because it distracts from the critical work of protecting your constituents 
+from a worsening climate experience that will continue to cost us lives and 
+jobs and threaten our economy -- especially our coastal economy. 
+ 
+ 
+So, I implore you to go beyond this inquiry, to consider more 
+broadly the work we all must do -- and fast.  Because if we want to save the 
+whales -- and, mind you, I invite all newcomers to the cause --  we have to act 
+fast, responsibly, with due regard for our constituents and for our wildlife.  
+Your DEP is doing that.  Join us, please. 
+ 
+ 
+I’m happy to take your questions. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Commissioner, thank you so much 
+for your time today, and your testimony. 
+ 
+ 
+You actually addressed a lot of the questions that I have.  I do 
+have a few for you, and then I’ll open it up to my colleagues. 
+ 
+ 
+Given--  If we can just get an idea of what DEP is doing right 
+now.  Given that DEP has stated that it’s going to continue to monitor whale 
+mortality, can you please explain the criteria that should be closely examined 
+to better understand the uptick in whale mortalities on the New Jersey 
+coastline, on the entire Atlantic as well? 
+ 
+ 
+ 
+9 
+ 
+ 
+And, to what degree is it the Department’s responsibility to 
+identify the reason for increased whale deaths? 
+ 
+ 
+MR. LaTOURETTE:  So, in the first instance, it is a Federal 
+responsibility, because New Jersey’s jurisdiction and obligation is limited to 
+its own geographic scope -- approximately 3 miles off our coast -- in terms of 
+what we can enforce and require.  But, we work in concert with our Federal 
+agencies in pursuit, in discharging the Federal Coastal Zone Management 
+Act.  The NOAA Fisheries is the primary lead agency for investigating the 
+unusual mortality event that has been experienced since 2016. 
+ 
+ 
+So, this is not new.  The unusual mortality event has been 
+occurring for several years.  And, what the National Marine Fisheries Service 
+examines, among many things -- and this is all available. It’s all available 
+directly from NOAA Fisheries, and the DEP has also set up a microsite off of 
+our own website to provide all of the occurrence studies and further 
+information.  So, you can see what NOAA is tracking and what we are 
+monitoring alongside them.  And, then, we also work with the Marine 
+Mammal Stranding Center when these occurrences are experienced. 
+ 
+ 
+So, in terms of understanding cause, I mean, there’s a number of 
+things that are done.  So, one of the things that is done -- and, this is done 
+by the Federal government -- is examining the carcass of an animal that has 
+deceased.  And, so, that is not always possible.  It is not always possible to 
+perform what is called a necropsy, given the state of a particular carcass.  But, 
+that has occurred over the last several years, and in many, many cases what 
+is identified is vessel strike affecting whales.  There is also an uptick in 
+dolphin-related mortality that is under investigation by NOAA.  We have 
+experienced, often, mortality on this scale before when that dolphin mortality 
+ 
+ 
+ 
+10 
+was experienced -- I believe last in 2013, but I can double check that.  It was 
+identified to be viral among the species. That does occur; these animals do 
+get sick.  There are, occasionally, die-offs. 
+ 
+ 
+But, with respect to the whales, the overwhelming number that 
+we’ve seen have been a matter of a vessel strike, as I was explaining, because 
+of the tension between the habitat change and the shipping channels. 
+ 
+ 
+There is also a concern that entanglement of commercial fishing 
+equipment also is related to whale mortality, and so you would see that in 
+some of the reporting as well. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+ 
+ 
+Does the Department have sufficient funding and staff allocated 
+to this issue? 
+ 
+ 
+MR. LaTOURETTE:  So, the Department’s funding for fish and 
+wildlife programs is primarily driven by two sources:  Federal dollars and from 
+dollars from hunting and fishing licenses.  There is a minimal State 
+appropriation, if that’s your question. 
+ 
+ 
+ASSEMBLYMAN TULLY:  What can we do to ensure a better 
+maintenance of our oceans, given the circumstances?  What can we, as 
+representatives with the Legislature, do to assist DEP in this obviously very 
+distressing-- 
+ 
+ 
+MR. LaTOURETTE:  I think, first and foremost, that this 
+Committee can -- and should, if you haven’t already -- reviewed our Global 
+Warming Response Act, 80 by ’50 report. 
+ 
+ 
+So, in 2007, and then updated in 2019, this Legislature passed 
+the Global Warming Response Act.  The Global Warming Response Act 
+requires the Department of Environmental Protection to evaluate our 
+ 
+ 
+ 
+11 
+progress toward reducing climate emissions toward a goal that this Legislature 
+set.  That goal is to reduce the emission of carbon dioxide and other climate 
+pollutants by 80% by the year 2050.  We are woefully short of reaching that 
+goal.  The legislation required that the Department of Environmental 
+Protection analyze our progress and identify all of the pathways -- regulatory, 
+incentive-based, legislative -- that could be pursued to effect meaningful 
+climate action. 
+ 
+ 
+The solution for our oceans is not just a New Jersey solution, of 
+course.  It’s a global solution.  But, we have to do our part by transitioning 
+ourselves to a cleaner economy.  That report tells you how.  And, so, to the 
+extent that anyone on this panel or others would like to meet with the DEP 
+about the recommendations that are made there, we are happy to do that. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, Commissioner, I’ll 
+certainly take you up on that. 
+ 
+ 
+I don’t want to monopolize all the time; we have a lot of 
+testimony today. 
+ 
+ 
+I would like to open up to my colleagues for any questions or 
+comments. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I do have a question. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Please, go ahead. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, Commissioner, you made 
+a statement during your opening statement that you made certain 
+affirmations that are very difficult for us here to understand without greater 
+clarity. 
+ 
+ 
+Primarily, with respect to the movement of prey fish or the 
+specific temperature changes within certain regions of ocean water that the 
+ 
+ 
+ 
+12 
+science community believes has created different migratory patterns for 
+dolphins and whales.  Am I correct in that assumption -- in that interpretation 
+of what you said? 
+ 
+ 
+MR. LaTOURETTE:  I think that the better way to understand 
+it is not so much of the effect of the ocean on the whale population -- marine 
+mammal population -- itself, but rather, it’s effect on the smaller prey fish 
+that they chase. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Right.  So, obviously, your 
+assertion is the movement of prey fish have caused large marine mammals to 
+choose different migratory patterns or different areas of the ocean in which 
+they occupy to hunt for food. 
+ 
+ 
+Is that correct? 
+ 
+ 
+MR. LaTOURETTE:  Well, the -- it’s the prey fish that are 
+moving --  
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Yes-- 
+ 
+ 
+MR. LaTOURETTE:  --and the whales are just hungry. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Right, so, it’s your assertion 
+that the movement of prey fish have caused marine mammals to choose 
+different areas of the ocean to hunt in. 
+ 
+ 
+MR. LaTOURETTE:  They’re altering course, so to speak. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, it’s difficult for us, 
+obviously not being scientists -- I don’t know that anyone on this panel is a 
+scientist, or anybody in the room, for that matter, except for the people who 
+were invited to speak. 
+ 
+ 
+It’s a little hard for us to just accept the affirmation.  So, if there 
+is some proof -- scientific or otherwise -- that these animals are, in fact, 
+ 
+ 
+ 
+13 
+choosing different regions of the ocean to swim in and it’s causing either 
+strikes or other sorts of behavior that’s causing them to run into a situation 
+where they’re being killed, we would like to know that.  We would like to 
+have that proof because we’re here for marine mammal deaths, right?  The 
+climate change issue is a greater issue that we debate every day, we talk about, 
+we try to figure out how to tackle that issue. 
+ 
+ 
+We’re here today to find out why are these animals dying, right?  
+So, it’s a little hard when you make the affirmation that the ocean is changing 
+and its causing the prey fish to move here, mammals to go here, and they’re 
+creating situations where these animals are being faced with death where they 
+wouldn’t otherwise because of climate change.  It’s a little hard for us to just 
+assume that that affirmation is real. 
+ 
+ 
+So, I hope at some point, Mr. Chairman, that we have a scientist 
+who can confirm your affirmation.  Because, if we just accept your affirmation 
+as fact, then this debate is over. 
+ 
+ 
+MR. LaTOURETTE:  To be clear, Assemblyman, I am not asking 
+you to trust me, I’m asking you to trust the hundreds of scientists who already 
+work for you. 
+ 
+ 
+ASSEMBLYMAN 
+BARRANCO: 
+ 
+No, 
+that’s 
+not 
+true, 
+Commissioner.  Everyone here is begging to trust you, that’s why you’re the 
+Commissioner of DEP. 
+ 
+ 
+MR. LaTOURETTE:  And, that’s why we prepared for you the 
+New Jersey specific report on climate change, and it’s effect upon our state. 
+ 
+ 
+Because you hear one horrifying piece of information after 
+another from the global scientific community -- they’re right, they’re not 
+making it up.  They’re scientists, they’re putting it into a report and even 
+ 
+ 
+ 
+14 
+simpler reports for policy makers to help convey the science.  That’s not 
+hidden from view; that’s fully available, you just have to choose to read it. 
+ 
+ 
+And, so, we did that here for New Jersey in particular, because 
+the International Panel on Climate Change -- the IPCC -- and the U.N., they 
+prepare reports that are very broad in nature about a global experience.  So, 
+we took that information and we evaluated the New Jersey specific 
+experience, and, in 2020, we delivered New Jersey’s Climate Science Report.  
+We updated it for you last year, so the information I am offering you about 
+oceans -- it’s in there.  The science is there, it’s available.  It’s also available 
+on our website -- many reports, that could be read and shared.  We share 
+them routinely. 
+ 
+ 
+The same is true of NOAA Fisheries.  They, too, prepare the 
+information.  It’s not unavailable; it’s not as though there’s a lack of science.  
+There is plenty of science available-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I agree with you-- 
+ 
+ 
+MR. LaTOURETTE:  --that, in effect, says exactly what I’m 
+telling you. 
+ 
+ 
+But, you don’t have to trust me, you could-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  That’s my -- well, that’s why-- 
+ 
+ 
+MR. LaTOURETTE:  You can trust the scientists -- I certainly 
+do. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  That’s why I bring it up, 
+Commissioner. 
+ 
+ 
+Your affirmation of the movement of prey fish and the 
+temperature changes that cause these migratory differences that are causing  
+ 
+ 
+ 
+15 
+-- see, again, we’re going to face, in this Committee today, we’re going to face 
+convenient and inconvenient facts.  That’s why we’re here. 
+ 
+ 
+MR. LaTOURETTE:  Yes, I understand.  I face inconvenient 
+facts every single day. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Depending on how you feel 
+about this -- but, at the end of the day, Commissioner, what we’re here for is, 
+why are we getting multiple-ton mammals on our beaches? 
+ 
+ 
+MR. LaTOURETTE:  So, I just explained that to you. 
+ 
+ 
+I think there’s something important to understand.  Number 1, 
+I’m not offering you a personal affirmation.  I am offering you a summary of 
+sound, reliable science.  You can choose to review, in detail, the information 
+that I’ve summarized for you.  But, I’m not asking you to accept my personal 
+affirmation. 
+ 
+ 
+And, to be clear, I don’t have feelings about it.  I am not legally, 
+statutorily, or regulatorily empowered to have feelings about it.  My job, the 
+job of the Department of Environmental Protection, is to ensure the sound 
+management of our natural resources and, in the case of development, to, 
+under the laws that this Legislature has created over the years, ensure that as 
+development projects on land, in water -- wherever they may be that could 
+disrupt protected environmental features, including the habitat of marine life 
+-- that that activity is pursued in a manner that is responsible, using the best 
+management practices. 
+ 
+ 
+We are, at DEP, chockfull of professionals who know these 
+things -- deeply.  And, our work, it is not outcome-determinative.  It does not 
+depend on the changing tides of public sentiment.  It doesn’t depend upon 
+the advocacy of environmental activists long-engaged in this work; nor, does 
+ 
+ 
+ 
+16 
+it depend on the sudden interest of newcomers interested in protecting 
+whales.  Rather, it depends only upon an evaluation of sound science and 
+application of a regulatory scheme that treats every single piece of 
+infrastructure the same. 
+ 
+ 
+Quite honestly, we don’t care whether it’s an oil rig or a pipeline 
+or a telecom cable or a natural gas facility or a wind turbine or an electric 
+transmission cable (indiscernible).  Every single piece of infrastructure is 
+treated the same, because that’s fairness.  And, so, we embody -- or, rather, 
+apply -- that principle in the evaluation of whether or not to authorize a 
+particular activity.  So, it doesn’t matter how we feel. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you for your time, 
+Commissioner. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, Commissioner. 
+ 
+ 
+Again, you were invited here today as a subject-matter expert, 
+and we certainly rely on the DEP for the information that we’re receiving 
+here today.  We do have many scientists that will be coming to testify. 
+ 
+ 
+So, if there are no other questions-- 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  I do, Chairman. 
+ 
+ 
+ASSEMBLYMAN TULLY:  OK. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  If you don’t mind. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Yes, please. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Mr. LaTourette, how are you 
+doing today? 
+ 
+ 
+MR. LaTOURETTE:  I am doing well; it’s nice to see you. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Good to see you again, it’s 
+been a while. 
+ 
+ 
+ 
+17 
+ 
+ 
+Quick question for you: Are you familiar with the lawsuit 
+brought on by the Murphy Administration in 2018 that says that the Murphy 
+Administration alleges that using sound equipment to map the ocean floor is 
+very dangerous to marine mammals and should be stopped in the Federal 
+court level? 
+ 
+ 
+MR. LaTOURETTE:  I think that you might be referring to -- I 
+think what you might be referring to is offshore oil exploration.  Can you just 
+be a little more specific? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Sure, yes. 
+ 
+ 
+Offshore oil and things of that nature, but they’re using the same 
+equipment from my understanding -- or is it different equipment, is my 
+question to you. 
+ 
+ 
+MR. LaTOURETTE:  Oh, no, it’s not the same. 
+ 
+ 
+So, you mean -- when you say the same equipment, let me just 
+make sure that I’m understanding the question, so I answer correctly.  Are 
+you asking if whether the oil and gas industry uses the exact same equipment,    
+in-- 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  As far as the sound mapping 
+on the ocean floor.  The equipment-- Is it similar?  Is it the same?  Is it 
+different? 
+ 
+ 
+And, why would -- not to say why you (indiscernible) or know 
+what the Governor is thinking -- but what changes (indiscernible) from 18 to 
+21 that says that this equipment does not affect the mammals? 
+ 
+ 
+MR. LaTOURETTE:  I don’t think that the Governor has said 
+that, but even if he did, it wouldn’t matter -- with all due respect to my boss, 
+ 
+ 
+ 
+18 
+my job is independent of his, and it’s to protect our environment, irrespective 
+of any gubernatorial initiative. 
+ 
+ 
+And, the--  But, I think the distinction that you might be trying 
+to draw out, Assemblyman, has to do with the different types of surveying 
+equipment that can be used.  And, so, one of the things that’s available that 
+I’m going to -- the microsite off of DEP’s website that I mentioned earlier -- 
+our most recent study is on the effects of that acoustic monitoring. 
+ 
+ 
+And, so, I think the distinction that you might be identifying is 
+the difference between the type of surveying work that is being done for the 
+evaluation associated with potential development of offshore wind facilities 
+and more seismic-related surveying. 
+ 
+ 
+So, those are two different things.  And, one of the most recent 
+studies was classifying these different types of equipment, because it’s not all 
+one type of equipment; multiple different types.  And, specifically for the--  
+To evaluate weather, the type of sonar that is used would be disruptive to 
+renounce, and it’s not.  And, that’s what-- Just, again, not a personal 
+affirmation, just a summary of what the science says, the type of sonar being 
+used to evaluate the ocean environment is not the type that would be likely 
+to adversely affect these marine mammals. 
+ 
+ 
+Now, there are types that could adversely affect marine 
+mammals, but those are not the types being used.  But, again, don’t take my 
+word for it.  I can follow up and go over a printed copy of the study if folks 
+can’t find it easily on the website, but it’s there.  But, there has been some 
+misinformation swirling -- disinformation, really -- that sonar use is somehow 
+confusing marine mammals.  That is not the case. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  So, that’s not the case? 
+ 
+ 
+ 
+19 
+ 
+ 
+MR. LaTOURETTE:  No. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  So, when you say that -- and, 
+two things can’t be true, I’m not an attorney, I know you have the legal 
+background -- but I know if we’re in court and I ask you what’s affecting them 
+and you’re saying, “It’s definitely not sonar,” but we don’t know what’s 
+affecting them. 
+ 
+ 
+So, those two things can’t be true.  If you know for certain that 
+it’s not sonar, but then on the other hand you don’t know what’s affecting 
+them, do you think that there’s an opportunity that we need to take a step 
+back, 60, 90, 120 days, and try to figure out what’s affecting them, if you 
+can’t answer that question for certain? 
+ 
+ 
+MR. LaTOURETTE:  We know what’s affecting them.  It’s not 
+unknown.  It’s an interesting and very kind of circular inquiry, the idea that 
+we don’t know. 
+ 
+ 
+We do know.  We do know.  The changes to the environment in 
+which these mammals exist is what is causing them--  Now, there are multiple 
+pieces of that equation.  There are multiple lines of evidence that are 
+evaluated in order to hone in on cause. 
+ 
+ 
+So, by evaluating the sonar question, you’re looking at these 
+multiple lines of evidence.  You’re looking at the changes in habitat; you’re 
+looking at the migration patterns; you’re looking at the underwater 
+environment and the things being used there, like the sonar.  And, together, 
+you form a picture.  This is how science is done. 
+ 
+ 
+And, so, it’s not an absence of information at all.  It’s not as 
+though we don’t know what’s happening.  We understand what’s happening. 
+ 
+ 
+ 
+20 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  OK, so, if we know what’s 
+happening, and then we’re going to drill to build these wind farms, is that 
+going to affect the habitat also?  You’re saying that’s not going to affect their 
+habitat.  So, hundreds and thousands of wind farms are not going to affect 
+their habitat and cause them to either go -- come closer, because they’re 
+running from it, or it’s not going to bother them because they’re not hearing 
+it, and they’ll just get run over by ships? 
+ 
+ 
+MR. LaTOURETTE:  So, the way that that environmental 
+assessment and regulation works is, let’s take any type of infrastructure 
+project -- offshore oil rig, offshore wind turbine, a port -- anything that goes 
+in the water.  We evaluate the impact, the potential impact, upon species of 
+concern.  And, there are two ways that that happens:  under the Endangered 
+Species Act, and under the Marine Mammals Protection Act. 
+ 
+ 
+And, so, in each of these inquiries, there are studies that are 
+performed based on multiple data points that are collected all of the time -- 
+and, I think some of the other speakers will speak to this, the myriad of data 
+points that are available that are continually assessed, and how we do that.  
+But, under these two pieces of law, the Federal government, with 
+participation through the State, evaluates the species that are present in a 
+particular affected area where a project may be undertaken, and then the 
+further analysis of how the development of a project could affect a species, 
+and then that is all presented in what is called a “biological opinion.” 
+ 
+ 
+So, there is, for example, a biological opinion that was prepared, 
+released within the last few months, relative to Ocean Wind 1, which is the 
+proposed wind farm off the coast of Atlantic City.  And, that biological 
+opinion identifies whether there would be adverse impacts that would affect 
+ 
+ 
+ 
+21 
+the species.  And, that biological opinion concluded that there would be no 
+likely adverse impact that threatened the species -- meaning, that would kill 
+them -- but, rather, there would be temporary disturbance to the underwater 
+environment.  Now, that’s the case with anything.  It’s the case when you 
+build a port, a bridge, all of the telecommunications and pipelines that serve 
+us every day that go under water.  There is a temporary disturbance, but the 
+work is performed in a way so as not to kill anything -- that’s not allowed. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  So, are we familiar with the-- 
+And, I’m not sure if you are or not, but I’m sure (indiscernible) the right 
+whale? 
+ 
+ 
+MR. LaTOURETTE:  Yes, I am. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  And, are you familiar with 
+what the United States Department of Commerce said about them, and the 
+fact that there is, at this point, 350 of those left?  And, the focus on this 
+memo -- well, the memo I’m speaking of -- was dated May 13 of 2022. 
+ 
+ 
+So, this may disrupt the abundance and availability of the typical 
+right whale’s food.  The focus of this memo on this operation will fix such 
+focuses as the (indiscernible) oceanography, and the impacts of driving these 
+whales and their prey to disruption and possible extinction. 
+ 
+ 
+So, would we focus on this possible extinction now that we’re 
+down to less than 350 from 450 in 2011?  And, now, this is possibly going 
+to drive them out.  So, you’re not concerned about that particular mammal, 
+or are you concerned about all mammals? 
+ 
+ 
+MR. LaTOURETTE:  When you say “this,” what is the “this” 
+you’re referring to? 
+ 
+ 
+ 
+22 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  This is as far as the mammal 
+is concerned, the right whale?  Or you mean-- 
+ 
+ 
+MR. LaTOURETTE:  When you say, “This will drive them out,” 
+what is the subject? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  The development of ocean 
+wind. 
+ 
+ 
+MR. LaTOURETTE:  Ocean Wind 1 and the project? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  In general, not just one 
+particular project -- in general. 
+ 
+ 
+MR. LaTOURETTE:  So, you can’t make a generalized 
+conclusion about all of offshore wind. 
+ 
+ 
+ASSEMBLYMAN 
+McCLELLAN: 
+ 
+I’m 
+not, 
+I’m 
+not 
+(indiscernible) generalized question, I’m talking about ocean wind, in 
+particular in New Jersey.  But, I’m just talking about this ocean wind as it is, 
+not in general. 
+ 
+ 
+MR. LaTOURETTE:  So, what the biologists do is they evaluate 
+the presence of a species in a particular area where an activity may occur.  
+And, so, with respect to Ocean Wind 1 off of Atlantic City -- just sticking 
+with that example -- what I just described a few moments ago, the biological 
+opinion-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  I’m sorry, Commissioner, can we 
+have you switch your mic?  Because we’re getting a lot of static up here.  Can 
+we get your testimony? 
+ 
+ 
+Thank you so much; sorry for that. 
+ 
+ 
+MR. LaTOURETTE:  So -- is that better?  OK. 
+ 
+ 
+So, maybe I’m too close.  Is that better? 
+ 
+ 
+ 
+23 
+ 
+ 
+What I was explaining a few moments ago about the Endangered 
+Species Act and the biological opinion that was rendered -- that biological 
+opinion examines the -- it’s still happening.  Is there something I should -- 
+sorry. 
+ 
+ 
+Any better?  OK, all right. 
+ 
+ 
+That biological opinion examined the very question you’re 
+asking.  Because this is the routine work of environmental governments -- this 
+is what occurs in every single development scenario.  And, it occurs project 
+by project.  There is not a sweeping analysis that says, “All offshore wind is 
+good and will have no bad impacts.”  That’s not what anyone is saying. 
+ 
+ 
+Every single thing we do has an environmental externality -- 
+every single thing.  For example, we’re creating pollution right now, holding 
+this hearing in the service of some purpose.  We’ve decided societally that 
+we’ll do that; that we will allow the creation of air pollution that harms 
+people’s lungs to hold this hearing.  And, the DEP manages that pollution 
+and ensures its reduction. 
+ 
+ 
+To the same end, in the development of in-water facilities of any 
+kind -- offshore wind included -- there is an analysis of potential impact upon 
+species, and that biological opinion evaluated the right whale.  And, it 
+concluded that it’s not likely to cause mortality.  Now, may there be some 
+temporary habitat disruption?  Yes, absolutely.  That occurs in the 
+development of everything. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Last question, and I 
+appreciate your taking the time. 
+ 
+ 
+So, you’re familiar with the Bureau of Ocean Energy and 
+Management, correct? 
+ 
+ 
+ 
+24 
+ 
+ 
+MR. LaTOURETTE:  Yes. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  So, they had a report in March 
+of ’21 that building these ocean wind turbines will basically have no impact 
+on reducing global warming.  Are you familiar with that? 
+ 
+ 
+MR. LaTOURETTE:  That does not sound like a statement that 
+BOEM would make. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  March 21st of 2021. 
+ 
+ 
+MR. LaTOURETTE:  Is there a specific line that you want to 
+point out? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  In their whole report -- if you 
+can gain the report, it’s there.  Their wind offshore project, final 
+environmental impact Volume 2 on March 2021, page A-66, third paragraph. 
+ 
+ 
+So, (indiscernible)-- 
+ 
+ 
+MR. LaTOURETTE:  And, yes, what does it say? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  BOEM -- is what they are 
+known as -- conclude in 2021 that the building all of these offshore wind 
+farms will basically have no impact on reducing global warming. 
+ 
+ 
+So, if we’re trying to reduce global warming, and everybody is all 
+about BOEM, and going off and using them, they have a report in 2021 that 
+says that’s not going to happen. 
+ 
+ 
+So, if it’s going to be de minimis, why should we go and spend 
+billions of dollars to affect a billion-dollar industry?  Because you mentioned 
+Atlantic County.  I’m going to talk about Cape May County, what Cape May 
+County does for the State of New Jersey and does for the world, because it 
+has a billion-dollar fishing industry-- 
+ 
+ 
+MR. LaTOURETTE:  Yes it does-- 
+ 
+ 
+ 
+25 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  --and billion-dollar tourism 
+industry.  And, at this point in time, we’re going to render that pretty much 
+done. 
+ 
+ 
+MR. LaTOURETTE:  Absolutely not. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Completely.  If-- 
+ 
+ 
+MR. LaTOURETTE:  No.  I’m sorry, Assemblyman, I don’t mean 
+to interrupt you, but that is false. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  I don’t want to go back and 
+forth with you, I don’t mean to interrupt you, I’m just-- I talked to the 
+fishermen. And, I’m telling you that they’re not-- They’re saying that they’re 
+going to have problems getting insurance because they are not going to be 
+allowed to fish around these wind farm areas, so that’s going to destroy their 
+economy.  Talking about the economy and tourism, that I’m very familiar 
+with in Cape May County, and what’s going to cause issues with the residents 
+there and the tourism there. 
+ 
+ 
+So, that’s their opinion, and you have a different opinion as you 
+said.  But, let’s circle back to what BOEM has said, and you then can give 
+your opinion as far as the rest of that -- I didn’t mean to cut you off, so, I 
+apologize. 
+ 
+ 
+MR. LaTOURETTE:  I think what’s important is to recognize, 
+as we all should, the difference between fear and fact. 
+ 
+ 
+The world is changing, and it’s changing rapidly.  And, it’s 
+changing rapidly as a function of all of the carbon and climate pollution that 
+we have placed into the atmosphere.  That’s not an opinion; that’s not a 
+feeling.  That’s a fact.  And, that is showing really adverse changes all 
+throughout our state and the world.  And, we have to change that.  We have 
+ 
+ 
+ 
+26 
+to take the steps that will reduce the emissions of those climate pollutants, 
+or else our climate experience only gets worse, and much, much, much worse. 
+ 
+ 
+The biggest threat to our commercial fishing industry is not the 
+erection of new facilities a mile apart in the water.  It’s the fact that the very 
+ocean itself is changing.  We did that.  We have to solve for that. 
+ 
+ 
+Now, to the point of any one individual wind turbine itself -- 
+correcting the course of human history in terms of the emissions and climate 
+pollution, of course it would have a negligible impact.  But that’s not the 
+point.  The point is to gradually move from a fossil fuel-based economy that 
+has created the very adverse conditions that this panel has organized to 
+appraise to a cleaner economy that does not cause those conditions.  But, 
+that happens incrementally over time.  No one wind turbine -- and, no one 
+wind farm -- will change that outcome. 
+ 
+ 
+I imagine that that is the point that report is making.  But, it 
+misses the--  It’s the forest for the trees.  Because, the point of climate action 
+-- of a just transition to a cleaner economy -- is to change the overall makeup 
+of our energy portfolio to one that pollutes less over time, so that we avoid a 
+worsening of these conditions. 
+ 
+ 
+So, no, one wind farm isn’t going to do it. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  I’m sorry, one last question. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Go ahead. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  This is my last one, I promise. 
+ 
+ 
+How do you feel about nuclear?  Because I’ve been told nuclear 
+is the most cleanest energy.  How do you feel about that? 
+ 
+ 
+And, then I’m done. 
+ 
+ 
+ 
+27 
+ 
+ 
+MR. LaTOURETTE:  Again, my job is not to have feelings about 
+it. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Your opinion. 
+ 
+ 
+MR. LaTOURETTE:  My job is to look at the science and the 
+law, and very clearly-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  I want to stay on topic, too, so if we 
+can-- 
+ 
+ 
+MR. LaTOURETTE:  And, very clearly, nuclear energy is cleaner 
+than fossil fuel energy.  It has lots of other negative environmental 
+externalities like disposal issues; like potential harm to communities if not 
+managed well.  Because everything has environmental externality -- 
+everything. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Commissioner, I know we’re coming 
+up on about an hour right now, so-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I’m sorry, Chairman, one more 
+thing -- I just want to-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  I’ll allow one more question, and 
+then I do want to move onto the next-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  No, it’s not a question, it’s a 
+statement. 
+ 
+ 
+ASSEMBLYMAN TULLY:  I’d like to (indiscernible) a lot of 
+statements after -- after the Committee-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I just want to address 
+something that the Commissioner said, it’s going to be very quick. 
+ 
+ 
+ASSEMBLYMAN TULLY:  All right, if we could make it very 
+quick, please. 
+ 
+ 
+ 
+28 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, Commissioner, you made 
+a--  After we spoke, and I had brought up to you something that I thought 
+was not necessarily a fact, and you had made an affirmation, and that was 
+the exchange between you and I, and we got through it. 
+ 
+ 
+But, you said something a moment ago that I think is crucial to 
+the purpose of this day, and that is, you said -- and, you’re addressing the 
+question of Assemblyman McClellan -- you said that there was a biological 
+opinion obtained for a certain (indiscernible) purpose.  That is the reason 
+we’re here.  Because a lot of what we’re doing is based on opinions -- whether 
+they be based in fact or not, very few of us know. 
+ 
+ 
+Hopefully, we’ve assembled scientists who are going to share that 
+with us, but it’s crucial what you said:  It’s a biological opinion that caused 
+you to move forward on the first farm outside of Atlantic City. 
+ 
+ 
+So, we need to get to the root of those opinions.  That’s why 
+we’re here. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Assemblyman, we have scientists 
+here today, so--   
+ 
+ 
+MR. LaTOURETTE:  I think-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  I’ll give you last comments and then 
+-- yes, just go ahead Commissioner. 
+ 
+ 
+MR. LaTOURETTE:  I think you’re getting tripped up by 
+semantics, Assemblyman. 
+ 
+ 
+When I use the phrase, “biological opinion,” that is a statutorily 
+and regulatorily defined document.  A “biological opinion” is an outcome of 
+an evaluation required under the Endangered Species Act.  It is a scientific 
+ 
+ 
+ 
+29 
+determination -- it is a term of (indiscernible).  It is not someone’s random 
+opinion; it is the conclusion of scientific study. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  It’s not a random opinion, but 
+it’s an opinion-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  Guys, I want to -- please, I allowed 
+you -- Commissioner, if you (indiscernible), then we’re going to move on, 
+thanks. 
+ 
+ 
+Commissioner, do you have anything else? 
+ 
+ 
+MR. LaTOURETTE:  I don’t think so; I don’t think so. 
+ 
+ 
+I think I have one reflection, which is, if what you’re interested 
+in doing -- really interested in doing -- is saving the whales, you need to focus 
+more holistically.  Because what appears to be happening is that we are 
+pursuing an inquiry about why whale mortality is occurring. 
+ 
+ 
+There is an abundance of scientific information to answer that 
+question for you.  Whether you like the answer to that question or not is 
+irrelevant, just like my feelings in my work are irrelevant. 
+ 
+ 
+But, what I hope for in this exchange is a grounded and 
+reasonable and scientifically-informed dialogue, because that’s the way that 
+we do our work every day at the DEP.  One that looks at the multiplicity of 
+factors that are leading to changes in our ocean and our environment writ 
+large.  I look for a holistic and meaningful dialogue, not one that tries to 
+identify a villain and point at it, but instead really, truly, tries to save the 
+whales. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Commissioner, thank you for being 
+here today.  Thank you for your testimony. 
+ 
+ 
+MR. LaTOURETTE:  Thank you. 
+ 
+ 
+ 
+30 
+ 
+ 
+ASSEMBLYMAN TULLY:  I’m sure if any of our colleagues have 
+any follow ups, we’ll contact you directly. 
+ 
+ 
+And, thank you again. 
+ 
+ 
+MR. LaTOURETTE:  Thank you very much. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Appreciate it. 
+ 
+ 
+OK, so, we’re going to move on to our next testimony.  This will 
+be in person:  Josh Kohut, Ph.D., Professor at the Center for Ocean Observing 
+Leadership; Danielle Brown, Ph.D. student at Rutgers, also affiliated with 
+Gotham Whale and the Marine Mammal Stranding Center; and, Sheila 
+Dean, Marine Mammal Stranding Center, the Director. 
+ 
+ 
+Thank you so much for joining us here today. 
+ 
+ 
+OK, please -- whoever would like to start first, please go ahead.  
+Just make sure the microphones aren’t on at the same time, I think that might 
+be what is causing a little bit of the static background. 
+D A N I E L L E   B R O W N:  How is that? 
+ 
+ 
+ASSEMBLYMAN TULLY:  Great. 
+ 
+ 
+MS. BROWN:  Hello, and thank you to the Chair, Vice-Chair, 
+and Committee members for inviting me to speak today. 
+ 
+ 
+My name is Danielle Brown, I am the Director of Research for 
+Gotham Whale.  I am also a Ph.D. candidate in ecology and evolution at 
+Rutgers University.  I hold a bachelor’s degree in biology from Stockton 
+University, and a master’s degree in environmental science and policy from 
+George Mason University. 
+ 
+ 
+I have lived in New Jersey for my entire life, and I have dedicated 
+the last 10 years to whales.  My experience with whales first began when I 
+formerly worked as a field stranding technician at the Marine Mammal 
+ 
+ 
+ 
+31 
+Stranding Center.  This was back in 2013, and it was here that I first became 
+interested in humpback whales specifically, following increased sighting and 
+stranding reports.  At this time, only 10 years ago, it was confusing to the 
+public to see humpback whales feeding in our area.  They assumed that they 
+did not belong here and that they were in distress, and, for this reason, I 
+concentrated my entire master’s thesis specifically on humpback whales, 
+including their population characteristics and impacts from human activities. 
+ 
+ 
+I collaborated with researchers throughout the western North 
+Atlantic to learn more about the whales that we see here, which has led to 
+several peer-reviewed publications.  As the Director of Research for Gotham 
+Whale, I have helped to document thousands of sightings of more than 300 
+individual humpback whales off New York and New Jersey. 
+ 
+ 
+I have spent hundreds of hours on the water, and I think I’m one 
+of the few people in this room who has personally witnessed what whales look 
+like when they have been struck by a vessel.  And, I’m not talking about 
+stranded animals, I’m talking about live animals feeding.  I have seen 
+humpback whales missing body parts; I have seen humpback whales actively 
+bleeding from injuries; and I’ve also seen old propeller wounds.  And, 
+unfortunately, there are several whales that I have seen alive and also dead. 
+ 
+ 
+The good news is that we have learned a lot about these 
+humpback whales in just a short period of time.  To understand the dynamics 
+of humpback whales in the New York Bight, you must first be familiar with 
+the entire population.  Humpback whales in the Western North Atlantic are 
+highly migratory.  They move between winter breeding grounds near the 
+equator, and feeding areas in the gulf of Maine, Canada, Greenland, and the 
+Eastern North Atlantic.  These feeding grounds are genetically unique 
+ 
+ 
+ 
+32 
+populations.  Mothers exhibit maternal sight fidelity; they do return to the 
+same feeding areas over and over again with their calves, and those calves 
+typically return to the same feeding ground as well when they become 
+independent. 
+ 
+ 
+However, as you all know, we now see humpback whales 
+consistently in the New York Bight and in the Greater Mid-Atlantic -- outside 
+of these typical feeding and breeding areas.  There is limited evidence 
+suggesting that humpback whales occurred here consistently prior to the 
+1990s, so their present-day occurrence here in the New York Bight may be a 
+more recent phenomenon. 
+ 
+ 
+In the 1990s, humpback whales increased their presence in the 
+Mid Atlantic, notably off Virginia and North Carolina during the winter.  
+Most were found to be juveniles, and it was suggested that these were making 
+a partial migration -- since it was winter -- and they were not at breeding age 
+yet.  However, there were a few summer sightings during this time, mainly 
+off Cape May, New Jersey.  In conjunction with this increase in young 
+humpback whales in the Mid Atlantic, there was an increase in strandings.  
+There were 58 humpback whale strandings documented from New Jersey to 
+Florida from 1985 to 2000.  These whales were almost exclusively juveniles, 
+and many showed signs of ship strike or entanglement.  At this time, it was 
+theorized that the increase in young humpback whales close to shore near 
+urban areas and overlapping with human activities was causing that uptick in 
+strandings. 
+ 
+ 
+Following this event, there were two additional spikes in 
+humpback whale strandings.  In 2005, 34 minke, humpback, thin, and sperm 
+whales stranded from Canada to Maryland.  And, from 2006 to 2007, 48 
+ 
+ 
+ 
+33 
+humpback whales stranded from Maine to Virginia.  Humpback whale 
+strandings have been an issue of concern along the east coast for nearly four 
+decades.  Although there were some summer humpback whale sightings off 
+Cape May in the 1990s, systematic surveys from 2008 to 2009 still found 
+the species to occur mainly during winter off southern New Jersey.  These 
+surveys also found a low number of humpback whales -- there were only 17 
+sightings over two years.   However, beginning in 2004, humpback whales 
+had actually increased their presence near the shelf break in the New York 
+Bight, and, beginning in 2011, opportunistic sightings of humpback whales 
+increased in the New York-New Jersey Harbor Estuary.  Since then, sightings 
+have continued to increase, and humpback whales are now the most common 
+species. 
+ 
+ 
+Small numbers of humpback whales can now be found feeding 
+in the New York Bight year-round, but are typically most common during 
+spring, summer, and fall.  Many are juveniles that belong to the gulf of Maine 
+feeding population, but, in most cases, we don’t know what population they 
+belong to.  Generally, the youngest whales are found close to shore, while 
+older animals are found off-shore.  Whales are commonly seen service feeding 
+in and around shipping channels leading into the port of New York and New 
+Jersey, and their presence has become consistent enough to generate an 
+expanding whale-watching industry. 
+ 
+ 
+Along with this recent increase in humpback whales in the New 
+York Bight, there has been another spike in strandings:  191 humpback 
+whales have stranded since 2016 from Maine to Florida.  And, similar to these 
+past mortality events, most of the stranded humpback whales have been 
+juveniles, and many have been hit by ships or have scars from entanglements. 
+ 
+ 
+ 
+34 
+ 
+ 
+The most recent mortality event may have begun in 2016, but 
+strandings and interactions between humpback whales and human activities 
+have been on the rise long before that.  There are still many, many things 
+that we don’t know.  Although we do have a substantial amount of 
+opportunistic data from northern New Jersey and some from Cape May, there 
+have been no coast-wide systematic surveys for marine mammals along the 
+Jersey Shore.  The most recent surveys that I mentioned earlier occurred 15 
+years ago, and focused specifically on southern New Jersey.  Therefore, we 
+cannot properly evaluate the abundance or distribution of humpback whales 
+and other species here. 
+ 
+ 
+We also don’t know how humpback whales are using the entire 
+coast of New Jersey, whether they use waters currently planned for offshore 
+wind construction, or even what environmental factors influence their 
+distribution here.  We don’t know why some humpback whales are spending 
+time in the New York Bight during the feeding season when the rest of the 
+population is still found north on those main feeding grounds.  (indiscernible) 
+whale distribution is largely influenced by prey availability, and humpback 
+whales have been documented feeding on at least two different prey species 
+here.  However, we do not have enough data at this point to know which prey 
+species are most important, or how changes in prey abundance have 
+influenced the increase in humpback whales. 
+ 
+ 
+Lastly, although we know that humpback whales and other 
+species are hit by ships, and do become entangled in fishing gear off of New 
+Jersey -- and also in the greater Mid Atlantic -- we do not know what types of 
+ships are involved, or where these accidents happen.  Near the entrance to 
+the port of New York and New Jersey, humpback whales often overlap with 
+ 
+ 
+ 
+35 
+cargo ships and cruise ships, which are both common sources of whale 
+mortality around the world.  But, these interactions with whales are rarely 
+reported, which makes it extremely difficult to understand and prevent them. 
+ 
+ 
+Ultimately, the takeaway here is that things are changing rapidly 
+in New Jersey, especially when it comes to humpback whales, and there are 
+many data gaps.  These whales are now a consistent part of our ecosystem.  
+We have seen an increase in humpback whale usage of the Mid Atlantic over 
+the last 40 years, and in the New York Bight over the last 15 years.  The more 
+whales that we see, and the more time that they spend here, will lead to more 
+overlap with human activities.  If this trend continues, there will be a 
+continued increase in strandings in our waters regardless of what industry is 
+operating off of our coastline. 
+ 
+ 
+For me, the answer is more research.  My hope is that the State 
+of New Jersey will finally focus resources towards the study and management 
+of humpback whales and other whale species to fill in these knowledge gaps 
+as they continue to increase along our coastline. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+J O S H   T.  K O H U T, Ph.D.:  Good morning. 
+ 
+ 
+Thank you, Chairman Tully, Committee members, for the 
+opportunity to come and speak with you today. 
+ 
+ 
+My name is Dr. Josh T. Kohut.  I am a professor of oceanography 
+at Rutgers, your state university.  I’ve lived in New Jersey for over 40 years -
+- I couldn’t believe it when I counted that number.  I can’t be that old, but I 
+am. 
+ 
+ 
+ 
+36 
+ 
+ 
+This morning I am going to provide comments, given my 
+expertise in ocean technology and ocean science.  I have a bachelor’s degree 
+in physics; and a mathematics minor from the College of Charleston; and I 
+hold a Ph.D. in physical oceanography from Rutgers University.  I have 
+published over 80 peer-reviewed papers in the field of ocean technology and 
+science.  For the last 25 years, I have been part of the leadership of the Rutgers 
+University Center for Ocean Observing Leadership -- or RU COOL. 
+ 
+ 
+RU COOL is recognized as a world leader in ocean science, 
+technology, and prediction.  For more than three decades, our faculty, 
+technical staff, and students have worked together through local, state, 
+national, and international partnerships to conduct ocean research and 
+support applications, decision making, and management of our ocean 
+resources. 
+ 
+ 
+Given my expertise, I will focus on the dynamic nature of our 
+ocean as it relates to the distribution of whales and their prey.  Characteristics 
+of the ocean off our coast undergo remarkable variabilities, from days to 
+weeks, to seasons, years, and decades.  The physical oceanography of this 
+region is influenced by fresh water that comes out from our rivers and 
+estuaries; shelf-break canyons; the gulf stream well offshore; and tropical and 
+winter storms.  No other part of the global ocean undergoes greater surface 
+temperature changes from winter to summer than the ocean off our coast.  
+The seasonal changes lead to formation of cold bottom water that persists 
+throughout the entire summer that we call the cold pool -- a feature that 
+occasionally makes its way all the way to the beach in the summer, changing 
+surf temperatures dramatically.  You may have experienced that in your own 
+experiences on the shore. 
+ 
+ 
+ 
+37 
+ 
+ 
+UNIDENTIFIED SPEAKER:  We have. 
+ 
+ 
+DR. KOHUT:  This intense ocean variability drives an equally 
+variable ecosystem, from the plankton algae up through the fish and marine 
+mammals.  These changing ocean conditions, combined with specific habitat 
+preference of local and migratory species can cause their distribution and that 
+of their prey to vary significantly, from week to week, season to season, and 
+year to year. 
+ 
+ 
+Furthermore, our coastal waters are situated in one of the most 
+rapidly warming regions in the world.  Ocean warming has led to vulnerability 
+among approximately half of the U.S. northeast shelf species.  And, the 
+dominant response of fish to ocean warming has been to shift their 
+distribution to the north. 
+ 
+ 
+Off New Jersey, Atlantic mackerel and herring abundance are at 
+or near historic lows.  In contrast, Atlantic menhaden, or bunker, abundance 
+has spiked upwards in the region since the 1980s, and on-water observations 
+suggest that they are staying later into the winter.  This winter distribution 
+of menhaden is closer to shore than historic mackerel and herring 
+populations, and overlaps with areas where juvenile humpbacks have been 
+observed feeding at the surface. 
+ 
+ 
+I pause here just for a minute just to let you know that the 
+testimony I’m providing-- We provided written, and there are references to 
+all these statements.  So, there is background information; there are stock 
+assessments that are done on these species, and we reference those for you.  
+If you need further information, just contact us and we can get that to you. 
+ 
+ 
+So, now, more than ever, it is critical that we consider the 
+scientific evidence and the complexity of the entire system before drawing 
+ 
+ 
+ 
+38 
+conclusions about the cause of individual strandings.  Many factors -- natural 
+and human-related -- impact ecosystem health.  Decisions need to be based 
+on scientific data, solid evidence, and consider the entirety of factors 
+contributing to observed or perceived impacts.  I encourage you to consider 
+all the oceanographic variability impacting the habitats utilized by these 
+whales. 
+ 
+ 
+So, how can the scientific research community help?  New Jersey 
+is a global leader in ocean and ecological observing and prediction.  As I sit 
+here with you today, we are monitoring our ocean with satellites in space, 
+radar networks along the coast, and underwater robots beneath the surface.  
+All of the data generated by these systems are sent to publicly available 
+websites for access to different users and communities.  Thanks to the effort 
+across the entire research community, baseline monitoring of many ocean 
+variables has been in place for decades, and continues today. 
+ 
+ 
+For example, an autonomous underwater robot, right now, is 
+patrolling the waters off our coast, sending back data on marine mammal 
+detections and the ocean conditions around those detections in real time.  I 
+can access it from my phone.  Additionally, there are communities of experts, 
+including public, private, and academic researchers; commercial and 
+recreational fishers; among others, who are ready to utilize available data and 
+their own expertise to inform your policy decisions.  Despite what many have 
+said in recent months, I am here to confirm to all of you that the scientific 
+community’s responsibility is to the data and sound methods that pass the 
+rigor of peer review.  Regardless of the source of funding, over the past 25 
+years, my projects addressed research and monitoring objectives by scientific 
+analysis of publicly available datasets.  Rutgers ensures that executed grants 
+ 
+ 
+ 
+39 
+and contracts with funders protects my intellectual property, and open 
+communication of results, including peer-reviewed publications. 
+ 
+ 
+Simply put, I am qualified to do the research that I undertake, 
+and the output of my research is supported by scientific evidence and 
+methodology that passes the rigor of expert peer review. 
+ 
+ 
+In summary, the ocean is highly variable, and we have the 
+technology and expertise to document that variability with timely, quality-
+controlled data.  It is imperative to consider the evidence associated with all 
+potential factors of this ongoing UME, including dynamic oceanographic 
+conditions, before placing blame toward any specific entity or activity.  I hope 
+that a science-driven policy and decision making on this issue is the goal; that 
+you will seek out the communities of experts who have experience studying 
+and observing the relevant processes off the New Jersey coast.  When seeking 
+sources of information, consider their experience and record of producing 
+scientifically defensible conclusions given the evidence.  These are the 
+standards throughout peer-reviewed science that ensure the best available 
+information is available to you. 
+ 
+ 
+I would like to thank Chair and the Committee for your time, 
+and please keep Rutgers as a resource that you can go to in the future. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Doctor, thank you so much for your 
+time. 
+ 
+ 
+Director Dean, please. 
+S H E I L A   D E A N:  Hello, my name is Sheila Dean, and I am currently 
+the Director of the Marine Mammal Stranding Center. 
+ 
+ 
+ 
+40 
+ 
+ 
+The Center was formed in 1978 by my husband, Robert 
+Schoelkopf and myself, and we were the first of its kind in New Jersey.  Prior 
+to that, marine mammals would lay on the beach and die, or were pushed 
+back out and eventually wash in again and die. 
+ 
+ 
+As our community continues to grapple with the recent surge in 
+whale strandings, many of you have reached out with questions regarding 
+how our work is funded and our role in the ongoing investigation.  As the 
+only first responders in New Jersey for marine mammals and sea turtles, we 
+work under a permit from NOAA Fisheries and the State of New Jersey to do 
+the work that we do.  We also work with our fellow network members from 
+the Greater Atlantic Marine Mammal Stranding Network to help find the 
+answers about what is happening to these animals. 
+ 
+ 
+The work that we do, that we perform, is the first step in many 
+that will bring us closer to understanding why we are seeing so many whale 
+strandings along the east coast.  Large whale necropsies can take a day or 
+more to complete. The work is grueling and dangerous, requiring a large team 
+of people, each with a specific task, working together as safely and as 
+sufficiently as possible to complete the examination. 
+ 
+ 
+When a large whale washes ashore in the northeast region, often 
+times, staff from other stranding organizations will travel in from out of state 
+to assist with our efforts.  We are grateful to our fellow stranding network 
+members who have helped support our staff by assisting our team with the 
+recent necropsies as these large-scale stranding events take dozens of people 
+to facilitate. 
+ 
+ 
+Stranding organizations such as ourselves perform the necropsies 
+and collect any samples that are viable, based on the condition of the carcass.  
+ 
+ 
+ 
+41 
+Once we have collected the samples, they are sent to laboratory pathologists 
+who are responsible for processing and analyzing.  When the pathologists 
+have completed their work, the scientists who are tasked with researching the 
+ongoing unusual mortality event interpret the findings. 
+ 
+ 
+This is not the first UME investigation that the Marine Mammal 
+Stranding Center has been involved with.  In the summer of 1987, hundreds 
+of bottlenose dolphins washed ashore in New Jersey, as well as along the east 
+coast.  After several months of necropsies and sample collection, the cause 
+was found to be a virus which had spread through the population.  A similar 
+event occurred in the summer of 2013, which, again, was found to be a virus. 
+ 
+ 
+In an effort to be transparent with our followers, the Marine 
+Mammal Stranding Center has shared the initial findings of the recent whale 
+necropsies on our website and social media accounts.  In all cases, including 
+those animals in which evidence of ship strike was found, the pathology 
+results are still pending.  This means that the final cause of death has not 
+been determined.  To assign blame before the scientific data is analyzed and 
+interpreted would be premature, and could dilute our impact on championing 
+changes on behalf of these animals in the future. 
+ 
+ 
+The Stranding Center is approaching this investigation in a non-
+biased manner.  We are asking patience, as our staff is entirely focused on 
+performing our work in the most professional and scientific manner, and the 
+death of these animals is a sad event and it has come all too frequently lately.  
+Our small but mighty team has been stretched thin with 12-hour days, but 
+we are continuing to work to help find answers about why the whales are 
+dying.  We appreciate the community support as they show us the same 
+compassion that we share with the animals.   
+ 
+ 
+ 
+42 
+ 
+ 
+It’s important to note that the Stranding Center is also 
+approaching this investigation without influence from any other outside 
+organizations or corporate entities.  In essence, the Marine Mammal 
+Stranding Center has not accepted any funding from wind energy companies.  
+As a non-profit organization, the Center is funded by donations, fundraisers, 
+grants, and gift shop sales.  As with all non-profits, our financials are public 
+record, and you can review our organization’s most recent IRS 990 on 
+GuideStar.org, or you can stop in the Stranding Center and you can see a 53-
+page copy of our financials in our museum. 
+ 
+ 
+We just appreciate the patience of the public and the support of 
+our community as our staff is entirely focused on performing our work in the 
+most professional and scientific manner. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  And, thank you all for your 
+testimony today and your work on this issue. 
+ 
+ 
+I just have a couple of questions, and then I’ll allow my colleagues 
+to ask any questions they have. 
+ 
+ 
+But, regarding the necropsies, if I can just ask -- how many has 
+your organization participated in? 
+ 
+ 
+MS. DEAN:  We have had nine whales -- actually, three of those 
+whales we could not reach because they were (indiscernible) out at sea. 
+ 
+ 
+So, the necropsies that we did were six in total. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Got you. 
+ 
+ 
+And, can-- Just so we have a better understanding of it, can you 
+explain the process for examining a stranded whale and how you would 
+determine their cause of death or injury? 
+ 
+ 
+ 
+43 
+ 
+ 
+MS. DEAN:  Well, initially-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  And, no, we’re not scientists, so the 
+layman way would be the best; thank you. 
+ 
+ 
+MS. DEAN:  I’m not either, but Danielle is, and Danielle has 
+been with us on every necropsy that we’ve done on these whales. 
+ 
+ 
+Initially, we’ll see an animal wash up, and we might see some 
+bruising or some marks on it, which indicates it had been hit.  There might 
+be some propeller marks on it, or sometimes we’ll find evidence that the 
+animal had been entangled at one point, although we haven’t found any 
+animals in this group of animals that had entanglement ropes on it. 
+ 
+ 
+So, we have to put together a team at that point.  Most of the 
+time, the whales that are coming in -- I’m going to say all of these whales -- 
+have been dead for weeks, most likely, so they were pretty badly decomposed, 
+and we knew we were going to not be able to find a lot from examining their 
+bodies.  And, sure enough, when we would open them up, there wouldn’t be 
+a lot left inside of them that was viable.  We did take samples that we could, 
+and pass them along to the researchers, but it’s a day-long process of opening 
+a large whale up.  It’s a little bit gory; a lot of people who have come to witness 
+it have to walk away, because you can imagine, you have a 40-foot animal 
+that you’re opening its entire insides out. 
+ 
+ 
+So, we take the samples.  They are prepared specially for 
+whatever we’re looking for.  Some are put in Formalin, some are frozen.  
+There’s different ways that we prepare them.  They are then passed onto the 
+researchers, like I said, and now we wait for the results.  We haven’t had the 
+results come back yet because, as you can imagine, there’s not a lot of people 
+who do that -- the research on the samples -- and there was a lot of animals 
+ 
+ 
+ 
+44 
+at one time.  So, consequently, this is all over the United States, it’s not just 
+the east coast.  There’s whales washing up everywhere. 
+ 
+ 
+So, we just have to wait.  We’re waiting our turn, patiently, and 
+hopefully they’ll come back with something.  It could be a disease, we don’t 
+know, like it was with the dolphins that took many months, back in ’87, 
+before we heard anything.  It could be the same thing; it could be many 
+months before we know anything. 
+ 
+ 
+MS. BROWN:  Could I answer that? 
+ 
+ 
+ASSEMBLYMAN TULLY:  Please, go ahead. 
+ 
+ 
+MS. BROWN:  Hi, I’m sorry.  
+ 
+ 
+So, I think it’s important to point out that there are very few 
+people in the State of New Jersey who have experience in conducting a 
+necropsy on a large whale -- or even a dolphin, for that matter.  So, I am one 
+of the few people in this state that does have that experience, so I do offer 
+my assistance whenever a whale washes up on the beach, as a volunteer. 
+ 
+ 
+It’s also important to know that there are protocols that we 
+follow in order to determine what caused the death of -- or what potentially 
+caused the death -- of a whale.  After everyone is-- Volunteers are recruited, 
+and we have developed a plan to respond to the animal and to actually get to 
+the site with equipment. The skin and blubber are typically flenched off  first, 
+after measurements are taken.  That is where we typically begin to look, or 
+begin our investigation into the potential causes. 
+ 
+ 
+A common question is, “How could a whale possibly be 
+considered as a potential ship strike when there are no obvious propeller 
+injuries?”  And, that is actually very common.  It’s much more common for a 
+necropsy to be conducted and for us to see large areas of bruising or 
+ 
+ 
+ 
+45 
+hemorrhaging, and that has been defined as one of the -- something that could 
+be evidenced as a suspect or probable vessel strike.  Whales -- their blubber 
+is very thick -- they don’t always show those obvious signs of being hit by a 
+ship, very similar to someone having internal bleeding.  So, it’s really not 
+always obvious at all.  But, the folks who are in charge of these necropsies are 
+well, well versed in how to tell the difference between healthy tissue and 
+damaged tissue. 
+ 
+ 
+So, I (indiscernible) 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you so much for your 
+testimony today. 
+ 
+ 
+I’ll allow my colleagues-- Again, if we can stick to asking 
+questions on topic, I’ll allow for any statements or comments at the end of 
+the meeting. 
+ 
+ 
+Does anyobody have any questions? 
+ 
+ 
+Vice-Chair. 
+ 
+ 
+ASSEMBLYWOMAN CARTER:  I think that it was covered, but 
+I just want to make sure. 
+ 
+ 
+And, I appreciate it, because you are all the professions that are 
+looking and researching and doing this.  First of all, thank you for the service 
+that you do -- especially the volunteers, going out and working with these 
+whales. 
+ 
+ 
+But, as you look at it, and here on the east coast, we are New 
+Jersey.  Across the east coast, can you determine, really-- Is there really a huge 
+uptick?  Is it only in New Jersey that there’s this uptick with the whales?  
+ 
+ 
+And, is there, across the east coast, something else besides being 
+hit and tangled -- which is hard to do -- but once they’re being examined, is 
+ 
+ 
+ 
+46 
+it plastic, things that have been consumed, in them, that also could be a huge 
+cause of this (indiscernible)?  It’s more than just climate but what we, as 
+humans, sometimes do with the things of how we go about everyday 
+activities, things that get into the ocean.  Is that also maybe some type of a 
+cause? 
+ 
+ 
+MS. DEAN:  We typically do not see plastic in the large whales, 
+because they eat the smaller fish.  The medium-sized and the smaller whales 
+are the ones that would eat squid, and they’re the ones that would take in 
+plastic, like plastic bags, thinking that it was something -- a squid or 
+something that they would normally eat. 
+ 
+ 
+ASSEMBLYWOMAN CARTER:  And, is there that uptick that 
+we’re seeing more in New Jersey, or is it along the east coast?  Are we seeing 
+those type of numbers along the east coast with them, with the whales coming 
+to shore?  Things like that. 
+ 
+ 
+MS. DEAN:  I can only speak for New Jersey.  We have an 
+extremely small staff, and we did see that uptick in the humpback whales, 
+yes.  The other whales that washed in, the other species, was pretty much 
+normal from what we see. 
+ 
+ 
+You do have a packet, and it shows all the different whales that 
+we do see and how many we see each year since 2002.  And, so, yes, like I 
+said, there is an uptick in the humpbacks, but that’s probably because of the 
+prey that they’re following.  And, we don’t know for sure, but it’s just--  That’s 
+what we think, that it’s just they’re following the prey that’s causing them to 
+get struck by the ships because of it. 
+ 
+ 
+ASSEMBLYMAN TULLY: Anybody else? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Just a quick question. 
+ 
+ 
+ 
+47 
+ 
+ 
+Are you--  And, thank you guys for everything that you’re doing 
+and continue to do. 
+ 
+ 
+And, Stockton is the best college in the state.  Just pointing it 
+out. 
+ 
+ 
+Are you familiar with the dolphins that washed up in Sea Isle?  
+So, what would cause eight dolphins that claimed to be out frolicking in the 
+ocean and playing around to all just rush to the beach? 
+ 
+ 
+So, what would cause eight dolphins that seemed to be just out 
+playing in the ocean and then all of a sudden they just go and beach.  Do you 
+have any idea, can you give an opinion on that, please? 
+ 
+ 
+MS. BROWN:  I can, yes. 
+ 
+ 
+So, when trying to answer that question, the first thing that we 
+look at is the species.  So, those species, or short-beaked common dolphins.  
+Short-beaked common dolphins are not the bottle-nose dolphins that we 
+regularly see from our beaches.  They are a pelagic species. 
+ 
+ 
+So, my first question is, why are they close to shore in the first 
+place?  We do know that that species does like to feed on more pelagic fish.  
+One example is American sand lance or sand eels.  This is a species that is 
+typically found further offshore, although it does come in occasionally closer, 
+and that is one of the fish species that NOAA has let us know has been seen 
+in abundance over this past winter. 
+ 
+ 
+So, it is possible that these animals were following fish closer to 
+shore.  That also explains why sightings of these animals have been seen in 
+areas like Raritan Bay, in very shallow locations.  These are not coastal 
+animals; they do not navigate shallow waters very well at all.  And, if we look 
+further outside of New York and New Jersey, we do know that up in New 
+ 
+ 
+ 
+48 
+England, short-beaked common dolphins strand very often.  They do tend to 
+get stuck inside shallow bays when the tide goes out.  So, it’s very possible 
+that that happened, and I do know -- I believe -- that some of those animals 
+were found with food in their stomachs, so it was very likely they were eating 
+at the time. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Thank you, that’s all, 
+Chairman; thank you, sir. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  First of all, let me thank the 
+three of you -- especially you, Ms. Brown, your experience must be--  I can’t 
+imagine being in the ocean in the presence of whales every week of your life, 
+it must be very cool. 
+ 
+ 
+I have a couple of very simple questions.  First, I would like to 
+focus on what Director Sheila Dean said.  You had said that in many cases, 
+necropsies could be many months before you know anything about what the 
+necropsy is informing us of.  Can you expound on that a little bit? 
+ 
+ 
+MS. DEAN:  We take the samples from the animals, and we pass 
+them along to the laboratories who investigate them to see what they may 
+find as disease or something else going on with the animals.  We haven’t had 
+any answers back from them, because there’s-- I guess there’s a shortage of 
+research-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Yes.  When you say many 
+months, can you put a number to it? 
+ 
+ 
+MS. DEAN:  So, in ’87, it was about 10 months before we found 
+out it was a virus, from the dolphins. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  And, what about recent 
+necropsies? 
+ 
+ 
+ 
+49 
+ 
+ 
+MS. DEAN:  The recent necropsies, the samples have all been 
+sent out. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  And, nothing back yet? 
+ 
+ 
+MS. DEAN:  Nothing. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  OK. 
+ 
+ 
+Dr. Kohut, I agree 100% with what you said; your statement was 
+very well done, and I thank you for your expertise and for being here with us 
+today. 
+ 
+ 
+Ms. Brown -- I hope to call you Dr. Brown very soon, according 
+to what you said-- I do have a couple of things about what you had said.  First 
+of all, I don’t know if you saw my exchange with the DEP Commissioner, but 
+you did state in your moment there that data on prey fish is insufficient. 
+ 
+ 
+MS. BROWN:  I did. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Can you expand on that a little 
+bit? 
+ 
+ 
+MS. BROWN:  Absolutely. 
+ 
+ 
+So, the majority of systematic studies into the presence of prey 
+off the New York Bight is with trawl surveys that occur somewhat of a 
+distance from shore.  Atlantic menhaden, which is the fish that we do visually 
+see the whales feeding on--  That’s why we call that a prey species, because 
+we’ll actually see the fish come out of the water when the whales are feeding.  
+So, we do know they feed on that species. 
+ 
+ 
+The trawl surveys don’t necessarily pick up Atlantic menhaden, 
+because they can be found closer to the surface.  So, unfortunately, we don’t 
+have enough information on that species in particular.  The other fish species 
+that we have seen whales feeding on is the American sand lance, like I 
+ 
+ 
+ 
+50 
+mentioned earlier, and there is not a fishery for that species.  So, again, 
+research is not focused on that species here off New Jersey. 
+ 
+ 
+So, there are definitely data gaps as far as prey is concerned.  I 
+should also mention that, although we do see whales feeding at the surface 
+on Atlantic menhaden and offshore on sand lance, we do not know if there 
+are other prey species that they focus on.  We know there are other species 
+that Dr. Kohut had actually mentioned earlier.  Atlantic mackerel and 
+Atlantic herring are present off of our shores, even though in low numbers, 
+so we don’t know if the humpback whales are feeding on them as well. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  OK, so, I think we can say that 
+we really don’t know what the prey fish are doing completely. 
+ 
+ 
+MS. BROWN:  The prey fish? 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  The prey species. 
+ 
+ 
+MS. BROWN:  Well, we don’t know what their actual 
+abundance is in our area. 
+ 
+ 
+However, we do know that they are moving north and they are 
+here year-round when, previously, they were migratory.  So, Atlantic 
+menhaden are off of our shores year-round, so there is a year-round prey 
+species for humpback whales. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  OK. 
+ 
+ 
+And, also, you said at one point that there are many, many things 
+that we don’t know.  Obviously, I’m not going to ask you to tell me the things 
+you don’t know, but can you tell me what maybe you’re working on that you 
+don’t know that you’re working towards an answer on? 
+ 
+ 
+MS. BROWN:  Sure.  I think I outlined several things that we 
+don’t know, and that is just a subset. 
+ 
+ 
+ 
+51 
+ 
+ 
+So, specifically, some of my research at Rutgers as a Ph.D. 
+candidate focuses on trying to figure out what those humpback whales are 
+feeding on, trying to determine their diet composition to see what species are 
+most important to them in the mid-Atlantic, not just off New Jersey. 
+ 
+ 
+I’m also looking at hormone levels, stress hormones, and how 
+that may change over time. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  And, finally, I’d like to say I 
+agree with you with one of your last assertions, which is, we definitely need 
+more research. 
+ 
+ 
+So, I look forward to seeing-- 
+ 
+ 
+MS. BROWN:  One hundred percent. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you for being here. 
+ 
+ 
+MS. BROWN:  Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, again. 
+ 
+ 
+Anybody else? 
+ 
+ 
+Please, Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN PARK:  I also want to thank everyone for 
+your testimony today, it’s very -- sorry. 
+ 
+ 
+I just want to say that it’s a lot of information that I’m taking in; 
+I’m learning a lot about whales. 
+ 
+ 
+So, I think having this discussion today, really, prey fish seems 
+to be the key to a lot of what’s happening.  So, I know you had mentioned, 
+Dr. Brown -- or, soon-to-be Dr. Brown -- that there are certain species that 
+we are aware of that the humpback whales feed on. 
+ 
+ 
+ 
+52 
+ 
+ 
+So, from this discussion, would you say that they’re kind of 
+particular to certain prey fish, and there are fish that, even though are out 
+that, the whales won’t eat?  Is that a good enough conclusion? 
+ 
+ 
+MS. BROWN:  Sure. 
+ 
+ 
+So, humpback whales are opportunistic, so they will feed on 
+many different fish species.  But, it’s typically a schooling fish.  So, they 
+generally don’t go after the same species that we fish for recreationally.  
+They’re really looking for patches of prey. 
+ 
+ 
+What does make things a little bit more complicated in our 
+humpback whales that we see is that, although we see them feeding on 
+Atlantic menhaden very often, when they feed at the surface, this is not a fish 
+species that seems to be as important to them on their northern feeding 
+grounds.  So, more often, they will feed on those sand eels; they will feed on 
+Atlantic herring or Atlantic mackerel.  So, that makes things interesting as 
+well. 
+ 
+ 
+So, it just shows you one more thing that we’re not sure about. 
+ 
+ 
+ASSEMBLYWOMAN PARK:  And, so, let’s say the prey fish 
+that they are consuming -- are they coming closer to shore for whatever 
+reason?  Do you have data on that? 
+ 
+ 
+MS. BROWN:  Well, Atlantic menhaden are a coastal species to 
+begin with, so, there have been protections that have been in place over the 
+last decade that may be leading to an increase in Atlantic menhaden.  But, 
+also, they are generally -- they were generally known, and you can correct me 
+-- as a more southern species.  So, it does appear that we’re seeing more in 
+the New York Bight, and they are seeing less further south. 
+ 
+ 
+ASSEMBLYWOMAN PARK:  Thank you very much. 
+ 
+ 
+ 
+53 
+ 
+ 
+ASSEMBLYWOMAN TULLY:  Very good, thank you. 
+ 
+ 
+Anybody else?  (no response) 
+ 
+ 
+All right, thank you so much for your testimony here today.  
+Thank you so much for the incredible work that you’re doing.  I’m sure if we 
+have any follow-up questions, we will reach out to you directly, and I really 
+appreciate you making the time today. 
+ 
+ 
+Thank you. 
+ 
+ 
+DR. KOHUT:  Thank you. 
+ 
+ 
+MS. BROWN:  Thank you. 
+ 
+ 
+MS. DEAN:  Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  OK, and, that’s actually--  That’s it 
+for our in-person testimony here today. 
+ 
+ 
+In order to provide the Committee here with more individuals 
+within the scientific community that can speak to this issue, we are allowing 
+testimony by phone. 
+ 
+ 
+And, first up, we have Dr. Nowacek.  He is a Professor of 
+conservation technology in environment and engineering at Duke University. 
+ 
+ 
+Dr. Nowacek, can you hear us? 
+D O U G L A S   N O W A C E K, Ph.D.:  Yes I can, absolutely.  Can you 
+hear me? 
+ 
+ 
+ASSEMBLYMAN TULLY:  We actually can.  Then, this is 
+working; this is wonderful. 
+ 
+ 
+So, Dr. Nowacek-- 
+ 
+ 
+DR. NOWACEK:  Oh, fantastic. 
+ 
+ 
+ 
+54 
+ 
+ 
+ASSEMBLYMAN TULLY:  Yes, thank you so much for making 
+the time today, and please introduce yourself, your work, and we’ll go from 
+there. 
+ 
+ 
+Thank you so much for being here. 
+ 
+ 
+DR. NOWACEK:  Yes, Mr. Chairman, thank you for the 
+invitation and the staffers for putting this together. 
+ 
+ 
+We only got connected relatively recently, so I don’t have 
+actually a full statement to present, so apologies for that, but I’m happy to 
+answer questions, obviously, and then do some follow up. 
+ 
+ 
+But, about me, as the Chairman introduced, I am a professor at 
+Duke University, specifically at the Marine Laboratory out on the coast, but 
+also in the Engineering School in electrical and computer engineering.  My-- 
+I received my Ph.D. from the Massachusetts Institute of Technology and the 
+Woods Hole Oceanographic Institution.  And, during that time -- and since 
+that time -- I have worked on the bio-acoustics and acoustic ecology of, 
+primarily whales and dolphins, but also manatees, fish, and sea turtles.  I have 
+also spent the last, pushing 20 years now, looking at the effects of noise on 
+(indiscernible), primarily, and that work has included quite a lot of work with 
+offshore industrial activities from oil and gas, seismic surveys, to the very 
+types of surveys you’re talking about today, to a variety of things; looking at 
+the proximal responses of the animals as well as some of the physiological 
+responses and the acoustic responses. 
+ 
+ 
+So, I am happy to--  I will leave it there.  I think--  Yes, I have in 
+front of me the sources and the statistics on the sources that Ocean Wind 
+was approved to use.  So, it gets very technical very quickly, acoustic nerves 
+are like that.  But, I’m happy to try to convey what I can in terms of 
+ 
+ 
+ 
+55 
+interpreting those things for all of you and for questions that your members 
+might have. 
+ 
+ 
+So, I’ll just leave it there, and I’m happy to take questions.  
+Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Doctor, again, thank you so much 
+for being here today. 
+ 
+ 
+It was actually asked earlier, and based on your testimony I’ll just 
+ask:  It was suggested ocean floor mapping associated with wind energy 
+development could disorient marine animals.  Could you speak to that in 
+more detail, through your expertise? 
+ 
+ 
+DR. NOWACEK:  Yes, absolutely, I’ll segregate the sources into 
+basically two types:  the so-called HRG, which you may have seen, the high 
+resolution, geo-technical or geo-physical sources, and the high resolution 
+comes along with high frequency.  And, the easiest way to think about that 
+is the ultrasound that we use to look at babies while they’re still in their 
+mother’s womb.  And, those high-frequency sound waves can do a very good 
+job at resolving fine features, like a baby’s finger, for example. 
+ 
+ 
+Those HRG sources, with respect to the wind energy 
+development, those sources, I would actually go as far -- something coming 
+from a scientist -- those high-frequency sources I would consider de minimis  
+in their potential for impact on basically all marine mammals, because they 
+are extremely high-frequency, which is out of the hearing range of these 
+animals, and they’re also-- Those high frequencies are absorbed extremely 
+quickly in seawater.  In fact, there’s been significant technical development 
+in getting those sources closer to the bottom so that they can operate even 
+ 
+ 
+ 
+56 
+better, so you don’t have to go through the water column and then down into 
+the bottom. 
+ 
+ 
+Another important thing to consider--  And, this, I use the 
+comparison to seismic surveys used for oil and gas exploration yearly as a 
+comparison.  Not to say one is better than the other or anything like that, 
+they’re both sound  sources.  All of these things are acoustic, obviously, sound 
+sources.  But the other set of sources for the wind energy development are 
+the, relatively speaking, lower frequencies -- you’ve heard them referred to as 
+boomers, barkers, or chirpers, or these other terms that you may have heard.  
+They do operate in the hearing range of humpback whales, as are -- or right 
+whales, for that matter.  I know it was mentioned earlier that right whales are 
+concerned, or are a concern. 
+ 
+ 
+But, the level of the barkers and boomers, for example, looking 
+at the source level here which is listed at 203 decibels -- and, I certainly won’t 
+torture you with a lot of discussion about decibels, but just as a comparison, 
+again, the whole array of seismic forces used for oil and gas exploration are 
+some 100,000 times more intense -- louder, in terms we can all understand   
+-- than the sources that are being used for the wind development.  And, there’s 
+a very simple reason for this, Mr. Chairman, and that is that the wind energy 
+development only needs to explore the top 50 or so meters of the sediment, 
+whereas the oil and gas surveys, by their nature, are looking kilometers -- 
+thousands of meters -- into the bottom, and they need more energy.  So, 
+that’s why they have to have more energy.  The upside on the wind energy 
+development side is that these sources, while still a formidable sound source, 
+they’re much, much less intense than those sources. 
+ 
+ 
+ 
+57 
+ 
+ 
+So, to get to your question, I will rely--  I will go back to what 
+the National Marine Fishery Service has authorized as harassment.  And, 
+there’s two categories:  One is level A, which causes -- could potentially cause 
+-- actual damage to the animals’ ears or otherwise.  The other one is Level B, 
+which is a behavioral disturbance.  And that, Mr. Chairman, could be 
+anything from a slight deflection in orientation or movement, or, you know, 
+a variety of behavioral things.  They could start feeding or stop feeding, or 
+any of these things.  Are they significant by an individual whale?  Not really.  
+If the whole population stops feeding for months, that’s a bigger problem.  
+But, can the sources disorient the animals such that they would die instantly?  
+No.  Do we worry about them getting a little disoriented and deviating 
+around a path?  That could certainly happen. 
+ 
+ 
+But, the Fishery Service, as well as the Department of Energy, 
+have both come out and stand by their-- 
+ 
+ 
+ASSEMBLYMAN TULLY:  Sorry, Doctor, can you just hold on 
+just one second?  Your microphone somehow turned off. 
+ 
+ 
+You’re good, go ahead. 
+ 
+ 
+DR. NOWACEK:  OK, where did you lose me? 
+ 
+ 
+ASSEMBLYMAN TULLY:  Probably about 15 seconds ago. 
+ 
+ 
+DR. NOWACEK:  OK, I’ll try to backtrack. 
+ 
+ 
+As far as the disorientation or change in behavior, that is possible 
+with these lower frequency sources.  I’ll quote what the Fishery Service 
+approved for Ocean Wind, and that is that they expect a “Level B behavioral 
+disturbance at a range of 141 meters in the worst-case scenario.”  So, 141 
+meters from that source, that is 20-some miles offshore -- the whales are 
+obviously offshore as well -- but after 141 meters, the Fishery Service does 
+ 
+ 
+ 
+58 
+not anticipate or determine that there is any behavioral change even to those 
+animals. 
+ 
+ 
+So, to the sources that are being used, at any stage in this process, 
+I would stand by what the Fishery Service has published on their website and 
+in documents, as well as the Department of Energy has recently come out 
+with a similar statement with all of the backing material that none of the 
+sources used for wind energy development, as currently laid out, have any 
+chance of causing the mortalities that have been witnessed off the Atlantic 
+coast -- full stop. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Doctor, thank you for discussing 
+IHAs. 
+ 
+ 
+If you could just give us a little bit more details on what IHAs 
+are, and when NOAA issues them, just for our background here. 
+ 
+ 
+DR. NOWACEK:  Absolutely, my pleasure. 
+ 
+ 
+Under the Marine Mammal Protection Act, as revised in -- I 
+don’t remember what year, ’93 I think -- one of the--  So, the MMPA, as most 
+folks know, protects marine mammals and protects from what’s called “takes” 
+of marine mammals.  And, that could be anything from a slight behavioral 
+change, all the way through to a mortality.  The Fishery Service has certainly 
+not authorized any lethal takes as part of any of these activities, but the IHA 
+is a mechanism in the MMPA that allows anybody -- from your fellow citizen 
+to wind energy developers, the Navy, whatever -- it authorizes those takes as 
+incidental to the activity that you’re doing.  So, the IHAs are issued prior to 
+those activities.  They go through Section 7 consultations of the National 
+Environmental Policy Act so that they are vetted across agencies, including 
+ 
+ 
+ 
+59 
+other causes and agencies like BOEM, and BOEM consults by providing the 
+information about the sources. 
+ 
+ 
+So, those IHAs are issued.  There are lots of--  There are many, 
+many stipulations in there that include, for example, for North Atlantic right 
+whales, a very large shutdown radius -- which varies by project, so I’m not 
+going to give you a number -- right through to other, to the delphine species, 
+the other large whales; it authorizes them a certain number of takes; and 
+stipulates a lot of safety measures that have to be implemented from listening 
+-- passive acoustic listening -- to posted observers to make sure there are no 
+animals in the area.  They have uniformly, I believe, they have a period before 
+which they can start -- something like 30 minutes or an hour -- that they have 
+to scan the area to make sure there are no animals within those stated safety 
+ranges -- and they’re smaller for right whales, for example. 
+ 
+ 
+In addition, it authorizes--  The IHAs authorize time periods of 
+the year during which these activities can occur, and those are lined up to 
+minimize impact, especially to the most vulnerable species like right whales.  
+And, for example, Vineyard Wind off Massachusetts is only authorized to do 
+construction from May through December, I believe, because the right whale 
+numbers are very, very low.  But, they still have all those mitigation measures 
+in place to ensure that there are no animals within the ranges of -- certainly 
+of danger, let alone even behavioral.  And, they have to record all the animals 
+that they see and the range they were from the sources and any response they 
+see in the animals. 
+ 
+ 
+So, that’s the IHAs in a nutshell.  The research part of it is 
+different.  So, we have to apply for research permits that are totally different 
+ 
+ 
+ 
+60 
+-- I won’t even go into those, because they’re really not relevant, but I’m 
+happy to take any questions. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, Doctor, appreciate that. 
+ 
+ 
+I know we have a few questions from the--  OK, does anybody 
+have any questions for the doctor? 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Just one quick question. 
+ 
+ 
+DR. NOWACEK:  Yes. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Do you feel as though there is 
+a cumulative effect when you’re doing testing of the ocean floor, or do you 
+feel as though that certain testing, like for oil, or certain testing for wind 
+farms, is different, so there will be no cumulative effect on mammals in those 
+areas because of the protocol that they have in place? 
+ 
+ 
+DR. NOWACEK:  Yes, the cumulative effects question is an 
+extremely vexing one, and one that the whole world is struggling with, in 
+terms of trying to actually get a handle on it. 
+ 
+ 
+There are several ongoing projects for North Atlantic right whales 
+that are geared towards exactly those questions.  There have been some 
+studies in Europe of wind farm construction and harbor porpoises -- they 
+don’t have large whales over there, so it’s the only analogy we have -- and the 
+take-home message is that those whales, the porpoises, avoid the areas when 
+there is construction.  They, for the most part, return to those areas once 
+construction is done, and the piledriving is about a half to a day per piling, 
+so you can calibrate yourself on how long those activities are actually going 
+to happen. There’s variability, there’s resupplying, those sorts of things. 
+ 
+ 
+ 
+61 
+ 
+ 
+But, as far as the cumulative effect of the construction part, my 
+interpretation would be that if you just take ocean wind by itself -- it doesn’t 
+occur in a vacuum -- the cumulative effect of that on any marine mammal 
+species is likely to be very, very low. 
+ 
+ 
+As regarding the cumulative effects across all of the wind farm 
+development, I thought I heard somebody reference hundreds of thousands 
+of turbines -- we’re not to those kinds of numbers yet; it’s certainly not 
+approved yet.  And, the concern about the turbines interacting with the 
+oceanography, as you heard from Dr. Kohut, there’s a National Academies 
+panel that’s just been convened that several of us are on to look at that very 
+question. 
+ 
+ 
+So, I’m going to have to say, unfortunately, that the jury is out 
+on the cumulative effects.  I can tell you from the acoustic side that the 
+confined area of the wind farms -- which sounds like a lot of acres, and it is a 
+lot of acres, but remember the ocean is pretty big and the size of the survey 
+areas is much, much, much smaller than it was for petroleum and gas.  Again, 
+just as a comparison’s sake, they’re just smaller -- and less loud. 
+ 
+ 
+So, I worry less about the cumulative effects of that. I can’t, 
+unfortunately, give you a full answer. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN: Thank you for that. 
+ 
+ 
+And, then, just one last question.  I know we’ve been focusing on 
+whales and dolphins and things of that nature.  Is there any effect once the 
+turbines are up on -- and, I don’t know if you know this, I’m just throwing it 
+out there -- on birds, and birds flying into those turbines, and things of that 
+nature? 
+ 
+ 
+I don’t expect you to know it, but just a general question. 
+ 
+ 
+ 
+62 
+ 
+ 
+DR. NOWACEK:  Yes, and I should have said as part of my 
+introduction I also lead a Department of Energy and BOEM-funded multi-
+institutional study -- Dr. Kohut is actually a co-investigator on that study -- 
+that is focused on looking at the potential impact on marine mammals and 
+birds and bats of offshore wind development. 
+ 
+ 
+What I can tell you, again, from our European colleagues, is that 
+their birds are certainly killed by wind turbines, and bats are as well.  And, 
+there is some of the same species, like black-backed gulls and gannets that 
+occur on the Atlantic coast.  How they are going to--  Some of the data from 
+Europe is the animals, when they’re flying, they tend to avoid the wind farms.  
+They do fly between the turbines. 
+ 
+ 
+So, the short answer is yes, birds are killed.  The bigger answer is 
+we don’t have any signs that there are any kind of population-level 
+consequences of wind farms on anything other than maybe one or two species 
+of bats on land.  So, we try to putting that -- as you did with the cumulative 
+effects question, trying to think about the population-level consequences, and 
+we don’t have any signs that there are population-level consequences for any 
+bird species. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Doctor, thank you for that, but I 
+want to stick to the topic at hand. 
+ 
+ 
+Does anybody have any additional questions for the doctor, 
+while we have him? 
+ 
+ 
+ASSEMBLYMAN MOEN:  Just a final question here. 
+ 
+ 
+Doctor, thank you for joining us.  This is Assemblyman Moen. 
+ 
+ 
+To your knowledge, are there any studies that unequivocally link 
+the sound that would be generated from this development to whale strandings 
+ 
+ 
+ 
+63 
+in New Jersey and New York or other places?  And, are there -- just through 
+your studies, have there been any other states that may have that data 
+available?  Is there any data available on that? 
+ 
+ 
+DR. NOWACEK:  Well, there are no--  I can say, well, like I said, 
+the HRG sources are absolutely de minimis in terms of their potential impact 
+on whales.  And, to my knowledge, and any of that data I’m familiar with -- 
+and I’ve written over 100 papers myself and co-authors, probably three 
+quarters of them, on these very topics -- there’s no signal anywhere that any 
+of these acoustic sources would cause animals -- certainly not cause animals 
+to die and be floating out at sea, nor stranded, either. 
+ 
+ 
+ASSEMBLYMAN MOEN:  Thank you. 
+ 
+ 
+DR. NOWACEK:  Yes. 
+ 
+ 
+ASSEMBLYMAN TULLY:  OK, thank you, Doctor, thank you 
+so much for your time and your testimony today.  We greatly appreciate it. 
+ 
+ 
+DR. NOWACEK:  Thanks for the opportunity. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+ 
+ 
+OK, unfortunately, did we -- our last -- he’s on a plane? 
+ 
+ 
+So, our last call-in, unfortunately-- 
+R O B E R T   A.   D i G I O V A N N I,  JR.:  I actually am here. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Oh, are you on the tarmac right now, 
+or-- 
+ 
+ 
+MR. DiGIOVANNI:  I’m sitting on the tarmac, yes I am. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Robert DiGiovanni, Founder and 
+Chief Scientist of the Atlantic Marine Conservation Society, thank you so 
+much for being here today, thank you so much for making the time, and I 
+will let you get started because I know you’re in a bit of a rush. 
+ 
+ 
+ 
+64 
+ 
+ 
+So, thank you. 
+ 
+ 
+MR. DiGIOVANNNI:  Thank you very much, Mr. Chairman, 
+and thank you Committee members for the opportunity to speak with you 
+today. 
+ 
+ 
+As mentioned, I am Rob DiGiovanni with the Atlantic Marine 
+Conservation Society, and, as you’ve figured out, I’m sorry I can’t join you 
+today in person, but I am actually in the middle of conducting an aerial survey 
+for marine mammals and sea turtles in the Northwest Atlantic now, so we’ll 
+be taking off in a little bit to go do some counts. 
+ 
+ 
+I’ve been part of the Marine Mammal Stranding Program for 
+over 30 years, and during that time I’ve responded to over 6,000 marine 
+mammals and sea turtles that have washed up on our coastline, mainly in 
+New York.  And, working with our partners at the Marine Mammal Stranding 
+Center in New Jersey, I have conducted necropsies on over 150 large whale 
+species.  And, as a member of the Greater Atlantic Regional Fishery Stranding 
+Network, we work with our partners, not just the Marine Mammal Stranding 
+Center, but also Mystic Aquariums up and down the coast to look at what is 
+occurring in the New York Bight. 
+ 
+ 
+We are authorized by NOAA Fisheries to respond to these 
+animals, and to be able to try to understand the cause of the mortality for 
+these animals.  And, we couldn’t do this in the field.  As Sheila has mentioned, 
+we’re a mostly volunteer network trying to pull it together with the limited 
+resources that we have to be able to actually try to understand the causes of 
+mortality on these animals, and that can’t be done without a group effort -- 
+not just from these stranding partners, but Federal, local, and state 
+municipalities working together. 
+ 
+ 
+ 
+65 
+ 
+ 
+It is important for us to keep in mind--  And, I heard some of the 
+questions about what happens during a stranding event.  As Sheila pointed 
+out, there’s a lot that goes on during this event.  I don’t think I’ve ever been 
+on a whale stranding that was less than a 12-hour day, and it really needs 
+about 12 to 25 people to be able to conduct this examination and collect 
+information from these animals when they are washing up on our beaches.  
+And, this does happen pretty frequently, or a lot more frequently than most 
+people are aware of. Since 2016-2017, we have been in the middle of an 
+unusual mortality event, which has been designated by the UME working 
+group -- the Unusual Mortality working group by NOAA Fisheries -- and they 
+designate unusual mortalities by looking at an increase in frequency or 
+location, time of year, and a number of factors that are definitely listed on 
+their website to look at the criteria by which they can designate an unusual 
+mortality event. 
+ 
+ 
+We are currently in the middle of three unusual mortality events 
+for large whales:  the North Atlantic right whale, the minke whale, and the 
+humpback whale.  All of them have started since 2016, and, in that time, 
+roughly we have recovered -- of all three species -- it’s, I think, it’s 375 
+animals, of which a third of them have occurred in the New York Bight area.  
+So, two-thirds have occurred outside of the area for this. 
+ 
+ 
+So, what are these changes that everybody has been talking 
+about?  When I first started doing strandings back in the ’90s, we would get 
+a whale stranding once every--  The longest distance was about 617 days 
+between stranding events.  So, you would get one every year, or every couple 
+of years.  In 2007, we started to see an increase of the number of strandings 
+to go to having one or two a year.  And, in 2016 and 2017, we reviewed some 
+ 
+ 
+ 
+66 
+of these data and we looked at the frequency of strandings and as of October 
+of 2017, we were looking at an average time between stranding events as 
+somewhere around 63 days.  By the end of that year -- only a couple months 
+later -- that average time had dropped to around 26 days, where it’s been 
+hovering for a number of years. 
+ 
+ 
+I point this out mainly because it gives us an indication that 
+there’s a lot of variability in when these strandings occur and the time of year.  
+It also points out that we do have strandings at many different times of year, 
+until every month of the year we have had large whale strandings.  I think 
+there’s a byproduct.  I forget who spoke about how long they have lived in 
+New Jersey, 40 years.  I’m thinking about how old--  While doing this for 30 
+years, there’s a negative of doing it for so long, but there’s also a positive.  I’m 
+starting to remember when you go back to stranding sites and you remember 
+seeing these animals in similar areas. 
+ 
+ 
+So, there are definitely cycles that we’re going through and, as of 
+right now with the stranding events, we are seeing this increased frequency 
+in the last six years.  But, of those -- as I said, there’s about a third, about 84 
+of the animals since 2017 occurred in the New York Bight that Atlantic 
+Marine Conservation Society are working with our network partners at 
+Marine Mammal Stranding Center and Mystic Aquariums have responded to 
+-- 17 of which were actually live animals that stranded.  And, then, of those 
+84, 57 of them were able to have necropsy examinations.  And, of those 57, 
+35 had evidence of human interaction, or vessel strike, or something along 
+those lines.  So, 24 of those 35 were actually vessel strikes, and we say human 
+interactions.  I remember a question earlier was about marine debris, but 
+when we look at anything that’s human interaction we look at vessel strikes, 
+ 
+ 
+ 
+67 
+entanglement, and ingestion of debris, although it is not seen as readily in 
+the larger whales, we have seen it in other species of animals.  So, these 
+findings that we’re seeing that are attributed to vessel strikes are pretty 
+consistent to what we’ve been seeing for decades.  What’s been different is 
+the frequency we’ve seen in the last six years, and, also, the species 
+composition.  We’re starting to see a little bit more of the humpback whales. 
+ 
+ 
+As we’ve come back to the unusual mortality event, we will see 
+that vessel strike and entanglement are the leading causes of mortality for the 
+humpback whales, and for the right whales.  But, for the minke whales, which 
+is another species that we encounter, it seems to be more of a biological 
+process, so more of a disease process that we’re encountering.  So, even 
+though we’re having an increase, we’re seeing an increase for a variety of 
+reasons, which is probably indicative of what’s going on in the environment. 
+ 
+ 
+And, I’ve heard a lot of questions about the menhaden, and food, 
+and I’ve always used the example of looking at this system and how we go 
+through this.  We know we have whales, historically, along the coast of the 
+northeast United States.  But, if you think about years ago when we used to 
+go traveling on the highway system of the ’70s, we would stop at a rest area 
+and we didn’t have a lot of really great choices for food.  Now, when you go 
+and travel, you can see there’s a lot more choices there, so we might have a 
+longer time that’s being spent in those areas.  And, so, you can see those 
+changes. 
+ 
+ 
+One of the first comments we used to get when we used to go out 
+on strandings 45 years ago is people would say to us that they didn’t even 
+know whales were here, let alone the fact that we’re having them wash up on 
+our beaches.  Now when we go out on a whale stranding, or a necropsy, or 
+ 
+ 
+ 
+68 
+something along those lines, what we’re hearing from the public is that 
+they’re seeing more whales, “Hey, a friend of mine was here and we just saw 
+a bunch of whales.”  Just the other day we had a whale stranding in New 
+York, and in talking to one of the members of the public they were telling us 
+about three humpback whales that they saw off of Fire Island. 
+ 
+ 
+So, those are some of the changes that we’re seeing.  I would hear 
+everybody’s thoughts about--  We need to collect more information and we 
+need to collect data and share that and disseminate it.  But, I would also want 
+to point out that the stranding programs on a whole are one of the most 
+consistent methods by which we have been examining causes of mortality, 
+and it’s one of the undersupported parts of the equation where it’s really 
+forcing us to try and, in many cases, people coming in on their own time, 
+putting them up in hotels. 
+ 
+ 
+So, in order to address this, we need to bring a lot of these issues 
+together, and a lot of these data together, because when I’m out on the beach 
+and somebody asks me, “Is this normal?”  If I don’t know that we just got 10 
+humpback whales offshore, I don’t know how that really relates to what we’re 
+seeing.  And, I think that what we’re hoping with this -- and, I talk about this 
+as the New York and New Jersey Bight, and trying to look at this more of a 
+system, working with our partners, we could start to answer some of these 
+questions and making sure that we have the infrastructure and the support 
+to be able to conduct these examinations so that we can provide the much-
+needed data going forward. 
+ 
+ 
+So, hopefully I didn’t go too long. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Doctor, thank you so much for your 
+testimony here today. 
+ 
+ 
+ 
+69 
+ 
+ 
+I know you are potentially taking off shortly, so I would just ask 
+that you please provide a lot of the statistics and data that you provided 
+during your testimony to the Committee.  We’ll be sure to follow up with 
+you if any of my colleagues want more detail, please through me.  We can 
+ask the doctor as well. 
+ 
+ 
+But, does anybody have any questions for the doctor while we 
+have him? 
+ 
+ 
+MR. DiGIOVANNI:  Actually, it’s mister, just so you know.  It’s 
+not doctor.  Even though it’s 30 years. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, sir. 
+ 
+ 
+Assemblyman, please go ahead. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Just one quick question. 
+ 
+ 
+I guess it’s kind of two part.  Do you--  One, do you know if 
+multiple testings are going on at the same time?  And, if they are, would that 
+have a different effect if there’s multiple testings going on, or it doesn’t 
+matter, it’s the same effect regardless of if it’s testing or it’s not testing? 
+ 
+ 
+MR. DiGIOVANNI:  To make sure I understand you correctly, 
+are you asking like when we’re conducting a necropsy and sending samples 
+out?  Is that what you’re asking about? 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  No, particularly seismic 
+testing.  It’s all--  There’s multiple ones going on at the same time.  Would 
+that have a cumulative effect on the mammals, or does it not matter, or you 
+don’t know either? 
+ 
+ 
+MR. DiGIOVANNI:  I think that Dr. Nowacek answered that 
+question about the seismic testing a lot better than I would be able to-- 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Surveys, I’m sorry.  
+ 
+ 
+ 
+70 
+ 
+ 
+MR. DiGIOVANNI:  And, so, when you look at that, as far as--  
+When we look at the surveys from a necropsy perspective, we conduct a 
+necropsy in exactly the same manner, where we examine, and Danielle Brown 
+mentioned earlier about conducting the examination and not jumping to any 
+conclusions where we look.  And, so, one of the things we would look at is, 
+when we are able to conduct a necropsy and open up the animal; look for 
+bruising; look for broken bones. Those samples are then sent out to 
+independent pathology labs to verify what our field results say.  And, then 
+that’s what leads to us being able to say, these are potential or probable causes 
+of mortality related to the vessel strikes.  And, that’s really how we conduct 
+our examinations. 
+ 
+ 
+The understanding about what testing is going on would be great 
+to be able to coordinate those efforts going forward, just so we know. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Got you. 
+ 
+ 
+Thank you, sir. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+ 
+ 
+Sorry, Assemblyman, do you have a question? 
+ 
+ 
+ASSEMBLYMAN MOEN:  I do. 
+ 
+ 
+Thank you for joining us. 
+ 
+ 
+My first question is, are you in a window or aisle seat? 
+ 
+ 
+(laughter) 
+ 
+ 
+In all seriousness, what can we do as representatives of the State, 
+as members of the Legislature--  What can we do to assist with the difficulties 
+of conducting necropsies and analyzing stranding? 
+ 
+ 
+MR. DiGIOVANNI:  That’s a really good question.  I mean, the 
+biggest thing that we need is to support directors of programs.  The Marine 
+ 
+ 
+ 
+71 
+Mammal Stranding Center, like Sheila says, they’re an amazing team, and 
+extremely dedicated, and put in a lot of hours.  It’s always a pleasure when 
+we’re working with them.  But, they’re definitely undersupported.  They need 
+basic support to be able to have staff members who can be able to help and 
+assist with it. 
+ 
+ 
+As we go forward -- and, I don’t want to -- these are issues that 
+we have as far as strandings and marine mammals that have been going on 
+along the seaboard for years, and we need to make sure that we can continue 
+to maintain that consistency of data collection.  And, without continued 
+support from not only the Federal but the state level, that makes it very 
+problematic.  
+ 
+ 
+And, I think that’s my biggest concern, is what happens when we 
+don’t have gas money?  To make it pretty simple.  I mean, back in the day, 
+we used to joke about not being able to pay a toll, you know.  So, I guess 
+that’s even a problem now as the prices go up. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Anybody else?  (no response) 
+ 
+ 
+Doctor, thank you so much for making yourself available today.  
+We really appreciate the time, and safe journey. 
+ 
+ 
+MR. DiGIOVANNI:  Thank you very much, I appreciate it. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you. 
+ 
+ 
+OK, that is our last testimony for today.  I will allow any brief 
+statements from my colleagues before we adjourn for today. 
+ 
+ 
+We’ll go around the horn here. 
+ 
+ 
+Assemblyman? 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I’m good. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Good. 
+ 
+ 
+ 
+72 
+ 
+ 
+ Assemblyman. 
+ 
+ 
+ASSEMBLYMAN McCLELLAN:  Just, quickly, thanks for 
+inviting me, allowing me to hang out in this Committee. 
+ 
+ 
+(laughter) 
+ 
+ 
+Secondly, I think the overall thing that we should take from 
+today is that we need to take a step back and see what’s going on in our 
+oceans and get a direct answer and not just assume. 
+ 
+ 
+We had testimony today that we know exactly what’s going on, 
+and then we had testimony that says they’re waiting six months and 10 
+months to get information back from dead animals.  So -- also, we don’t know 
+what the cumulative effect is. 
+ 
+ 
+So, I think we shouldn’t be rushing to do things, and as a 
+legislator, I’ve seen that in my short time here, that certain bills can get 
+pushed through in a matter of weeks and certain things can take two, three, 
+four, five years to get through.  So, when you’re doing things and you’re 
+affecting peoples’ lifestyles and you know, the only good thing that I saw -- 
+or know -- that’s coming out of this is that it’s going to create jobs for 
+tradespeople.  That was the only good thing. 
+ 
+ 
+But, at what cost is that going to be?  Do we know that this 
+energy is going to help?  We don’t know that.  We don’t know that at all.  
+We know there are going to be some quality jobs that are created, and that’s 
+a good thing, and that’s a plus, but that shouldn’t be the overall, 
+overwhelming thing.  And, those jobs can still be created, but I still think we 
+need to take a step back and not rush to do things, and see how it’s going to 
+affect our ocean; see how it’s going to affect our bays, and our communities 
+and things of that nature. 
+ 
+ 
+ 
+73 
+ 
+ 
+I think we, as elected officials, need to start taking some time 
+back on legislation that we put forward, and not allow somebody from up top 
+to push things for their own selfish agendas. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Assemblyman. 
+ 
+ 
+ASSEMBLYMAN MOEN:  Thank you, Chairman. 
+ 
+ 
+I do just want to take a moment to thank everyone who has 
+testified today and those in attendance. 
+ 
+ 
+As Assemblyman McClellan said, representing my area of 
+southern New Jersey -- Camden and Gloucester County -- from an industry 
+perspective, we understand the significance here. 
+ 
+ 
+But, I think what the DEP Commissioner said is that if we’re 
+doing our jobs here correctly, it is important to take a step back to look at 
+the entire picture here.  That means with the urgency that many folks that 
+come to the table with objections to offshore wind, that urgency -- I would 
+truly hope that that urgency would carry through to dealing with the larger 
+issues we’ve heard today about climate change; to dealing with some of the 
+other issues that may impact why whales are dying, which can include the 
+increased ship traffic that we heard about today. 
+ 
+ 
+These are things that I think, collectively, we can continue to 
+work forward together on.  I think this information that we heard today -- 
+the testimony that we heard -- will be analyzed by our staff on both sides of 
+the aisle, and will give us information that we can continue to move forward 
+and work together on to determine what the State of New Jersey, in 
+partnership with the Federal government, can be doing to ensure that we’re 
+moving along in the same direction in an appropriate, safe, and respectful 
+way. 
+ 
+ 
+ 
+74 
+ 
+ 
+So, thank you, Chairman, for holding the Committee hearing 
+today, and I’m looking forward to the work that comes ahead. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, Assemblyman. 
+ 
+ 
+Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN PARK:  I just, I think my takeaway from 
+the discussion today is that, yes, there is an urgency as far as global warming.   
+Clean energy -- there’s an urgency to clean energy, and the takeaway today 
+as far as the whales and what’s happening off our shores is that we really need 
+to figure out the prey fish situation, that we need more data regarding prey 
+fish. 
+ 
+ 
+And the other--  I’ve heard from the last doctor that called in was 
+that the ocean surveying for the offshore wind is very de minimis -- I think he 
+said “de minimis” like six times -- so, obviously, we need to really think about 
+this more.  But, at the same time, there is an urgency. 
+ 
+ 
+I just read an article about how this summer is going to be one 
+of the hottest summers yet to come, and, so, we don’t want to keep -- we 
+don’t want to keep this in the back burner, saying, “Global warming, global 
+warming is going to happen.”  I want there to be a future for our children and 
+clean energy for them in the future. 
+ 
+ 
+So, I thank everyone who came today and spoke, too.  So, thank 
+you very much. 
+ 
+ 
+ASSEMBLYMAN TULLY:  Thank you, Assemblywoman. 
+ 
+ 
+I would like to sincerely thank everyone who testified here today.  
+Obviously, this is a very important issue, a very emotional issue, and I would 
+like to thank our Committee for having a healthy conversation as well.   
+ 
+ 
+ 
+75 
+ 
+And, giving us the opportunity to listen to the experts share their 
+insights into whale deaths off the New Jersey Shore and elsewhere across the 
+coast. 
+ 
+ 
+We’re going to review all the data and testimony we heard in 
+today’s fact-based hearing, and we’re going to continue to work with the 
+experts to understand how to address this issue if necessary.  This Committee 
+is going to hold additional hearings, and I thank you all today for your time. 
+ 
+ 
+Get home safe.  Meeting is adjourned. 
+ 
+(MEETING CONCLUDED) 
+ 
+ 
+  
+ 

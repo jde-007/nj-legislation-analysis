@@ -1,0 +1,4759 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+ASSEMBLY TELECOMMUNICATIONS  
+AND UTILITIES COMMITTEE 
+ 
+“The Committee will receive testimony from invited guests concerning recent increases in 
+electricity rates and the related cost burden on utility customers in certain service areas” 
+ 
+LOCATION: 
+Committee Room 11 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+October 2, 2024 
+11:00 a.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Assemblyman Wayne P. DeAngelo, Chair 
+Assemblyman James J. Kennedy, Vice Chair 
+Assemblyman David Bailey, Jr. 
+Assemblyman Julio Marenco 
+Assemblywoman Tennille R. McCoy 
+Assemblyman Christian E. Barranco 
+Assemblyman Paul Kanitra 
+Assemblyman Alex Sauickie 
+ 
+ 
+ALSO PRESENT: 
+ 
+Mikaela A. Chianese 
+Suzanne Miller 
+ 
+ 
+ 
+Erin K. Reagan 
+ 
+ 
+Diego Romero 
+Office of Legislative Services 
+ 
+ 
+Assembly Majority 
+ 
+ 
+Assembly Republican 
+Committee Aides 
+ 
+ 
+ 
+Committee Aide  
+ 
+ 
+Committee Aide 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+N.J. Assemblyman Cody D. Miller 
+District 4 
+4 
+ 
+N.J. Assemblywoman Andrea Katz 
+District 8 
+6 
+ 
+N.J. Assemblyman Brian E. Rumpf 
+District 9 
+8 
+ 
+Christine Guhl-Sadovy 
+President 
+New Jersey Board of Public Utilities (BPU) 
+13 
+ 
+Jason M. Stanek 
+Executive Director of Governmental Services 
+PJM Interconnection 
+30 
+ 
+Phillip Vavala  
+Vice President of Governmental and External Affairs, and 
+Regional President 
+Atlantic City Electric (ACE) 
+43 
+ 
+Kieran Tintle 
+Senior Advisor, NJ Governmental Affairs 
+Jersey Central Power & Light (JCP&L) 
+48 
+ 
+Patricia Mullin 
+Vice President of Operations 
+Jersey Central Power & Light  
+49 
+ 
+David L. Johnson 
+Vice President of Customer Care, and 
+Chief Customer Officer 
+Public Service Electric and Gas (PSE&G) 
+51 
+ 
+Joseph Checkley 
+President and Business Manager 
+International Brotherhood of Electrical Workers (IBEW) 
+Local 94 
+56 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+Michele O’Connell 
+President and CEO 
+Rockland Electric Company 
+58 
+ 
+Rich Henning 
+President and CEO 
+New Jersey Utilities Association (NJUA) 
+81 
+ 
+Brian O. Lipman, Esq. 
+Director 
+Division of Rate Counsel 
+87 
+ 
+Evelyn Liebman 
+Director of Advocacy 
+AARP New Jersey 
+100 
+ 
+ 
+APPENDIX: 
+ 
+Testimony 
+submitted by 
+N.J. Senator Carmen F. Amato, Jr., 
+N.J. Assemblyman Brian E. Rumpf, and 
+N.J. Assemblyman Gregory E. Myhre 
+District 9 
+1x 
+ 
+Testimony, and 
+Additional materials 
+submitted by 
+Christine Guhl-Sadovy 
+2x 
+ 
+Testimony 
+submitted by 
+Jason M. Stanek 
+17x 
+ 
+Testimony 
+submitted by 
+Phillip Vavala 
+24x 
+ 
+Testimony 
+submitted by 
+David L. Johnson 
+27x 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+APPENDIX (continued) 
+ 
+Testimony 
+submitted by 
+Michele O’Connell 
+30x 
+ 
+Testimony 
+submitted by 
+Brian O. Lipman, Esq. 
+32x 
+ 
+Testimony 
+submitted by 
+Evelyn Liebman 
+43x 
+ 
+Testimony 
+submitted by 
+N.J. Assemblyman Michael Torrissi, Jr. 
+District 8 
+47x 
+ 
+Testimony 
+submitted by 
+Fred DeSanti 
+Executive Director 
+New Jersey Solar Energy Coalition  
+49x 
+ 
+mej: 1-106 
+ 
+ 
+ 
+ 
+ 
+1 
+ASSEMBLYMAN WAYNE P. DeANGELO (Chair):  Thank 
+you, and good morning, everyone. 
+ 
+ 
+I just want to make sure -- is my mic recorded?  Make sure we’ve 
+got me. 
+ 
+ 
+Perfect, thank you. 
+ 
+ 
+Good morning, everyone.  I would like to welcome everybody to 
+the Assembly Telecommunications and Utilities Committee hearing today on 
+the cost of our electrical rate throughout the system in the State of New 
+Jersey. 
+ 
+ 
+If I can have everybody please rise for the Pledge of Allegiance, 
+and remain standing for a moment of silence. 
+(Pledge of Allegiance is recited) 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  If everyone can just remain 
+standing for a moment of silence for those who are weathering through the 
+storms across this country, and the men and women serving us in the 
+military who may be in harm’s way. 
+ 
+ 
+Please be seated. 
+ 
+ 
+If I could please have a roll call. 
+ 
+ 
+MS. MILLER:  Assemblyman Kanitra. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Here. 
+ 
+ 
+MS. MILLER:  Assemblyman Sauickie. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Here. 
+ 
+ 
+MS. MILLER:  Assemblyman Barranco. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Here. 
+ 
+ 
+MS. MILLER:  Assemblyman Marenco. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Yes. 
+ 
+ 
+ 
+2 
+ 
+ 
+MS. MILLER:  Assemblyman Bailey. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Here. 
+ 
+ 
+MS. MILLER:  Assemblywoman McCoy. 
+ 
+ 
+ASSEMBLYWOMAN McCOY:  Present. 
+ 
+ 
+MS. MILLER:  Vice Chair Kennedy. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  He should be on his way. 
+ 
+ 
+MS. MILLER:  He’s on his way. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  I am here. 
+ 
+ 
+We do have a quorum. 
+ 
+ 
+So, I would like to welcome everybody this morning to this 
+hearing -- I would like to welcome everybody here this morning to our 
+hearing to have a lengthy discussion about our energy across the State of 
+New Jersey. 
+ 
+ 
+If I can just open up with a few words, I just want to make sure 
+that we have decorum in the room.  We want to make sure that we’re 
+moving New Jersey in a positive direction with things that we need to take 
+mindful of. 
+ 
+ 
+The State of New Jersey--  I know that we generate 
+approximately 75% of the electric that we use.  And, of that 75%, about 
+half of it comes from natural gas, and we’ve got about 30% coming from -- 
+35% from nuclear -- and then the rest from renewables and various others. 
+ 
+ 
+We have energy needs in New Jersey.  As the Governor has 
+stated over the past couple years that he wants to move us into heat pumps 
+as a form of heating; he wants to move us by installing more amounts of EV 
+charging stations across the state.  That’s an impact to the energy that we’re 
+going to need -- an increased need. 
+ 
+ 
+ 
+3 
+ 
+ 
+So, to put it in layman’s terms, 75% of our homes are heated 
+with natural gas, and 65% of our businesses are heated with natural gas.  An 
+important number, so, if we’re going to convert that all over to electric, 
+you’re putting in another heat pump.  And, that’s like adding another 
+electric stove in your house.  And, one of the slower charging stations that 
+are across--  To charge our electric vehicles, they take a 50-amp circuit.  
+That’s another electric stove.  And, if you have a quick charging station, 
+they use 100 amps.  And, that’s an amount of power that’s in a small 
+residential house. 
+ 
+ 
+And, as we’re moving New Jersey across and increasing our 
+bandwidth and the need for data, be mindful as AI is coming into the 
+picture and becoming more prominent.  One unit--  One data center that 
+they’re talking about building is going to need 800 million watts.  What is 
+that?  I could tell you that the three reactors -- nuclear reactors -- that are 
+down in South Jersey are about 2.2 billion each.  So, you can see that it’s 
+more than one of the reactors that are down there now.  And, that’s the 
+demand; that’s not what you build it for.  That’s more than the power that 
+was supplied by Oyster Creek.  When we shut it down a number of years 
+ago, the country’s oldest nuclear reactor -- which, back then, that was about 
+675 million watts, and, for those who are older, like myself, we remember 
+Mercer Gen right here on the river.  It was a coal gas plant that generated 
+about 365 million watts.  There’s power needed across this state. 
+ 
+ 
+So, the testimony that we’re going to hear today from PJM and 
+the Board of Public Utilities; from our four electric companies; and for 
+those utility associations and for those interested parties, we’re going to 
+help form and sculpt what we’re doing going forward.  We do need to do 
+ 
+ 
+ 
+4 
+more.  We are going to have more hearings on more, just not today.  We’ve 
+got to diversify our energy generation.  I’m a person who does not like to 
+put all my eggs in one basket.  We need to discuss offshore wind; we need 
+to discuss doing more with solar; we need to discuss battery storage.  These 
+will be things that will increase that--  We’ll be discussing that as we move 
+forward, but, we’ve got to be mindful of cold winters; we’ve got to be 
+mindful when it’s hot in the summer. 
+ 
+ 
+So, with that being said, I am going to start testimony.  If I can 
+have Assemblyman Miller, Assemblywoman Katz, and Assemblyman 
+Rumpf.  Please come forward. 
+ 
+ 
+And, I can just start the testimony in that order, it would be 
+great.  If you could please, Assembly members, welcome.  Just make sure--  I 
+think you have to have the little red light on.  You have to press your 
+microphone. 
+ 
+ 
+Assemblyman, welcome. 
+A S S E M B L Y M A N   C O D Y   D.   M I L L E R:  Thank you. 
+ 
+ 
+I would like to begin by thanking Speaker Coughlin, Chairman 
+DeAngelo, and Vice Chair Kennedy for holding this important meeting. 
+ 
+ 
+I speak today in unison with my colleagues from the Fourth 
+Legislative District, Senator Paul Moriarty and Assemblyman Dan 
+Hutchison, and we bring to you the concerns we have heard from many of 
+our 210,000 constituents in the Fourth District. 
+ 
+ 
+The cost of electric bills this summer is about more than just 
+the price to keep your lights on and your air conditioner running.  It’s about 
+affordability.  Far too often, our office hears of examples where a senior will 
+have to choose between putting food on the table; purchasing the medicine 
+ 
+ 
+ 
+5 
+they need; or keeping their home at a comfortable temperature during the 
+summer months. 
+ 
+ 
+On a more personal note, I think about my mother, who 
+worked two jobs and supported the four of us as a single mom.  And, in 
+some instances, for her, seeing a utility bill spike from $150 a month to 
+$800 a month is just unacceptable, and I know that there are many families 
+who are in that same scenario. 
+ 
+ 
+We know that 37% of people in this country cannot afford an 
+unexpected expense of $400, which, in this case, may mean only a couple of 
+unexpectedly high energy bills.  We acknowledge that electric companies 
+have certainly attempted to communicate with their customers about usage 
+rates.  But, unfortunately, these lines of communication do not always reach 
+everybody.  Our office has fielded many phone calls from people who do 
+not have the electronic means to receive these updates, and we must 
+communicate with these consumers where they are.  We know that this 
+summer ranks among the warmest summers on record in New Jersey, and 
+we don’t expect temperatures to be going down in the future.  So, the cost 
+of electric is something that will not be going away for our residents. 
+ 
+ 
+Additionally, with rising costs, we have heard from utility 
+companies that they have been investing heavily in infrastructure upgrades 
+to ensure that the grid is resistant to more extreme weather conditions our 
+area has experienced recently.  As legislators, it is our main job to bring the 
+concerns of our constituents to Trenton, and figure out how we can 
+implement and improve public policies that not only improve their lives, 
+but make New Jersey more affordable.  This may entail looking at some of 
+the mandates that the State has imposed that could not prioritize 
+ 
+ 
+ 
+6 
+affordability and coming up with longer-term more price-effective solutions 
+for clean, renewable energy. 
+ 
+ 
+I appreciate hearing from all the stakeholders to help educate 
+us, because conversations like this, that we are having in a public forum 
+here today--  We can begin to get answers for our constituents. 
+To the utility providers:  Your willingness to engage is essential 
+as we navigate these challenges together. 
+I want to assure our constituents that we are listening to their 
+concerns and are committed to advocating for affordable energy solutions 
+for all New Jersey residents. 
+Thank you, Mr. Chair. 
+ASSEMBLYMAN DeANGELO:  Thank you, Assemblyman. 
+Assemblywoman. 
+Good morning. 
+A S S E M B L Y W O M A N   A N D R E A   K A T Z:  Good morning. 
+ 
+ 
+Thank you, Chairman and Committee members, for having this 
+hearing this morning. 
+ 
+ 
+I am here today on behalf of the 230,000 people who I 
+represent in Burlington-Atlantic counties, and we are all looking for 
+answers. 
+ 
+ 
+I received countless calls from my constituents, because they 
+are seeing what I have been seeing:  Skyrocketing electric bills.  These rate 
+hikes hurt middle-class families.  I heard it from my neighbors, and I saw it 
+on my own electric bill.  The utilities, like Exelon, have seen their stocks 
+soar 10% over the last year, while at the same time, families in New Jersey 
+are paying hundreds of dollars more a month for their electric bills.  We 
+ 
+ 
+ 
+7 
+can’t expect people to be able to afford to make their homes more energy 
+efficient while they are paying exorbitant prices.  It is even more 
+unconscionable, because these companies’ shareholders are seeing 
+humongous gains at the very same time. 
+ 
+ 
+I sent a letter requesting this meeting with some of my South 
+Jersey colleagues, because everyone deserves transparency into what 
+happened last summer.  This should be an opportunity to learn what went 
+wrong and fix this immediately.  People are paying attention to our work 
+today, and they rightfully expect us to do something that will bring down 
+costs. 
+ 
+ 
+When I was running for my seat last year, I knocked on 
+thousands and thousands of doors, and the thing that I heard more than 
+anything else was that people wanted the Legislature to make New Jersey 
+more affordable.  It is up to us as legislators to do something, because 
+people can’t continue to pay more, and it simply doesn’t have to be this 
+way.  And, we shouldn’t have to hold hearings to get basic answers as to 
+why our electric bills have shot through the roof. 
+In response to the rate hikes, I am going to be introducing 
+legislation that would require the BPU to consider affordability before 
+approving base rates for utilities.  This will be a great first step in bringing 
+costs down, but there is a lot of work for us to do together. 
+So, thank you again, Chairman, and Committee members, for 
+holding this hearing today.  And, I am eager to hear from BPU and the 
+utilities on how we can avoid these sorts of hikes in the future. 
+Thank you. 
+ASSEMBLYMAN DeANGELO:  Thank you, Assemblywoman. 
+ 
+ 
+ 
+8 
+Morning, Assemblyman, how are you? 
+A S S E M B L Y M A N   B R I A N   E.   R U M P F:  Good morning, 
+Chairman.  It’s good to see you. 
+ 
+ 
+And, Chairman, I submitted prepared testimony on behalf of 
+myself, Senator Amato, Assemblyman Myhre. 
+I would like to supplement that with just a few additional 
+comments by first thanking you, Chairman, Vice Chairman Kennedy, and 
+the Committee, for conducting this hearing. 
+ 
+ 
+I was compelled to attend to represent my constituents.  As you 
+may know, the Ninth District has the highest proportion of seniors in the 
+State of New Jersey, and our seniors -- I would submit -- are those more 
+disproportionately affected by rising utility rates. 
+ 
+ 
+It’s easy to cast blame upon our electric companies and our gas 
+companies, because that’s who we know; that’s who sends us our bill in the 
+mail every month.  The problem, as this Committee is aware, is far deeper.  
+If you know or understand the Pennsylvania, New Jersey, Maryland, 
+interconnect PCAM, where the auction process which sets utility rates that 
+we are all caused to pay. 
+Few also understand the administration’s Energy Master Plan, 
+and that, I would submit, is where the problem lies, and where this 
+Legislative body can truly make a difference.  Solar and wind constitute 8% 
+of New Jersey’s power currently.  And, the Governor has actually set a goal 
+of 35% by 2025 -- next year.  Unlikely we’re going to make that goal.  We 
+have allowed power-generation plants -- both gas and nuclear -- to shut 
+down, while simultaneously voting on wasteful subsidies for wind and solar.  
+I would submit, Mr. Chairman, that the issue is supply and demand. 
+ 
+ 
+ 
+9 
+We turn away nuclear, or fail to encourage nuclear or gas 
+supply, while wasting millions or even billions on the inefficient wind 
+projects which threaten our coastlines.  The bottom line is that my 
+constituents and yours cannot afford to continue down the Murphy 
+Administration’s yellow brick road.  I would submit that that would only 
+exacerbate the crisis that we are all currently facing. 
+I therefore implore this Committee and the Legislative body as 
+a whole to scrap the Governor’s plan, encourage investment of nuclear and 
+natural gas, clean energy, and help to reduce the cost of energy for all New 
+Jerseyans. 
+I thank you. 
+ASSEMBLYMAN DeANGELO:  Thank you, Assemblyman. 
+The three of you--  Thank you very much for taking the time 
+out and testifying before the Committee.  I appreciate your time and 
+respect your opinions. 
+ASSEMBLYWOMAN KATZ:  Thank you, Mr. Chairman. 
+ASSEMBLYMAN BAILEY:  Mr. Chairman? 
+ASSEMBLYMAN DeANGELO:  Yes, Assemblyman. 
+ASSEMBLYMAN BAILEY:  Thank you, Mr. Chairman. 
+I just wanted to echo what my colleagues, Assemblyman Miller 
+and Assemblywoman Katz had to say this morning. 
+I want to thank you, Mr. Chairman, and the entire Committee, 
+for calling this hearing. 
+I certainly want to thank the BPU, Atlantic City Electric, 
+PSE&G, and other stakeholders for participating. 
+ 
+ 
+ 
+10 
+I also want to commend both the BPU and Atlantic City 
+Electric for their responsiveness both to our office and our constituents in 
+the Third Legislative District that we’ve been hearing a lot from. 
+Our goal in reaching out to you and hoping to call this hearing 
+today was to respond to those constituents’ concerns regarding their 
+unexpectedly high electric bills over the summer, and provide some 
+transparency as to factors that affect those costs. 
+We are listening, as my colleagues have said, and we will do all 
+in our power to ensure energy prices remain affordable for the working 
+people of New Jersey. 
+In addition, it is our goal to provide customers with the 
+information and tools necessary to keep their utility bills in check.  This 
+hearing is an important step in that direction. 
+Senator Burzichelli, Assemblywoman Simmons, and I have also 
+introduced legislation to create what is called the Energy Bill Watch.  It’s a 
+program that is an opt-out program that would ensure customers receive 
+ample notice of high usage in the early billing cycle, and empower them to 
+make informed usage decisions to avoid sticker shock at the end of the 
+month. 
+I look forward to participating in further policy discussions 
+focused on utility affordability, and that will undoubtedly result from 
+today’s testimony. 
+Thank you, Mr. Chairman. 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+Are there any other Committee members who wish to make a 
+statement? 
+ 
+ 
+ 
+11 
+Assemblyman. 
+ASSEMBLYMAN KANITRA:  Thank you, Mr. Chairman. 
+I just wanted to commend my colleague, Assemblyman Rumpf, 
+and his colleagues Assemblyman Myhre and Senator Amato, for the 
+testimony and touching on the wind issue, and really what I think I believe 
+is the Don Quixote-esque quest for green energy and pushing it before it’s 
+ready for prime time, and doing that with all the taxpayer subsidies -- which 
+I think is the root cause of why we’re facing all these ratepayer increases -- 
+and I appreciate you setting the table today, because I hope that this 
+hearing gets to the bottom of that, and we’re able to uncover all the money 
+that’s been spent for that quest, and the lack of investment in traditional 
+infrastructure, and everything that’s gone into that as well. 
+So, thank you, Assemblyman. 
+ASSEMBLYMAN DeANGELO:  Thank you, Assemblyman. 
+Assemblyman Barranco. 
+ASSEMBLYMAN BARRANCO:  Mr. Chairman, first of all -- 
+and, I echo the sentiments of others here -- thank you, Mr. Chairman, for 
+giving us the opportunity to have this conversation. 
+As you know, I’ve known you for a long time.  I am in the 
+electrical infrastructure business, and there’s a lot about what I know about 
+what needs to happen here and what has happened here, and I thank you 
+for taking the time to get these people together and have this conversation.  
+Because, I believe that the Legislature needs to take a leadership position in 
+this particular question. 
+And, I especially want to say something, because I’ve never 
+been to a Committee meeting where my Assembly mates sit down and talk 
+ 
+ 
+ 
+12 
+to us.  So, it’s especially important that the two of you are here -- the three 
+of you are here -- to speak to us about this, because it proves that the 
+Legislature can take a leadership position on this role.  We have people 
+from both sides of the aisle; we have Democrats and Republicans not only 
+up here, but in the gallery.  That’s an important thing.  And it -- like I said -
+- it reinforces the fact that we can take a leadership position in this 
+particular role. 
+And, I’m going to say this, and I’m going to be finished.  We 
+have a very difficult decision to make, and there’s two words that this crew 
+of three legislators brought up, that I’m going to shed some light on and 
+then we’ll continue.  And, that is two words:  affordable and renewable.  We 
+need to strike a balance.  And, this is where the Assembly can take a 
+leadership, is that we need to take a--  We need to strike a balance between 
+affordable and renewable.  Because, in the world of engineering, those two 
+are diametrically opposed, I promise you.  And, we need to really face facts 
+and do some very, very smart legislation if we’re going to fix this problem. 
+So, today is going to be a very, very fun day.  I just want to 
+start with that statement. 
+Thank you, Mr. Chairman. 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+Any other Assembly members?  (no response) 
+All right, thank you. 
+Right now, our next speaker -- if I can please call up the 
+President for the Board of Public Utilities. 
+Good morning. 
+ 
+ 
+ 
+13 
+C H R I S T I N E   G U H L - S A D O V Y:  Good morning Chairman, 
+Vice Chair, members of the Committee. 
+ 
+ 
+Thank you so much for inviting me to be here.  I am here with 
+our Executive Director and Acting General Counsel, Bob Brabston, in part 
+because we have many matters that are open and pending before the Board 
+that may come up, and, so, I want to make sure that we have counsel here 
+to acknowledge those issues. 
+ 
+ 
+So, I did submit a statement, I hope you all got a chance to 
+look at it.  I won’t read it, I’ll just touch on, I think, some of the main 
+points and then hopefully we’ll have some questions and it’ll be fun, as you 
+said, Assemblyman.  
+ 
+ 
+So, I just want to start by saying, again, thank you.  I think this 
+is an important opportunity to bring transparency and shed light on some 
+of the issues that we have been talking about.  But, I want to say first, we 
+understand that no one wants to see their electric bill go up.  We are 
+committed to ensuring affordability; we have many energy-assistance 
+programs as well as energy-efficiency programs through the Board of Public 
+Utilities to help people both afford to pay their bill at times when they do 
+go up, and also to help support reducing their bill so that, in the future, 
+they won’t -- we won’t see as significant an increase. 
+ 
+ 
+One of the things that I do want to point out that we just 
+instituted was the Residential Energy Assistance Payment Initiative.  That 
+was a one-time bill credit that went to eligible -- qualifying and eligible 
+customers, it was approximately 278,000 customers, it was a $175 bill 
+credit, and it was -- it should be, right now, hitting peoples’ bills at a time 
+that we’re coming off of a very hot summer.  So, that was a particularly 
+ 
+ 
+ 
+14 
+important initiative, I think, of Governor Murphy’s and mine to ensure that 
+those customers who need it most were able to get that bill credit at a time 
+when we saw a very hot summer as some have mentioned, and some higher 
+usage. 
+ 
+ 
+So, I want to shed a little bit of light on what goes into the 
+utility bill and the main components are generation and distribution.  
+Generation is approximately 60-70% of the utility bill, and it is procured -- 
+generation is procured.  Energy is a commodity, and this year we saw that 
+commodity go up.  We procure it through something called the BGS 
+auction -- the utilities procure it, the Board of Public Utilities oversees it.  
+And, because of what was referenced here already, there’s a supply and 
+demand (indiscernible) that’s been -- that’s smaller, the cost of energy has 
+gone up, and that has had an impact on bills starting in the beginning of the 
+summer. 
+ 
+ 
+And, we understand, again, that no one wants to see their bill 
+go up, and we are trying to do what we can to see -- to see customers -- to 
+provide assistance when customers need it.  But, that generation portion of 
+the bill is something that is outside of the control of the Board of Public 
+Utilities.  It is, again, done through an auction process, and those costs have 
+gone up. 
+ 
+ 
+As pointed out, we need more generation.  That is--  That is an 
+important thing, and I think one of the main takeaways that we probably 
+will all share today, is that we do need more generation.  We, over the last 
+couple of decades, have not seen a significant demand increase in energy 
+use, in part because we’ve done a really good job in energy efficiency, and so 
+we’ve helped to bring -- to keep that demand flatter.  But, we have seen 
+ 
+ 
+ 
+15 
+energy demand go up, and so we do need more generation.  And, the 
+Governor and the BPU are striving to see that generation come from clean 
+resources, not just renewable, but as the Chairman mentioned, we have a 
+significant nuclear generation fleet in New Jersey that we rely on for our 
+power.  So, we want to make sure that that’s coming from clean generation 
+and that we are able to get more of it. 
+ 
+ 
+So, that’s the generation portion of the bill, and then there’s 
+the distribution portion of the bill, which encompasses several things, but 
+one of them is the necessary infrastructure improvements.  The way that 
+infrastructure improvements are paid for by the utilities is through a rate 
+case, and those infrastructure improvements are even more necessary as we 
+see the extreme impacts of climate change.  We saw a very hot summer.  It 
+was our second hottest June on record in New Jersey.  It was a hot summer 
+across the nation, and we are going to see a strain on the infrastructure as a 
+result of those climate impacts.  And, so, the utilities are investing in the 
+infrastructure -- the necessary infrastructure improvements  -- and those 
+things get paid for through rate cases. 
+ 
+ 
+And, just -- so those are kind of the two very basic -- I’m 
+definitely oversimplifying, and I’m happy to go into more detail through 
+questions.  But, those are the two very basic components, is generation and 
+distribution.  As was pointed out, we had a very hot summer.  It was, again, 
+hot across the nation.  It was a very hot July, but a particularly hot June 
+into July.  And, the main driver of the increases over the summer was an 
+increase in usage.  So, the usage increase across New Jersey, amongst the 
+four investor-owned utilities, was anywhere from 12-16%.  That’s over last 
+year. 
+ 
+ 
+ 
+16 
+ 
+ 
+And, so, in addition, last year was a lower usage.  So, we are 
+seeing -- in addition to higher usage this year -- year-over-year, it was a 
+greater increase than what I think people were familiar with. 
+ 
+ 
+We did--  Again, we heard from some of your offices and we 
+heard from constituents, and we are always making sure that when we get 
+any constituent or resident inquiry about their bill that we’re following up; 
+that we’re doing the appropriate action; that we’re connecting them with 
+any resources that they may need to help pay their bill; and that we provide 
+as much clarity as possible. 
+ 
+ 
+So, I will stop there because you have my written testimony, 
+and I want to answer any questions that you have. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Well, thank you, Madam 
+President. 
+ 
+ 
+And, I just want to echo one of the things that hopefully, that 
+this Committee and other legislators get out of it are things that we need to 
+do and changes that we need to do. 
+ 
+ 
+In the beginning of my statement, I kind of said that in New 
+Jersey, we only generate about 75% of what we use.  And, if we weren’t in a 
+multi-state grid, we would be in trouble.  So, we would be like the problem 
+that Texas had. 
+ 
+ 
+So, I am mindful of that, and hopefully this Committee and 
+other legislators get ideas for energy-efficiency programs so that we’re not 
+just talking about generating more, because you can see, substantially, the 
+amount of power -- as I said in opening testimony -- on what we’re going to 
+need in the future in the next 10 years, but using less. 
+ 
+ 
+ 
+17 
+ 
+ 
+All right, so, that might be one of the--  Hopefully, that’ll spark 
+out some discussion on using less power as part of a multi-bill plan after we 
+get done with the hearing. 
+ 
+ 
+Does any Committee members have any questions for the 
+president? 
+ 
+ 
+Yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Mr. Chairman, again, thank 
+you for holding this hearing; Vice Chair, thank you. 
+ 
+ 
+I think this is warranted and should be a good session. 
+ 
+ 
+My question is, you mentioned about a $275 bill credit? 
+ 
+ 
+MS. GUHL-SADOVY:  Oh, $175. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  One-seventy-five, sorry.  One-
+seventy-five. 
+ 
+ 
+Who qualifies for that? 
+ 
+ 
+MS. GUHL-SADOVY:  It’s through--  We use the winter-
+termination program qualifications.  So, the winter-termination program is--  
+It prevents people who are low income or income qualifying from having 
+their utilities turned off during the winter period. 
+ 
+ 
+And, so, there are various eligibility qualifications based on 
+income.  So, if you were already enrolled in the winter-termination 
+program, you automatically got the bill credit.  That was really important to 
+us.  We didn’t want people to have to fill out an additional amount of 
+paperwork to get this bill credit, so it was an automatic eligibility if you had 
+enrolled in winter termination. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  So, they would have enrolled 
+based on certain criteria-- 
+ 
+ 
+ 
+18 
+ 
+ 
+MS. GUHL-SADOVY:  Yes-- 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  --they would have been allowed 
+into that program. 
+ 
+ 
+MS. GUHL-SADOVY:  Yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  So, not just anybody could have 
+gotten into that program, initially. 
+ 
+ 
+MS. GUHL-SADOVY:  Right.  But, if there was an economic 
+hardship, that that’s one of the winter-termination program qualifications. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK, great. 
+ 
+ 
+And, how many households did that-- 
+ 
+ 
+MS. GUHL-SADOVY:  Two-hundred--  It was 278,000 
+customers. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Two-hundred-seventy-eight 
+thousand.  And, that’s one time? 
+ 
+ 
+MS. GUHL-SADOVY:  It was one time, yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK, thank you. 
+ 
+ 
+And, this is in no way a loaded question I’m asking.  There was 
+a rate increase approved by BPU that took effect--  Is it June that it took 
+effect? 
+ 
+ 
+MS. GUHL-SADOVY:  Yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Right. 
+ 
+ 
+What was that increase? 
+ 
+ 
+MS. GUHL-SADOVY:  So, the BGS, the auction increase -- 
+just to be clear, that’s the generation cost.  We certify it, but it’s based on 
+an auction, so we certify the results.  It was--  It depended on the service 
+territory.  It’s anywhere from, I think, roughly 5-8% of an average bill.  And, 
+ 
+ 
+ 
+19 
+I know that that is really confusing to people -- the rates versus bills.  So, 
+that was 5-8% for an average customer bill. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Yes, so, to the layman 
+ratepayer, there’s two major components, right?  There’s what you call the 
+BGS, which is the supply of the actual energy -- the source of the energy -- 
+and then there’s the distribution component. 
+ 
+ 
+MS. GUHL-SADOVY:  That’s right. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  So, what you’re talking about is 
+the increase was approved to go up on the source. 
+ 
+ 
+MS. GUHL-SADOVY:  Correct; yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  All right. 
+ 
+ 
+What’s the incentive--  Let me ask you this question. 
+ 
+ 
+The BGS portion of it--  Is that a 100% pass through by the 
+utilities? 
+ 
+ 
+MS. GUHL-SADOVY:  Yes, they don’t--  They’re not making 
+money off of that. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  It’s 100% pass through. 
+ 
+ 
+MS. GUHL-SADOVY:  Right. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK. 
+ 
+ 
+What’s--  What is the incentive for them to get the lowest rate 
+on that? 
+ 
+ 
+MS. GUHL-SADOVY:  I’m not--  I’m not sure I understand the 
+question. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Given that it’s a 100% pass-
+through--  I mean, if I’m buying it, I’m not going to be worried about the 
+cost of it if I’m passing it through 100%, right? 
+ 
+ 
+ 
+20 
+ 
+ 
+So, what’s the incentive when they go out to get this, that 
+they’re getting the lowest rate, which, ultimately, the ratepayer is going to 
+pay? 
+ 
+ 
+MS. GUHL-SADOVY:  So, it’s -- it is a -- it is done through a 
+bidding process, so, it is just like an auction.  It’s like a lowest bid; the 
+generators bid and the utilities procure it through a bidding process. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Are there any guidelines to say, 
+“Hey, you need to go to another one,” or how do they bid it in a way where 
+they get the lowest rate so, ultimately, the ratepayer is getting a lower rate 
+versus whatever?  Do they hit the first bid and we’re good and-- 
+ 
+ 
+MS. GUHL-SADOVY:  So, there’s a--  They’re not the bidding, 
+the generators are bidding, and they’re buying it.  So, it’s done just like a--  
+I mean, it is a much more complicated process than, like, an auction house 
+auction.  But they’re buying it, they’re looking for the lowest rate, and 
+they’re in a regulatory compact, so-- 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  But, as far as you know, there’s 
+nothing that incentivizes the utilities to ensure they’re -- and some kind of 
+guidelines that are saying, “Hey, we’re going to fight to the lowest rate, 
+because ultimately the ratepayer is paying that.” 
+ 
+ 
+MS. GUHL-SADOVY:  So, that--  I mean, that is always the 
+goal, is to get the lowest rate from any generator. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK, let me ask you this, too. 
+ 
+ 
+If it’s 100% now, is there any reason utilities couldn’t take 5% 
+of it?  You know, why does 100% of it have to be passed to the ratepayers?  
+Why can’t they take a hit on 5% of it being a business, making money and 
+not pass through 100% to the ratepayer? 
+ 
+ 
+ 
+21 
+ 
+ 
+MS. GUHL-SADOVY:  So, they--  I mean, they have the 
+opportunity to earn on the other part of the bill because they’re--  We’re in 
+a regulatory compact, they’re regulated by the BPU.  And, so, they have -- 
+there’s just -- that’s not the opportunity for them to earn a profit.  They 
+have the opportunity because they maintain and upgrade the infrastructure; 
+and, so, that’s where their opportunity to make money is, as opposed to just 
+procuring it. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Theoretically, they could take 
+some of it, though, right? 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  So, Assemblyman, if I could.  
+If we could kind of direct the questions to be a little bit more--  Because 
+we’re getting into hypotheticals, right? 
+ 
+ 
+So, I just want to get the testimony on the process, and if we 
+have to discuss potential changes to the process -- because I don’t think it’s 
+fair to the president to go on-- 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Sorry, she was educating me. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Right, yes, they’re getting into 
+ideas and things that may be more on the PJM side versus what kind of 
+comes across her desk. 
+ 
+ 
+So, just before you complete, is there any other member who 
+wishes to ask the president a question? 
+ 
+ 
+Assemblyman.  David, you said you wanted to-- 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Yes. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  (indiscernible) 
+ 
+ 
+ASSEMBLYMAN BAILEY:  I’m a little vertically challenged, so 
+let me lower the stand to make sure that I see you properly. 
+ 
+ 
+ 
+22 
+ 
+ 
+Thank you.  Again, I really appreciate you being here today and 
+being a part of this conversation. 
+ 
+ 
+As you mentioned, and as you’ve said in your testimony, there 
+are just so many great assistance programs and incentives for schools and 
+nonprofits and residents and businesses and government entities to make 
+use of.  And, you’ve named a few of them today -- Universal Service Fund 
+as well, that goes into that. 
+ 
+ 
+But, it’s my understanding that, annually, that not all that 
+money is spent that’s budgeted for those programs.  Could you kind of 
+speak to that a little bit, and then, where does that--  What happens with 
+that money when it’s not spent for those particular programs? 
+ 
+ 
+MS. GUHL-SADOVY:  Sure, it depends on which program it 
+is. 
+ 
+ 
+So, the Residential Energy Assistance Payment Initiative that I 
+referenced came from uncommitted funds from the Clean Energy Fund, 
+which is funded through the Societal Benefits Charge.  The USF -- which 
+you mentioned, Universal Service Fund -- is trued up on an annual basis 
+depending on the budget that’s necessary to provide assistance to the 
+customers who need it year over year.  So, it is different depending on 
+which fund is -- which of those streams is being utilized. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  OK.  Again, I don’t want to throw 
+-- miss the point, here.  These are tremendous programs that are needed in 
+the state by many, many hundreds of thousands of people, as you’ve 
+mentioned. 
+ 
+ 
+Regarding the Societal Benefits Charge, is that--  It’s my 
+understanding that’s a flat 3% charge-- 
+ 
+ 
+ 
+23 
+ 
+ 
+MS. GUHL-SADOVY:  Right-- 
+ 
+ 
+ASSEMBLYMAN BAILEY:  --on everyone’s rates. 
+ 
+ 
+So, in theory, if my bill goes up, the amount of my -- that I’m 
+giving into the Societal Benefit goes up as well, right? 
+ 
+ 
+MS. GUHL-SADOVY:  And, it funds different--  It funds 
+different programs, not just clean-energy funds.  It also funds energy 
+assistance and other costs as well, but, yes. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  OK. 
+ 
+ 
+And, again, it is much needed and does some great good.  I just 
+-- just something, Mr. Chairman, down the road to take a look at, that’s 
+something that -- a number that we should take a look at capping or seeing 
+where, how that fits in along those lines.  If there are funds that are being 
+set aside, not spent, and then--  In some certain areas is that something that 
+we should take a look at? 
+ 
+ 
+Appreciate it; thank you, thank you very much. 
+ 
+ 
+MS. GUHL-SADOVY:  Sure. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you so much. 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Thank you, Chairman. 
+ 
+ 
+So, I literally ran for the Assembly because of energy issues.  It 
+affects my district, and, I don’t want to speak for the Chairman or anything 
+like that, but he mentioned 75% of production. 
+ 
+ 
+And, what I’ve confirmed is that New Jersey actually is now an 
+importer of energy.  Do you know how many years ago New Jersey was 
+actually an exporter of energy? 
+ 
+ 
+MS. GUHL-SADOVY:  I don’t know. 
+ 
+ 
+ 
+24 
+ 
+ 
+ASSEMBLYMAN KANITRA:  OK, I believe it was less than a 
+decade ago.  That I don’t know for sure, but what I do know is that New 
+Jersey is now an importer of energy.  And, we have this shell game where we 
+make it seem like we’re green-energy friendly, but the majority of the energy 
+that we import actually comes from Pennsylvania. 
+ 
+ 
+And, what is the main source of energy in Pennsylvania?  I’m 
+sure you know, it’s mostly fossil fuels.  My grandfather and my great-
+grandfather were coal miners, actually, out in Pennsylvania, and that’s what 
+drives the state. 
+ 
+ 
+Do you have any insight for us how we could have possibly 
+gone from being a net exporter of energy just less than 10 years ago to now 
+an importer of energy using dirty fossil fuels from Pennsylvania, which the 
+pollutants in the air don’t know state borders, so they’re just floating right 
+across as if we were generating them here in New Jersey ourselves. 
+ 
+ 
+MS. GUHL-SADOVY:  Well, so I just want to start--  So, the 
+electrons come from all over PJM.  So, it’s not just Pennsylvania to New 
+Jersey-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Right, right, I’m talking about 
+energy in a broader sense-- 
+ 
+ 
+MS. GUHL-SADOVY:  --they -- right.  But, they flow back and 
+forth, and that’s part of why it’s really important that we invest in clean 
+generation and clean energy in New Jersey so that we can increase more of 
+the electrons coming from clean generation and reduce our reliance on 
+fossil-fuel generation, no matter where it is from.  So-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Understood.  But, do you 
+believe that there is a right time to mandate that we reach certain 
+ 
+ 
+ 
+25 
+thresholds like mandating that everybody in New Jersey has an electric car, 
+for instance, when our grid can’t even remotely handle it?  Or, having to 
+subsidize an industry like the wind industry that can’t financially stand on 
+its own, and we’re trying to force the issue? 
+ 
+ 
+Because, my theory is, the Governor said a lot that he wants us 
+to be like California.  You look at California, didn’t they have to stand up 
+(indiscernible) three different fossil fuel plants because their energy -- their 
+green-energy pursuits -- weren’t able to come in as quickly as they thought?  
+And, now they’re generating more power from fossil fuels as well.  Aren’t we 
+heading in that exact same direction that we’ve already seen the warning 
+flags for? 
+ 
+ 
+MS. GUHL-SADOVY:  So, let me just start by saying I think 
+that we’re seeing warning flags because of climate change for a lot--  And, a 
+lot of these issues are directly related to climate change, even increasing 
+infrastructure costs, as I said. 
+ 
+ 
+Part of one of the recent rate cases was building a new 
+substation in Cape May, and ensuring that that substation was flood-
+resistant.  So, when you say, “When is the time?”  This is the time to act, 
+because if we don’t act and develop our clean-energy resources and reduce 
+our carbon emission and our reliance on fossil fuels, we’re going to see 
+increases in costs directly related to utility costs. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  We’re not arguing about having 
+a clean environment.  I mean, there’s nobody more environmentally 
+friendly than my district, is the Jersey Shore.  It’s all beach town mayors; 
+we’re all champions of the coast; we all are very environmentally friendly.  
+It’s more about the timeline of everything, which is what I’m trying to look 
+ 
+ 
+ 
+26 
+at.  And, I think what my fear is, is that we aren’t investing in the actual 
+sources that are powering us right now that are standing up right now.  Do 
+you have any idea how many through -- and, maybe that’s a question for 
+PJM when they come -- but, how many traditional energy sources we’ve 
+turned offline recently, and how that’s affecting the rate increases that we 
+could potentially be facing and lack of energy we maybe have available to us 
+this winter? 
+ 
+ 
+MS. GUHL-SADOVY:  So, I think that is a question for PJM 
+in terms of how many, but I think what we are seeing is that we need more 
+generation.  We’re seeing the nuclear reactor in Pennsylvania, Three Mile 
+Island, coming back online because we need more generation, and our 
+commitment in New Jersey is to help further generation that is clean and 
+not contributing to what we are already seeing, which is the impacts of 
+climate change. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Thank you very much. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Any other Assembly members -- yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Thank you, Chairman. First 
+off I want to say, Chairman, thank you so much for having the three 
+legislators who started this.  We learn a lot from each other.  I mean we all 
+represent about 221,000.  Andrea Katz (indiscernible) another 100,00 
+somewhere. 
+ 
+ 
+(laughter) 
+ 
+ 
+UNIDENTIFIED SPEAKER:  Two-hundred-thirty. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  She knows it. 
+ 
+ 
+ 
+27 
+ 
+ 
+And, it’s very important because I didn’t even know, 
+Assemblyman, we both had the biggest senior population.  So, that’s great 
+for his re-election someday. 
+ 
+ 
+(laughter) 
+ 
+ 
+ASSEMBLYMAN MARENCO:  But, to the audience, it’s very 
+important to know also that these legislators bring instant knowledge.  
+There is no one who knows that Andrea Katz knocked on 10,000 doors.  
+We know it.  And, that’s 10,000 constituents that she got to get their 
+opinions on this.  And, then Assemblyman Miller, the day after we’re sworn 
+in, is campaigning on 10,000 more doors.  So, they are getting instant 
+answers to what residents want. 
+ 
+ 
+I didn’t know Assemblyman Kanitra had the most energy 
+efficient, but I’ll believe him. 
+ 
+ 
+To the BPU, thank you for being here.  I am a big fan of your 
+social programs.  I get all the emails and they were in the 33rd District at 
+one point helping with all these programs, especially the ones that help low 
+income.  I had one of the--  I guess we’re all saying things that we have in 
+our district, so, I have one of the toughest districts when it comes to energy, 
+because our buildings are pretty much all 1920s built.  So, I am very hawk-
+eye aware when I get any emails whether it be from Madam President, 
+Sophia, or Taryn sending us programs. 
+ 
+ 
+But, my biggest concern is, what is the BPU -- that’s the softball 
+-- otherwise, what is the most immediate plan the BPU has, innovation 
+wise, because that 75% that the Chairman was talking about is going down.  
+Assemblyman Kanitra is right about that, and it is going to continue going 
+down, unfortunately, and the states around us, like the Ohios and all that, 
+ 
+ 
+ 
+28 
+are no longer providing as much because they have their own energy 
+problems. 
+ 
+ 
+So, what is our biggest innovation project that the BPU is going 
+to lead on in the next five years to keep the cost at least at today’s cost in 
+five years, instead of inflation-excused hikes? 
+ 
+ 
+MS. GUHL-SADOVY:  Sure.  So, again, more generation is 
+what is -- is a big part of how we can keep the rates down.  But, I do want 
+to just point out when someone, a customer -- and, I don’t need to tell all of 
+you this, because you deal with your constituents every day -- but, the bill, 
+the bottom line on the bill is what people care about. 
+ 
+ 
+So, rates can fluctuate, but if your bill is lower, that’s what 
+matters to a customer.  And, if your bill is higher, that’s when you need 
+assistance. 
+ 
+ 
+So, I think, under the Governor’s leadership, we have been 
+innovative for the last several years in helping to further bring in more clean 
+generation online.  And, one of the things that I talk about a lot that I think 
+is really important when we talk about affordability, particularly for low-
+income customers, is community solar.  So, that-- We have been a nation-
+leading state on community solar, and the program that we developed in 
+New Jersey helps to allow customers who wouldn’t have the opportunity to 
+have a residential solar installation, either they, just for affordability issues, 
+cannot do that, or they live in an apartment where their roof faces the 
+wrong way, or whatever the issue is, and they can subscribe to a central 
+solar project, get the benefits of clean energy, and get a 20% bill credit.  
+That is our program, and that is how we are matching clean energy with 
+affordability in New Jersey.  Anyone can subscribe to a project that’s in 
+ 
+ 
+ 
+29 
+your service territory.  More solar projects are coming online, and that is 
+available regardless of income. 
+ 
+ 
+So, you can subscribe, regardless of your income, and get a 20% 
+bill credit.  And, I think that that is really such a significant program that 
+this administration has both stood up from the very beginning and 
+continued to move forward.  And, we demonstrated that because we 
+recently got $156 million grant from the Federal government to further our 
+work on making sure that solar is available to all residents in New Jersey, 
+and I think that that really highlights the importance of that program and 
+of the great work that the Governor and this administration has done to 
+support residents. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Any other questions so we move on? 
+ 
+ 
+Oh, one more. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Thank you, Mr. Chairman.  I’ll 
+be brief.  Just following up on the initial question I had. 
+ 
+ 
+The 278,000 that are getting the $175 credit. 
+ 
+ 
+MS. GUHL-SADOVY:  Yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Great, I mean, I certainly 
+appreciate lowering the bills. 
+ 
+ 
+By my math, that’s almost $49 million total, though.  How is 
+that getting funded? 
+ 
+ 
+MS. GUHL-SADOVY:  That’s through--  It was uncommitted 
+funds from the SPC, from the Clean Energy Program, that were not 
+committed to a program, and so we felt that it was important to return that 
+ 
+ 
+ 
+30 
+to ratepayers, for people who needed it most being those who are eligible 
+for the winter-termination program. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  So, that actually came from the 
+Clean Energy Fund? 
+ 
+ 
+MS. GUHL-SADOVY:  That’s right. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK, great. 
+ 
+ 
+Thank you. 
+ 
+ 
+MS. GUHL-SADOVY:  Sure. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+And, thank you, Madam President, for your testimony-- 
+ 
+ 
+MS. GUHL-SADOVY:  Thank you; thanks, Chairman-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  --and for your time. 
+ 
+ 
+MS. GUHL-SADOVY:  Thank you. 
+ 
+ 
+Thank you, everyone.  Have a wonderful day. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Next, if I can call up please Jason Stanek, the Executive 
+Director of Government Services for PJM. 
+ 
+ 
+Good morning. 
+J A S O N   M.  S T A N E K:  Thank you. 
+ 
+ 
+Good morning, Mr. Chairman; Mr. Vice Chairman; members of 
+the Committee. 
+ 
+ 
+I am Jason Stanek, Executive Director at PJM, with my 
+associate, Stu Widom, here today to provide a briefing on what PJM is and 
+our interaction with respect to some of these prices that you’ve experienced 
+in New Jersey. 
+ 
+ 
+ 
+31 
+ 
+ 
+PJM is the grid operator; it’s the largest grid operator in North 
+America.  We served over 65 million residents, including the 9 million folks 
+who live here in the State of New Jersey.  We’re an organization that, 
+Number 1, we maintain reliability of the grid 24/7, 365.  But, we are not a 
+policy organization, nor do we set any utility rates, as you just heard from 
+the BPU President.  They are your state utility regulator, and they are 
+responsible for setting retail utility rates. 
+ 
+ 
+What we do is we are effectively the air traffic controller from 
+our headquarters in Valley Forge, Pennsylvania, of directing the flow of 
+electrons across our jurisdiction, which includes 13 states and the District of 
+Columbia.  We also are in charge of the interstate transmission planning of 
+the grid, so these are the high-voltage wires, 345 KV and above, that 
+intersect and deliver power to all of the utilities in your state here. 
+ 
+ 
+We also manage the markets, which I’ll discuss in a bit, 
+including the capacity markets and the energy markets in order to ensure 
+that we have a reliable supply of electricity to serve your customers not only 
+today but into the future. 
+ 
+ 
+We are regulated fully by the Federal Energy Regulatory 
+Commission.  They are the wholesale utility regulator, in comparison to the 
+Board of Public Utilities who serves as the retail utility regulator.  But, we 
+estimate the value proposition of PJM saves customers in our footprint 
+approximately $3-4 billion a year due to the efficiencies of being a part of a 
+very competitive market. 
+ 
+ 
+As we all know, we are in the midst of an energy transition.  
+Whether it be consumer preferences, State policies, Federal policies such as 
+the Climate Bill provisions that were in the Inflation Reduction Act.  We’re 
+ 
+ 
+ 
+32 
+seeing a transition away from our thermal resources, including coal, natural 
+gas, oil, diesel, and others. 
+ 
+ 
+But, as we heard from some of the members and from the BPU 
+president, we are in the midst of a transition, and we’re seeing a tightening 
+of supply and an increase in demand.  And, they’re going in opposite 
+directions.  And, they’re going in opposite directions relatively quickly. 
+ 
+ 
+Earlier this year, we released a load forecast, effectively what we 
+estimate for increases in demand.  And, the 2024 trendlines were head and 
+shoulders above all prior years.  And, why is that?  Part of the reason is 
+electric vehicles.  It’s data centers; the movement of artificial intelligence.  
+So, all the issues that you’ve been hearing about -- this issue of co-locating 
+large customers with merchant nuclear fleets.  These are issues that we are 
+grappling with right now to ensure that reliability remains not only today 
+but into the future. 
+ 
+ 
+One example I just want to share is, even though our system -- 
+we peak out at about 165 gigawatts -- that’s equivalent to 165,000 
+megawatts.  And, just keep in mind one megawatt could power somewhere 
+in the neighborhood of 600-700 homes.  But, over the past 12 months, 
+from the summer of 2023 to the summer of 2024, we saw 4,000 megawatts 
+of resources retire; no longer available to PJM.  We also saw our peak 
+increase by 4,000 megawatts.  So, that’s an 8,000-megawatt difference in 
+just a short period of 12 months.  This is concerning to the grid operator. 
+ 
+ 
+We also operate what is called a Capacity Market.  And, the 
+Capacity Market ensures that we have sufficient resources lined up three 
+years into the future.  We’ve run an auction, which is different than the 
+BGS auction that you just heard. This is our capacity auction, and we are 
+ 
+ 
+ 
+33 
+set to run that auction annually.  The last auction results were released in 
+July, end of July of this year, and they increased dramatically over the 
+course of the prior year, almost by a factor of nine.  And, what this was a 
+manifestation of was the fact that we have these tightening economic 
+conditions, and it’s basic economic fundamentals that when you have 
+reducing supply and increasing demand, the price will go much higher.  
+And, we saw the price go from approximately $29 a megawatt day to 
+upwards of $270 a megawatt day right here in New Jersey. 
+ 
+ 
+I’d also like to touch on--  We heard some references to the 
+interconnection queue.  And, what the interconnection queue is, is with 
+respect to generators who want to actually tie into the PJM system, they 
+need to go through a process of review at PJM by our planning department 
+before they can actually reliably connect to the grid.  We’ve seen in recent 
+years a tremendous increase in the number of resources.  It used to be, let’s 
+say, a coal-fired station or a natural gas station, maybe we received about 
+200 requests a year.  That number doubled and then it quadrupled and 
+then we were receiving upwards of 1,300 interconnection requests a year. 
+ 
+ 
+It was a lot to process.  So much so that we needed to reform 
+the process, and, in 2022, the Federal regulator, FERC, approved those 
+changes to our process, and we implemented them effective summer of 
+2023.  I’m happy to report that we’re processing now massive amounts of 
+generator interconnection requests.  We’ll get through--  We’ve already 
+processed upwards of 38,000 megawatts that have received all the approvals 
+in hand.  We’re now in the process of moving up to another 30 megawatts 
+this year, and then we’ll process more as we get through the queue.  The 
+queue, as it stands today, is approximately 226,000 megawatts -- or 226 
+ 
+ 
+ 
+34 
+gigawatts.  And, then, by the middle of next year, we hope to get through 
+another 30,000 megawatts. 
+ 
+ 
+Before I conclude--  And, you have some written testimony with 
+helpful graphics and statistics.  At the end of the day, we provide facts; we 
+are not a policy-setting organization.  We want to maintain a reliable grid; 
+we want it to be competitive; and we want economically efficient outcomes, 
+so your customers could afford their ultimate utilities.  But, with respect to 
+affordability, there are some issues that are managed by policymakers, 
+including utility regulators and State lawmakers like yourselves.  And, these 
+are just two important points: 
+ 
+ 
+Number 1, to minimize rate impacts, we would respectfully 
+request avoiding any policies that are designed to push resources off the 
+system before we have an equal and equivalent amount of replacement 
+resources -- in this case, New Jersey, its entirely renewable and clean 
+resources -- until we have an equal amount of those resources to replace the 
+departing generation. 
+ 
+ 
+And, Number 2, analyze local challenges within your state to 
+figure out how we could deploy both generation and transmission 
+infrastructure onto the grid more quickly.  We’ve heard throughout our 
+footprint the challenges of getting local permitting to develop new 
+resources, whether it be a natural gas-fired facility or solar or ray, as well as 
+the development of transmission lines.  It’s very difficult in this day and age 
+to build a new high-voltage transmission line.  Nobody wants such 
+infrastructure in their backyard, and we understand that.  But, at the end of 
+the day, if you can’t build through the forests; and, you can’t build through 
+the suburbs; and, you can’t build through the wetlands; and, you can’t build 
+ 
+ 
+ 
+35 
+through the farmlands; there’s no place to host new transmission lines.  
+And, with the large load growth that we’re expecting -- whether it be data 
+centers, AI, building electrification, EVs -- that will be a challenge. 
+ 
+ 
+Thank you again for the invitation, Mr. Chairman. 
+ 
+ 
+We’re happy to answer any questions. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you, Jason, and I’m 
+very mindful as this Committee moves forward that we look towards 
+generating what we utilize. 
+ 
+ 
+I see an increased demand on what we need to do, and 
+diversifying that portfolio is extremely important to me so that we have a 
+sustainable generation and it’s not just patting ourselves on the back. 
+ 
+ 
+Do any Committee members have any questions? 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I do. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, thank you. 
+ 
+ 
+What you do is very crucial, and it’s very important that you’re 
+here, because everything starts at what you guys do. 
+ 
+ 
+So, there’s two things that you said that I would like to shed 
+some light on and make sure that everybody in the room understands.  One 
+of the--  Close to the last thing you said was, “Stop shutting down plants.”  
+Effectively.  Take the niceties out of it.  Stop shutting down plants until we 
+have an equal generator for the plant that you’re shutting down. 
+ 
+ 
+MR. STANEK:  That’s correct. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  And, then, the other thing 
+that you said that’s very crucial is -- and, correct me if I’m wrong here -- you 
+ 
+ 
+ 
+36 
+expressed, if I’m not mistaken, a 10-fold increase in the bulk generation rate 
+very recently. 
+ 
+ 
+MR. STANEK:  Nearly a 10-fold in the capacity rate. 
+ 
+ 
+So, the capacity payment goes to a generator today to ensure 
+that they’re available to supply at some point in the future. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, safe to say that that 
+capacity rate, that bulk capacity rate that you mentioned, is the primary 
+driver of raising the rates that you pay your house.  Am I right? 
+ 
+ 
+MR. STANEK:  So, let me be clear.  The auction results that 
+went up to $270 in New Jersey through our recent auction in July, those 
+rates -- which will migrate to a utility bill at some point in the future, no 
+earlier than June 1 of 2025 -- we’ll have to go through a rate case; it’ll go 
+through the BPU.  But, it’s a fraction of a fraction of the generation line on 
+the utility bill. 
+ 
+ 
+So, customers, let me be clear, will not see an increase 10-fold 
+come next year. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  I get that.  But, is it safe to 
+say that, because of that 10-fold increase, we are going to see continued rate 
+increases over the next two or three years? 
+ 
+ 
+MR. STANEK:  There will be an upward rate impact. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  OK, so, this is just the 
+beginning of the hell that we’re going through? 
+ 
+ 
+MR. STANEK:  Depending on auction results in the future, 
+they could go up; they could go down.  We’re hopeful that more resources 
+view this very high $270 rate as a price signal and a signal we need to 
+provide more generation supply into the auction. 
+ 
+ 
+ 
+37 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, is it safe to say, Sir, that if 
+we do nothing, we are going to pay the price soon? 
+ 
+ 
+MR. STANEK:  If the State does nothing, that would be fair to 
+say. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Anybody else have any 
+questions? 
+ 
+ 
+Yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Jason, thank you.  Great to have 
+you here today. 
+ 
+ 
+Yes, to put numbers to that, Chris, $2.2 billion to $14.7 billion, 
+just under $29 per megawatt, to just under $270 per megawatt as Jason just 
+shared with us. 
+ 
+ 
+And, so, yes, we’ve got to do something.  And, that’s what 
+perplexes me, that we had this conversation about wanting to do something.  
+And, wind is one of those options.  We look at our sustainable options that 
+we can -- that are in the queue. 
+ 
+ 
+And, so, my question really focuses on that, on these -- on that 
+list.  And, thank you; in your report you list some of the connections that 
+you’ve made.  But, then we also discuss in the data that I had -- that I was 
+thankful to hear you quoted -- that it was down to 226 gigawatts that were 
+still in the queue; I had it 286.  So, I was thankful to see that we’ve made 
+some movement on that.  Most of which are solar and/or storage projects, 
+correct? 
+ 
+ 
+MR. STANEK:  For our footprint, almost entirely solar paired 
+with storage and some wind, that’s the footprint-wide. 
+ 
+ 
+ 
+38 
+ 
+ 
+New Jersey wide, it’s more than three-quarters wind-- 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Wind-- 
+ 
+ 
+MR. STANEK:  --the balance, the remaining quarter, is about--  
+It’s solar and storage. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Yes, absolutely. 
+ 
+ 
+MR. STANEK:  Twenty -- about 20 gigawatts in the queue. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Right now, due to that backlog, 
+you’ve shut down until 2026 any new applications.  Am I correct? 
+ 
+ 
+MR. STANEK:  We’re in the midst of processing this remaining 
+226 gigawatts.  Applications are still being filed and reviewed.  They won’t 
+be acted on before 2026. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  OK; all right. 
+ 
+ 
+You actually answered my questions.  You’ve added additional 
+focus to that, to work on those processes on those lines. 
+ 
+ 
+MR. STANEK:  We’re expediting the queue.  As I mentioned, 
+we’re on track to get through another 26 gigawatts by December of this 
+year.  Another 30 gigawatts by the middle of next year, with the intent by 
+2026, the queue is effectively processing the applications as they’re 
+received. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Can you also speak to those who 
+then opt-out while they’re waiting; what that process looks like; and what 
+the percentages or general number of those who then pull their 
+applications? 
+ 
+ 
+MR. STANEK:  Yes, not every applicant actually graduates the 
+queue.  Prior to the reforms being sent, we saw a fair number of potential 
+generators not actually meeting our milestones as they progressed through 
+ 
+ 
+ 
+39 
+the queue.  So, it could be concerns with respect to financing; with respect 
+to supply chains; inability to obtain local permits.  So, there’s a number of 
+reasons for why they would drop out. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Mr. Chairman, if I may, let me just 
+rewind-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Yes-- 
+ 
+ 
+ASSEMBLYMAN BAILEY:  --rewind one second to Chris’ 
+question. 
+ 
+ 
+So, what we’re experiencing right now was based on the 
+previous auction from--  What would have been some of the impact from 
+the previous auction? 
+ 
+ 
+MR. STANEK:  So, the queue is forward looking.  These are 
+resources that want to connect to the system.  The auction that we had is 
+either existing resources -- supply resources, generator, solar, steam, nuclear 
+-- or plants that are not online yet but can commit to being online when the 
+(indiscernible) takes effect June 1.  So, they don’t have to be operational 
+today, they could have bid into the capacity market.  But, by June 1 of next 
+year, they need to be ready to contribute. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  It’s a very complex issue. 
+ 
+ 
+MS. STANEK:  It is. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  I appreciate you being here today. 
+ 
+ 
+But, yes, certainly, it’s something that we all have to be aware 
+of.  We’re certainly--  It certainly has raised our temperature in the southern 
+districts right now.  It’s something that we ought to be aware of moving 
+forward. 
+ 
+ 
+Thank you. 
+ 
+ 
+ 
+40 
+ 
+ 
+MR. STANEK:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you, Assemblyman. 
+ 
+ 
+Assemblyman Kanitra. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Chairman, first of all, I have 
+another chance just to commend you for holding this hearing today.  I 
+mean, we have different ways of how we’re looking at the issue and 
+everything, but the experts that we have, I think, are really valuable, 
+because, at the end of the day, the average resident in New Jersey just cares 
+about what they’re paying on their bill, for the most part. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  That is correct. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Kudos to my colleague -- my 
+distinguished colleague -- who got into what I was going to talk about 
+probably a little bit more eloquently than I will, but we’re probably both 
+champing at the bit. 
+ 
+ 
+And, kudos to you for being here today, because you’re in the 
+unenviable position of having to talk about rate increases that you don’t 
+have any say over.  You’re just directing the mix of electrons and you have 
+to deal with all the State regulations and all the bureaucratic craziness that 
+goes into this.  And, I appreciate that. 
+ 
+ 
+And, while my colleague started to dig in on your comment, 
+which I believe was that you’re essentially asking the State to please don’t 
+pull resources off the system currently until we have enough energy.  I want 
+to dig into it more because, before that, you also went in and you said that 
+you already had resources retire.  And, I don’t think the issue is that 
+complex of an issue in general; I think it’s pretty simple.  I’m a simple guy, I 
+like to get how approachable things are for the regular person out there. 
+ 
+ 
+ 
+41 
+ 
+ 
+“Resources retiring” means that fossil fuel plants have been 
+shut down, correct? 
+ 
+ 
+MR. STANEK:  That’s fair to say. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  How many fossil fuel plants do 
+you think have been shut down in what period of years, recently? 
+ 
+ 
+MR. STANEK:  Well, in the past six years we’ve lost almost 
+2,900 megawatts of resources, and they were replaced with about 1,300 
+megawatts of resources.  So-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  So, a 1,600 deficient, right?  I 
+won’t speak for you. 
+ 
+ 
+MR. STANEK:  Correct.  I think that’s the math. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  That’s pretty--  It wasn’t my 
+strongest subject, but the quick math on that-- 
+ 
+ 
+MR. STANEK:  Six hundred, yes. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  And, as you talked about, we 
+have increasing demand with all our technological advances and everything 
+that are going on, but it’s not, “Please, State, stop -- don’t turn off any 
+resources.”  We’ve already done that.  We all--  The reason that we’re facing 
+these rate increases is--  And, let me just ask you, (indiscernible).  If those 
+resources were still on, would our rates be where they’re at today? 
+ 
+ 
+MR. STANEK:  Additional resources, additional supply, into 
+the market would have a depressing effect on prices. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  So, that’s the answer.  I mean, 
+we’re going to have the whole hearing, a ton of people are going to talk 
+about it, we’re going to go back and forth ideologically about how 
+ 
+ 
+ 
+42 
+everybody feels.  If we had the resources that got shut down because of the 
+State’s mandates online today, everybody in the State would have lower-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  All right-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  --utility prices. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Assemblyman, one of the 
+things we need to be mindful of is PJM is not just the controller for the 
+State of New Jersey.  That loss is through a 12-13 state-- 
+ 
+ 
+MR. STANEK:  Thirteen state-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Right, 13 states.  So, it is not -
+- to pull the politics-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Not (indiscernible), of course, 
+Chairman-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  --that has been going on and 
+to control the room.  It is not just New Jersey. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Of course; right. 
+ 
+ 
+Thanks. 
+ 
+ 
+Thank you very much. 
+ 
+ 
+MR. STANEK:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+And, one of the things that--  I appreciate your offer, and I will 
+expand it out to the Committee afterwards and we will orchestrate it -- is a 
+tour of your facility.  I believe it’s about an hour away in Valley Forge-- 
+ 
+ 
+MR. STANEK:  That is right. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  --so that the members can see 
+the operation of the -- your facility. 
+ 
+ 
+ 
+43 
+ 
+ 
+MR. STANEK:  Thank you; we look forward to having you 
+visit. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  So, calling up next, for 
+everyone, I’m going to call up our utilities. 
+ 
+ 
+I am going to ask all four of them to come up, and we’ll go kind 
+of in order:  Atlantic City Electric, Jersey Central Power & Light, Rockland 
+Electric, and PSE&G. 
+ 
+ 
+Good morning, everyone, and you heard multiple testimonies, 
+and we’re going to ask you guys if you could please kind of discuss a little 
+bit about your utility area.  If you can just help out the dais up here, we 
+have four companies that are out there, if you can just kind of give us -- 
+although I know -- the parameters of your geographical area before you get 
+into your testimony. 
+ 
+ 
+I’ll let you guys fight, see who wants to go first.  It doesn’t 
+matter to me. 
+P H I L L I P   V A V A L A :  Good morning; I am Phillip Vavala from 
+Atlantic City Electric. 
+ 
+ 
+I am the Regional President.  I will read off my comments, if 
+you’d like. 
+ 
+ 
+So, we are responsible for delivering electricity to South Jersey, 
+everything from Cape May to Atlantic City to the Glassboro area and 
+beyond.  I am serving north of 500,000 customers in South Jersey, and 
+we’re proud to do so each and every day. 
+ 
+ 
+Chairman DeAngelo, thank you very much for having this 
+hearing.  And, the members of the Telecommunications and Utilities 
+ 
+ 
+ 
+44 
+Commission (sic) today, thank you for being here, and I appreciate your 
+questions. 
+ 
+ 
+I’d like to have a few prepared comments around the influx in 
+high customer bills that we’ve seen, and then our efforts to communicate 
+with customers about the energy increases, the resources available to help 
+lower costs and assist customers with bill payments.  Because, as you all 
+know, that we are extremely interested in our customers; interested in how 
+they’re dealing with the rising prices, and, obviously, we want to 
+demonstrate that we are empathetic as a utility in that regard. 
+ 
+ 
+We will note that each customer’s bill is unique.  It can vary 
+from energy use to the supplier, including the--  As we talked about already 
+today, in terms of clean-energy solutions that are part of that bill, our goal 
+at Atlantic City Electric is to make sure that we’re ensuring customers are 
+well informed about the factors affecting their bill so they can better 
+understand their rates and consider all potential ways to save energy and 
+save money.  We provide extensive information regarding energy-efficiency 
+and assistance programs, and, while we communicate to the customers 
+about impacts, we heard our customers’ feedback that we certainly need to 
+do more, and have begun taking steps this summer through small and other 
+social media challenges to share bill impact information. 
+ 
+ 
+We continue to direct our customer communications to our 
+customers, explaining that the transition from summer to winter rates, 
+customers may experience this fall a decrease in their rates and to help them 
+understand that.  We did provide an email on Monday this week to our 
+customers, and, as of the writing of my testimony, we had nearly100,000 
+ 
+ 
+ 
+45 
+customers who actually opened that email and gained information through 
+other channels. 
+ 
+ 
+I would like to take a moment to talk a little bit about this 
+summer and what we experienced.  We saw the summer heat combine with 
+changes in rates, as we’ve already discussed today.  The cost of energy has 
+caused fluctuations in customers’ bills.  We experienced the second-hottest 
+June on record, a nearly 8% temperature increase from June 2023 to June 
+2024 of this year.  July was our seventh hottest month on record, and as a 
+result, the company saw residential usage, on average, to increase 20% over 
+the same period from last year.  It’s important to note the increase in usage 
+over year over year. 
+ 
+ 
+Our studies have indicated that New Jersey residents continue 
+to use energy more than ever before.  We’ve talked about that quite a bit 
+here today, and some of the projections related to that.  That makes 
+equipment work harder; that causes an increase in energy demand; and, 
+coupled with inflation and extreme weather, contributing factors are 
+affecting energy bills for customers.  On average, customers experienced an 
+additional 20% bill increase compared to the previous summer due to those 
+factors as I’ve already walked through. 
+ 
+ 
+A little bit about what we want to talk about today is the 
+supply rate, as we’ve mentioned already.  That’s the cost of the electricity 
+that a customer uses.  That rate changes based on the purchase cost of 
+electricity, and I will note it is a passed-through cost.  Customers 
+experiencing the rate increase related to that, compared to the July 2023 -- 
+the same period -- is directly due to the parts of the energy auction that 
+we’ve already talked about.  I will note, though, that customers can shop for 
+ 
+ 
+ 
+46 
+third-party energy providers to provide energy resources for the portion of 
+the bill related to supply, and that is an option for customers to do, 
+obviously, to continue to try to look at more affordable options for the 
+energy purchase. 
+ 
+ 
+The distribution rate, which increased by 5%, allowed the 
+customers -- allowed the company, sorry -- to continue investing in 
+reliability and modernization utility upgrades to better serve customers.  
+Distribution rates also serve to support storm damage; help us invest in 
+making the system more resilient against future storms; and our customers 
+are receiving value through those investments to enhancement local energy 
+grid, resulting in customers experiencing lowest frequency of electric outages 
+ever in 2023, while supporting a 45% overall decrease over the past 10 
+years. 
+ 
+ 
+We understand that no one wants to see high electricity bills, 
+and that has a significant impact on our customers.  That’s why we work to 
+empower customers to better manage the energy use, have programs 
+supporting that, and help those who are struggling to meet their energy 
+needs for facing financial hardship.  Budget billing averages a customers’ 
+annual energy costs and creates a balanced and predictable monthly bill -- 
+and, I stress predictable.  Now customers know what to expect each month 
+in their bill, and avoid seasonal peaks while getting a view of their actual 
+energy usage. 
+ 
+ 
+And, I will note before this we did see an increase in the 
+number of customers who didn’t enroll in our budget billing programs over 
+this period of the past summer, demonstrating to me that our messages for 
+ 
+ 
+ 
+47 
+trying to communicate with customers are working and that they’re availing 
+themselves of the assistance that can be deployed there. 
+ 
+ 
+I will also note that our recently deployed and activated smart 
+meters enable tools to help customers save money and energy.  Let me 
+emphasize that Atlantic City Electric has found that there is no correlation 
+to higher energy bills, and that the installation of a new smart meter -- in 
+fact, the tools enabled to be updated, from an updated smart meter -- can 
+help customers better monitor their usage; obtain things like high-bill alerts; 
+have better insights into their more detailed energy-use information.  The 
+smart meters that, like the high-usage alerts that I’ve already mentioned, 
+notify customers when their usage goes beyond a customer-set level, 
+allowing customers to better predict bills; adjust energy uses, which 
+customize energy-saving tips; and, ultimately, keep costs down. 
+ 
+ 
+Atlantic City Electric works closely with our community and 
+our community partners to connect customers with State and Federal 
+energy-assistance grants.  In 2023, the company helped more than 37,000 
+customers secure $51 million in energy assistance and help customers pay 
+their energy bills with no requirement to pay that back.  We’ve launched an 
+Assistance Finder Tool, which helps customers find personalized program 
+information for financial assistance, bill management, energy efficiency, and 
+we’re working with community partners to have a greater impact, again, 
+because we understand no one wants to see high-rising electricity costs and 
+we want to make sure that we’re availing and connecting customers with the 
+assistance that is available. 
+ 
+ 
+We provide a quick home-energy checkup; appliance recycling; 
+HVAC and Energy Star recycling programs.  Our marketplace offers 
+ 
+ 
+ 
+48 
+discounted energy-saving products, such as programmable thermostats to 
+help customers continue to monitor and control their energy usage.  We’ve 
+recently dedicated a portion of our website to educating our customers and 
+addressing their concerns, and we ask our customers to visit 
+AtlanticCityElectric.com/billsupport, where they can find additional 
+information.  And, certainly, they can call us by calling our number at 800-
+642-3780. 
+ 
+ 
+In conclusion, Atlantic City Electric -- and, I personally 
+understand and hear our customers’ concerns -- we are here to partner for 
+their customers to help them better understand their bill, the tools that are 
+available, and how they can take control of their energy usage; save money 
+and energy; and connect with energy assistance if needed. 
+ 
+ 
+Thank you for the opportunity today, and I will now take any 
+questions. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+And, we’ll do questions after all four testimonies are concluded. 
+ 
+ 
+So, next up, Jersey Central. 
+K I E R A N   T I N T L E:  Good morning, Chairman, members of the 
+Committee. 
+ 
+ 
+My name is Kieran Tintle; I serve as Senior Advisor, 
+Government Affairs, for Jersey Central Power & Light. 
+ 
+ 
+I am joined today by Pat Mullin, our incoming Vice President 
+of Operations. 
+ 
+ 
+As the Chair requested, Jersey Central Power & Light has our 
+service territory in the northwestern portion of the state and -- so long as 
+ 
+ 
+ 
+49 
+you believe in it -- the eastern central New Jersey portion of the state, 
+Monmouth and Ocean County. 
+ 
+ 
+Thank you; I’ll turn it over to Pat. 
+P A T R I C I A   M U L L I N:  Chairman DeAngelo, members of the 
+Committee, good morning, and thank you for the opportunity to testify 
+today regarding high energy usage during the summer months of this year. 
+ 
+ 
+I am Pat Mullin, Incoming Vice President of Operations for 
+Jersey Central Power & Light.  I started my career in First Energy here in 
+New Jersey, and I am excited to be back. 
+ 
+ 
+As a longtime resident of Toms River, I am also honored to 
+testify today before one of my legislators, Assemblyman Kanitra -- excuse 
+me. 
+ 
+ 
+Primary drivers of high electric bills during 2024 summer 
+months were increased electric consumption due to the summer heat wave, 
+higher electric supply costs, and the settlement of changes to JCP&L’s 
+distribution rates.  June and July 2024 were among the hottest months of 
+the record for New Jersey, leading to the highest rise in residential energy 
+consumption in the last five years.  Total residential energy use for the 
+months of June and July increased by approximately 17% from an average 
+of more than 880 million megawatt hours in 2019, to more than one billion 
+megawatt hours in 2024. 
+ 
+ 
+In addition, JCP&L’s customers saw two rate increases impact 
+their bills, beginning in June 2024.  The first was a result of the settlement 
+reached in our company’s 2023 base rate filing -- its first since 2020.  The 
+filing recovers our company’s costs for the infrastructure and operations 
+investments to deliver electricity to homes and businesses in our service 
+ 
+ 
+ 
+50 
+areas.  The settlement resulted in an overall monthly increase of 3.6% of a 
+typical residential customer.  This charge helps to support infrastructure 
+investments, outage response, and grid reliability. 
+ 
+ 
+JCP&L is committed to continuing this type of grid investment, 
+because it’s vital for both the State’s economic growth and energy reliability 
+for our customers.  Grid upgrades improve resiliency; allow for quicker 
+restoration; and fewer power outages.  Infrastructure investments create 
+jobs; stimulate our local economies; and attract businesses that depend on 
+reliable power.  A modern, resilient grid also positions New Jersey as a 
+prime destination for investments in tech, clean energy, and other 
+emergency and tech industries. 
+ 
+ 
+The second increase experienced by our customers beginning in 
+June was related to a basic generation service supply charge, which covers 
+the cost of electricity itself from the BGS electricity suppliers.  The BGS 
+supply charge is collected by the utility, but passed through the electricity 
+supplier without a markup.  On average, the supply charge represents 
+approximately 57% the total monthly bill for a typical residential customer.  
+The cost increase from BGS electricity suppliers resulted in a typical 
+residential customer seeing 8.6% increase in their monthly bills, starting in 
+June.  This was an increase realized by JCP&L residential customers who do 
+not shop for electric supply. 
+ 
+ 
+JCP&L understands the economic realities that our customers 
+face, and we encourage them to play an active role in managing their home 
+energy usage through our Home Energy Analyzer.  This tool, available to 
+customers through individual portals on our website, help them to better 
+understand and compare how much energy their home and individual 
+ 
+ 
+ 
+51 
+appliances consume.  Additionally, we seek to help our customers who are 
+facing financial hardships.  To date, in 2024, in partnership with the State 
+of New Jersey, we help to connect approximately 68,500 customers with 
+more than $25 million in assistance through the programs such as Universal 
+Service Fund and LIHEAP. 
+ 
+ 
+Thank you for your time today, and we look forward to your 
+questions. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you, Patricia. 
+ 
+ 
+Can I get PSE&G? 
+ 
+ 
+And, just make sure that little red light is on -- there you go. 
+D A V I D   L.   J O H N S O N:  Good afternoon, Chairman DeAngelo. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Morning.  Or, good afternoon, 
+yes; it’s not morning anymore. 
+ 
+ 
+Good afternoon. 
+ 
+ 
+MR. JOHNSON:  That’s exactly right. 
+ 
+ 
+And, other distinguished members of this Assembly Utilities 
+Committee. 
+ 
+ 
+My name is David Johnson; I serve as the Vice President of 
+Customer Care and Chief Operating Officer for Public Service Electric & 
+Gas.  In my current role, I am responsible for leading, planning, and 
+managing PSE&G’s efforts to deliver seamless, efficient, and a positive 
+customer experience for all of our customers. 
+ 
+ 
+And, I have to tell you, it’s deeply rooted in our customer-
+centric culture that we have. 
+ 
+ 
+On behalf of PSE&G, I am here before you as a part of our 
+fundamental responsibility to serve our 2.4 million electric customers, and 
+ 
+ 
+ 
+52 
+our 1.9 million gas customers, to serve as a good steward of all of our 
+customers and our electric and gas distribution system. 
+ 
+ 
+One of the things that we focus on consistently is managing our 
+costs prudently.  We take these responsibilities extremely seriously, and we 
+take a lot of pride in the fact that we provide safe, reliable gas and electric 
+distribution at economic rates. 
+ 
+ 
+Mr. Chairman, you asked where our service territory spans.  
+Our service territory spans from the north, central, and southern parts of 
+New Jersey.  So, we are across the State of New Jersey, and we’re very 
+proud to serve. 
+ 
+ 
+I’d like to start some of my other comments by saying New 
+Jersey is doing well.  And, what I mean by that is we submitted some 
+reading materials, and I’d ask you to reference slide two.  In those materials 
+that we submitted and advanced, it shows that we’ve had many years of low 
+and affordable rates.  On slide two, Wells Fargo submitted some recent 
+information that shows that New Jersey’s rate increase of 2.8% is lower 
+than the national average over the same time frame, especially when you 
+compare it to those states in the Midwest and along the East Coast.  Our 
+rates have even increased lower than the rate of inflation, which we know 
+the CPI index of the last couple of years has been around 4%.  
+ 
+ 
+And, I have to tell you, this doesn’t happen by chance, 
+Assembly members.  It happens because of the support and some of the 
+sound decisions that you’ve made; some of the sound decisions that the 
+BPU has participated in and driven; as well as the fact that at PSE&G, we 
+are committed and focused on continuously driving our costs down. 
+ 
+ 
+ 
+53 
+ 
+ 
+In addition to that, as you’ve heard others mention, there’s a 
+difference between an energy rate and a customer’s bill.  And, customers do 
+focus on their bills.  And, so, at PSE&G, we are extremely focused on 
+keeping our bills affordable.  We’re also laser-focused on providing 
+exceptional service, which I’m extremely excited about, while keeping our 
+operational and maintenance costs down.  As a matter of fact, those two 
+work hand in hand.  Simply put, keeping our customers front and center, 
+doing things the right way the first time, also enables our ability to 
+maintain efficient operations. 
+ 
+ 
+Our focus on keeping our costs down shows up in a couple 
+places I would call to your attention.  Affordability and competitiveness to 
+our peers.  And, I would ask you to reference slide three of the previously 
+submitted information.  One point that I’d like to make note of is PSE&G’s 
+combined bills are 3% of New Jersey’s median income -- which we are 
+extremely proud of -- and it should look at over the last 14 to 15 years, that 
+number continues to decrease.  When you look at the second line on that 
+chart, under 2% of the median income of our low-income customers -- and, 
+I’m referring to those who take advantage of our payment-assistance 
+programs offered here in the state -- it’s extremely small there as well, and 
+we’re proud of that, and you can see we’re at one of the lowest levels over 
+the past 15 years. 
+ 
+ 
+We’re also very proud that we have some of the lowest gas bills 
+in the region, and our electric bills are below the regional average -- 
+extremely proud of that.  Additionally, to help keep our bills affordable to 
+all of our customers, our employees take a lot of pride in being heavily 
+engaged in the communities that we serve.  To give you an example, we’ve 
+ 
+ 
+ 
+54 
+partnered with the BPU on many occasions to go to the communities where 
+our customers are at to host energy-efficiency seminars, payment-assistance 
+outreach days, and volunteer events. 
+ 
+ 
+I’d like to share with you some statistics.  In 2023, in our 
+territory -- in PSE&G’s territory -- 212,000 customers received to the tune 
+of $218 million of payment assistance.  And, that’s due to all the hard work 
+that our employees put in to connect our customers to resources.  Year to 
+date in 2024, 200,000 customers have received over $160 million of 
+payment assistance, and the year is not over and will continue to push hard. 
+ 
+ 
+At PSE&G, we rigorously continue to manage our costs for our 
+operation and maintenance, while continuing to perform at a high level in 
+both operations and customer satisfaction.  And, at the same time, as 
+you’ve heard a couple other members state before, we meet our customers 
+where they’re at.  We consider that to be extremely important. 
+ 
+ 
+You’ve heard me talk about “affordable,” but not only are we 
+affordable, we are very reliable.  And, we take this seriously.  It’s extremely 
+important to us that we provide safe, reliable, and affordable service.  We 
+uphold our responsibility by following some simple principles.  Number 1:  
+Making prudent investments in our infrastructure; being able to be 
+responsive to our continued growing customer demand.  Second one:  
+Making sure that we’re executing on all programs that our customers 
+request of us.  And, then, third one is continuously reinforcing our 
+distribution systems -- hardening and strengthening our base. 
+ 
+ 
+As you’re all aware, our state has experienced some very 
+momentous situations.  The blackout of 2003; Superstorm Sandy; and, 
+some most recent unpredictable weather.  All of this illustrates the need for 
+ 
+ 
+ 
+55 
+our continued investment in reliability, resilience, so that we’re ready for 
+any future events that may come up.  We continue at PSE&G to make 
+sound investments to meet this ongoing challenge, and we’ll continue to 
+focus on that, and to be a catalyst of economic development in the State of 
+New Jersey. 
+ 
+ 
+Over the last several years we’ve created thousands of well-
+paying jobs directly and indirectly through our vendors.  In 2023, we spent 
+$2.6 billion in the State of New Jersey, and $1.1 billion in diversity spend.  
+And, our Clean Energy Jobs Program has provided over 2,500 jobs in our 
+most vulnerable communities, and those communities that, really, are 
+underserved.  We also at PSE&G continue to provide safe, reliable, and 
+affordable services, and we acknowledge that there’s a rigorous process that 
+we have in our State that’s led by the BPU.  And, some of those 
+components are making sure that there’s viability in each utility filing; 
+validating the different roles that each utility partakes in the process; 
+making sure that the process is transparent and robust, which is really 
+important; and making sure that the overall process undergoes a prudency 
+review.  
+ 
+ 
+And, as I begin to wrap up here, I would be remiss if I didn’t 
+call out our focus and how our customers recognize us for the customer 
+service that we provide.  We have been consistently in the top quartile for 
+electric reliability, and the top quartile for customer satisfaction for both 
+electric and gas, while maintaining lower ONM costs.  A couple of the 
+recognitions that our customers have given us recently, we received the 
+“Reliability One” award for outstanding metropolitan service area reliability 
+for 22 consecutive years -- which we are extremely proud of; the men and 
+ 
+ 
+ 
+56 
+women of our company are extremely proud of that.  Second thing, from a 
+customer satisfaction perspective, you’ve all heard of JD Power -- in 2022, 
+we were first for both electric and gas residential in the East Large segment.  
+In 2023, we were in the top spot for both JD Power Electric residential and 
+gas residential. 
+ 
+ 
+So, in conclusion, on behalf of the 12,500 men and women at 
+PSE&G -- and our customers -- I want to thank you for the attention on 
+this matter today.  We appreciate that all the parties here work so hard for 
+New Jersey so that we can remain economically competitive while providing 
+comparatively low rates paired with, as I mentioned earlier, exceptional 
+service. 
+ 
+ 
+Thank you, Mr. Chair. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Joe. 
+J O S E P H   C H E C K L E Y:  Good afternoon. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Afternoon, Joe. 
+ 
+ 
+MR. CHECKLEY:  My name is Joseph Checkley, President and 
+Business Manager of the International Brotherhood of Electrical Workers 
+Local 94. 
+ 
+ 
+I represent 4,000 members throughout the State of New Jersey.  
+Of those 4,000 members, 3,300 are in all lines of business at PSE&G.  Six 
+hundred of those 3,300 work at the Salem Hope Creek nuclear reactors.  
+Another 600 do line clearance and tree-trimming throughout the state.  The 
+remaining membership works at the fossil and co-gen plants – six fossil and 
+co-gen plants plants -- operating in the State of New Jersey. 
+ 
+ 
+ 
+57 
+ 
+ 
+On behalf of Local 94’s membership, I am here to discuss the 
+important contributions that Public Service Electric & Gas makes to the 
+state, regional, and economy, and its efforts to maintain the reliable and 
+resilient system sensitive to affordable concerns. 
+ 
+ 
+Over the past 10 years since Superstorm Sandy, PSE&G has 
+made significant, prudent capital investments to upgrade, strengthen, and 
+modernize the State’s electric infrastructure.  Local 94 members have 
+played a key role in that infrastructure upgrade.  Large-scale, long-term 
+infrastructure-modernization programs, like the ones PSE&G has 
+undertaken, drive the enormous number of benefits that touch almost every 
+New Jerseyan.  Most residents want electric and gas service available when 
+they need it, and, so does PSE&G. 
+ 
+ 
+PSE&G prides itself on providing safe and reliable service and 
+being responsive to the customer needs.  In addition to enhancing reliability 
+for customers, those investments have been a win-win, with improvements 
+for crucial infrastructure strengthening to the system; reducing carbon 
+emissions; and creating good-paying middle-class jobs. 
+ 
+ 
+Those investments have extended benefits to the communities 
+they serve, drawing on a specialized pool of contractors workforce they 
+engage, all guided with the same principle:  safe; proper; and reliable service.  
+While making these investments, PSE&G has maintained affordability a 
+top priority. 
+ 
+ 
+PSE&G has continually maintained its history of providing 
+award-winning, reliable service due in no small part to the Local 94 
+members.  Investments of these type PSE&G makes in the New Jersey 
+energy infrastructure make our state a better place to live and work and also 
+ 
+ 
+ 
+58 
+raise our families.  These investments have helped clean the air and boost 
+our state’s economy and ensure high-quality jobs, as well as making 
+electrical service for our homes and businesses safe, more reliable, and more 
+resilient. 
+ 
+ 
+Thank you, Mr. Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you, Joe. 
+ 
+ 
+And, last but not least, at the top of the state -- I mean the very 
+top -- Rockland Electric. 
+M I C H E L E   O ’ C O N N E L L:  Thank you, Mr. Chair. 
+ 
+ 
+Good afternoon. 
+ 
+ 
+My name is Michele O’Connell, President and CEO of 
+Rockland Electric Company.  And, I am pleased to testify today before the 
+Assembly Telecommunications and Utilities Committee. 
+ 
+ 
+Rockland Electric provides electric service to approximately 
+75,000 customers in parts of Bergen, Passaic, and Sussex County.  Together 
+with Orange and Rockland Utilities, we contribute to the local economy by 
+supporting 3,500 jobs, both direct and indirect, with Rockland Electric 
+alone providing $16 million in contracts to small businesses and minority 
+and women-owned businesses.  Also contributing $26 million in local and 
+State tax revenues. 
+ 
+ 
+Our mission, like others, is to deliver energy that is safe, 
+reliable, and sustainable while actively engaging with our customers to 
+understand their needs. 
+ 
+ 
+We have and continue to invest in the grid to maintain 
+reliability and enhance resiliency.  This includes $19.8 million in storm-
+hardening and selective undergrounding projects in the past two years, and 
+ 
+ 
+ 
+59 
+believe that these investments such as these are integral to the reliable and 
+resiliency of the grid. 
+ 
+ 
+We recognize that this summer’s electric bills were higher than 
+typical -- especially compared to that of last year’s relatively mild summer.  
+And, that can pose challenges for our customers.  This summer was the 
+third-hottest summer on record since 1996, and, as a result, we saw 
+customer usage increase approximately 15% in response to that heat and 
+humidity.  Other contributing factors included increased cost for supply and 
+transmission.  We actively work to support our customers, and offer a range 
+of programs that can provide meaningful discounts and more flexible 
+payment programs.  These include such things as deferred payment 
+programs and agreements; payment extensions; monthly discounts for low-
+income customers through the Universal Services Funds.  We collaborate 
+with our customers to facilitate the connection and receipt of public 
+assistance as well as providing level payment plans, which can really reduce 
+bill volatility. 
+ 
+ 
+In addition to these initiatives, we encourage our customers to 
+manage their energy use as the most effective means of controlling cost.  
+With the help of smart meters, customers have access to detailed daily 
+usage information, and customers can receive high-bill alerts and tips on 
+how to avoid them.  The company also provides customers with weekly 
+reports summarizing their utility usage.  These measures are supplemented 
+by energy-saving tips and incentives for making energy-efficiency upgrades 
+to homes and businesses, which can be accessed through our website. 
+ 
+ 
+In conclusion, Rockland Electric Company remains steadfast in 
+our commitment to our customers, ensuring that we provide safe and 
+ 
+ 
+ 
+60 
+reliable electricity while managing the challenges posed by our dynamic 
+energy market. 
+ 
+ 
+Thank you for the time today, and we look forward to your 
+questions. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Well, thank you. 
+ 
+ 
+And, to all four electric companies, I appreciate your time and 
+expertise in testifying today. 
+ 
+ 
+Now, I am going to ask anybody on the dais if they have any 
+questions.  And, if you could -- on both sides -- just not get into 
+hypotheticals.  Just ask specific questions through the provider.  And, if you 
+can just say which provider you have a question to. 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  I feel like that was directed at 
+me. 
+ 
+ 
+(laughter) 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Thank you; thank you.  I will 
+try to be brief. 
+ 
+ 
+First off, PSE&G -- did you just recently announce a 5% 
+decrease in your rates? 
+ 
+ 
+MR. JOHNSON:  Recently, we did announce a rate decrease, 
+due to the BGS’-- 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Effective yesterday, I think. 
+ 
+ 
+MR. JOHNSON:  Correct. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Good timing. 
+ 
+ 
+MR. JOHNSON:  Yes, it is. 
+ 
+ 
+(laughter) 
+ 
+ 
+ 
+61 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  To Atlantic City--  Listen, I 
+don’t represent any municipalities that have Atlantic City Electric, but I will 
+tell you, I’ve gotten a lot of correspondence on it.  And, I will admit I have a 
+relative who lives in Winslow who does go there. 
+ 
+ 
+My question to you--  And, we heard from the BPU on 
+programs that are targeting low income, which I think is great, but, like 
+some of the others, I’m very concerned about seniors with fixed-income -- 
+retirees, including police and fire who haven’t seen a cost of living 
+adjustment in over a decade -- how this is impacting those types of folks. 
+ 
+ 
+My understanding of the major three components are the BGS 
+-- the Basic Generation Service -- distribution component, and SBC -- which 
+is the Societal Benefits Charge.  Is that correct? 
+ 
+ 
+MR. VAVALA:  Yes, that’s correct. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK. 
+ 
+ 
+When I look at the BGS for all four utilities, they’re roughly 
+the same.  They’re roughly between 9 and 10 cents per kilowatt hours.  
+Does that sound about right? 
+ 
+ 
+MR. VAVALA:  That sounds correct, yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Distribution, however, I’m 
+seeing a big difference in what I think explains why, frankly, my brother 
+who is complaining about his bill is somewhat justified.  My bill -- I have 
+JCP&L -- my bill went up $100 from last year to this year, from $300 to 
+roughly $400, which was a little bit of sticker shock.  His went up to $800, 
+and, we have roughly the same house. 
+ 
+ 
+When I look at the distribution component, PSE&G from 
+October to May was 3.55; JCP&L was 3.03.  From October to May the 
+ 
+ 
+ 
+62 
+third, Atlantic City was 7.47.  I look at June to September -- JCP&L 
+actually went down 2.01.  Atlantic City went up to 8.2.  Four times.  What-
+-  What’s the reason behind that? 
+ 
+ 
+MR. VAVALA:  I think your bill -- any customer’s bill -- is 
+unique, and I think there’s a complex set of pieces that fall in it.  We have 
+already talked about the supply rate; we’ve talked about the distribution 
+rate; we’ve talked about usage. 
+ 
+ 
+One thing I think that is, is very apparent to us based on just, if 
+you look at the side-by-side of utilities within the State of New Jersey -- 
+specifically around cost per customer -- if you look at Atlantic City Electric’s 
+territory as compared to my peers, the number of customers in the 
+denominator, so to speak, for being able to socialize the total cost of 
+operations, those type of things across the customer base, is considerably 
+different than, say, to the north or far north. 
+ 
+ 
+So, from that standpoint, the overall cost-per-customer, I think 
+for Atlantic City Electric, tends to be higher, just simply by virtue of the 
+fact of our geography, our territory, and by the number of customers that 
+are within the area. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Yes, but I guess--  Mr. 
+Chairman, if I could-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Yes, please do. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  I guess where I’m struggling 
+here is, what we’ve been hearing is, “Hey, there’s a hot -- a much hotter 
+summer, much more usage.”  JCP&L had a 16% increase, according to the 
+numbers I have in front of me.  Atlantic City had a 13% increase.  Now, the 
+ 
+ 
+ 
+63 
+year before, you had a 7% drop; they had a 10% drop, according to the 
+numbers I have in front of me. 
+ 
+ 
+So, your drop was at -- or, your increase, I should say -- was 
+actually a little less than JCP&L.  And, I’m not comparing individual bills 
+here, I’m comparing actual numbers.  JCP&L’s distribution component was 
+2.01; yours is 8.2.  That’s the problem I’m having.  Why is yours 8.2 to 
+distribution when theirs is one-fourth of the price? 
+ 
+ 
+MR. VAVALA:  With all due respect, Sir, I would have to see 
+the numbers myself to understand the nuance that’s there. 
+ 
+ 
+Again, what I spoke to was our investment in our system; our 
+cost related to energy supply; the capacity charge that’s part of that as well; 
+and, then, beyond that, the usage for the customer itself.  Every identified 
+complaint that we’ve had from a customer specific to their bill, we’ve done a 
+full vetting process related to that, looked at the customer’s consumption, 
+looked at the rates, and have worked with each customer to understand 
+what the nuance is related to that. 
+ 
+ 
+So, to understand that subtlety between what you’re seeing for 
+JCP&L and Atlantic Electric, I’d need to see that more to understand, Sir. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  But -- last question, Chair. 
+ 
+ 
+Well, I mean--  I mean, it’s not subtle; it’s a big difference.  It’s 
+four times. 
+ 
+ 
+But, the SBC -- the Societal Benefits Charge -- seem kind of 
+concerned.  PS--  Excuse me.  Rockland, .58; PSE&G, .61; JCP&L .68; 
+Atlantic City, 1.05.  Why is the Societal Benefits Charge so much higher for 
+Atlantic City versus relatively the same rates for the other three? 
+ 
+ 
+MR. VAVALA:  Yes, I don’t have an answer today, Sir, on that. 
+ 
+ 
+ 
+64 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK; thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  So, if I can ask this, Atlantic 
+City Electric, I mean, (indiscernible), but if you can please get back to the 
+Assemblyman and send it through the Chair-- 
+ 
+ 
+MR. VAVALA:  Absolutely-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  --I’ll make sure all the 
+Committee members get that. 
+ 
+ 
+MR. VAVALA:  Absolutely. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Thank you, Chair; I appreciate 
+that. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+UNIDENTIFIED SPEAKER:  If I may ask a question. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Hold on one second. 
+ 
+ 
+Any members have a question? 
+ 
+ 
+Yes, Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN McCOY:  So, I want this question 
+definitely to come from PSE&G, and then anyone else can answer. 
+ 
+ 
+Looking at your -- on page 5, when you’re talking about job 
+creation.  So, through AI and public utilities can lead to various innovative 
+roles and opportunities throughout the sectors in new technologies to 
+improve efficiency and liability, and also serve as delivery. 
+ 
+ 
+So, talk just about just potential job creations; what that can 
+look like, the innovation that you’re looking to kind of move forward with, 
+and just how that helps the overall infrastructure and helping our 
+consumers in a whole. 
+ 
+ 
+ 
+65 
+ 
+ 
+MR. JOHNSON:  Thank you for the question, 
+Assemblywoman. 
+ 
+ 
+There is a couple of things that I’d like to highlight here.  On 
+page 5, we do talk about some of the job creation that we have, and I want 
+to start with the 2,500 jobs that I referred to earlier in my testimony 
+around the clean-energy jobs. 
+ 
+ 
+When you think about where the future is at with energy 
+efficiency and electrification -- we talk about EVs -- there are opportunities 
+in this space to train folks with skills that can feed their families for years.  
+And, that’s what we’ve seen and we’ve witnessed as we’ve gone into the 
+communities that we serve -- particularly in some of these underserved 
+communities -- to give people those skills that will last for a lifetime.  So, 
+we’re really excited about that. 
+ 
+ 
+In addition to that, as we continue to move forward, there are 
+opportunities in some of the infrastructure work that we do where we’re 
+constantly looking and training linemen -- and women, I should say -- to 
+help us as we continue to build out our infrastructure, as we continue to 
+make our grid more resilient.  So, there’s a lot of opportunities that will -- 
+that currently exist within the utility, and will be presented in the future.  
+ 
+ 
+You’ve talked about innovation and technology.  We’re always 
+looking to be innovative in a way that helps us to keep our costs down; 
+finding new creative ways, bringing in new technologies, to reduce our 
+overall expenses to our customers.  And, as we push into that innovation, 
+there will be new jobs created in those spaces for members of our 
+communities as well. 
+ 
+ 
+ASSEMBLYWOMAN McCOY:  Just a follow up, Chairman. 
+ 
+ 
+ 
+66 
+ 
+ 
+ASSEMBLYMAN DeANGELO: Yup. 
+ 
+ 
+ASSEMBLYWOMAN McCOY:  How are we working with 
+maybe like our technical schools, community colleges, to invest in making 
+sure that individuals have those necessary tools and resources to kind of 
+meet those expectations? 
+ 
+ 
+MR. JOHNSON:  Yes, and that’s exactly what our Clean 
+Energy Jobs Program has done.  It’s reached into some of those technical 
+colleges, reached into some of the local high schools and community 
+colleges, and just has gone into -- deep into the community, and worked 
+with certain agencies that others may not have worked with in the past.  
+And, it’s been highly successful, and we’ve received several rewards for it as 
+a result of it. 
+ 
+ 
+In addition to that, as we talk about jobs, we know that data 
+analytics is something that’s here in front of us now.  And, we’ve invested 
+and partnered with Rutgers University, and we’ve sent several people into 
+the Rutgers program to help learn new skills around data analysis that also 
+is a contribution back to the communities in which we serve. 
+ 
+ 
+ASSEMBLYWOMAN McCOY:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Assemblyman Barranco. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you; thank you, Mr. 
+Chairman. 
+ 
+ 
+So, my question is to JCP&L.  You guys sell power at my house, 
+so now that I’ve got you -- no. 
+ 
+ 
+(laughter) 
+ 
+ 
+ 
+67 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  No, seriously, to Mr. Tintle 
+and Ms. Mullin, there are-- You sell power to the majority of my district.  
+Orange and Rockland is also in West Milford, which is also my town.  You 
+guys do a great job up there. 
+ 
+ 
+But, I do have a question specifically about assistance.  So, Phil 
+from AC Electric went into a little bit of the assistance that they do down in 
+South Jersey, but I was hoping that maybe you guys could share with us -- 
+besides what the State offers, relative to assistance -- is there anything that 
+you can speak to, relative to assistance for some of the residents of my 
+district? 
+ 
+ 
+MR. TINTLE:  Certainly. 
+ 
+ 
+Similar to what you’ve heard from our peer utilities here in the 
+state today, we do outreach for assistance.  There is community 
+organizations, events, etc.  Additionally, we have an entire department of 
+very dedicated staff that their main objective every single day is to connect 
+customers in need with dollars available to them to help pay their energy 
+bills through USF, NJ SHARES, LIHEAP, etc. 
+ 
+ 
+So, one thing that we try to implore our customers is, if you’re 
+having trouble paying your bill, please call us; please communicate with us.  
+It is our goal to keep your lights on no matter what -- storm or falling on 
+hard times.  And, so, we will work with any customer who reaches out to us 
+or responds to us when we make outreach to them to set up installment 
+plans; to delay a shutoff.  Maybe you can make ends meet until pay day, 
+you just need a few extra days -- we’ll do that.  As long as the customer is 
+engaged with us, we will do everything within our power to find them the 
+ 
+ 
+ 
+68 
+assistance that they need available from some of the programs I’ve discussed 
+before. 
+ 
+ 
+We’ll work with them; there are qualifiers for many of these -- 
+some, but not all -- of these programs, mostly focused on income.  We’ll 
+work with each individual customer; we’ll get an internal case worker at our 
+company to drive them through the process; help them to understand what 
+is available and is not available.  And, then, from there, if all else fails, we’ll 
+work with the individual customer on the payment plan as I discussed, or 
+push off, put a dummy lock on the account, to ensure they don’t get shut 
+off until they’re able to make ends meet. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you, Mr. Tintle. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Mr. Chairman, I’m going to 
+copy Assemblyman Barranco’s homework, and direct the same question to 
+my own company in my district, PSE&G -- but also add to it, if you don’t 
+mind. 
+ 
+ 
+I have a huge Hispanic population; a huge non-English speaking 
+population; and a huge immigrant population that is just learning how 
+electricity works in this country as opposed to other countries around the 
+world, whether it be Middle East and also Latin America. 
+ 
+ 
+If you could help me with those answers -- the same question 
+that you paid attention, as Assemblyman Barranco asked your colleague. 
+ 
+ 
+MR. JOHNSON:  Assemblyman Marenco, thank you for that 
+question. 
+ 
+ 
+ 
+69 
+ 
+ 
+We are very proud to serve all of our customers, and we work 
+extremely hard to make sure that we meet our customers with their specific 
+requirements. 
+ 
+ 
+And, when you talk about languages, we offer our bills in a 
+variety of different languages that help our customers to be able to read 
+them in the language that they speak.  We send out a Customer Bill of 
+Rights every year in a variety of different languages -- I believe we send it 
+out in over 13 or 14 different languages each and every year to meet our 
+customers where they’re at. 
+ 
+ 
+We currently have 16 service centers throughout our service 
+territory, and when any of our customers walk into our service centers, our 
+customer representatives are armed and prepared with information and 
+resources to be able to communicate with that customer in the language in 
+which they need to speak -- including having literature in a couple different 
+languages. 
+ 
+ 
+When they call into our call center, we have a partnership with 
+an organization, depending on the language that the customer speaks, we 
+can connect them and communicate with that customer to make sure that 
+they are hearing the right information from us and getting the relevant 
+details that they’re -- that they require based upon what they’re calling for.  
+So, we are working exceptionally hard to make sure that we’re meeting our 
+customers’ requirements.   
+ 
+ 
+In addition to that, we’re working on some other innovative 
+ideas in terms of how our customers pay us, to make sure that when 
+customers are paying us, they have the ability to pay us and read kiosks and 
+other information in the languages that they prefer as well. 
+ 
+ 
+ 
+70 
+ 
+ 
+So, I appreciate that question, and we work hard every single 
+day to meet the diversity that we have within our service territory. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Quick follow up, Chairman; I 
+apologize. 
+ 
+ 
+And, my district is the 33rd – I actually might come back to you, 
+Mr. Vice President. 
+ 
+ 
+And, I ask this about your literature.  In my district, most 12- 
+and 13-year-olds become de facto lawyers and translators to their families.  
+They are the ones in school; they are the ones who are learning English 
+faster; and, they are the ones representing their interests.  What do we do 
+about your literature sometimes being above the head -- I’m sorry -- of a 12-  
+or 13-year-old who is representing families and their ability -- their families 
+and their interests?  They’re the ones who come to your offices, be it in 
+Union City, North Bergen, and I believe they have one in Weehawken also.  
+Very well worn, by the way. 
+ 
+ 
+MR. JOHNSON:  Yes, so, appreciate the question. 
+ 
+ 
+That is a challenge, and that’s an ongoing challenge that we’re 
+prepared to meet. 
+ 
+ 
+You heard me mention earlier that sometimes customers are a 
+bit intimidated to come to the utility.  And, so, it’s important for the utility 
+to go in the communities in which we serve.  We’ve spent a significant 
+amount of time and done over 100 outreach activities in a variety of 
+different communities -- including, I believe, Assemblyman Marenco, one of 
+your communities as well.  And, what we do when we’re in the community  
+-- that gives us an opportunity to be able to talk to that 12- or 13-year-old 
+while they’re standing next to their grandparent or their parent, and to be 
+ 
+ 
+ 
+71 
+able to help them through that connection.  And, a lot of times, that’s a less 
+intimidating environment for us to work with our customers in. 
+ 
+ 
+So, do we have it perfect?  Do we have it right yet?  I’d say 
+absolutely not.  But, are we focused on that, and will we continue to push 
+in to find ways to make sure that we’re communicating as effectively as 
+possible with our customers?  We sure will. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Thank you, Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Any other questions? 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Thank you, Chairman. 
+ 
+ 
+As a former mayor, I can tell you most people don’t think about 
+the electric company until they get their bill or until the power goes out, 
+and that’s when your phone starts ringing off the hook, and that’s when -- 
+as a result, as you guys know -- all your phones start ringing off the hook.  
+“When’s the power going to be on?”  “Give me updates.” “What’s going 
+on?”  Everything along those lines. 
+ 
+ 
+And, I’ve talked a lot about infrastructure today, and earlier 
+that was focused on, on the generation side of things.  I think you all should 
+be commended for infrastructure on the transmission side of things.  I know 
+JCP&L in my district is making a big focus of continuing to upgrade the 
+infrastructure there; PSE&G, you railed off a ton of awards that you guys 
+have won on that.  And, I think it underscores how important investments 
+in hard infrastructure that we have helps keep the lights on. 
+ 
+ 
+My district is on the Jersey Shore.  We disproportionately get a 
+lot of storms, and that knocks out a lot, and that makes it really difficult for 
+ 
+ 
+ 
+72 
+a company like JCP&L to constantly be responding to that and bringing 
+resources in from out of state to do that.  So, that’s commendable to all of 
+you, for sure. 
+ 
+ 
+I did want to ask one or two questions, because we’re here to 
+talk about rates at the end of the day.  I wanted to piggyback on what my 
+colleague, Assemblyman Sauickie, had mentioned earlier, because I, too, 
+had noticed there did seem to be an outlier in some of the numbers that we 
+were looking at.  And, I--  If you go back in the news cycle a little bit, I 
+would wager that some of the news around the salacious numbers about 
+how much rates were going up was centered on some of the big numbers 
+that were coming out of Atlantic City, Atlantic County area. 
+ 
+ 
+So, I just wanted to ask--  Because I tried to dig in, and this is 
+just a question, if you have the answer, if you could give it to us afterwards, 
+it would be appreciated.  It did seem like you guys over the last year have 
+done a smart-meter program.  I know a lot of people do smart meters, but it 
+seemed like you guys had really pushed the smart meter. 
+ 
+ 
+Is there a chance that some of the rate increase, some of the 
+numbers that we were looking at -- the outliers, if you will -- were correlated 
+to those smart meters, and maybe discrepancies in the non-smart-meter 
+billing prior to that? 
+ 
+ 
+MR. VAVALA:  So, we explored that concept extensively.  
+Obviously, as part of the examination of the customer bill issues that we’ve 
+seen, we wanted to take a very close look at the accuracy of the AMI meters 
+themselves, and then, in terms of comparison against legacy meters, older-
+style electric mechanical meters. 
+ 
+ 
+ 
+73 
+ 
+ 
+So, we have done extensive testing.  I will note, though, that 
+the AMI meters themselves have been--  We began our rollout in February 
+of 2021, so there is a little bit of leadup to this point before we actually did 
+over-the-air activation for over-the-air reads. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  OK. 
+ 
+ 
+MR. VAVALA:  So, prior to even this summer, a fair bit -- or, 
+quite a bit -- of the meters that have been installed that were AMI meters, 
+we were using those for direct reads for customer consumption. 
+ 
+ 
+And, I think that’s important to note that, because there was a 
+general premise that, “Oh, the meter was installed, and now my bill has 
+gone up.”  But, quite frankly, the deployment of that many meters takes 
+several years, so we are--  We were examining that very closely. 
+ 
+ 
+We have our meters also tested by a third-party outfit.  So, in 
+terms of watching the in-house type of thing, we want to make sure that 
+we’ve got a third-party organization that’s looking at our accuracy classes. 
+ 
+ 
+And, I’m just checking my numbers very quickly, that our 
+meters, every one that we sample tested, including those that were 
+identified by customers as part of a high-bill complaint, were tested to be 
+between the BPU standard of 99.7% to 100.3% accuracy.  All meters that 
+were tested as a result of questions were tested to be reading properly, and I 
+think that’s important to note that, because, like everyone, we want to 
+make sure we turn over every single rock to make sure that we’re doing this. 
+ 
+ 
+So, from a deployment standpoint, from an accuracy 
+standpoint, we have verified that there is no correlation between those two. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Appreciate the thorough answer, 
+Chairman. 
+ 
+ 
+ 
+74 
+ 
+ 
+One more, if I may? 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Sure; go ahead. 
+ 
+ 
+ASSEMBLYMAN KANITRA:  So, again, commending all of 
+you for the public assistance that you’ve provided.  There’s a lot of people -- 
+a lot of American citizens -- who are out there who are hurting right now.  
+And, it’s commendable that, with everything that’s going on -- inflation, all 
+of that -- that you guys are helping. 
+ 
+ 
+I tried to take a look at our budget a couple months ago as it 
+relates to undocumented individuals, and one of the areas that I had the 
+hardest time gathering the right data from was the utility assistance side of 
+things.  And, my understanding is that undocumented immigrants in New 
+Jersey are able to access utility assistance, whether that’s in the form of the 
+Universal Service Fund -- the USF; PAGE, which was administered by New 
+Jersey SHARES; and, some other programs as well.  And, those programs, to 
+my understanding, don’t require Social Security numbers. 
+ 
+ 
+So, what I was going to ask -- I’m sure none of you will know or 
+want to answer that right now -- but, again, if you could transmit that 
+through the Chair afterwards, I was wondering if you had data on how 
+many applications for assistance don’t include Social Security numbers, if 
+that might be the most technical way to tackle it, or to get me an accurate 
+number, I’d certainly appreciate that. 
+ 
+ 
+Unless anybody wants to speak up right now, you’ve got it at 
+the top of your head.  (no response) 
+ 
+ 
+I didn’t think so. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  If anyone knows, you’re 
+welcome to answer. 
+ 
+ 
+ 
+75 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Thank you very much, 
+Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you. 
+ 
+ 
+Any other questions? 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Mr. Chairman, thank you. 
+ 
+ 
+A comment, first, and then a question. 
+ 
+ 
+First, a comment to our representatives -- Mr. Johnson, Mr. 
+Checkley from PSE&G.  I want to thank you, as someone who was born 
+and raised and raised their family in Salem County, I know the impact that 
+PSE&G has on one, the jobs that you provide; the assistance. 
+ 
+ 
+In my youth, I would look back at my grandfather and my 
+uncles who worked at DuPont, and DuPont went away.  And, then we 
+looked at Anchor Glass.  And, now it’s really clear that our flagbearer 
+around the economy in Salem County is PSE&G Nuclear. 
+ 
+ 
+So, we appreciate that. 
+ 
+ 
+We also appreciate the fact -- and, you pointed to it a little bit, 
+humbly -- of the corporate citizenry that you show through your impact in 
+so many different ways throughout our community and throughout your 
+region.  But, specifically, I want to speak to Salem County and our district 
+today. 
+ 
+ 
+So, thank you so much for that and all that you do, not only 
+providing energy to our folks but the other pieces of the puzzle that you 
+play of being good, corporate citizens, and we appreciate that. 
+ 
+ 
+Thank you very much. 
+ 
+ 
+MR. JOHNSON:  Thank you very much for that feedback. 
+ 
+ 
+ 
+76 
+ 
+ 
+ASSEMBLYMAN BAILEY:  My question -- and, I apologize, I 
+had to step out for a moment -- and I think you started to talk about 
+(indiscernible) smart meters.  But, I also wanted to make a quick comment 
+regarding Atlantic City Electric.  Tremendous job that you do do with 
+providing information and educating us through--  I am a customer.  My 
+89-year-old mother was a customer.  All of Salem County are customers. 
+ 
+ 
+And, so, I do appreciate -- even those who aren’t online, or 
+don’t have access to the internet or things along those lines -- you do do a 
+good job of giving hard-copy information out with the bills and invoices and 
+letting people know what’s happening -- great grass, great colored grass, and 
+things along those lines. 
+ 
+ 
+Your website is top notch as far as the information that you’re 
+providing via the internet.  I was mentioning earlier today that I’m a utilizer 
+of your app on my phone.  The company that I run--  I pay attention to 
+that app and outages and what’s happening in the buildings to notify you 
+when I have an outage at different locations.  This morning, when I looked 
+at that app, I looked at the outages across the region from the Delaware 
+River to the Delaware Bay, over the Atlantic Ocean -- you had less than 50 
+customers who were without power.  That’s amazing unto itself, along those 
+lines. 
+ 
+ 
+And, so, I want to commend you on that front. 
+ 
+ 
+I do have a follow-up question, and somebody who is very 
+interested in technology and wants to see it expand, and the use of it 
+expand along those lines.  So, I apologize; I know that Assemblyman 
+Kanitra was asking this question, so maybe you already hit it, but the smart 
+meter technology, that rollout.  I have a smart meter, it has been installed at 
+ 
+ 
+ 
+77 
+my house; it’s been installed throughout the company that I’m involved in.  
+And, so, I appreciate that. 
+ 
+ 
+I guess my question is, I’m also a runner.  And, so, previously, I 
+ran with a watch that monitored my steps and how many miles I ran.  And, 
+now, recently, I’ve gone to a GPS watch that more accurately watches the 
+miles.  So, previously, I may have said, “Wow, I ran 2 miles, and now it’s 
+saying I’ve run 2 and a quarter miles.”  Not a lot more, but it’s a little more 
+accurate. 
+ 
+ 
+So, I guess my question when it comes to smart meters -- is it 
+possible that the technology of the smart meter is just that much more 
+accurate than the previous meters?  And, so, that’s what people have seen, 
+is that, yes, it’s going up a little bit because it’s more accurate. 
+ 
+ 
+MR. VAVALA:  That’s a great question, and thank you for that 
+question, Assemblyman. 
+ 
+ 
+One of the things that I didn’t mention in my previous answer 
+is that we’ve been--  We were looking, as well, at what the accuracy class of 
+our legacy meters were, OK.  And, in a part of my answer where I spoke 
+about our AMI meters were between 88 and -- or, 99.7 and 100.3% 
+accurate -- is part of a third-party testing.  Our non-AMI meters were 
+ranged of 98 to 102%, so a little bit bigger of a window there. 
+ 
+ 
+Now, I’m an engineer, and when I start to put percentages and 
+micro-percentages on total usage by a customer, I don’t think that that’s 
+significant enough to really swing a bill one way or the other as you’re 
+suggesting is partly your question.  I would say that the legacy meters were 
+measuring somewhat of a bigger tolerance, but in this case here it’s--  I 
+think it’s a micro-percentage. 
+ 
+ 
+ 
+78 
+ 
+ 
+What I think we should really take away from the AMI reader 
+deployment is exactly what you identified a minute ago, is about the power 
+of the meter itself in terms of being able to take control of your own energy 
+usage.  You mentioned looking at the outage alerts; getting the 
+notifications; looking to see what’s your advanced warning of what your bill 
+potentially could be.  All of those things are powered and enabled by AMI 
+deployment, and it’s certainly a critical tool as we go through with many of 
+the subjects that we’ve discussed here today, in terms of affordability and 
+energy management, that that tool is absolutely critical for our customers 
+going forward, if there’s any question in your mind related to that. 
+ 
+ 
+But, I don’t think--  I don’t think we’re looking at a significant 
+swing in accuracy of a new device that would ultimately have a direct 
+impact on customer bills. 
+ 
+ 
+ASSEMBLYMAN BAILEY:  Thank you very much. 
+ 
+ 
+Thank you, Mr. Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Yes, thank you. 
+ 
+ 
+Any other members? 
+ 
+ 
+Yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Thank you, Mr. Chairman. 
+ 
+ 
+The gentleman from Atlantic City, I apologize to you for asking 
+you the question.  It applies to everybody, but we’ve been talking about 
+smart meters and I wanted to ask it a little different. 
+ 
+ 
+Do you charge those customers who opt out of smart meters? 
+ 
+ 
+MR. VAVALA:  Yes, we do.  There is a--  There is a monthly 
+charge that if you opt out from being part of the program, there’s a monthly 
+ 
+ 
+ 
+79 
+surcharge -- I think it’s $15 -- that would be a part of sending someone to 
+the house to do it -- a physical read. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Fifteen dollars a month? 
+ 
+ 
+MR. VAVALA:  Yes. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK. 
+ 
+ 
+What’s the logic behind that? 
+ 
+ 
+MR. VAVALA:  It’s actually the labor to go and read the meter 
+itself, Sir. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  What percentage are opting 
+out, do you know? 
+ 
+ 
+MR. VAVALA:  It’s less than 2%. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  Right.  And, so, it seems pretty 
+exorbitant--  And, honestly, I’m asking the question--  I am asking across 
+the group here.  Something to think about on that one, right? 
+ 
+ 
+If 98% of your customers are getting smart meters, and for the--  
+You know, as long as I’ve been alive, you used to have to go to 100% of the 
+homes and check them.  You’re getting a significant cost benefit from 98% 
+who are on smart meters.  It seems exorbitant to charge the 2% $15 a 
+month. 
+ 
+ 
+So, as I’m thinking about how we can lower bills for ratepayers, 
+that may be one to think about, all right, because you are getting a benefit.  
+If 98% of your customers no longer require somebody to walk out there and 
+check their meters, the 2% who do--  And, frankly, from my experience, 
+most of those are seniors.  That’s who I am hearing complaints from about 
+this.  I think that cost is bearable, because you’ve got 98% and you’re no 
+longer having to do that for it. 
+ 
+ 
+ 
+80 
+ 
+ 
+So, something to think about.  I’m not asking you to really say 
+yes or no to it, all right. 
+ 
+ 
+MR. VAVALA:  Thank you for that-- 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  The other question I had--  
+And, maybe I’ll ask the representative from Rockland.  I’d asked this 
+question of the President of BPU.  The BGS -- is that 100% passed 
+through? 
+ 
+ 
+MS. O’CONNELL:  Yes, it is. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  My question -- and, again, 
+something to think about across -- why is that 100% passed through to the 
+ratepayers?  Why not take some of it?  I mean, if you’re a business-- You’re 
+in business.  You’re hopefully making profits.  Why can’t you take at least a 
+point or two of that hit, versus 100% of being a pass through? 
+ 
+ 
+And, the reason I ask that -- because I asked the question earlier 
+-- what incentivizes you all to get the best rate?  And, I do understand it a 
+little bit better now, in that there may be some lack of controls there to do 
+much there.  But, given that there isn’t an incentive that I’m aware of for 
+you to get the best rate, and it’s 100% passed through to the ratepayers, 
+you might want to think about taking a point or two of that, too, and 
+seeing how you’d work that into your economics, versus passing 100% of it 
+onto the ratepayers. 
+ 
+ 
+MS. O’CONNELL:  Thank you for that.  We’ll take that into 
+consideration. 
+ 
+ 
+Appreciate that. 
+ 
+ 
+ASSEMBLYMAN SAUICKIE:  OK, thank you. 
+ 
+ 
+Thank you, Mr. Chairman. 
+ 
+ 
+ 
+81 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  All right, thank you, everyone. 
+ 
+ 
+And, thank you to the utilities for coming out.  I appreciate 
+your time and your expertise. 
+ 
+ 
+MS. O’CONNELL:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Next, I would like to call up 
+the New Jersey Utilities Association, the President and CEO Rich Henning. 
+ 
+ 
+Good afternoon, Rich. 
+R I C H   H E N N I N G:  Good afternoon. 
+ 
+ 
+First of all, thank you, Chairman, and thank you, Vice 
+Chairman -- and, all of the members of the Committee -- for hosting this 
+absolutely important hearing today on electricity. 
+ 
+ 
+And, I don’t say “electricity bills,” because it’s really about 
+electric, and we’re really learning quite a bit.  And, I think the folks who 
+you have assembled here today have really given a great understanding of 
+where we are today and where we need to go tomorrow. 
+ 
+ 
+I wanted to actually begin at the beginning, because New Jersey 
+State law actually requires the State’s electric distribution companies to 
+ensure that our electricity in the entire state is reliable, secure, and 
+affordable to maintain the quality of life.  That’s 24/7.  We depend on it 
+each and every day, and it’s essential for our lives; essential for us to 
+continue. 
+ 
+ 
+And, I think, as you heard from the four entities that were here 
+today, that they really do their best to uphold that mandate.  They’re really 
+on top of the latest in technology, and they’re on top of their game in terms 
+of being able to handle the different complexities, if you will, that the State 
+faces. 
+ 
+ 
+ 
+82 
+ 
+ 
+This hearing is so important because we’ve talked about quite a 
+few things here today.  One of the things that has come up is the high 
+usage.  And, what I like to say is, despite the high usage that we saw this 
+year -- and, it was record demand -- the four utilities that were here handled 
+that.  Our grid in the State of New Jersey handled that.  We didn’t 
+experience what Texas did during the winter a few years ago, where they 
+had a complete blackout.  We didn’t experience rolling brownouts that they 
+have in California, where my two daughters live, and experience that 
+virtually every summer. 
+ 
+ 
+They handled it.  And, the men and the women -- the highly 
+skilled professionals who deliver that service each and every day--  And, I 
+was glad to see the President of the IBEW here today, because he 
+emphasized that.  Their schooling -- their training -- is so necessary for us to 
+continue -- to continue that service each and every day and make sure that 
+that’s there. 
+ 
+ 
+We’ve heard a number of percentages on the average increase 
+this year, and I think roughly it’s been about 15% during the months of 
+June, July, and August.  I think this was a year--  And, I know I experienced 
+in my house, where that air conditioner was humming each and every day, 
+24 hours a day.  And, it was humming almost through the months of June 
+and July, almost until, probably toward the end of August.  We’ve run those 
+air conditioners throughout the state harder than we’ve ever run them 
+before. 
+ 
+ 
+It’s not a secret that high usage really was the Number 1 reason 
+-- culprit, whatever you want to call it -- but certainly the Number 1 facet in 
+terms of increased bills that customers saw. 
+ 
+ 
+ 
+83 
+ 
+ 
+But, we should also be proud that those people had that 
+electric.  They had the capacity to be able to deliver that and meet that 
+demand, because that demand was higher than we’ve ever seen it before, in 
+the state’s history, for all the electric companies in their history as well.  
+And, I think it showed that the investments that have been made in the 
+past -- the investments that are going to be made in the future -- are 
+investments that are prudent and necessary to move our state forward. 
+ 
+ 
+I think we understand that we have to modernize and continue 
+to modernize our grid.  If we’re seeing ever-increasing demand, we need 
+ever-increasing resiliency built into that as well. And, you heard today from 
+the utilities, they’re taking steps; adapting new technologies including more 
+renewables; but, increasing power through (indiscernible) and hardening 
+that grid against extreme weather.  And, they’ve actually been doing that, as 
+you well know, because this Committee was at the forefront of it right after 
+Hurricane Sandy more than a decade ago.  But, that resiliency doesn’t stop 
+there, and I think any of us who saw the community in Carolina, Ashville, 
+and what they’re going through right now, you truly understand that these 
+storms are becoming increasingly powerful.  And, what we saw 12 years ago, 
+or -- yes, it was 12 years ago now, Sandy, 2012 -- is very possible to see 
+again in the future, and very probable to see at some point in the future. 
+ 
+ 
+We know that it was extreme heat that drove higher usage this 
+year.  But, did you also know that for the 85 years that we’ve been keeping 
+records, this was the most humid summer ever?  The three months?  And, 
+you know yourself -- if you’re like me, anyway, or like my family -- you 
+know that if the temperature even drops to 70, 68, if it’s 100% humidity, 
+that air conditioner is still on.  So, despite it not being 95 with 90% 
+ 
+ 
+ 
+84 
+humidity, that humidity drives people to use even more air conditioning as 
+well. 
+ 
+ 
+So, hot and humid is really the nature of what that weather 
+forecast is actually going out into the future as well.  These come from the 
+State Climatologist, David Robinson -- if you know David at Rutgers.  A 
+good friend, he spoke at our last conference and gave us, I would say, more 
+of a sort of an uneven and maybe a difficult future as to where the state will 
+be going with its temperature and humidity forecasts into the future.  And, 
+he was looking 20 years, 30 years out into the future. 
+ 
+ 
+We also have heard testimony here today about the secondary 
+reason, if you will, for an increase in customer bills this year.  And, that was 
+the costs that are on the marketplace -- the supply cost of energy.  We’ve 
+not only heard about the costs, but we’ve heard about some of the drivers 
+behind that cost as well.  We both know -- and, we all know, I think, here -- 
+that electricity consumption throughout the United States, and certainly 
+here in New Jersey, is rising.  The demand for electricity is rising.  In fact, 
+the Federal Department of Energy predicts U.S. energy to grow by 15-20% 
+in the next decade.  Everybody here has talked about the reasons why, 
+whether it’s AI; electric vehicles.  We just know that demand is coming, as 
+well as climate. 
+ 
+ 
+We’ve also heard that electricity supply is not keeping up 
+electric demand.  You heard that quite bluntly, that we’re shutting off more 
+than we’re bringing on.  So, I think we can also agree that maybe there’s a 
+step or two that we need to be looking at in terms of maybe hastening -- 
+either hastening the building of newer plants, or continuing to invest in 
+some of the older technologies that are powering us now.  It’s one thing that 
+ 
+ 
+ 
+85 
+NJUA kind of adheres to, is that the best time to plant a tree was 10 years 
+ago, but the next best time is today.  So, we can plant that today.  We can 
+start talking about how we move forward with energy, and this is a perfect 
+time, Mr. Chairman, to be thinking about that -- and, Mr. Vice Chairman. 
+ 
+ 
+We believe that it really does take an all-above approach.  And, 
+I think many of you have mentioned that in this room today, that we need 
+to be moving towards that clean energy future, but we also need to be 
+investing in some of the technologies of where we are today.  There are 
+technologies out there that can help out the use of natural gas like carbon 
+capture, and there are things that are being invented and invested in every 
+day that we need to be cognizant of and need to be making use of. 
+ 
+ 
+So, I think, from our perspective, we do need a balanced 
+approach, and we agree with you on moving forward with that balanced 
+approach.  But, it’s got to factor in as we’re seeing -- the changes that we’re 
+seeing in climate -- it’s got to factor in eventually that we’re going to be 
+getting to where we need to get to as a state and as a goal. 
+ 
+ 
+We also understand that utility service for customers -- seniors, 
+low-income folks -- is not optional.  This is a service that is essential.  I’ve 
+worked in the water business for 34 years; I used to always think, “Hey, you 
+know what?  If you don’t have electric and you don’t have gas, you can still 
+live in your house.”  One week, maybe 10 days.  If you don’t have water, 
+you’re out of there.  This is a life-or-death situation.  Electricity -- air 
+conditioning -- when you think about it for seniors and you think about it 
+really hard when it’s 95 degrees and it’s 100% humidity, it’s a life-or-death 
+situation that they have that electricity 24/7. 
+ 
+ 
+ 
+86 
+ 
+ 
+So, I’ve rearranged my thinking process from just being 
+completely about water to now encompassing all the utilities.  But, for folks 
+who need help paying those bills, New Jersey -- perhaps more so than other 
+states -- has a number of different programs that are out there on the 
+horizon.  And, these companies that were here today talked about those, 
+but they probably didn’t give the fact that all of them have their own 
+programs as well.  There are actually eight State, Federal, and company 
+programs that are out there to help New Jerseyans pay their bills.  All of 
+those--  These electric-distribution companies have their customer service 
+personnel armed and ready to speak to customers about where they can 
+apply, where they can go to, to get that kind of assistance. 
+ 
+ 
+So, I think it’s essential that we make sure that those programs 
+are top of mind for the people who need it most -- and, especially, those 
+constituents who are calling their Assembly folks, or their State Senators, 
+for help in high bills.  But, they can get those assets that can help them pay 
+their bills.  
+ 
+ 
+In conclusion, I don’t want to make this too long.  We 
+understand that high bills are frustrating, especially if you’re expecting 
+something a little bit lower.  We also understand that the service is 
+unquestionably paramount to these folks.  It’s not like they can turn it off.  
+So, there are simple steps we believe that can be taken.  I think the utilities 
+are starting -- not starting, they’ve been taking notes for many years.  The 
+men and women who work there are highly skilled, highly professional, and 
+they have been delivering that service for many years.  Their care, their 
+concern, is of top of mind for these customers, and it’s -- it’s incumbent, I 
+ 
+ 
+ 
+87 
+think, on us to be able to work together to really build, if you will, the 
+better mouse trap. 
+ 
+ 
+I did want to make sure that we thank the Assemblyman for 
+pointing out that one method that we talked about smart meters will also 
+enable customers to get that instant picture of where their usage is.  And, 
+may send off actually bells and whistles if their usage has gone considerably 
+higher so that they can actually impact their own bills during that cycle.  
+And, coming from the water industry, we’ve had smart meters for a number 
+of years, and it gives you a picture of where your consumption is virtually 
+every 15 seconds.  So, smart meters aren’t exactly the newest, but they’re 
+essential. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you-- 
+ 
+ 
+MR. HENNING:  And, with that, Mr. Chairman-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Anybody have any questions 
+for Rich?  (no response) 
+ 
+ 
+Thank you for your testimony. 
+ 
+ 
+MR. HENNING:  Thank you. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  If I can have the Rate Counsel 
+-- Brian Lipman. 
+ 
+ 
+Afternoon, Brian. 
+B R I A N   O.   L I P M A N,  Esq.:  Thank you. 
+ 
+ 
+I was going to say good morning, but I guess good afternoon. 
+ 
+ 
+First of all, I want to thank you for having this Assembly 
+meeting, and I want to thank you for saying that this is fun.  This is 
+something that -- rates, that I talk about a lot, and I can tell you that very 
+few people want to hear me talking about it.  But, it’s important. 
+ 
+ 
+ 
+88 
+ 
+ 
+I want to start off by just -- we did submit -- I did submit a 10-
+page--  I’m not going to read that, because you’ll kill me, so I’m going to try 
+and be as brief as possible and leave it so we can have a conversation and 
+kind of talk about what’s important to you. 
+ 
+ 
+I do want to talk about, a little bit, what Rate Counsel is -- 
+what we do.  We are a statutory representative of ratepayers in every case in 
+front of the Board of Public Utilities, where a utility is seeking a rate 
+increase or a change in service.  We’re also involved at PJM; we’re also 
+involved at FERC.  We are, essentially, the skunk at the picnic who asks, 
+“Wait a minute, how much is this going to cost?  Who is going to pay for 
+it?  What is the rate impact?” 
+ 
+ 
+So, I wanted to talk a little bit about that.  I also want to point 
+out why this is so important.  About one-third of New Jersey households are 
+living in functional poverty.  That means that they are not able to pay all 
+their bills to survive here in New Jersey.  Sixteen percent of the nation is 
+currently in energy poverty.  Energy poverty is defined where more than 6% 
+of the family household income is used to pay for energy bills.  And, I want 
+to be clear:  We’ve been focused all day today on electric bills.  Your 
+constituents, my ratepayers, they don’t just pay an electric bill.  They’ve got 
+a gas bill; they’ve got a water bill; they’ve got a cable bill; they’ve got a telco 
+bill.  There’s a lot of bills.  And, it’s important to focus on electric, because 
+that’s--  We just came off of a hot summer.  But, I want to caution you, we 
+should also be thinking about other bills as well. 
+ 
+ 
+Also, we’ve been very focused on residential customers.  I don’t 
+want you to forget about our industrial and commercial customers -- the 
+people who are running businesses every day in this state.  The people who 
+ 
+ 
+ 
+89 
+are doing employment--  I heard a lot about the jobs that the utilities create.  
+And, the one question that I ask all the time -- which is a lot softer answer, I 
+will tell you -- is, “How many jobs are being lost because of higher rates?”  
+“How many companies are moving out of state because of higher rates?”  
+“Who is closing their doors?”  “Who is laying off because they can no 
+longer afford their electric bills?”  So, when you look at jobs being created, 
+we also need to look at jobs being lost.  That’s an important part of this. 
+ 
+ 
+I also--  I’d like to take a step back and really explain what a 
+public utility is, because I think -- and, I’ve learned from many people that 
+that’s not really understood.  The word “public utility” is misunderstood by 
+a lot of people.  I work for a government agency, you all work for the 
+government.  Public utilities are private, for-profit corporations.  And, that’s 
+really important to remember, because they’ve talked a lot about their 
+budgets today.  You don’t want to talk to them about their budgets; you 
+want to talk to them about how much is it going to be in a rate impact.  
+Because for every dollar that a utility spends, they get a $1.09-plus back 
+from ratepayers.  There’s a return that the BPU has currently set as 9.6%.  
+That is a return on equity that a utility in New Jersey is authorized to earn 
+in here. 
+ 
+ 
+On top of that, they’re going to get their administrative costs 
+back.  They’re going to get all their O and M back.  Once we put a facility 
+into place, you’re going to want the utility to maintain it; you’re going to 
+want the utility to do a good job.  None of this is free.  There is no free ride.  
+The utility passes all those costs onto ratepayers.  And, I’m explaining why 
+I’m saying this all to you, because part of the reason I’m telling you this is 
+this body -- the BPU -- have imposed requirements on utilities to do certain 
+ 
+ 
+ 
+90 
+things.  The utilities are very happy to do energy efficiency; very happy to 
+do electric vehicles.  As long as they earn that return back. 
+ 
+ 
+So, keep in mind that when you see they’re investing a million 
+dollars, that doesn’t mean that rates are going to go up a million dollars -- 
+that means rates are probably going to go up about $1.1 million for an 
+average customer. 
+ 
+ 
+So, I am going to kind of spend a little bit of time on State 
+rates, and then I do want to touch on Federal.  I do have the advantage of 
+going after everybody, so I kind of get to rebut people -- again, being the 
+skunk in the picnic. 
+ 
+ 
+First of all, I am going to focus a little bit on ACE, because, 
+honestly, that’s why we’re here, and because they’re first alphabetical so it’s 
+just easier.  What I did was -- and, this is a lot more detailed in my 
+testimony -- I went over the last year to see how much rates have gone up 
+from the summer of 2023 to the summer of ’24, because I wanted to see 
+what the difference was, and, there was a significant increase.  Now, to be 
+fair, there were four rate decreases by ACE as well that were implemented 
+over the course of that year. 
+ 
+ 
+But, the first one I want to touch on is of course the BGS, 
+which we’ve talked about a lot, and I think you all understand that now a 
+little bit better.  But, the BGS, it is a pass-through, and that is a significant 
+increase.  On September 1, 2023, rates in Atlantic City Electric went up 
+$2.08 per month for the average customer.  And, I want to point out there’s 
+no such thing as an “average customer.”  What this means is we take the 
+amount of usage and we divide it by the amount of customers.  So, $2.08 is 
+not the number you’re going to see, but it’s a good bellwether to see how 
+ 
+ 
+ 
+91 
+much rates are going up or down.  And, it’s just the only way we can really 
+compare things. 
+ 
+ 
+The next thing ACE did was they implemented an 
+infrastructure improvement program.  This is a clause mechanism -- and I 
+want to take a step back and talk about ratemaking.  And, again, I’m sorry 
+that I get so excited about this, but it’s, to me, it’s very important.  There 
+are two ways that our rates are implemented in the state:  Through what’s 
+called a base rate case, which is a big case where we look at everything the 
+utility has done in the last -- since the last rate case -- to earning, how much 
+they need, to offsets to make sure that they’re not over-earning.  So, that is 
+a holistic view of the utility, and that is really important that the Board has 
+those periodically.  I would argue that we should have them more than we 
+do, but we have periodic, where we look at everything.  And, that way we 
+can make sure that we’re offsetting any gains elsewhere in the company. 
+ 
+ 
+There’s also clauses.  Clauses are single-issue ratemaking.  That 
+means that we only look at one issue.  So, the infrastructure improvement 
+programs are putting facilities -- infrastructure facilities that are needed -- 
+into rates, and then rolled into rates in between base rate cases.  So, what’ll 
+happen is ACE has to come in and say, get approved the infrastructure 
+program; they said, “We’ve done $22 million worth of work, we want our 
+money.”  On that case, I can’t go and look and say, “OK, we did $22 
+million here; but, you did pretty good over here; so, maybe you only need 
+$10 million.”  I’m not allowed to do that.  I’m also not allowed to look and 
+see whether that investment was prudently done or not at that time.  I have 
+to wait until the rate case to see when it was prudently done.  I may have to 
+ 
+ 
+ 
+92 
+wait five years just to look into a program to see if those facilities were 
+prudently invested in. 
+ 
+ 
+And, I can tell you right now, it is extremely difficult after 
+facilities are in the ground for two to three years for me to say that I am, 
+“You know what?  That electric wire was the wrong size,” or, “That pipe 
+was too big, and you need to downsize it.” 
+ 
+ 
+So, also, ACE came in for a base rate case in that period of time 
+-- that was their first rate case in three years, but they came in for a base 
+rate case.  That is where I got to look at everything.  But, we are mandating 
+that our utilities invest significantly.  It makes it very difficult for me to 
+push down rates when we’re mandating investment and they are making the 
+investments.  And, to their credit, for the most part, 99.99% of the 
+investments are prudently done.  I’m not finding that utilities are gold 
+plating -- for the most part -- and, we do argue on the ins and outs.  But, for 
+example, water is a much easier example to give.  Water-treatment plants--  
+One of the companies came in for a $24-million increase for a very small 
+water plant facility because they had to build a treatment center for the 
+PFAS and PFOS, that they were required to treat.  I looked at it, and there 
+was really nothing I could do.  That rate increase went through; it’s not as it 
+was maybe five years ago, where there might be some fat I could trim.  The 
+utilities are doing a better job, but we’re mandating that they do more 
+investment. 
+ 
+ 
+So, I just want to focus back on ACE real fast.  Over the 
+summer, the average customer saw an increase of $23.64.  That is the 
+increase in rates that they saw.  Now, we’ve heard many times, customers 
+don’t really care about the rate, they care about the bill.  So, you have to 
+ 
+ 
+ 
+93 
+take that rate and then multiply it by the usage.  Now, had that rate gone 
+up, ACE’s customers would have seen a pretty hefty increase regardless.  
+But, then, we couple that with a historically high summer, which was -- 
+2023 was a historically lower summer -- so, if you look at the five-year 
+averages, 2023 has the lowest usage and 2024 has the highest usage.  If you 
+take the high usage, you take the higher rates, that’s why you’re seeing 
+these higher bills. 
+ 
+ 
+And, in my testimony, I put in for the other utilities as well 
+how this works, but it’s essentially the same for the utilities.  Obviously, the 
+temperature and usage is the same, but also the rates have gone up 
+significantly.  So, I want to talk a little about what you can do on the State 
+level. 
+ 
+ 
+One is, stop passing legislation that increases utility bills.  Every 
+time there’s a mandate passed by the Legislature, it increases bills.  And, I 
+want to give you some examples.  The ZECS, when we subsidize the nuclear 
+power plants, 275 a month for customers -- rates on their rate -- on their 
+bills.  There was something called the RESIC recently, that the Legislature 
+passed last year.  American Water customers will be paying $2.32 more per 
+month because -- just because of the RESIC.  If you look at the clauses that 
+are inside the BPU, there’s the DSIC and the (indiscernible) -- sorry, we 
+love our abbreviations in the Public Utilities. 
+ 
+ 
+But, the clauses -- American Water got a massive increase last 
+year of $12.33 a month.  Of that increase, $7 a month were clause cases 
+investment clauses.  So, we’re forcing them to invest, and they’re not doing 
+that for free.  They’re coming back and they’re seeking their money. 
+ 
+ 
+ 
+94 
+ 
+ 
+I want to talk a little bit also--  I know I’m probably running 
+out of time, but I do want to talk about the BRA results a little bit as well, 
+the PJM auction.  That auction will go--  That will impact us starting in 
+June of 2025.  Rates for the average customer in New Jersey will go up $12-
+15 a month because of that auction.  Just because of that auction, you are 
+going to see a $12- to $15-a-month increase.  Now, what I really want to 
+point out is that supply and demand is not solely to blame for this.  There 
+are other reasons why, and I don’t want to get into all the details, but the 
+PJM has an independent market monitor.  He has reviewed the auction 
+results.  Because of the rules that the auction has, the rates have gone up.  
+Supply and demand probably would have resulted in about $160-770.  The 
+other hundred are market rules.  And, again, in my testimony -- I know I’m 
+running out of time -- so, in my testimony I outline what that was. 
+ 
+ 
+Also, transmission costs are run by PJM.  I put in my 
+testimony, one of the things you can do is pass a law for oversight of 
+transmission.  Right now there is no oversight -- Federal or State oversight -- 
+of transmission build right now.  Nobody is looking at what’s happening in 
+New Jersey.  Billions of dollars have been spent in transmission, and 
+nobody--  PJM doesn’t look at it; FERC doesn’t look at it; and the BPU 
+can’t look at it.  But, in other states, they are--  The Commission is allowed 
+to look at it.  This is something that you can do; you can pass legislation 
+that will allow the BPU to hold a hearing and look at transmission and 
+make sure it’s needed and it’s the right cost. 
+ 
+ 
+And, I am going to ask you all to please read my testimony and 
+take questions, because I know I’ve indulged you more than I probably 
+already should have. 
+ 
+ 
+ 
+95 
+ 
+ 
+Thank you very much. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thanks, Brian.  
+ 
+ 
+Does anybody have any questions for Brian? 
+ 
+ 
+Yes, Chris. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  You mentioned that -- that’s 
+OK, they can hear me -- you mentioned that PJM can influence rates by 
+setting bid rules, or auction rules.  Can you expand on that a little bit? 
+ 
+ 
+MR. LIPMAN:  Yes, I’d be happy to. 
+ 
+ 
+So, you heard before about the PJM market, and it’s -- I am 
+going to use air quotes -- “market.”  It’s not the market that you would 
+think of; it’s an administrative construct.  So, it is--  It has a number of 
+rules on how you bid in; who can bid in; who doesn’t have to bid in; and 
+small changes in those rules can have a massive effect. 
+ 
+ 
+And, I’ll give you a really good example out of Maryland.  
+There were two facilities that retired -- that are retiring coal plants -- that 
+are retiring.  PJM said, “Woah, woah, you can’t retire right now.  We need 
+you,” and gave them what’s called--  Our reliability must run contract.  That 
+means that they are going to run until PJM can figure out what to do to fix 
+that problem.  They did not bid into the auction because they weren’t 
+forced to bid into the auction.  That was 2,000 megawatts that didn’t bid 
+into the auction. 
+ 
+ 
+Had they bid into the auction -- that I believe I heard over here 
+the $14 billion number of the auction -- would have gone down by $5 
+billion.  So, that simple change in the rule could have made a huge 
+difference.  We have written a letter to PJM asking them to make that 
+change.  They have refused; they have not made that change.  The Board of 
+ 
+ 
+ 
+96 
+Public Utilities, through its organization called (indiscernible), has now 
+asked PJM again to make that change, and my guess is you will see 
+significant litigation at FERC over those rules in the next several months.  
+But, the big concern is the next auction is in December. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  So, one last little problem, if I 
+can. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Absolutely. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  What sort of motivation 
+would PJM have to produce rules that cost us money? 
+ 
+ 
+MR. LIPMAN:  Well, there’s been complaints that the market 
+prices were too low-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  By who? 
+ 
+ 
+MR. LIPMAN:  By generators, by suppliers. 
+ 
+ 
+And, keep in mind that PJM ultimately is a TO organization -- 
+an organization that is run by transmission (indiscernible) organizations.  
+And, if they don’t have the TOs buying, and they don’t have generation, 
+they don’t have an organization.  So, it’s a little more than just supply and 
+demand dynamics.  And, it is concerning-- 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  It sounds like maybe a little 
+collusion. 
+ 
+ 
+MR. LIPMAN:  I don’t know that I would go quite that far, but 
+I would certainly argue that PJM favors one sector over another in a 
+number of areas. 
+ 
+ 
+ASSEMBLYMAN BARRANCO:  Thank you for that. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  In your opinion. 
+ 
+ 
+MR. LIPMAN:  Yes, I’m sorry, in my opinion. 
+ 
+ 
+ 
+97 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Any other questions? 
+ 
+ 
+Yes, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Chairman, if you don’t mind. 
+ 
+ 
+First off, Mr. Lipman, thank you for this extensive 10 page-- 
+ 
+ 
+MR. LIPMAN:  (laughter) 
+ 
+ 
+ASSEMBLYMAN MARENCO:  Thank you for not reading it, 
+too. 
+ 
+ 
+MR. LIPMAN:  (laughter) 
+ 
+ 
+ASSEMBLYMAN MARENCO:  You said something, and I’d 
+like to take advice not to -- to the Legislature -- the advice of Legislature is 
+not to come up with initiatives because it seems to--  I might be saying it 
+wrong.  It keeps costing the customers, our residents, our constituents, more 
+each time. 
+ 
+ 
+Are there other states in the country that follow that advice?  
+And, how do they stay in front of advocating for their residents more ideas, 
+new technologies, without costing them? 
+ 
+ 
+MR. LIPMAN:  Well, I would never say not to pass any 
+legislation.  I think that would be a ridiculous statement for me to make-- 
+ 
+ 
+ASSEMBLYMAN MARENCO:  We’ll never stop doing that. 
+ 
+ 
+MR. LIPMAN:  Right.  (laughter) 
+ 
+ 
+ASSEMBLYMAN MARENCO:  That’s our thing. 
+ 
+ 
+MR. LIPMAN:  But, what I would say is that you really need to 
+consider the impact of what you’re doing.  And, what I had said was to stop 
+putting mandates on utilities.  When you put a mandate on a utility, like 
+the Clean Energy Act, then what happens is they come to the BPU with $7 
+billion-- 
+ 
+ 
+ 
+98 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Brian, let me just say that 
+your band-aid approach to saying this--  It’s your opinion, right? 
+ 
+ 
+MR. LIPMAN:  Yes. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  So, you’ve sat before this 
+Committee before -- and others from the ratepayer has been. 
+ 
+ 
+I can tell you that the Legislature on all the bills that we’ve 
+moved -- I don’t want to be disingenuous by saying they voted because they 
+thought it was moving  -- New Jersey in the best direction for the energy at 
+that time. 
+ 
+ 
+So, I don’t -- I don’t want you to say-- 
+ 
+ 
+MR. LIPMAN:  I do want-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Just stick to your focus of the 
+facts.  I get--  I get it. 
+ 
+ 
+MR. LIPMAN:  I don’t disagree with you, and I also--  I will 
+candidly admit that my focus is on rates, and that’s because that’s my job; 
+my job is to focus on rates. 
+ 
+ 
+But, when you look at something like a Clean Energy Act where 
+they come in with a huge amount, there’s not a lot we can do as Rate 
+Counsel to fight that, because the Legislature has already deemed what it’s 
+going to be.  And, there are things in there that should have been left, 
+perhaps, to discretion of the Board.  Perhaps it could have been better done, 
+in my opinion. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  In your opinion. 
+ 
+ 
+MR. LIPMAN:  I was going to say, “In my opinion.” 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  All right, thank you. 
+ 
+ 
+Do you got any follow-up questions for him? 
+ 
+ 
+ 
+99 
+ 
+ 
+ASSEMBLYMAN MARENCO:  No, you covered it well for me, 
+Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Assemblyman.  After two and 
+a half hours, I’m going to come over there, (indiscernible) 
+ 
+ 
+ASSEMBLYMAN KANITRA:  I’m done in thirty seconds.  It’s 
+more statements. 
+ 
+ 
+Someone who has been involved in Federal and State 
+government as long as I am, you get a little bit jaded and everything. 
+ 
+ 
+I just want to commend you for doing your job.  You are an 
+example of somebody who seems to be very knowledgeable, very objective, 
+very non-partisan.  You have a task; you were assigned to do something; 
+and--  I mean, I don’t know if you’re going to get yelled at when you leave 
+this hearing or if somebody higher up is going to give you a ton of whatever-
+-  
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Assemblyman, do you have a 
+question for him, besides rattling on about-- 
+ 
+ 
+ASSEMBLYMAN KANITRA:  Thank you for saying, “Stop 
+passing legislation that increases utility bills.” 
+ 
+ 
+Thank you, Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you for your 
+testimony. 
+ 
+ 
+MR. LIPMAN:  You’re welcome, Assemblyman. 
+ 
+ 
+And, again, we are a State agency, so-- 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  I understand. 
+ 
+ 
+And, last but not least, AARP. 
+ 
+ 
+Evelyn. 
+ 
+ 
+ 
+100 
+E V E L Y N   L I E B M A N:  Thank you, Mr. Chairman. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Good afternoon. 
+ 
+ 
+MS. LIEBMAN:  Good afternoon. 
+ 
+ 
+Thank you, Vice Chair Kennedy, and the members of the 
+Committee for holding this important hearing. 
+ 
+ 
+I know we’ve been here a long time; you have my written 
+comments, and I’ll try to be brief. 
+ 
+ 
+I am the Director of Advocacy for AARP New Jersey, 
+representing our 1.1 million Garden State members -- and all older New 
+Jerseyans. 
+ 
+ 
+Utility rates are an essential pocketbook issue for New Jersey 
+residents 50 and better -- as we like to say -- and their families, many of 
+whom struggle to pay their utility bills along with other household expenses 
+like food and medicine.  Affordable, reliable, and sustainable energy is 
+essential to health, safety, and well-being.  Home energy prices that are high 
+were unpredictable, make it very difficult for people to cool and heat their 
+homes adequately. 
+ 
+ 
+Such exposure can lead to a host of adverse health outcomes 
+that older adults are particularly susceptible to.  These can range from the 
+aggravation of chronic health conditions to food spoilage, undue stress, and 
+even premature death.  At the same time, we know that moving toward 
+more sustainable sources of energy that are cost effective and reliable is 
+increasingly important for older adults, their children, and their 
+grandchildren. 
+ 
+ 
+In 2022 -- so, two years ago -- AARP commissioned a poll of 
+New Jersey’s 50-plus voters, and they said that utility bills are the second-
+ 
+ 
+ 
+101 
+most difficult household expense to pay each month.  This was a statewide 
+poll across all of our utility service territories, second only to New Jersey’s 
+highest-in-the-nation property taxes.  Given recent rate increases, the 
+affordability of the utility rates -- or their utility bills -- have only gotten 
+worse for far too many.  And, as we’ve heard, more rate increases are 
+coming. 
+ 
+ 
+New Jersey isn’t alone in this situation.  According to Federal 
+data, as many as one in three households in the U.S. struggle to pay their 
+monthly energy bills.  But, whether it’s rising prices or the need to use more 
+electricity in the face of rising temperatures, or a combination of the two, all 
+consumers need access to utility services regardless of factors such as 
+geography, race, ethnicity, ability level, and income simply to stay safe and 
+healthy, why we call these services “lifeline services.” 
+ 
+ 
+I will say -- and, as you’ve heard a little bit about it -- but New 
+Jersey has really been a leader in utility bill payment-assistance programs.  
+In particular, New Jersey’s Universal Service Fund program is among the 
+best in the nation, and is designed to ensure that low-income consumers’ 
+energy burden is affordable.  Under the USF program, eligible--  It provides 
+a monthly credit on gas and electric bills for eligible households so that 
+their energy burden -- meaning the percent of income that they have to pay 
+for their energy -- is no more than 4% of income; 2% for electricity, 2% for 
+gas.  The USF program also includes an important arrearage-forgiveness 
+program called Fresh Start, that helps consumers who qualify and who are 
+in arrears get back on track to paying their regular monthly bill. 
+ 
+ 
+ 
+102 
+ 
+ 
+But, we know New Jersey can do more.  We can do more 
+outreach; we can do more education; and ensure a higher percentage of 
+those who qualify for this program actually are able to access it. 
+ 
+ 
+We know that extreme heat -- I should say, perhaps, this was 
+calculated before the terrible tragedy of Hurricane Helene -- the National 
+Weather Service has calculated that extreme heat results in more deaths 
+each year than any other weather event including floods, hurricanes, and 
+tornadoes.  We know, according to the Environmental Protection Agency, 
+that heat waves are occurring more often than they used to in major cities 
+across the United States.  Their frequency has increased steadily from an 
+average of two heat waves per year during the 1960s to six per year during 
+the 2010s and the 2020s.  According to the EPA -- and, I think we’ve all 
+experienced it -- heat waves are occurring earlier and they’re occurring later, 
+in both the late spring and early fall. 
+ 
+ 
+Right now, New Jersey currently prohibits utility shutoffs on 
+days that are very cold -- forecast temperatures below 32 degrees all day -- 
+but, also, we prevent utility shutoffs on days that are very hot -- forecast 
+temperatures that are 90 degrees or higher.  New Jersey should consider 
+expanding shutoff protections during the cooling season, given the serious 
+health and safety problems that they present, particularly to older 
+consumers.  Like our winter-termination moratorium program that protects 
+certain customers against shutoffs during the heating season, New Jersey 
+could establish a cooling season and broader protections for consumers 
+during this period. 
+ 
+ 
+New Jersey should also consider increasing eligibility for bill-
+payment assistance programs like USF, like Lifeline, and this year’s one-
+ 
+ 
+ 
+103 
+time residential energy assistance payment for the program that you heard 
+the BPU President talk about.  We should consider doing that next year, 
+and in subsequent years as well.  Along with the bill-payment assistance 
+programs, increasing assistance to weatherize and make dwellings more 
+energy efficient will also increase access to affordable and reliable utility 
+service, as it helps people reduce their energy consumption. 
+ 
+ 
+We’ve talked about this in a number of areas, but New Jersey 
+utility customers -- particularly low-income customers -- would be very well 
+served if New Jersey had a good, simple, easy-to-use one-stop shopping 
+system to access not just utility-assistance programs, but other safety net 
+programs like food, health, housing assistance.  Everything matters when 
+you’re looking at your monthly budget, and, so, if you qualify for help for 
+health insurance or housing or food stamps and utilities, one will help make 
+the other more affordable.  Unfortunately, in New Jersey, we have a pretty 
+fractured application system, and folks have a difficult time accessing all of 
+those programs at once. 
+ 
+ 
+We very much agree with Rate Counsel, and, let me just say, 
+one of the best things that New Jersey does for older utility consumers -- 
+but, really, every utility consumer -- is we have a statutory Division of Rate 
+Counsel.  We have a statutory consumer advocate that goes before the 
+Board of Public Utilities in every rate case and advocates specifically for 
+consumers.  Many states don’t have that, and I can assure you that if we 
+didn’t have a Division of Rate Counsel, our rates would be higher than they 
+are today. 
+ 
+ 
+We very much agree with the Division of Rate Counsel that 
+New Jersey should get back to basics when it comes to setting rates; rely less 
+ 
+ 
+ 
+104 
+on these external charges, fees, trackers, and set rates through a 
+comprehensive base rate case proceeding where the Board staff, the Division 
+of Rate Counsel, interveners who represent organizations like mine, or large 
+corporations, can actually have an opportunity to view the full set of books 
+and make a fairer and better determination on what is reasonable. 
+ 
+ 
+The separate charges, the separate fees, the separate trackers -- 
+which allow for less oversight and less transparency -- make it more difficult 
+to really be able to say that all of our rates are just and reasonable. 
+ 
+ 
+And, I also wanted to mention the rate of return.  As Brian 
+testified, the current return on equity is 9.6%.  That’s the profit that 
+utilities are allowed to earn, and something that we think could be 
+evaluated a little more closely, particularly in these times when rates are so 
+unaffordable for too many.  And, I think that that’s something that the 
+Board of Public Utilities should consider in looking at rates across the 
+board.  Especially since--  And, I very much appreciate, Mr. Chairman, your 
+comments at the beginning of the hearing about how our market is 
+changing.  It is dramatically changing.  For the last 20 years, utility 
+electricity loads have been flat in most areas of the country.  Energy 
+efficiency measures and sluggish power demands meant flat sales.  But then, 
+in the last few years, the push to electrify appliances in the transportation 
+sector has caused the potential for load growth -- meaning more sales, 
+meaning more profits for the utility industry, a more profitable market, if 
+you will.  And, most recently -- as you mentioned, Mr. Chairman -- the rise 
+of electricity demand for data centers, artificial intelligence, cryptocurrency 
+mining, and an improved economy, have caused load growth reductions to 
+spike even further. 
+ 
+ 
+ 
+105 
+ 
+ 
+We would urge you, as well as regulators, to make sure that 
+commercial customers -- not residential customers -- pay for investments 
+needed to support great infrastructure and generation for those commercial 
+uses.  And, that you and the Board of Public Utilities ensure that residential 
+ratepayers have access to reliable and affordable energy when considering 
+policies that would increase electricity use.  It’s kind of stunning to me, the 
+other day I was in the car driving and a story came on the radio that in 
+Pennsylvania they’re considering restarting Three Mile Island to support 
+the load needed for some large data centers.  And, so, if there’s any 
+indication of how this market is changing, I thought that really said it all. 
+ 
+ 
+And, so, we encourage you to make sure that our seniors, that 
+all customers, are protected, especially during these dramatic market -- 
+changes in the market. 
+ 
+ 
+ASSEMBLYMAN DeANGELO:  Thank you for your 
+comments. 
+ 
+ 
+Are there any Committee members who have any questions?  
+(no response) 
+ 
+ 
+Do Committee members have any questions? 
+ 
+ 
+Thank you very much for your testimony. 
+ 
+ 
+Ladies and gentlemen, that concludes all the individuals 
+speaking today. 
+ 
+ 
+I appreciate everybody sitting here for the three hours, and the 
+dialogue, and I just would urge my colleagues, thank you for your being in 
+attendance the whole three hours. 
+ 
+ 
+And, as you’re considering the legislation, please keep me in the 
+loop. 
+ 
+ 
+ 
+106 
+ 
+ 
+Meeting adjourned. 
+ 
+(MEETING CONCLUDED) 
+ 
