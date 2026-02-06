@@ -1,0 +1,4058 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+“The Committee will meet to hear testimony from invited guests 
+ on actions the State could take to foster a circular, clean energy economy” 
+ 
+“The Committee will also take testimony, for discussion only,  
+on Senate Bill 426, which requires producers of packaging products sold in New Jersey 
+to adopt and implement packaging product stewardship plans” 
+ 
+LOCATION: 
+Committee Room 6 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+June 13, 2022 
+1:00 p.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT:                   
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice-Chair 
+Senator Fred H. Madden Jr.  
+Senator Edward R. Durr Jr. 
+Senator Jean Stanfield 
+ 
+ 
+ 
+ 
+ 
+ 
+ALSO PRESENT:  
+ 
+Eric Hansen 
+ 
+ 
+ 
+Tom Little 
+ 
+ 
+Rebecca Panitch 
+Office of Legislative Services 
+ 
+Senate Majority Office                Senate Republican Office 
+Committee Aide  
+ 
+ 
+Committee Aide  
+ 
+Committee Aide 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+ 
+ 
+Mark Z. Jacobson, Ph.D. 
+Professor, and 
+Department of Civil and Environmental Engineering, and 
+Director 
+Atmosphere /Energy Program 
+Department of Civil and Environmental Engineering, and 
+Senior Fellow 
+Precourt Institute for Energy, and 
+Senior Fellow 
+Stanford Woods Institute for the Environment 
+ 
+Stanford University 
+1 
+ 
+Judith Enck 
+President and Founder 
+Beyond Plastics, and 
+Senior Fellow and Visiting Faculty Member 
+Center for the Advancement of Public Action 
+Bennington College, and 
+Former U.S. Environmental Protection Agency Regional Administrator  
+(appointed by President Obama) 
+19 
+ 
+Brennan Georgianni 
+Director 
+State Government Affairs 
+The American Cleaning Institute (ACI) 
+29 
+ 
+Bree Dietly 
+Principal 
+Breezeway Consulting LLC 
+Representing 
+American Beverage Association 
+30 
+ 
+ 
+Greg Costa 
+Representing 
+Consumer Brands Association  
+38 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+Page 
+ 
+Gary Sondermeyer 
+Representing 
+Association of New Jersey Recyclers (ANJR) 
+43 
+ 
+Tony Russo 
+President 
+Commerce and Industry Association of New Jersey (CIANJ)                                                48                   
+ 
+ 
+Eric Benson 
+Director 
+New Jersey Campaign 
+Clean Water Action 
+49 
+ 
+Lewis Dubuque 
+Vice President 
+National Waste and Recycling Association (NWRA) 
+51 
+ 
+Jennifer M. Coffey 
+Executive Director 
+The Association of New Jersey Environmental Commissions (ANJEC) 
+55 
+ 
+Raymond Cantor, Esq. 
+Vice President 
+Government Affairs 
+New Jersey Business and Industry Association (NJBIA) 
+58 
+ 
+Doug O’Malley 
+Director 
+Environment New Jersey (ENJ) 
+60 
+ 
+Ed Waters 
+Senior Director 
+Government Affairs 
+Chemistry Council of New Jersey (CCNJ) 
+65 
+ 
+Isaac Bearg 
+Vice President 
+New Jersey Composting Council 
+68 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+ 
+Page 
+ 
+ 
+Carol Katz 
+Principal 
+Katz Government Affairs, LLC 
+Representing 
+American Forest and Paper Association (AF&PA) 
+70 
+ 
+Abigail Sztein 
+Director 
+Government Affairs 
+Representing 
+American Forest and Paper Association (AF&PA) 
+70 
+ 
+Sameka Ferdous 
+Canvass Campaign Coordinator 
+Environment New Jersey (ENJ) 
+73 
+ 
+Chris Tandazo 
+Community Connections Program Manager 
+New Jersey Environmental Justice Alliance (NJEJA) 
+75 
+ 
+Anjuli Ramos-Busot 
+Chapter Director 
+New Jersey Chapter 
+Sierra Club 
+80 
+ 
+Chloe Desir 
+Environmental Justice Organizer 
+Ironbound Community Corporation 
+83 
+ 
+Mary Ellen Peppard 
+Vice President 
+New Jersey Food Council 
+85 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+ 
+Page 
+ 
+Sarah Bloomquist 
+Director 
+Public Affairs 
+Recycling and Circular Economy 
+TOMRA Solutions  
+90 
+ 
+APPENDIX: 
+ 
+PowerPoint Presentation 
+submitted by 
+Mark Z. Jacobson, Ph.D. 
+1x 
+ 
+PowerPoint Presentation, plus 
+Testimony, plus`` 
+State of New York State Assembly Proposal 
+submitted by 
+Judith Enck 
+31x 
+ 
+Testimony 
+submitted by 
+Brennan Georgianni 
+103x 
+ 
+Testimony 
+submitted by 
+Bree Dietly 
+104x 
+ 
+Testimony 
+submitted by 
+Doug O’Malley                                                                                                                    112x 
+ 
+ 
+Testimony 
+submitted by 
+Abigail Sztein and Carol Katz 
+116x 
+ 
+Testimony 
+submitted by 
+Chris Tandazo 
+119x
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+APPENDIX (continued) 
+ 
+ 
+Page 
+ 
+Testimony 
+submitted by 
+Mary Ellen Peppard 
+122x
+ 
+ 
+Testimony 
+submitted by 
+Sarah Bloomquist 
+125x 
+ 
+Testimony 
+submitted by 
+Alex Schenck 
+Senior Manager 
+Environmental Policy 
+PepsiCo North America 
+131x 
+ 
+Testimony 
+submitted by 
+Gary Sondermeyer 
+134x 
+ 
+dmt:1-100 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+SENATOR BOB SMITH (Chair):  Welcome to the most 
+interesting Committee in the Legislature.   
+ 
+We have a very, very interesting day today, and another 
+interesting day Thursday. 
+ 
+So first, you will note on my left is Senator Madden, who is 
+substituting for Governor Codey today.  And the news -- not of today’s 
+meeting, but on Thursday -- we’re taking up the Liberty State Park Bill.  So, 
+if you have something to say about it -- this is Senator Stack’s bill; Senators 
+Stack, Cunningham, and Sacco -- that will be Thursday, special meeting, 10 
+a.m. 
+ 
+And, today we have some great stuff on the agenda.  But, before 
+we get to the agenda, we have Mark Jacobson, a professor at Stanford 
+University.  And we’re wiring him in from where? 
+ 
+MR. HANSEN (Committee Aide):  Palo Alto. 
+ 
+MS. PANITCH (Committee Aide):  California. 
+ 
+SENATOR SMITH:  What’s that? 
+ 
+MR. HANSEN:  Palo Alto, California. 
+ 
+SENATOR SMITH:  Palo Alto, California.  So, don’t you ever 
+say that the West Coast doesn’t care about the East Coast. 
+ 
+Is the Professor on the line? 
+ 
+MS. PANITCH:  Yes. 
+ 
+SENATOR SMITH:  Okay. 
+M A R K   Z.   J A C O B S O N,   PH.D.:  Yes, hello. 
+ 
+SENATOR SMITH:  So, Professor, while the screen is getting set 
+up, we have been starting every meeting of the Environment Committee in 
+New Jersey with a recognized expert on global climate change, trying to find 
+ 
+ 
+2 
+ 
+what the solution is.  And, we understand you are very highly thought of in 
+the scientific community, and you have a unique point of view. 
+ 
+So, with that, maybe you can tell us what that unique point of 
+view is. 
+ 
+(Dr. Jacobson refers to his PowerPoint slides in his presentation) 
+ 
+ 
+DR. JACOBSON:  Yes; thank you very much.  And, I appreciate 
+the opportunity to talk about New Jersey’s potential to transition entirely to 
+clean renewable energy. 
+ 
+And, I’m going to go through a slide presentation.  I’ll try to go 
+pretty quickly.  I have, I’m told, about 20, 25 minutes. 
+ 
+So, I’m going to talk about transitioning New Jersey -- and not 
+only New Jersey, but the U.S. and the world -- to 100 percent clean renewable 
+energy and storage.  And, we actually just completed new a paper at the end 
+of last year on transitioning each of the 50 U.S. states to 100 percent clean 
+renewable energy.  And, I’ll talk about that as well as a paper that’s coming 
+out pretty soon on transitioning 145 countries to entirely clean renewable 
+energy. 
+ 
+Next slide, please. 
+ 
+So, I’m looking at this from three problem points of view.  One 
+is, air pollution; another is climate change; and a third is energy security.  I 
+mean, my work-- I’ve been working for over 30 years on trying to understand 
+and solve large-scale air pollution and climate problems through clean 
+renewable energy.  Worldwide, 7 million people die prematurely each year 
+from air pollution, the second-leading cause of death worldwide; about 1,100 
+ 
+ 
+3 
+ 
+per year in New Jersey from air pollution.  Worldwide, it costs about $30 
+trillion per year, based on statistical costs of life.   
+ 
+Global warming is a rising and serious problem that is estimated 
+to cost on the order of $30 trillion per year, as well, by 2050.  We can already 
+see the consequences of that in terms of enhanced wildfires, enhanced 
+storminess, heat stroke, heat stress, loss of agriculture, drought, floods, more 
+severe weather, and also increased air pollution. 
+ 
+Our third problem is that fossil fuels are limited resources; and, 
+as they dwindle over time, their costs are going to go up.  Right now, we see 
+the cost of gasoline going up significantly; natural gas is also rising in costs.  
+This is due to another type of energy and security as well, which is basically 
+the fact that when you have some countries controlling the energy of other 
+countries, and one country then uses that energy as a weapon.  You can see 
+how costs can go up significantly. 
+ 
+There are other types of energy and security issues as well, but I 
+don’t have time to go into them. 
+ 
+Anyway, these are three drastic problems that require immediate 
+solutions. 
+ 
+Next slide, please. 
+ 
+So, our solution is to electrify all energy.  And, while I say electrify 
+-- almost all energy, maybe 98 percent, will be electricity -- there might be a 
+little bit of direct heat as well -- and then provide the electricity and the heat 
+with entirely clean renewable energy which we call wind, water, and solar power 
+because the energy is, primarily, wind, water, and solar. 
+ 
+So, for example, for transportation we’d go to all electricity; so 
+either a battery-electric or hydrogen fuel cell electric vehicles.  
+ 
+ 
+4 
+ 
+ 
+Now, the hydrogen would be used primarily for long-distance 
+heavy transport -- like long-distance ships and aircraft, trains, and trucks -- 
+but not for passenger vehicles.  Even though hydrogen -- if it’s what’s called 
+green hydrogen, which is hydrogen produced from renewable electricity -- even 
+though that’s clean, it’s not as efficient for passenger vehicles that are just 
+pure battery-electric vehicles.  It will take three times the number of wind 
+turbines, for example, to run a hydrogen fuel cell passenger vehicle, compared 
+with a battery-electric passenger vehicle.  However, when you get to heavier 
+long-distance transport, the tables turn and hydrogen actually becomes more 
+advantageous at some point. 
+ 
+For aircraft, that point is for aircraft flights longer than 1,500 
+kilometers.  For shorter flights, you’d want to use battery-electric; for longer 
+flights, hydrogen fuel cells.  In fact, we found-- We did a study recently that 
+looked at all transportation in the U.S. military -- that’s air, land, and sea – 
+and, we found that you could use either one.  Batteries and hydrogen fuel 
+cells could be used for short-distance forms of military transportation 
+including tanks, armored vehicles, aircraft, and ships.  But, for the long-
+distance heavy, you can only use hydrogen fuel cells, based on published 
+technology. 
+ 
+For heating and cooling, we’d go to electric heat pumps which 
+use one-fourth the energy as natural gas heaters.  And, heat pumps run on 
+electricity, and we provide the electricity with wind, water, and solar.   
+ 
+There would be something called district heating, where you’d 
+have centralized heaters and coolers for urban areas – with dense urban areas.  
+And 7 percent of the U.S. is under district heating.  So, that’s when you have 
+centralized heaters and old pipe hot water, for example, in buildings, and you 
+ 
+ 
+5 
+ 
+then heat the buildings with the hot water.  And, then we’ll have some 
+geothermal direct heat and some solar direct heat as well. 
+ 
+And, for industry, we would electrify industry as well with 
+existing technology -- electric arc furnaces, induction furnaces, resistance 
+furnaces, dielectric heaters, and electron beam heaters.  And, in all cases, the 
+electricity, or direct heat, will be provided with just wind, water, and solar.  
+So, that’s onshore and offshore wind, solar photovoltaics on rooftops and in 
+power plants, concentrated solar power, geothermal electricity, hydroelectric 
+power, and small amounts of tidal wave power. 
+ 
+Next slide, please. 
+ 
+So, everything will be electrified, but we will need storage as well 
+for this complete system because the wind doesn’t always blow, and the sun 
+doesn’t always shine.   
+ 
+So, there is a large--  There are a lot of storage options available 
+already and being implemented.  Concentrated solar power is associated with 
+storage.  There’s pumped hydroelectric power; it is actually the largest type 
+of storage installed in the world right now, except for existing hydroelectric 
+dams which are basically big batteries.  Batteries themselves-- The costs are 
+coming down and are being implemented widely in the world today for 
+stationary electricity storage. 
+ 
+And then there are flywheels, compressed air storage, and what’s 
+called gravitational storage.  Anyway, these are all existing technologies, and 
+they’re becoming more and more viable in terms of cost.  And, pumped hydro 
+is already relatively inexpensive, as it is concentrated solar power. 
+ 
+For heating and cooling, we’ll also need storage.  The types of 
+heating and cooling storage options are water tank storage, which is widely 
+ 
+ 
+6 
+ 
+available already; ice storage, which many stadiums and hospitals have ice 
+storage; and then underground seasonal storage of heat in boreholes, water 
+pits, and aquifers.  There are many examples of these already installed in, for 
+example, Canada and the Scandinavian countries. 
+ 
+Then storage of heat in building materials, as well as storage in 
+hydrogen.  Again, we’d only use hydrogen for limited purposes, I should 
+stress.  We only advocate for green hydrogen, not the blue hydrogen or gray 
+hydrogen, which are both from natural gas.  In our systems, we do not include 
+any natural gas; we do not include any carbon capture; we do not include 
+direct air capture; we do not include bioenergy; we do not include nuclear 
+power.  Our plans call for all wind, water, and solar power in the whole world, 
+for all purposes.  And, there’s a reason we don’t use direct air capture or 
+carbon capture, that’s because they basically allow the fossil fuel industry to 
+persist.  They do not work very effectively, and they increase air pollution 
+because you need 25 percent more energy.  If you put carbon capture on a 
+coal plant, you then need 25 percent of the energy from the coal plant just 
+to run the carbon capture equipment.  That increases the air pollution from 
+coal burning.  There’s 25 percent more mining of coal, and the amount of 
+carbon dioxide that’s actually captured is relatively small compared to what’s 
+emitted in the mining, transporting, and burning of the coal. 
+ 
+Anyway, that’s another story; but, we do not include those 
+technologies because they incur an opportunity cost.  It’s much more efficient 
+to replace a coal plant with wind or solar than to try to spend more money 
+on carbon capture and allow that coal plant to persist.  The same with natural 
+gas with carbon capture. 
+ 
+ 
+7 
+ 
+ 
+So, the hydrogen we do not include for the same reason we don’t 
+include hydrogen produced from natural gas, or hydrogen produced from 
+natural gas with carbon capture.  It just requires too much energy, too much 
+infrastructure, allows natural gas to continue, allows natural gas leakage 
+upstream to continue, and more mines.  There are 1.3 million active oil and 
+gas wells in the U.S., and there are 3.2 million abandoned wells.  The entire 
+fossil fuel industry takes up 1.3 percent the of U.S. land area.  And, there are 
+50,000 new oil and gas wells drilled in North America alone every year, and 
+we would need to continue that forever if we want to stay on natural gas.  
+The goal here is to eliminate all fossil fuels from buildings, from pipes, and 
+electric power, from everything, and just transition to clean renewable energy. 
+ 
+Next slide, please. 
+ 
+Before I talk about the plans for New Jersey and the world, I just 
+want to briefly talk about electrifying individual homes.   Because ultimately, 
+that’s what we need to do.  And, I want to talk about my own home very 
+briefly-- 
+ 
+Next slide, please. 
+ 
+--which is all electric.  I built it five years ago from the Stanford 
+University campus in California.  There’s no natural gas on the property.  
+There’s solar on the roof -- 13.6 kilowatts.  There are four Tesla first-
+generation wall-mount batteries in my garage that cost about one-fifth or 
+sixth of the cost of the solar, so it wasn’t very expensive.  So, I provide all my 
+electricity from solar; that’s more than enough that I need.  I store the 
+electricity for use at night so I can run 24/7 on solar, plus batteries, for about 
+three-quarters of the year.  I have two electric cars.  
+ 
+Next slide, please. 
+ 
+ 
+8 
+ 
+ 
+For heating, I use air source heat pumps.  Hopefully, we’re on 
+the heat pump slide; I can’t see which slide is being shown.  If not, you’ll need 
+to change the slide.  I use ductless mini-split heat pumps.  Heat pumps use 
+very little energy.  They use one-fourth the energy to heat a home, compared 
+with natural gas heaters or even electric-resistance heaters, because they don’t 
+create heat, they just move it around from outside the house to inside the 
+house.  Or, you can have a ground source heat pump that takes heat from the 
+ground and moves it to your house. 
+ 
+And, the same thing with air conditioning because heat pumps 
+run in reverse as air conditioners, and they’re very efficient. 
+ 
+Next slide, please. 
+ 
+For water heating, I use an electric heat pump water heater.  
+Again, this uses one-fourth the energy of a natural gas heater, and, it works 
+just as well, and heats the water perfectly.  It takes up very little space, just 
+like a normal water heater. 
+ 
+Next slide, please. 
+ 
+For cooking, I use an electric induction cooktop stove.  Most 
+people do not like electric resistance stoves because they don’t burn as well 
+as natural gas.  However, that problem goes away with electric induction 
+cooktops that boil water in half the time as gas.  They cook very evenly, and 
+the temperature can be controlled very well.  And, when you touch the stove, 
+it doesn’t burn your fingers because it’s not actually heating the stove.  It’s 
+heating the pot, not the stove. 
+ 
+In any case, induction cooktops are widespread.  There’s an 
+individual burner you see on the left.  I show that because, at the beginning, 
+I mentioned that many people die from air pollution each year, including a 
+ 
+ 
+9 
+ 
+couple of million from the indoor burning of fuel in homes in developing 
+countries, all due to home heating and cooking.  You can replace burning fuel 
+in your home with a single induction burner that costs $30 to $50, and that 
+eliminates pretty much all the air pollution from your home.  But in those 
+villages where people are burning these fuels, we need electricity.  So, we need 
+some solar and batteries to be used in remote microgrids for individual 
+communities that don’t have electricity.  Those can really go a long way 
+toward reducing air pollution problems. 
+ 
+Next slide, please. 
+ 
+So, over five years of energy use in my home, I generated 120 
+percent of all home and vehicle energy requirements.  I had no electric bill, 
+no natural gas bill, or gasoline bill for five years.  The extra electricity I was 
+able to sell to my community choice aggregation utility, which is called Silicon 
+Valley Clean Energy, and they pay for the extra electricity at the same price 
+that I would have paid for electricity at the same time of day.  And, so I have 
+received an average of $860 per year from my community choice aggregation 
+utility for the extra electricity. 
+ 
+So, by having an electric home, a new home, I avoided a gas 
+hookup fee, in my case, of $6,000 from that utility, Pacific Gas and Electric.  
+I’m showing an average here for typical new homes.  The hookup fee is about 
+$3,000 to $8,000, for the gas.  I avoided about $10,000 in gas pipes; and, 
+again, I’m showing a range of different cost of pipes.  And, I avoided an 
+electric bill, gas bill, and gasoline bill.  And, the actual avoided gasoline bill 
+would be much higher than I’m showing here. 
+ 
+So, up front, the average person will save about $5,000 to 
+$23,000 for equipment, hookup fees, and another $3,000 to $10,000 per 
+ 
+ 
+10 
+ 
+year; plus there are subsidies on this.  With subsidies, the payback time is 
+five years; without subsidies, it’s 10 years.  And, New Jersey has really good 
+solar, so I would hope that would be similar.  And, the solar there is 
+warrantied for 25 years, so, this is really a cost-effective way for new homes.  
+It’s also cost-effective for existing homes to retrofit, but it’s more expensive 
+than for a new home because you’re not getting enough savings eliminated in 
+the pipes, etc. 
+ 
+Next slide, please. 
+ 
+I just want to show one example of the hottest day of the year in 
+my area, which was in 2020 on September 6.  What happened?  The green 
+here shows the solar production on that day.  The blue during the day is the 
+solar production being used, mostly for home cooling for air conditioning, to 
+maintain the temperature inside the home at 77 degrees Fahrenheit.  The 
+outside temperature was 106.  So the difference--  Had to keep the home cool 
+with the heat pumps (indiscernible) energy.  The blue at night is when the 
+battery kicked in, but then the batteries ran out; and then the red is when 
+the grid kicked in.  But, even on that hottest day of the year, I produced 14 
+kilowatt-hours more than I consumed, and I sent that back to the grid to help 
+the grid to keep the grid stable. 
+ 
+The point is, if everybody has an energy efficient home -- we have 
+solar and some batteries -- we don’t have blackouts.  We can keep the grid 
+stable even on the most extreme temperature days of the year. 
+ 
+Next slide, please. 
+ 
+So, I’m going to talk now about transitioning New Jersey, and 
+the world, to 100 percent renewable energy. 
+ 
+ 
+11 
+ 
+ 
+As I mentioned before, we did plans for 145 countries, and we’ve 
+done all 50 states.  And, I want to show the summary of those plans. 
+ 
+Next slide, please. 
+ 
+For all 145 countries, in 2018, the end-use demand for energy 
+among all the countries was 13.1 terawatts, or trillion watts.  That’s expected 
+to go up to 20.4 terawatts in 2050.  But, if we electrify all energy, and provide 
+the electricity with wind, water, and solar, that goes down by about 56 
+percent to 8.9 terawatts.  And that’s for five reasons.  One is the efficiency of 
+battery electric -- vehicles primarily, but also hydrogen fuel cell vehicles, 
+versus internal combustion engine vehicles.  That eliminates 20.5 percent of 
+all energy worldwide by just converting everything to electric-type vehicles.  
+A 4.3 percent reduction of energy is due to the efficiency of the electric 
+industry.  A 13.6 percent reduction of energy requirements is due to the 
+efficiency of heat pumps.  Eleven point three percent is due to eliminating 
+the energy that goes into fuel mining.  Because 11.3 percent of all energy 
+worldwide is used in mines, transport, and refined fossil fuels in uranium, as 
+we eliminate all that energy.  And then 6.6 percent energy efficiency 
+improvements beyond what’s expected in business as usual. 
+ 
+So, we reduce energy requirements 56 percent, without changing 
+our habits, essentially by going to wind, water, and solar. 
+ 
+Next slide, please. 
+ 
+Now, this shows a transition timeline.  If we don’t do anything 
+on the top, we’d go from 2020 to 2050.  We’d increase to 20.4 terawatts in 
+electric power demand worldwide.  But, if we electrify all energy as I just 
+described, we’d go down those five shades of color to the 100 percent WWS 
+line down to 8.9 terawatts.  And, when we provide that, the resulting energy 
+ 
+ 
+12 
+ 
+that we’d need with just onshore and offshore wind, geothermal, CSP, 
+rooftop PV, etc.  And, I should point out our proposed timeline is 100 percent 
+transition by 2050, with 80 percent by 2030.  However-- 
+ 
+Next slide, please. 
+ 
+--we actually think that it is technically and economically feasible 
+to transition -- maybe if not all sectors, but most sectors -- by 2035.  So, this 
+shows a 2035 timeline for all energy sectors.  This, again, is 80 percent by 
+2030. 
+ 
+And, whether it’s 2035 or 2050, the endpoints here are the same 
+in 2050.  But, we do have 95 percent of all the technologies we need right 
+now to transition the world to 100 percent clean renewable energy.   
+ 
+The ones we don’t have include the long-distance aircraft and 
+long-distance ships primarily, and some industrial technologies.  We’re not 
+quite there yet.  But they’re on the drawing board, and we don’t see a reason 
+why they can’t be implemented. 
+ 
+Next slide, please. 
+ 
+So, this shows a percent distribution, once we’ve electrified 
+everything, one set of numbers in terms of how much of each wind, water, 
+and solar energy option can be used either worldwide, or in the U.S., or in 
+the RFC grid, which New Jersey lies in.  And, when we did a plan for New 
+Jersey, we looked at the grid’s stability in the grid that it actually exists in 
+right now, and that’s what we summarized here.  So, if we just focus on the 
+RFC grid, our 100 percent renewable grids would be powered by 21 percent 
+onshore wind; 14 percent offshore wind; 15 percent rooftop solar PV; 49 
+percent utility PV; no concentrated solar power because they need more 
+direct sunlight, (indiscernible) available at New Jersey’s latitude.  And, 
+ 
+ 
+13 
+ 
+(indiscernible) the RFC grid as well.  No geothermal electricity, since it’s not 
+a good resource in the Mid-Atlantic.  A small amount of hydro; there’s 
+(indiscernible) existing hydro in all three cases: the world; the U.S.; and the 
+RFC grid.  We do not increase the hydro; we’re using existing resources.  And, 
+then tiny amounts of wave and tidal power.  That gets you 100 percent 
+renewable throughout the whole RFC grid with just wind, water, and solar.   
+ 
+Next slide, please. 
+ 
+This shows the land area required -- either worldwide, in the 
+U.S., or the RFC grid to transition entirely to 100 percent clean renewable 
+energy.  Worldwide, it’s only about 0.53 percent of the world’s land.  Keep 
+in mind that there is no new land for offshore wind, for tidal, or wave power.  
+We’re not adding any new hydro, so there’s no (indiscernible) land for that.  
+Rooftop PVs do not take up new land.  Geothermal is pretty small and 
+nonexistent in the RFC area. 
+ 
+So, it’s just utility, PV, plus CSP and onshore winds, require new 
+land.  And, the onshore wind is really spacing in between turbines, and you 
+could put the solar on that land.  So, there’s more land in the RFC grid than 
+in the U.S. on average.  U.S. is less than 1 percent of U.S. land area would 
+need to be powered entirely by clean renewable energy. 
+ 
+And, note:  These plans are such that we’re encapsulating all the 
+energy that would be provided within our RFC.  However, even right now 
+you can get electricity from outside the region, which you’d use less land.  
+You can also put it offshore – more offshore wind, that would take less land. 
+ 
+I know my time is running short, but let me just-- 
+ 
+Next slide. 
+ 
+I’ll just go really quickly (indiscernible) results. 
+ 
+ 
+14 
+ 
+ 
+We looked at grid stability -- not only over the whole world, but 
+in each of the regions of the U.S. -- and we found we can keep the grids stable.  
+This is every 30 seconds for--  This is actually for two years in the RFC grid.  
+And, up on the top and also on the bottom, it’s for a 100-day period during 
+those two years; just showing that we can keep the grid stable.  It’s just 
+intermittent wind, water, solar, battery, and storage, and what’s called demand 
+response, where utilities give people incentives not to use electricity at certain 
+times of the day.  We can keep the grid stable, and everywhere in the world-
+- We didn’t find a place in the world where you can’t keep the grid stable 
+with entirely clean renewable energy. 
+ 
+Next slide, please. 
+ 
+This slide shows upfront capital costs.  This is the cost of the 
+Green New Deal.  Worldwide, it’s about $61.5 trillion; in the U.S., about $9 
+trillion; and in New Jersey, about $200 billion -- to keep the grid stable and 
+transition everything to entirely clean renewable energy. 
+ 
+Next slide, please. 
+ 
+And, just briefly, more important are the annual costs.  
+Worldwide, we have $17.8 trillion per year for the energy costs in 2050; 
+another $33 trillion for health costs; another $32 trillion for climate costs.  
+So, the total of social costs is $83 trillion per year.  But, we eliminate health 
+and climate costs by going to wind, water, solar, and we reduce our energy 
+costs by 63 percent because we have a 57 percent lower energy demand, plus, 
+about a 15 percent reduction in the cost of per unit energy.  And, so, that 
+translates into a 92 percent reduction in social costs and a 62 percent 
+reduction in energy costs. 
+ 
+Next slide, please. 
+ 
+ 
+15 
+ 
+ 
+Same thing with the U.S.  We go down 63 percent energy costs, 
+86 percent social costs per year.   
+ 
+Next slide, please. 
+ 
+For New Jersey -- this is New Jersey-specific -- similarly, we go 
+down 65 percent in energy costs and 86 percent in the social costs of energy 
+in 2050.  So, it’s really an obvious financial benefit.  We find we create many 
+more jobs than are lost.   
+ 
+And I’ll skip-- I think I’ll skip-- I have a lot of stuff on policies.  
+I’d be happy to show these if I had more time, but I think I’m out of time. 
+ 
+So, let me go all the way to the second-to-last slide, which has 
+the summary of the transition in New Jersey. 
+ 
+For transition in New Jersey, we found that we create 144,000 
+more jobs than are lost.  We’d avoid 1,100 air pollution deaths per year.  
+We’d reduce the direct energy costs by 64 percent.  The upfront capital costs 
+would be about $200 billion, but it will pay for itself through energy sales.  
+And then we’d reduce the energy, health, and climate costs by 87 percent. 
+and keep the grid stable. 
+ 
+So, that’s all I have.  If you want, you can go to the last slide and 
+you have more-- There are websites for more information.  But otherwise, I’ll 
+open it up to questions. 
+ 
+Thank you very much. 
+ 
+SENATOR SMITH:  So, a lot of your assumptions are that all of 
+these multiple sources of energy will come online, including things like 
+capturing wave energy, etc.  If you were to give us the best advice you could, 
+what would be the top three things that New Jersey could do in order to try 
+to deal with some of this global climate change? 
+ 
+ 
+16 
+ 
+ 
+DR. JACOBSON:  The top three things would be heat pumps for 
+buildings.  So, electrifying buildings as much as possible. So, all new 
+construction buildings; no gas.  (Indiscernible) heat pumps would be like--  
+All the stuff I had mentioned, like induction cooktops, energy efficiency in 
+buildings.  Yes, just a simple heat pump reduces energy by a factor of four, 
+compared to any type of other heating.  Heating is the biggest source of 
+energy use in your home. 
+ 
+The second thing is, going to electric vehicles.  Passenger vehicles 
+should be battery-electric.  Long-distance heavy transport could either batter-
+electric or hydrogen fuel cells.   
+ 
+The third thing -- and not necessarily in that order -- is just more 
+energy generation from wind and solar, primarily.   
+ 
+The tidal and wave (indiscernible) a very small percentage. So, 
+we’re not assuming-- So, we could even assume that they don’t take off in 
+terms of reduced costs.  So, it’s really existing technology that we’re focused 
+on.  It’ll be 90 percent of the solution plus will be solar and wind in one form 
+or the other, and there’ll be a couple of hydro, in your area.  But, it could be 
+up to 98 percent solar and wind.  You have a huge amount of offshore wind.  
+This is what our focus should be on: offshore wind and especially rooftop PV-
+- are the two areas where you can grow substantially without increasing land 
+use at all. 
+ 
+SENATOR SMITH:  All right.  Our normal staff aide is at home 
+with COVID, and he texted in a question for you. 
+ 
+“How much might the water part of this -- of your wind, water, 
+solar plan -- how might it impact local ecosystems?” 
+ 
+ 
+17 
+ 
+ 
+DR. JACOBSON:  Well, in New Jersey and the RFC area, not 
+very much, because we’re not talking--  There’s not a lot of hydro, for 
+example. 
+ 
+In any of our plans, we’re not increasing hydropower at all.  And, 
+the water part -- water includes hydropower and geothermal.  Because we had 
+to pick a simple acronym, we’re including geothermal as part of the water.  And, 
+that wave and tidal -- that’s part of the water.  Wind -- offshore wind -- is 
+part of the wind. 
+ 
+So, it won’t affect global ecosystems at all because we’re not--  
+Compared to how they are right now, because we’re not increasing the    
+hydro.  We’re not increasing conventional hydro at all.  There could be some 
+increase in run-of-the-river hydro, and, so, we have no new dams in our plans.  
+And, especially in New Jersey, there’s not going to be any--  The amount of 
+hydro is pretty small right now, and it’s not going to increase a lot. 
+ 
+SENATOR SMITH:  Okay, so the answer is minimal, in your 
+view. 
+ 
+Are there questions from other Senators?  (no response) 
+ 
+Okay, Professor, thank you very much for your contribution 
+today.  If you have any of your written materials, please send them out 
+because we’d like to--  These are very interesting topics that you brought up, 
+and we’d like to look into them further. 
+ 
+But, thank you very much for your participation today. 
+ 
+DR. JACOBSON:  Yes, thank you again for having me. 
+ 
+SENATOR SMITH:   Thank you so much. 
+ 
+Bye, now. 
+ 
+DR. JACOBSON:  Goodbye. 
+ 
+ 
+18 
+ 
+ 
+SENATOR SMITH:  Now we have a business calendar to get to. 
+ 
+(confers with staff) 
+ 
+First, let’s take a roll. 
+ 
+MR. HANSEN:  Senator Smith. 
+ 
+SENATOR SMITH:  I am present. 
+ 
+MR. HANSEN:  Senator Greenstein. 
+ 
+SENATOR LINDA R. GREENSTEIN (Vice-Chair):  Here. 
+ 
+MR. HANSEN:  Senator Madden was substituting in for 
+Governor Codey. 
+ 
+Senator Durr. 
+ 
+SENATOR DURR:  Here. 
+ 
+MR. HANSEN:  And, Senator Stanfield. 
+ 
+SENATOR STANFIELD:  Here. 
+ 
+SENATOR SMITH:  Okay, so let’s get our agenda done 
+expeditiously so we can get to our hearing on producer responsibility as it 
+relates to packaging. 
+ 
+The Committee releases Bills 
+ S-287, S-1311, S-1476, S-2734, S-2735, S-2739, SCR-117 
+ 
+ 
+Our last Bill, for discussion only--  The number of the Bill is S-
+426.  It requires producers of packaging products sold in New Jersey to adopt 
+and implement packaging product stewardship plans.  
+ 
+So, first, this is for discussion only.  It’s not being released today, 
+not being released during the summer.  The next time we’re going to take this 
+ 
+ 
+19 
+ 
+up is in the fall, after we’ve had a chance to chew on all your comments today, 
+all right?  And it’s a very important Bill. 
+ 
+The point of, in effect, producer responsibility is to reduce the 
+waste stream.  Let’s have less packaging, more effective packaging, or different 
+packaging, so it has less impact on the environment.  In the rest of the 
+country, other states are in process of also doing producer responsibility bills. 
+ 
+ So, with that in mind, it’s discussion only.  Let’s not hurt each 
+other.  (laughter)  Let’s get some testimony-- 
+ 
+(confers with staff) 
+ 
+And Judith Enck, former Region 2 Administrator, is present and 
+is considered a pretty strong expert on this topic.  We’d appreciate it if you’d 
+come forward and give us a little insight.  
+J U D I T H   E N C K:  Good afternoon; thanks so much for having me. 
+ 
+ The most terrifying thing is the technology; so the substance is 
+fine. (laughter) (referring to the microphones) 
+ 
+ 
+(Ms. Enck refers in her presentation to her PowerPoint slides) 
+ 
+ 
+ 
+Senator Smith and colleagues, it’s a pleasure to be with you.  
+Thanks for taking a deep dive on this issue.  It’s really important and really 
+complicated, so I think you’re approaching it the right way with a discussion. 
+ 
+My name is Judith Enck; I served as Deputy Secretary for the 
+Environment in the New York governor’s office, then EPA Regional 
+Administrator during the Obama Administration.  That was when I visited 
+the Cornell-Dubilier Superfund site in South Plainfield.  I spent a lot of time 
+at Federal Superfund sites, and now I’m a visiting professor at Bennington 
+ 
+ 
+20 
+ 
+College in Vermont.  And because of my incredible concern with the crisis of 
+plastic pollution, I started a new organization called Beyond Plastics. 
+ 
+And, this was the major reason:  We are turning our oceans into 
+a landfill.  Between 9 and 15 million metric tons of plastic enter the ocean 
+every year.  About 90 percent of that comes from the land.  It’s not from 
+ships dumping anything.  
+ 
+And, it’s great that your Committee deals with both environment 
+and energy because plastics is very much a climate-change issue.  Beyond 
+Plastics issued this report last fall called The New Coal: Plastics and Climate 
+Change.  We did the first analysis looking at greenhouse gas emissions from 
+plastic.  And, unfortunately, found that plastic is on par to emit just as many 
+greenhouse gases as coal plants by 2030; because coal plants are shutting 
+down and plastic production is on the increase.  Our report looked at the 10 
+high-impact stages of plastic production and disposal.   
+ 
+All of this is in my testimony, but I thought I would spare you 
+dealing with my very detailed testimony and give an overview.  But, I’m 
+happy to take questions on that.  
+ 
+So, historically, plastic was made from chemicals and oil.  Now 
+it’s made from chemicals and ethane, a byproduct of hydrofracking.  So, you 
+see that flare?  (indicates)  That is being captured and sent to new facilities 
+called ethane cracker facilities that exist simply to produce more single-use 
+plastic.  
+ 
+This is a picture of Sharon Levine.  (indicates) Sharon lives in St. 
+James Parish in Louisiana.  The most important thing I want to say today is 
+that plastics is an environmental justice issue when you look at production, 
+use, and disposal.  The production is mostly happening in Pennsylvania, 
+ 
+ 
+21 
+ 
+Louisiana, and Texas.  Sharon lives in a part of Louisiana that’s actually called 
+Cancer Alley.  And, it hurts my heart to even say the phrase, Cancer Alley.  It’s 
+because the cancer rates are so high, and where there’s a concentration of 
+petrochemical facilities -- much of it to make plastic.  Sharon is opposing two 
+ethane cracker facilities proposed by Formosa Plastics.  
+ 
+It’s good that you’re looking at this issue, because the public is 
+really paying attention.  You go to any American supermarket -- it’s really 
+hard to find products that are not made of single-use plastics.  I’ve not been 
+in the baby food aisle lately, because my baby’s an adult now.  And, I made 
+a wrong turn recently into the baby food aisle, and there’s so much plastic 
+pouches, multi-material plastics.  And, consumers are not asking for this; in 
+fact, consumers are asking for the opposite.  Seventy-five percent of people 
+want single-use plastics banned globally.  And, the same polling firm, Ipsos, 
+did a poll for the national group Oceana.  Over 80 percent of American voters 
+want policies adopted that provide less plastic packaging.  What I love about 
+that poll is the support for reducing plastics was bipartisan.  Republicans, 
+Democrats, Independents want less packaging.  
+ 
+One way to get that is to adopt a comprehensive Extended 
+Producer Responsibility, which is a little complex to explain, but not really.   
+It’s basically putting the responsibility for the cost of disposal and recycling 
+on packaging companies, rather than you and me.  Because, we don’t get to 
+vote on what is in packaging; it’s the engineers that design packaging.  So, 
+they need to be incentivized to give us more environmentally sound 
+packaging.  
+ 
+The risk, which is very real in every state, is if you adopt weak or 
+ineffective programs, we won’t see the progress that we need.  
+ 
+ 
+22 
+ 
+ 
+I see two big priorities from the plastics industry.  One is--  Well, 
+the most overriding thing is, they don’t want to see less plastic.  It kind of 
+makes sense.  They make plastic; they want to keep making plastic.  We don’t 
+want our oceans to be turned into a landfill, so that’s why we need legislative 
+intervention.  The plastic industry is promoting very weak extended producer 
+responsibilities -- not with goals, lots of loopholes.  I’ve seen these bills all 
+over the country.  And they’re also promoting something called chemical 
+recycling, which I think is a mistake. 
+ 
+SENATOR SMITH:  (off mic)  Who has the best proposal? 
+ 
+MS. ENCK:  Who has the best proposal? 
+ 
+SENATOR SMITH:  What state? 
+ 
+MS. ENCK:  Well, the best proposal is by Assemblymember 
+Steven Englebright of New York.  And, I attached his Bill to my testimony.  
+I think that’s a model for New Jersey.  It’s not a law, it’s a proposal.  There 
+are only three states that have laws on the books: Oregon, Colorado, and 
+Maine, and I think they’re all not comprehensive enough. 
+ 
+ So, that’s our risk.  So, what I mostly want to talk to you today 
+about is, the three key elements of how you do a good Extended Producer 
+Responsibility program.   
+ 
+So, let me rapidly go through each one. 
+ 
+First, we need you to adopt a bill that actually reduces packaging.   
+And, the way that happens is when you put that requirement in your bill.   
+Assemblymember Englebright of New York-- His Bill requires packaging to 
+be reduced -- all packaging -- 50 percent over a period of 10 years; 
+incremental, every two years.  
+ 
+ 
+23 
+ 
+ 
+And, what I’d invite you to do is think about fuel efficiency 
+standards for cars.  When I worked at the EPA, fuel efficiency standards -- 
+which we’re all happy to have today with the price of gas -- made cars and 
+trucks more efficient.  This wasn’t voluntary; this was the law.  We have 
+efficiency standards for appliances.  If you buy your refrigerator today, it’s 
+much more efficient than even if you bought it five years ago.   
+ 
+So, I invite you to think about this issue as environmental 
+standards for packaging.  Building in rates and dates in the statute; not just 
+general plans, but--  “Okay, companies, you want to keep selling in New 
+Jersey?  You need to help us out with all of this waste.  Here’s your proposed 
+strategy.  Reduce by 50 percent over 10 years, and then we’ll get into 
+recycling and composting.” 
+ 
+But, we need mandatory targets.  And, that will prompt the 
+redesign of packaging.  
+ 
+Second -- and missing from this Bill -- is we need to reduce toxics 
+in packaging.  And, the Englebright Bill has a list of toxic chemicals: PFAS 
+chemicals, some heavy metals, some phthalates.  Because we have to get 
+toxics out of packaging, particularly food packaging.  And, particularly, if you 
+want to get higher recycling rates, you don’t want to keep recycling packaging 
+if it has toxins in it.  
+ 
+Third, no burning.  The plastics industry is finally admitting that 
+plastics recycling has been a failure.  Other parts of recycling are working 
+beautifully.  I mean, as a volunteer, I designed my town’s recycling program 
+in upstate New York.  I love recycling.  Paper and cardboard -- 66 to 67 
+percent recycling.  Metal recycling works.  Glass markets are a little shaky, 
+but that can improve.  You can use glass for refillables.   
+ 
+ 
+24 
+ 
+ 
+I just had an article published in The Atlantic, which documented 
+the plastic recycling rate is 5 to 6 percent; and, it’s never topped 10 percent.  
+So, the pivot from the plastics industry now is to burn plastics.  They don’t 
+call it burning, but it’s pyrolysis, it is gasification, it’s solvolysis, it’s different 
+technologies.  And the most important thing to know is, that those 
+technologies typically don’t work.  They’ve been trying it for decades.  There 
+are only eight or nine facilities in the whole country; they’re mostly waste-to-
+fuel.  They provide a very small amount of low-value fossil fuel, and they emit 
+a lot of pollution.  And, they’re almost always sited in environmental justice 
+communities.  Also, they’re an emitter of carbon.  So, that is not the direction 
+to take.  So, strong legislation would exclude any kind of burning or chemical 
+recycling.  
+ 
+This is the hardest part -- strong oversight and accountability.  
+You don’t want to hand the keys to the car over to the packaging industry 
+because they created the problem in the first place.  They obviously have to 
+be engaged, but they need some direction.  So, just like we wouldn’t expect 
+the tobacco industry to develop anti-smoking programs, you can’t entirely 
+depend on the packaging industry to develop packaging-reduction programs.   
+But they can work in partnership with your State agencies. 
+ 
+SENATOR SMITH:  (off mic)  In the Bill, the New York Bill-- 
+ 
+MS. ENCK:  Yes? 
+ 
+SENATOR SMITH:  --Instead of the packaging people forming 
+a committee and deciding policy, how do they do it in New York, or how are 
+they planning to do it in New York? 
+ 
+MS. ENCK:  Well, Assemblymember Englebright’s Bill 
+interestingly is silent on the issue of setting up a PRO council or a stewardship 
+ 
+ 
+25 
+ 
+association; a PRO.  They leave it to the industry to figure out, “Do they 
+want to cooperate or not?” 
+ 
+SENATOR SMITH:  What would be your recommendation? 
+ 
+MS. ENCK:  I’m not sure.  
+ 
+SENATOR SMITH:  Okay. 
+ 
+MS. ENCK:  I want to think on that a little bit more.  I can see 
+the value of PROs with efficiency, but they have to have strong oversight.  As 
+long as you have environmental standards in the law, then they have the 
+ability to be in compliance.  But, you don’t want the PRO developing the 
+standards or figuring out the fee schedule.  And, that’s been the problem 
+around the country. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+MS. ENCK:  So, I am unbelievably flexible on this important 
+point.  
+ 
+And, again, we as taxpayers have no real control over packaging 
+decisions. 
+ 
+ And, we have an opportunity to get some real taxpayer relief and 
+more investments, especially-- not just investments in recycling.  Because 
+remember, if you want to fix the plastic pollution problem, recycling isn’t 
+going to do it.  We’re only at a 5 to 6 percent recycling rate.  We need to get 
+serious about waste reduction, reuse, refill; and I’ll show you some examples.  
+ 
+Of course, the best example of EPR is a Bottle Bill.  Ten states 
+have it.  It reduces litter at no cost to taxpayers.  It keeps recyclables source-
+separated, so it actually gets recycled.  And, it creates jobs.  Please consider a 
+Bottle Bill as part of these discussions.  
+ 
+ 
+26 
+ 
+ 
+And, a modern Bottle Bill puts deposits on soda, beer, but also 
+non-carbonated beverages -- bottled water, wine, and liquor.  Things that you 
+regularly see littered.  When I worked at EPA, my office was in Lower 
+Manhattan.  You never see soda and beer bottles on the streets because 
+people pick it up, even at just a nickel.   
+ 
+So, voluntary programs aren’t cutting it.  We need a strong EPR 
+law at the State level.   
+ 
+And, I want to take a moment going through this chart.  These 
+are promises made by really big companies just, for instance, to use more 
+recycled content.  The red chart-- The red bar is what they said they would 
+do, and the blue bar is what they’ve actually done.  So, enormous room for 
+improvement.  And, what’s weird is, like these announcements are made with 
+great fanfare, but they don’t get there.  That’s why we need a law.  
+ 
+Let me just give you a couple of examples of what I’m talking 
+about.  So, these are soap bars that skip the packaging altogether.  And that’s 
+a great example of reduction; just skip the packaging.  
+ 
+I want to share this example with you.  
+ 
+No one should open or eat that candy (indicates), because it’s 
+my only example from Europe. (laughter)  You know when you buy a pouch 
+of M&Ms, it’s kind of slippery and waxy.  Take a close look at that -- Smarties 
+candy.  Sure, it’s delicious.  It’s made from recycled paper, and when you’re 
+done with it you put it-- 
+ 
+SENATOR SMITH:  (off mic) You’re talking about the 
+packaging. 
+ 
+MS. ENCK:  The packaging, not the candy. (laughter) 
+ 
+ 
+27 
+ 
+ 
+The packaging is made from recycled material, and when you’re 
+done with it, you put it in your recycling bin.  So, on a certain level, this is 
+pretty basic.  Why can’t American candy companies produce packaging like 
+that?  They will when you have a strong EPR bill. 
+ 
+ These are refillable shampoo containers.  (indicates)  You often 
+buy berries that come in clear plastic.  You can sell them with compostable 
+alternatives made from things like hardened palm leaves.  
+ 
+This is a little bit of a Portlandia episode if you’ve ever seen that 
+show.  But this is soap.  (indicates)  When you’re done with the bottle, the 
+bottle is soap.  So, you use the bottle as the soap so there’s no packaging at 
+all.  
+ 
+And this is more mainstream -- reuse and refill.  Dove launched 
+a new refillable deodorant line.  You buy the container once, and then you 
+purchase the refills afterwards.  So, you don’t get a new plastic coating, or 
+carton, or cylinder every single time.  You just buy the new deodorant.  
+ 
+This is Unilever, a very big company, that’s launching a reuse 
+and refill system in England.  Now, the way I typically do refilling is, I shop 
+at a food co-op, and I bring empty jars, and you get there, and the jar gets 
+weighed.  Then you fill it with whatever food -- back and forth.  It’s a couple 
+of steps.  What Unilever is doing is, you buy the product, and then when you 
+go back to the store, you just give the empty container back and they sanitize 
+it.  You don’t keep reusing it.  It’s efficient and it’s innovative; and this is the 
+future.  
+ 
+This is a company called Plain Products (indicates).  If you want 
+to buy online, they sell body care in reusable and refillable aluminum 
+containers that just get refilled over, and over, and over again.  And, I spoke 
+ 
+ 
+28 
+ 
+to the President of this company.  She had absolutely no supply chain 
+problems during COVID because she just keeps sanitizing and reusing the 
+same containers.  
+ 
+A company called Blueland does the same thing with soap.  I have 
+a glass container at home.  When the soap is done, I just purchase a little 
+tablet, and you add water, shake it, and there’s your soap.  So, you’re not 
+buying water all the time, and it’s a reusable container.  
+ 
+And, we’re seeing more and more of this innovation in Europe 
+because they have laws and requirements.  And that’s what we need here. 
+ 
+ This is a Kit Kat bar’s recyclable paper (indicates) that you can 
+then turn into cranes, if you are artistic.  But when you’re done, it goes in 
+your recycling bin.   
+ 
+You probably enjoy a good Mentos, from time to time, if you 
+have breath problems.  It doesn’t have to come in plastic, it can come in 
+cardboard, truly recyclable. 
+ 
+ The examples go on and on.  Paperboard packaging for lip balms, 
+craft paper for berries.  We’re only going to see this innovation if states pass 
+strong EPR laws.  I don’t think it’s going to happen anytime soon at the 
+Federal level.  So, having New Jersey, New York -- big states -- take this on 
+would be enormously helpful in reducing the amount of waste going to 
+garbage incinerators in New Jersey and landfills in New Jersey, which are 
+almost always sited in low-income communities of color. 
+ 
+SENATOR SMITH:  Sure. 
+ 
+So, did I hear you say that Europe has pretty good standards? 
+ 
+MS. ENCK:  Yes. 
+ 
+SENATOR SMITH:  And that would be under the EU?  
+ 
+ 
+29 
+ 
+ 
+MS. ENCK:  Yes. 
+ 
+SENATOR SMITH:  So, staff, if you would, let’s take a look at 
+the European standards, okay?  
+ 
+Thank you for the comment. 
+ 
+MS. ENCK:  I’m done. 
+ 
+SENATOR SMITH:  Are you done? 
+ 
+MS. ENCK:  Yes. 
+ 
+SENATOR SMITH:  Oh, perfect timing. 
+ 
+Any questions for Ms. Enck? (no response) 
+ 
+You sound like the start of the revolution; really good.  
+ 
+Thank you. 
+ 
+MS. ENCK:  It starts in Trenton. 
+ 
+SENATOR DURR:  Watch that word. 
+ 
+SENATOR SMITH:  That’s true. 
+ 
+Thank you so much. 
+ 
+MS. ENCK:  My pleasure. 
+ 
+SENATOR SMITH:  All right; so we have Brennan Georgianni, 
+American Cleaning Institute, ACI, seeking amendments.  And, you submitted 
+written testimony.   
+ 
+Are you here, Brennan?  
+B R E N N A N   G E O R G I A N N I:  (off mic)  Yes. 
+ 
+SENATOR SMITH:  All right; well, we’re going to just look at 
+the written testimony. 
+ 
+So, a couple of things for the record. 
+ 
+Mike Egenton, New Jersey State Chamber of Commerce, 
+opposed, no need to testify;  Anthony Reznik, Independent Pharmacy 
+ 
+ 
+30 
+ 
+Alliance and Omega Pharmacy Group, opposed, no need to testify; Laurie  
+Clark, Garden State Pharmacy Owners, opposed, no need to testify; John 
+Holub, New Jersey Retail Merchants Association, opposed, no need to testify; 
+Eileen Murphy, New Jersey Audubon, in favor, but no need to testify; Arthur 
+Garst, Coalition for the Delaware River Watershed, in favor, no need to 
+testify; and Hilary Chebra, South Jersey Chamber of Commerce, opposed, no 
+need to testify. 
+ 
+Okay, let’s try Bree Dietly.  Bree, are you here? 
+B R E E   D I E T L Y (off mic):  Yes. 
+ 
+SENATOR SMITH:  All right; Bree is neither in favor nor 
+opposed.  And Bree is from Breezeway Consulting for American Beverage.  Is 
+that right? 
+ 
+MS. DIETLY:  That’s right. 
+ 
+SENATOR SMITH:  Okay, take it away. 
+ 
+MS. DIETLY:  Thanks, Chairman, and members of the 
+Committee.  
+ 
+I’m Bree Dietly; I work for Breezeway Consulting in Somerville, 
+Massachusetts.  I’m representing the American Beverage Association.  Like 
+the contractors earlier, I am in that third box of somewhere in between 
+support and oppose.   
+ 
+We have spoken on this issue -- on Extended Producer 
+Responsibility as an industry -- around the country.  The beverage industry 
+is supportive of well-designed, Extended Producer Responsibility laws.  We 
+have a strong position on what we think works for Extended Producer 
+Responsibility.  We’ve been active in the passage of the law in Colorado, for 
+example, which we view as a model.  To the extent Ms. Enck pointed to 
+ 
+ 
+31 
+ 
+Assemblyman Englebright’s as her model, I would point to Colorado House 
+Bill 22-1355, which is cross-referenced in my testimony along with a 
+summary, as our model. 
+ 
+SENATOR SMITH:  (off mic)  So, let me ask you a question-- 
+ 
+MS. DIETLY:  Of course. 
+ 
+SENATOR SMITH:  --About the two models.  
+ 
+Ms. Enck said the entity that’s doing stewardship -- we’ll call 
+them a council, for the moment -- I’ve seen two models--  Well, I’ve seen 
+actually one model; the one model is, that the industry are the members of 
+the council, and they’ll figure out what’s right.  But the model in Colorado 
+doesn’t have specific standards for reductions in packaging.   
+ 
+MS. DIETLY:  It does not have standards for the reduction of 
+packaging. 
+ 
+SENATOR SMITH:  All right.  Will that be something that the 
+American Beverage Association could live with? 
+ 
+MS. DIETLY:  We have a very hard time with standards for 
+reduction because of the problem with measurement and with the problem 
+with baselines.  We’re negotiating having this discussion right now in 
+California-- 
+ 
+SENATOR SMITH:  Right. 
+ 
+MS. DIETLY:  --Senate Bill 54, which is an attempt to 
+circumvent a rather Draconian ballot measure that’s going to be on the ballot 
+potentially this fall -- charging fees on plastic packaging. 
+ 
+ The attempt to try to sort of say, “This is what the reduction 
+should be” sort of belies the question of, “Where do you start?” and, “What’s 
+a unit; what’s a unit of packaging?”  So, if you have a company like our 
+ 
+ 
+32 
+ 
+companies that, for decades, have been source-reducing their packaging, 
+versus a company that maybe hasn’t-- Has bulky packaging, has inefficient 
+labeling, has glues that aren’t recyclable.  They’re going to have their come-
+to-Jesus moment, get their source reduction because they’re just starting.   
+We’ve already done that.  So where does that leave us as an industry?  
+ 
+And, we, too, have issues with--  We don’t just serve products in 
+bottles and cans.  We serve products through fountain outlets, we have 
+innovative new packaging that’s coming down, we have cardboard bottles 
+that are coming.  We have a lot of new kinds of packaging.  So, sort of 
+knowing, “How do you measure it?”  You know, we sell-- 
+ 
+SENATOR SMITH:  Yes, but you understand the problem that 
+Ms. Enck brought up -- which is, fox-henhouse.  You know, if we say,  “Here’s 
+the council that should make the decisions,” but we don’t give them any 
+direction, it’s the fox guarding the hen house. 
+ 
+MS. DIETLY:  Sure; and I would argue that it’s not a lack of 
+direction.  What we don’t want to see are arbitrary numerical targets stuck 
+in legislation because they sound right. 
+ 
+SENATOR SMITH:  (off mic)  So, we don’t want to be arbitrary 
+either.  
+ 
+MS. DIETLY:  All right.  So what-- 
+ 
+SENATOR SMITH:  --Is it possible for your Association -- or for 
+anybody else here who is planning to testify -- to send us what you think the 
+standard should be, and your reasons why.  We’re not going near this until 
+September or October.  And we actually do read the mail we receive.  So, if 
+you’d send in your recommended standards, that would be a big plus. 
+ 
+MS. DIETLY:  And, let me talk due process on that.   
+ 
+ 
+33 
+ 
+ 
+SENATOR SMITH:  Sure. 
+ 
+MS. DIETLY:  Because we’re not asking to guard the henhouse.  
+The principles and the argument that we’re trying to make here with the 
+Colorado Bill, or with other models that we put forth, is to say that the reason 
+the producers are responsible for these systems--  And this isn’t new.  The 
+OECD in Europe defined EPR, in 1992, as producers taking responsibility 
+for the end management of their material.  So, this isn’t new.   
+ 
+EPR is only recently being understood, and only really being 
+understood in the U.S., as a form of packaging regulation.  EPR was 
+established to fund and improve the operation of recycling systems.  That’s 
+what it was for.  It was not meant to have standards to change toxic levels or 
+do--   So, this is sort of a fusion of packaging standards, which typically come 
+from a Federal level; and recycling funding and operations, which typically 
+comes from the State and local level.  
+ 
+SENATOR SMITH:  So, one comment on that. 
+ 
+The people who you represent -- do they do business in Europe? 
+ 
+MS. DIETLY:  Oh, absolutely. 
+ 
+SENATOR SMITH:  Are they living with the standards in 
+Europe? 
+ 
+MS. DIETLY:  They’re living with EU standards, yes.  
+ 
+SENATOR SMITH:  Why can’t they live with the EU standards 
+here? 
+ 
+MS. DIETLY:  Because the people in the systems in the EU are 
+much more well-established than they are here.  They have better 
+infrastructure for the--  See, where I want to get here is what we’re trying to 
+do, and the reason that the producers need to have a role in this.  The only 
+ 
+ 
+34 
+ 
+people in this system who have an incentive for the system to actually work 
+are the producers-- 
+ 
+SENATOR SMITH:  Absolutely. 
+ 
+MS. DIETLY:  --because we need the material back.  
+ 
+SENATOR SMITH:  So, you know the unintended-- 
+ 
+MS. DIETLY:  I mean, if I-- 
+ 
+SENATOR SMITH:  Do you remember Jim Florio? 
+ 
+MS. DIETLY:  Yes. 
+ 
+SENATOR SMITH:  Congressman Jim Florio? 
+ 
+MS. DIETLY:  I do. 
+ 
+SENATOR SMITH:  He did the-- 
+ 
+MS. DIETLY:  --Superfund bill. 
+ 
+SENATOR SMITH:  Well, not just Superfund, but also the law 
+-- I want to say Tosca (phonetic), but I’m not sure it’s--  The law that required 
+companies to report -- they didn’t have to do anything, but they had to report 
+the annual emissions of toxic materials.  And the net result of that was, 
+companies looked at their processes and said, “Holy God.  Not that we’re 
+polluting, but that we’re wasting all these chemicals.”  And, as a result, you 
+saw dramatic decreases in the emissions of American industry because they 
+were realizing they were throwing money down the sewer or up the stack. 
+ 
+And I see EPR the same way.  You’re going to have companies 
+saying, “We could do this a lot smarter and a lot cheaper.” 
+ 
+MS. DIETLY:  That’s right.   
+ 
+SENATOR SMITH:  All right. 
+ 
+MS. DIETLY:  Because they’re going to be paying the cost of 
+recycling materials.  And what they want back on the other end is the material 
+ 
+ 
+35 
+ 
+to put back into the packaging to meet, for example, your minimum recycled 
+content standards from the bill that you enacted last year. 
+ 
+So, what we’re--  Ms. Enck put up the chart that showed 
+company commitments over the years.  A lot of companies have made a lot 
+of way out their commitments.  But, now we have statutes in a number of 
+states that require companies to put material back in.  So, our members have 
+a vested interest in making sure that the material a) comes back, b) is of 
+sufficient quality, and c) we can get our hands on it.  We don’t want glass 
+downcycled to be something like landfill.  We don’t want our PET bottles 
+downcycled to be the back of a Shaw carpet.  We want those back into the 
+bottles and cans because we’ve made--  We’re legally on the line to put that 
+material back.  If producers are not accountable for and engaged in the 
+funding, design, and operation of that system, and it doesn’t work--  Say, 
+DEP is in charge of it,  and the system doesn’t work -- the recycling rates 
+don’t change.  The amount of recycled content available in New Jersey to the 
+producers doesn’t go up.  Who do I sue?  Who do we blame?  How can the 
+producers be held to standards, and, in fact, face penalties for not using 
+recycled content if they’re not given the ability to make changes to the system 
+that is fundamentally not performing? 
+ 
+SENATOR SMITH:   You’re predicting gloom and doom before 
+it happens. 
+ 
+MS. DIETLY:  That said, the problem with the system we have 
+today is a lack of accountability.  Why do we have stagnant recycling rates in 
+this country?  Because there’s no one responsible for the performance of our 
+recycling system.  
+ 
+ 
+36 
+ 
+ 
+SENATOR SMITH:  Well, because we have no national 
+leadership; that’s the real reason-- 
+ 
+MS. DIETLY:  Well, and all your-- 
+ 
+SENATOR SMITH:  --Between you and me. 
+ 
+MS. DIETLY:  --That we’re talking about EU standards, 
+Canadian standards-- 
+ 
+SENATOR SMITH:  So, let’s talk about EU standards. 
+ 
+You know what would be a great homework item for you?  And,  
+you can go back to the people who you represent and say, “This guy is really 
+driving us crazy.”  Send us the EU standards, and tell us the ones you can’t 
+live with, and why.  Because that’s a starting point.  You’re telling me we have  
+500 million people there using, and the companies in that jurisdiction that 
+are doing producer responsibility.  And, you’ve made a point -- they have 
+different infrastructure, yada, yada, yada. 
+ 
+Let’s use that as a starting point.  Tell me what you can’t live 
+with in the European standards. 
+ 
+MS. DIETLY:  They’re on about their fourth generation of 
+standards. 
+ 
+SENATOR SMITH:  Which is great.  They’ve already made a lot 
+of mistakes, and they fixed them.  That’s a good thing. 
+ 
+MS. DIETLY:  But, they started at the beginning.  They didn’t 
+start at the fourth generation. 
+ 
+SENATOR SMITH:  Tell us why there’s a standard in the EU 
+that we can’t use.  What I’m saying is, this will not be a waste of your time. 
+ 
+MS. DIETLY:  I think that what the process that has been 
+established -- and it’s done a lot of places that we recommend in our 
+ 
+ 
+37 
+ 
+testimony, that we recommend in conversations -- is that New Jersey needs 
+to understand what it has today in terms of programs, capacity, systems; and 
+then set goals that are relative to that.  What do we have, what can we 
+achieve, at what cost?  And, then set a timeline for doing that, and measure 
+the producers against that timeline, against those goals.  It’s the DEP and a 
+public advisory committee of stakeholders who would judge whether the 
+producers are making adequate progress towards that goal.  That is exactly 
+the way Europe and Canada started.  They started with general directives, 
+they got general legislation.  You read the EPR legislation for a province in 
+Canada -- it’s about six pages long.  They’re not elaborate. 
+ 
+The detail comes in what the producers do.  The producers are 
+the ones who go out and do these needs assessments, “Here’s where we are; 
+here are the gaps; here’s what we need to close.  Here’s our proposal for doing 
+that; over five years, we can achieve this, this, and this.  You evaluate us 
+relative to that; at the end of it, if we haven’t done it, you fire us.”  And the 
+producers have to form a new organization; write a whole new plan; and come 
+back to the state with a new strategy. 
+ 
+The other thing that’s happening all the while is that the 
+producers are investing in expanding the scope of materials that are recycled 
+in New Jersey.  They’re expanding access to recycling in New Jersey beyond 
+those who have it today, and beyond the materials that are being recycled 
+today.  They’re doing comprehensive uniform advertising, promotion, and 
+education of the recycling system across all platforms in the state.  So, all 
+municipalities -- it doesn’t matter if you’re in Mercer County or--  It doesn’t 
+matter what county you’re in, you’re getting the same sort of messaging about 
+recycling.  You’re seeing it in public spaces, you’re seeing it at home.  That’s 
+ 
+ 
+38 
+ 
+one of the critical things that the (Indiscernible) organization can provide 
+and does provide in these systems.  
+ 
+So, there’s a--  Jersey has a lot of individual communities that 
+run programs.  And, it’s going to take a long time for them to sort of come 
+into some level of synchronization and standardization.  But, that’s the only 
+way we’re going to be able to ultimately make improvements, do education, 
+and raise the overall level.  I mean, that’s what we need to do; raise the overall 
+level of collection and processing.  Make investments in the MRFs -- some of 
+which haven’t been invested in since they were built – and, ultimately provide 
+that material to close the loop with a system.  That’s the model we want to 
+follow; that’s the model that was followed in Europe.  The funding 
+mechanism that the producers use will incentivize packaging changes.  
+Because if you sell something that isn’t recyclable, you’re going to pay a lot 
+of money.  If you sell something that is recyclable, and uses recycled content, 
+and is recycled at a high level, you will pay less money.  So, the system will 
+incentivize producers to use those materials.  But they won’t, as the Assembly 
+Bill in New York does, say that 10 years from now you can only sell half as 
+much as you sell today.  That’s a bridge too far for us.  
+ 
+SENATOR SMITH:  I appreciate your comments.  And, if you’d 
+send in that information, we’d really appreciate it. 
+ 
+MS. DIETLY:  All right; thank you. 
+ 
+SENATOR SMITH:  The next witness -- Greg Costa, from 
+Consumer Brands.  Neither box is checked, in favor or opposed. 
+ 
+Greg, are you here? 
+G R E G   C O S T A (off mic):  Yes. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+ 
+39 
+ 
+ 
+ MR. COSTA:  I’m only a little bit more ambivalent than AJ, as 
+he-- 
+ 
+SENATOR SMITH:  (off mic)  He was pretty ambivalent.  
+(laughter) 
+ 
+MR. COSTA:  We really appreciate this, Senator. 
+ 
+My name is Greg Costa with the Consumer Brands Association.  
+ 
+Thank you for the opportunity to comment on the Bill.  
+ 
+Just a little bit about the Association.  We wish, first of all, to 
+engage with you, the Committee, and the Legislature to address New Jersey’s 
+recycling needs -- and we do support the concept of Extended Producer 
+Responsibility.  It’s our goal to assist in the enactment into law of a policy 
+that has a complementary funding mechanism that brings maximum benefit 
+to consumers and taxpayers and is a sound blueprint for recycling success 
+here.  And we want it also to be a model for other states.  As you’ve heard 
+testimony today, there are laws now in Maine and Colorado recently, and 
+Oregon.  And, frankly, our fondest wish on this is that if we can have a 
+successful stakeholder process and figure something out, we’d like one of 
+these states to emerge as a model for something that can be done across state 
+lines so that it is absolutely as similar as possible from here, to New York, to 
+Connecticut, and through the Northeast, at the very least. 
+ 
+Consumer Brands Association represents the world’s leading 
+consumer products packaged goods companies.  In the State of New Jersey, 
+the CPT industry contributes $56.6 billion to the GDP; $35.1 billion in labor 
+income; and supports 515,000 jobs.  So, we’re heavily engaged here.  We 
+have a huge presence in manufacturing, but also obviously in distribution and 
+ 
+ 
+40 
+ 
+sales.  But there’s quite a bit of warehousing, and a lot goes on at the Port as 
+well. 
+ 
+As part of the shared responsibility in improving end-to-product 
+life systems, Consumer Brands can support a well-designed EPR program 
+that’s intended to improve municipal recycling and other important 
+components.  We really want to do that across the board.  And I think our 
+biggest problem with the Bill, as we see right now, is that it’s so focused on 
+the consumer-packaged goods industry, and we think that this should be 
+broadened out and that there should be-- 
+ 
+SENATOR SMITH:  What do you think should be included? 
+ 
+MR. COSTA:  You know, I think anything that is going to 
+generate waste, and at all levels.  Meaning, the packaging material that’s 
+delivered to the warehouse, the packaging material that’s in the so-called back 
+room at the retail store -- you know, that kind of thing.  And, it should be for 
+everything that is coming in and going out of the consumers’ homes.  We 
+think that that’s the most efficient and effective way to do this, the most 
+comprehensive way, and the way that it’s going to get the most material back 
+into the hands of the manufacturers that need it.  
+ 
+When Ms. Enck -- who we have tremendous respect for her and 
+the work that she does.  Her work at the EPA was exemplary; and, of course, 
+Beyond Plastics--  I mean, what great ideas.  You know, one of the things that 
+she put up there, though, showing what industry said and what it’s really 
+done.  Those are goals.  I mean, industry is working toward achieving the high 
+levels that were in one color, and, of course, the levels that are here right now.  
+Some of the hurdles to getting there, of course, involved how easy it is to get 
+this material back.  And, this is why the evolution of the industry has been 
+ 
+ 
+41 
+ 
+such that we’ve gone from 10 years ago opposing EPR, to having a set of 
+principles that are in favor of EPR and just trying to get there in a way that 
+is good, obviously for the bottom line of industry.  They’re there to make a 
+profit -- but for the taxpayers and the consumers.  No matter what we do, 
+there are going to be costs involved.  And, those costs need to be managed so 
+that--  Especially at this time of inflation.  And, you have, on your Bill, Mr. 
+Chairman, you have a pretty aggressive timeline.  And, it’s sort of in the 
+middle of what is currently a very difficult period of time for manufacturing, 
+both in supply chains and just in costs.  So, that’s another consideration. 
+ 
+ The fundamental principles and elements that we think should 
+be included, is to allow for an empowered industry-funded and run Producer 
+Responsibility Organization to assess the fees, unpackaging to determine 
+where and how those funds are spent.  This is diametrically opposed to what 
+I think we heard Ms. Enck describe.  And, I don’t think that her notion is 
+entirely inapt.  I understand what is meant when you say, you can’t have the 
+fox guarding the henhouse.  I take a little bit of exception to that because, 
+our companies are working very hard to recover as much material as possible; 
+to use material that is economical; and that can be recycled.  So we’re on the 
+same page on that, but we do think that industry can manage this 
+appropriately--  And, by the way, with as much oversight as you would always 
+have from the Department of Environmental Protection on any law that’s 
+passed.  They wouldn’t be just left-- The folks running the PRO wouldn’t 
+simply be left to their own devices.  Of course, there are going to be things in 
+the law that are basically the guidelines, and then, of course, regulatory 
+oversight from the DEP.  So, it’s not entirely -- I don’t envision something 
+that’s entirely autonomous.  It’s certainly with oversight, which the 
+ 
+ 
+42 
+ 
+Legislature obviously can exercise every year as you see how things are 
+working out.  
+ 
+ The definitions of recyclability should also, we would hope, not 
+be set by law, but should be determined by the PRO and approved by the 
+appropriate regulatory agency; I assume the DEP.  This allows for flexibility 
+as you move forward in new types of packaging being introduced, used, 
+coming into use increasingly.  That’s the reason for that. 
+ 
+Funds should be dedicated to recycling improvements, and not 
+funneled into State government general funds. 
+ 
+Policy should be based on accurate data, including regular State 
+needs assessments with clear financial and performance targets.   
+ 
+Recycling programs should be standardized across the state or at 
+least across regions.  That’s a lot easier to do in New Jersey.  I grew up in 
+Camden County, and I defy people to drive from one end of  Camden County 
+to the other and tell when they left one town or borough and go into another.  
+I currently live in Upstate New York where things are just so -- it can be so 
+rural, and the different needs in my tiny little town, versus the village, and 
+the city that’s further away in our county.  It’s hard.  But, here in New Jersey, 
+I think, with the exception of our friends up in the hills and so forth--  But, I 
+think that you have the ability to put together a really comprehensive system 
+that can be a model for other states.  I think that you have that in your grasp. 
+ 
+ And then, finally, the funding from the consumer packaged 
+goods company should be additive, as I said before, to existing recycling 
+programs, and also include contributions from other sources.  We’d really like 
+to see that. 
+ 
+ 
+43 
+ 
+ 
+And, we think that the EPR program should be implemented 
+using the best available data gathered through a vigorous needs-assessment 
+program.   
+ 
+So, I think that-- There’s more in my written testimony -- you 
+have--  And, what we really, really want to see is the kind of stakeholder 
+process this fall that I think we talked about when we were on a call together 
+back in February.  
+ 
+SENATOR SMITH:  Yes, let’s do it in the summer -- let’s not 
+wait until the fall -- right after July 4.  Call my office and we’ll get together.   
+ 
+MR. COSTA:  If you promise to do it at the beach, I’ll be there 
+every day.  (laughter) 
+ 
+SENATOR SMITH:  I don’t know if I can make that promise.  
+ 
+MR. COSTA:  Great. 
+ 
+SENATOR SMITH:  But, anyway, thank you for your 
+comments, Greg.  We appreciate it. 
+ 
+Gary Sondermeyer, Association of New Jersey Recyclers, 
+commonly called ANJR. 
+ 
+Gary. 
+ 
+You’re also a former Assistant Commissioner at DEP? 
+G A R Y   S O N D E R M E Y E R:   Chief of Staff 
+ 
+SENATOR SMITH:  Former Chief of Staff. 
+ 
+MR. SONDERMEYER:  And, an Assistant Commissioner. 
+ 
+Well, thank you very much, Mr. Chairman, and esteemed 
+members of the Committee.  
+ 
+ 
+44 
+ 
+ 
+Gary Sondermeyer; I’m Vice President of Operations of Bayshore 
+Recycling in Woodbridge Township, and I’m here representing the New 
+Jersey Association of Recyclers. 
+ 
+I have prepared remarks that I did submit for the record.  So, I’ll 
+just paraphrase very quickly and generally our comments. 
+ 
+ANJR very enthusiastically supports the legislation.  We think 
+it’s a critical next step towards sustainable packaging management and, really, 
+towards sustainable living, which is what we need to evolve to in response to 
+the climate crisis. 
+ 
+We have been involved, for the past couple of years, in the 
+national and regional discussion of EPR through the National Recycling 
+Coalition; regionally, the Northeast Recycling Council and the Northeast 
+Waste Management Officials Association.  
+ 
+We wish to applaud many of the aspects of the Bill.  And, I just 
+will shotgun through some that I would like to highlight. 
+ 
+First, we very much appreciate the scope of the covered materials, 
+which goes well beyond plastics, and deals with paper, plastic, glass, metal, 
+and any mixture thereof.  Really, anything that represents packaging.  
+Similarly, the inclusive nature of covering the entire supply chain -- primary, 
+secondary, tertiary, through manufacturers, distributors, exporters, and 
+importers.  The architecture of Section 3, which deals with the stewardship 
+plans and how that is laid out.   Section 4,  in particular -- I want to highlight 
+the performance goals that are articulated.  The minimum 75 percent post-
+consumer requirement for all single-use packaging by January 1 of 2027.   The 
+standard for all single-use packaging is readily recyclable and compostable by 
+ 
+ 
+45 
+ 
+January 1 of 2030, and at least 25 percent reduction of all single-use plastic 
+packaging by January 1 of 2030.  
+ 
+Perhaps the most important aspect of the Bill to the recycling 
+industry -- and I think, arguably, the solid waste and the recycling industry 
+in the state --  is Section 3a(5), where it’s addressed that producers need to 
+describe how they’ll utilize the existing municipal solid waste collection and 
+recycling infrastructure to implement the stewardship plans.  This is 
+absolutely critical.  As you all know, we have an exceptionally mature 
+collection processing and disposal system in a state that simply must be 
+utilized for this to be workable.  
+ 
+Section 3a(6) amplifies this point, and explicitly says that 
+producers need to work with existing waste haulers, storage, and recycling 
+facilities, counties, and municipalities throughout the state to effectuate the 
+collection, transportation, reuse, and recycling or disposal of packaging 
+products.  
+ 
+We like to recognize the teeth that are set out in Section 6.   
+Really, they’re unequivocal -- that non-participating producers shall not sell, 
+offer for sale, distribute, or import for sale or distribution any packaging 
+products unless a producer is participating in an implementation of a 
+packaging product stewardship plan.  It brings back in my memory -- I’ve 
+been  working in the field for 42 years -- of the 1991 Toxic Packaging 
+Reduction Act, where we had similar types of provisions on the 
+manufacturers at the time.  I distinctly recall them saying it couldn’t be done; 
+and yet, we did it.  They did reduce lead, cadmium, mercury, and hexavalent 
+chromium in packaging sold in the State of New Jersey.  And, hopefully, we’ll 
+have that same outcome. 
+ 
+ 
+46 
+ 
+ 
+I want to recognize the enforcement provisions of Section 8 for 
+civil administrative penalties.  
+ 
+And, finally, I want to recognize the living nature of this planning 
+process in Section 4e, which to maintain an ongoing focus on the stewardship 
+plans, they need to be updated at least every five years.  We particularly like 
+the provision in Section 4e(2), where the DEP, at any time, can come in and 
+review a stewardship plan on an as-needed basis.  
+ 
+So, enthusiastic support; just a few items I’ll mention on an 
+ongoing basis. 
+ 
+One -- and I think everybody’s sort of in this same position of 
+trying to understand the mechanics of implementation -- as Administrator, 
+Ms. Enck mentioned conceptually EPR is pretty straightforward.  But, when 
+you get down to how you actually implement a system, I think there’s a lot 
+that we need to figure out.  And, we can do that with discussions like this, 
+that we’re starting today.  You know, the system is complicated.  The last 
+metrics I saw from DEP, about 40 percent of our municipalities have 
+Department of Public Works collection for solid waste and recycling.  About 
+40 percent have municipal contract collection with private haulers.  Private 
+haulers do the servicing for most of the commercial, institutional, industrial 
+accounts, and then about 20 percent are subscription services with individual 
+homeowners making their own arrangements.  So, at least 80 percent were 
+dealing through the tax base.  And, the mechanics of how payment takes 
+place, the market share--  And we worked through a lot of these in the 
+Consumer Electronics Bill, so we know we have some experience in this State 
+in doing that.   
+ 
+ 
+47 
+ 
+ 
+But, certainly, the devil’s in the details of figuring out how it will 
+work.   
+ 
+Again, I mentioned sort of our biggest concern of using the 
+existing system.  And, if producers are paying, what rights or authorities will 
+they have, or any?  That’s something that we think needs to be thoroughly 
+vetted.  I had a chance to participate in a national conference a couple of  
+weeks ago.  They had sessions on Extended Producer Responsibility.  They 
+had very distinguished speakers from the manufacturing industry from Coca-
+Cola, Dr. Pepper, Clorox, and The National Packaging Association.  And they 
+made the point that if we’re going to be paying-- Because as you know, there’s 
+different payment schemes in the bills that have been passed.  Maine has one 
+payment percentage; Oregon has a different percentage; Colorado just passed, 
+within the last month, how that actually is going to work in terms of what 
+abilities or rights the producers have in working with municipalities and the 
+private sector is of great importance to us.  Basically, the folks from the 
+manufacturers were saying, “If we’re going to pay, we want a lot to say.”  And 
+we need to understand what that means and have a very thorough discussion 
+to talk through that.  
+ 
+Just two more very quick points. 
+ 
+The timeframes in Section 4 for DEP to perform their reviews--  
+This is a DEP thing they need to comment on, but we do express some 
+concern with that timeframe being tight.  There’s no expertise, or very limited 
+expertise within the agency to review plans of this complexity.  
+ 
+And, finally, we do recommend a side-by-side review of S-426 
+next to the Recycled Content Bill that was passed earlier this year, which is 
+so significant.  And, from a public policy standpoint, it would seem to make 
+ 
+ 
+48 
+ 
+sense to do that side-by-side review, both in terms of the goals, and objectives, 
+and the timeframes. 
+ 
+So with that -- again, enthusiastic support.  Thank you very 
+much, both Mr. Chairman, for sponsoring the Bill, and the Committee for 
+entertaining it, and for beginning a very important discussion.  
+ 
+Thank you.  
+ 
+SENATOR SMITH:  Thank you, Mr. Sondermeyer; most 
+appreciated. 
+ 
+Our next witness, Tony Russo; checked neither box, in favor or 
+opposed. 
+ 
+Tony Russo, are you here? 
+T O N Y   R U S S SO:   (off mic)  Yes. 
+ 
+SENATOR SMITH:  Please come up. 
+ 
+MR. RUSSO:  Yes; thank you, Mr. Chairman, and members of 
+the Committee. 
+ 
+ Again, Tony Russo; I’m the president of the Commerce and 
+Industry Association of New Jersey.  Thanks for the opportunity to weigh in 
+on this.  
+ 
+The reason why I didn’t check the box is because it’s discussion 
+only, and we have a couple of members in this space who are actually 
+producers.  And, after listening to some of the testimony today, I think I 
+would be remiss if I didn’t remind everybody that plastics are good.  I mean, 
+for example, one of our members makes plastics for medical devices, medical 
+syringes, and medicines, and they have to make them in plastic packaging.  
+So, it serves a purpose. 
+ 
+ 
+49 
+ 
+ 
+But, the issue is on the pollution side, right?  And, like the 
+Administrator said, where you have to reach that happy balance between 
+what we produce and how we dispose of it and handle it. 
+ 
+Again, we haven’t really done a deep dive into the Bill, but I 
+could tell you the initial response that I’ve gotten back -- and Senator 
+Greenstein, you’re working with the manufacturing caucus -- a few of these 
+members actually employ hundreds of people; generational businesses that 
+produce plastic packaging.  And, they’re good stewards of the environment 
+and they want to do the right thing.  The first question that we had, after 
+looking at this Bill is, how much would something like this even cost, and can 
+we pass those costs on?  Maybe, maybe not. 
+ 
+But it’s a major undertaking.  The breadth and scope, Mr. 
+Chairman, of the Bill is something that I think you appreciate that it’s going 
+to take some time to kind of work through the details -- that this is something 
+that we do have to engage in a stakeholder process.  We do have to sit down 
+and kind of go through the data.  Where’s the plastic going?  But, I just want 
+to make sure that we all can appreciate that plastic serves a vital purpose in 
+industry, in business, and in our personal life.  
+ 
+So, we look forward to working with everyone on the Bill.  But, 
+I  just wanted to get on the record to say that the first take -- the breadth and 
+scope is pretty large. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Thank you for your comments. 
+ 
+Eric Benson, Clean Water Action, in favor. 
+ 
+Eric, are you here? 
+E R I C   B E N S O  N:  (off mic)  Yes. 
+ 
+ 
+50 
+ 
+ 
+Good afternoon. 
+ 
+Eric Benson, Clean Water Action. 
+ 
+I’ll be brief. 
+ 
+Clean Water Action is in support of S-426, requiring 
+manufacturers to pay for the collection and recycling of their products; 
+encourages good design products that are less toxic, more durable, more 
+recyclable. 
+ 
+Producer responsibility makes our waste stream more cyclical.  It 
+allows flexibility for manufacturers to decide how to best implement the 
+recycling programs given their individual business models and practices and 
+products; and it creates an even playing field for them.  
+ 
+So, who’s benefiting from producer responsibility?  Businesses.   
+When their products are designed with EPR in mind, they have a competitive 
+advantage in the marketplace.  Taxpayers.  The role of government is 
+significantly reduced, which translates directly into savings for taxpayers.   Job 
+seekers.  More products are managed by manufacturers.  There are new 
+markets recycling has created, stimulating small businesses and growth 
+creation.  And, of course, our favorite topic, the environment.  When less 
+toxic products are made, there’s less to clean up later.  When more products 
+are recycled or when they’re designed to last longer, less trash has to be 
+burned or buried.  
+ 
+Producer responsibility is happening all around the world.   
+Industries have already made some of the changes we’re seeking. 
+ 
+We’ve made a lot of steps here in New Jersey in the last couple 
+of years to reduce pollution.  We’re ready now to tackle one of the biggest 
+sources of pollution in the state: packaging.   
+ 
+ 
+51 
+ 
+ 
+To make sure we have the strongest and most effective EPR Bill 
+moving forward, we support the technical and strengthening amendment 
+proposed by our hero, Ms. Judith Enck, and we’ll be following this Bill closely 
+as it moves along. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Thank you, Eric. 
+ 
+Lew Dubuque, National Waste and Recycling Association, 
+opposed. 
+ 
+Lew. 
+L E W I S   D U B U Q U E:  Good afternoon. 
+ 
+SENATOR SMITH:  Good afternoon. 
+ 
+MR. DUBUQUE:  Chairman, my name is Lew Dubuque.  I want 
+to thank you for the opportunity to speak today on behalf of the New Jersey 
+chapter of the National Waste and Recycling Association. 
+ 
+The collective work of our New Jersey members is responsible for 
+46,000 jobs in the state, a payroll of $2.3 billion, and $8.4 billion in annual 
+State revenues. 
+ 
+NWRA recognizes and applauds New Jersey, in particular, for its 
+long-standing role as a leader on sustainability solutions.  NWRA and its 
+members are similarly committed to supporting the development of safe, 
+economically sustainable, and environmentally responsible recycling 
+programs benefiting communities throughout the state.  
+ 
+However, a statewide EPR program for all packaging materials 
+and paper products has the potential to upend New Jersey’s existing recycling 
+program.  It may have a lasting impact on innovation and investment and 
+ 
+ 
+52 
+ 
+can do even more harm than good when not enacted in a thoughtful manner 
+that accounts for system-wide effects and marked considerations. 
+ 
+SENATOR SMITH:  We only do thoughtful legislation. 
+ 
+MR. DUBUQUE:  Okay, then we’re good.  (laughter) 
+ 
+We think it’s vital for an EPR program to succeed in the state, it 
+has to take into concerns and objectives of all relevant stakeholders, including 
+counties, municipalities, residents, and private recycling collection and 
+processing service providers.  
+ 
+Accordingly, any EPR legislation to create an advisory committee 
+representing a variety of stakeholders’ interests.  The committee should be 
+involved in crafting the State’s EPR program from the onset by providing 
+feedback regarding statewide recycling performance goals.  The advisory 
+committee should be empowered to provide feedback to the PRO before the 
+new, updated, and revised PRO plans are submitted to DEP for review.  
+Producers and PROs should be required to respond in writing to the advisory 
+committee’s comments and recommendations during the plan creation and 
+implementation process to ensure that stakeholders’ input has a real role in 
+shaping the State’s EPR efforts to inform DEP’s understanding of how the 
+comments and recommendations affected the submitted plans. 
+ 
+ Two, a comprehensive statewide needs assessment must be 
+conducted prior to the enactment of an EPR program.  A fully funded needs 
+assessment is a prerequisite to any effective EPR legislation in order to 
+identify strengths and gaps in New Jersey’s recycling system.   
+ 
+Determining the EPR for packaging materials and paper products 
+is the solution to New Jersey’s recycling challenges before determining the 
+ 
+ 
+53 
+ 
+cause and scope of these challenges.  And, without considering alternate 
+strategies is akin to putting the cart before the horse. 
+ 
+ 
+ An extensive needs assessment would be necessary to inform 
+funding strategies and reimbursement rates supporting an economically 
+viable EPR system.  
+ 
+EPR legislation must recognize and protect New Jersey’s existing 
+recycling infrastructure.  New Jersey’s recycling systems have benefited from  
+significant investment in processing facilities and other assets, and those 
+investments should be expanded upon and improved, not abandoned for the 
+cheapest possible alternative.  Abandoning the State’s existing infrastructure 
+in the name of cost savings for PROs will strongly disincentivize future 
+private investment, and undercut the State’s goal of improving recycling 
+rates, increasing recycling capacity, and improving access to the service for its 
+residents. 
+ 
+Thus, while providing funding to strengthening the recycling and 
+reuse infrastructure’s important goal for EPR producers and PROs should 
+work with existing haulers, recyclables, handling, and recovery facilities, 
+recyclers, and municipalities to operate or expand current collection 
+programs.  PRO funding must prioritize improvements to existing 
+infrastructure, rather than the creation of new, duplicative facilities and 
+programs.  
+ 
+Four, local governments and residents should retain control over 
+local recycling solutions.  New Jersey is unique that a significant percentage 
+of its residents currently receive recycling-collection services through 
+subscriptions with private haulers.  Any proposed EPR programs should 
+ensure that New Jersey residents do not lose subscription recycling-collection 
+ 
+ 
+54 
+ 
+services if they desire.  Additionally, PROs should reimburse municipalities 
+for the cost of providing recycling services to their residents as established 
+through the needs-assessment process. 
+ 
+ Local governments are in the best position to determine which 
+services are most efficient and convenient for the residents, and which 
+strategies had the best chance of succeeding.   
+ 
+EPR legislation should not encourage municipalities to turn over 
+control of their recycling programs, particularly curbside recycling programs, 
+to PROs which are neither elected nor accountable to local taxpayers. 
+ 
+ Any EPR legislation should focus strictly on residential service.  
+Commercial and industrial programs should not be covered by a mandatory 
+statewide EPR program.  Including commercial and industrial customers and 
+statewide EPR programs would hamper private recycling entities’ ability to 
+continue operations throughout the state. 
+ 
+It is unclear whether the legislation is intended to cover recycling 
+collection for non-residential sources other than schools or public agencies.  
+But, to the extent the legislation is intended to cover recycling programs for 
+commercial and industrial customers, NWRA opposes the inclusion of those 
+programs in Bill. 
+ 
+New Jersey’s recently passed post-consumer content law looks to 
+create more robust markets for materials recovered throughout recycling 
+programs, thereby supporting their use for manufacturing into new products 
+and packages.  It is vital that the State gives time for this new law to have an 
+impact before branching off into something else.  
+ 
+ 
+55 
+ 
+ 
+I appreciate the opportunity to speak to you today, and look 
+forward to working with you in the future on behalf of New Jersey’s waste 
+and recycling industry.  
+ 
+SENATOR SMITH:  Lew, will you give us a copy of that? 
+ 
+MR. DUBUQUE:  Yes, will do. 
+ 
+SENATOR SMITH:  Well, FYI, for future testimony, if you have 
+a prepared statement, give it to us, make copies, and then just do a summary 
+with bullet points. 
+ 
+MR. DUBUQUE:  Okay; I got it. 
+ 
+SENATOR SMITH:  It’s a better way to do it. 
+ 
+MR. DUBUQUE:  Thanks. 
+ 
+SENATOR SMITH:  Jennifer Coffey, ANJEC -- Association of 
+New Jersey Environmental Commissions, in favor.  
+J E N N I F E R   M.   C O F F E Y:  Good afternoon.  It’s good to see 
+everybody. 
+ 
+Jennifer Coffey; I’m the Executive Director of ANJEC, the 
+Association of New Jersey Environmental Commissions. 
+ 
+Thank you, Chairman and Senators, for being here today.  
+ 
+First, I want to start off by saying, ditto to everything Judith Enck 
+said, and ditto to everything that our good friend, Gary Sondermeyer, said-- 
+from the recycling community. 
+ 
+I’m not going to get into the details of our feedback on this Bill.  
+We will send that along.  I know the day is long, the hearing is long.   
+ 
+I do want to set context and respond to a few of the comments 
+that I heard.  
+ 
+ 
+56 
+ 
+ 
+First of all, to recap why we’re looking at this Bill.  You have all 
+heard me say, time and time again, that the World Economic Forum has 
+produced a very comprehensive study, backed by global data, that shows that 
+if we don’t take action with the way that we are using single-use plastics, by 
+2050 we will have more plastic than fish in our ocean.  And, I challenge you 
+to think about the children in your life.  And, so my niece, Giselle, who will 
+be here this fall, so maybe I’ll drag her to one of these hearings.   
+ 
+SENATOR SMITH:  Absolutely.  
+ 
+MS. COFFEY:  She will be-- She’s now 13, and, so, she will be 
+about my age in 2050.  And, I do not want to leave her an ocean that has 
+more plastic than fish.  She can tell us about the Great Barrier Reef and all 
+the impacts that we’re seeing down in the Southern Hemisphere.   
+ 
+I also want to talk a little bit about a recent Yale study that shows 
+that 14 percent of fossil fuels go to make plastics; 14 percent.  Plastics are 
+fossil fuels, period.   Fossil fuels are plastics.  What’s more concerning is that 
+the same Yale study says that, by 2050 -- so that the same year we’re looking 
+at, unless we change the way we do things -- more plastic than fish -- by 2050, 
+plastics will drive 50 percent of fossil fuel increased demand; 50 percent. 
+ 
+This is a system we can change; and we’re doing it right here in 
+New Jersey.  New Jersey is leading the way.  And this EPR Bill builds upon 
+the Plastic Pollution Reduction Act, so there are no more bags, no more 
+polystyrene, the moving straws to upon request.  It builds upon that post-
+consumer recycled content law where we are setting standards to make 
+packaging using recycled content.  
+ 
+I heard from some of the business and industry advocates a 
+willingness to include post-consumer recycled content into their packaging.  
+ 
+ 
+57 
+ 
+That’s great.  What we need to look to do is, yes, shift our recycling rates up, 
+we need to increase recycling so that the product base is there for them to 
+use.  And, we need to attach some responsibility to business and industry for 
+the amount of pollution and human health impacts that they are creating in 
+our society.  Right now, we, as human beings -- most particularly, human 
+beings who are Black, and brown, and low-income -- are shouldering the 
+burden of the impacts of toxic plastics and packaging.   
+ 
+And, so, we need to shift away from putting the burden of 
+packaging and plastics on human beings and put it back on to the business 
+and industry who are using and putting these products out into our 
+environment.  As we heard from Ms. Enck, it’s not consumers who are asking 
+for this giant volume of plastic packaging; it’s industry because there’s fossil 
+fuel money there.  That’s the driver. 
+ 
+ And, so, we know that plastics -- as Judith has told us, and so 
+many studies have told us -- is a climate change issue.  We know it’s an 
+environmental justice issue.  We know it’s a clean water and healthy habitats 
+issue.  We also know that we can fix this.  New Jersey’s leading the way.  I’m 
+looking to California and trying to find the right people who lovingly taught 
+there to tell them to come up to the Jersey standard and follow what we’re 
+doing here on the East Coast.  
+ 
+This Bill will move towards reduced packaging, increased 
+recycling.  We’re very, very excited, very willing to participate in any 
+conversations.  We will send around comments and input. 
+ 
+ Just a quick response to two comments I heard from Commerce 
+and Industry.  
+ 
+ 
+58 
+ 
+ 
+ We’re not talking about surgical supplies here.  I’m not trying 
+to stop anybody’s bypass from happening, any medical supplies that are 
+wrapped in sterilized plastic.  That’s not what we’re talking about here.  
+We’re talking about the mass volumes of plastic that you get in a candy bar 
+or a soda.  So, we’re not talking about medical and surgical supplies here.   
+ 
+Also, when I hear we need an extensive needs assessment from 
+industry -- that sounds like a lot of delay.  We know what the need is.  We 
+know we need to reduce the amount of plastic packaging; we know we need 
+to increase recycling rates, and we know we need to create a closed-loop 
+system that’s cradle-to-cradle so that we are not depending on virgin plastic 
+and supporting the fossil fuel industry anymore for disposable plastics.  
+ 
+So, thank you, Chairman; I appreciate it.  Thank you, Senators, 
+for the opportunity to speak today. 
+ 
+SENATOR SMITH:  Thank you, Jenn. 
+ 
+Ray Cantor, seeking amendments. 
+ 
+Ray, what amendments do you want? 
+R A Y M O N D   C A N T O R,   ESQ.:  I don’t know yet, sir, but I’m--  
+Let’s talk about that. 
+ 
+SENATOR SMITH:  Well, you said “seeking amendments.” 
+ 
+MR. CANTOR:  Well, okay.  This gets back to your checklist of 
+having a forum of for or against.  
+ 
+So, what we know we need is a modified bill.   
+ 
+So, let me just start.  Ray Cantor, NJBIA.  Thank you for allowing 
+us to speak here today. 
+ 
+My colleagues -- who have spoken before me and who will speak 
+after me -- are much more familiar with the details of EPR legislation and 
+ 
+ 
+59 
+ 
+how to craft the right program.  I just want to talk a little bit more about 
+process and timing.  What we need is not, in our opinion, not in crafting the 
+EU, or the New York, or the California standard in New Jersey.  We need a 
+New Jersey-specific law that’s going to work in New Jersey and increase 
+recycling here in New Jersey.   
+ 
+Business is in favor of EPR, but we want to make sure that we do 
+it right.  It’s extremely complicated when we’re talking about processes of 
+thousands upon thousands of different products.  And, I know, Mr. 
+Chairman, this Committee and you like to be very aggressive, very 
+aspirational.  Try to push those boundaries to make sure that everyone gets 
+to the place where you think we can and should be.  But, sometimes we--  
+Again, we need to make sure we do it right.  So, I would just suggest that we 
+do--  That those stakeholder meetings that we had all talked about--  If we 
+begin this summer, that is fantastic.  I think everyone here in the audience is 
+ready to come in and have those conversations. 
+ 
+But, again, we should not be rushing to, in my opinion, adopt a 
+law or a bill as soon as we can.  We need to adopt a bill as soon as that bill is 
+ready.  You had mentioned before-- I think we’re all aware that the 
+Department of Environmental Protection is understaffed, particularly in the 
+solid waste program.  They’ve had retirements; that program has not been 
+rejuvenated in quite some time.  Just over the last few years-- they are behind 
+in even proposing regulations for any number of bills that this Committee 
+has voted on.  They have not proposed--  Dirty dirt, food waste, the bad bills, 
+and now recycled content.  So, I would just suggest, this is not-- 
+ 
+SENATOR SMITH:  How about Flood Hazard rules? 
+ 
+MR. CANTOR:   I’m talking about just on the solid waste side. 
+ 
+ 
+60 
+ 
+ 
+SENATOR SMITH:  Okay. 
+ 
+MR. CANTOR:   You know-- 
+ 
+SENATOR SMITH:  So, did you go to the budget hearing and 
+say that the DEP is short personnel, and the New Jersey Business and 
+Industry Association suggests a budget increase for personnel? 
+ 
+MR. CANTOR:  Well, we always want State government to work 
+better.  But, when you’re given three minutes at the budget hearings, we    
+have-- 
+ 
+   
+ 
+SENATOR SMITH:  Other things to talk about? 
+ 
+MR. CANTOR:  --more global issues to talk about. 
+ 
+But, we do support--  And, we told the Commissioner that we 
+support staffing up so they could do their job appropriately.  It does no one 
+any favors when DEP is understaffed and can’t get permits out, can’t get the 
+regulations done appropriately.  Won’t be able to do the waiver process of 
+the recycled-content Bill if and when they ever get the regulations done.  
+ 
+So, again, our suggestion is, let’s stakeholder this; let’s bring in 
+the best minds to make sure that we get the right solutions; let’s do it right.   
+And then I think industry will be firmly on board and we can have a solution 
+that helps everybody.  
+ 
+SENATOR SMITH:  Thank you for your comments. 
+ 
+MR. CANTOR:   Thank you. 
+ 
+SENATOR SMITH:  Doug O’Malley, in favor, Environment 
+New Jersey. 
+ 
+Doug, are you here? 
+D O U G   O’ M A L L E Y:  (off mic)  Yes. 
+ 
+ 
+61 
+ 
+ 
+SENATOR SMITH:  Okay.  I thought we might have worn you 
+out. 
+ 
+MR. O’MALLEY:  Wait another hour.  That’s why I have a CLIF  
+Bar in my pocket. 
+ 
+But Chairman, I wanted to start off by thanking you and Vice-
+Chair Greenstein, and all the members of the Committee for being here.  This 
+is an incredibly crucial topic to be having an extended hearing, and then, 
+obviously, a stakeholder process, which you’ve encouraged, Chairman.  
+ 
+Once again, my name is Doug O’Malley; I’m the Director of 
+Environment New Jersey. 
+ 
+And, I wanted to start off by saying the future, as Dustin 
+Hoffman liked to tell us in The Graduate, it was plastics, so it’s more than 50 
+years ago.  We are now at a moment, as Mae West would say, where we have 
+too much of a good thing.  And, the MetLife Stadium is filled -- this is 
+rhetorical -- but MetLife Stadium could be filled every 11 hours with the 
+amount of plastic pollution we create in this country.  So just kind of imagine 
+that visual.   Obviously, it’s a little less here in New Jersey, but it’s still a lot. 
+ 
+ And, we really have a failure of a system where we are creating 
+plastic pollution, and then we’re not having incentives or mandates on the 
+producers to be able to reduce that pollution in the first place.  And, that has 
+huge environmental impacts.  
+ 
+I submitted testimony to the Committee that outlined some of 
+this.  And, I want to just to kind of remind Committee members that many 
+of New Jersey’s Superfund sites are landfills.  Some close to you, Mr. 
+Chairman, the infamous Kin-Buc landfill in Edison.  That was a massive 
+landfill.  There’s another site up in Byram; essentially a town dump. 
+ 
+ 
+62 
+ 
+ 
+So, we have struggled with our waste-production system for a 
+long time.  As we heard from former Administrator Enck, New Jersey is one 
+of the states that does not have a Bottle Bill.  And, really, the original 
+extended producer responsibility legislation was bottle bills.  We don’t have 
+that, and that’s something that we should explore.  We heard that a little bit 
+in the testimony from ANJR.  And, certainly, there are others who will testify 
+to that as well. 
+ 
+ I wanted to also remind Committee members that this 
+conversation is kind of a great opportunity – and, I’m sure representatives 
+from ANJR would be more than happy to entertain this -- to visit a recycling 
+center.  And, I had the good fortune of going on a tour recently at Mazza 
+Recycling out of Eatontown on the Shore.  It was headed by TOMRA, which 
+we’ll hopefully hear from in a little bit.  And, it was eye-opening because if 
+the only time you’ve ever seen a recycling center is through Toy Story 3 
+(laughter) --  which, let me tell you, that’s a kind of combination of a landfill, 
+incinerator, and recycling center -- it’s eye-opening because what you see is a 
+lot of technology and a lot of manpower to remove plastic pollution from the 
+conveyor belts.  So, even though--  And, remember, this is not the waste 
+stream; this is the recycling center.  So, there’s a lot of wish-cycling that 
+happens; and literally, recycling centers are forced to deal with this.  And, so, 
+this is after the work to ban the use plastic bags, that was a huge step forward.   
+But, it’s not as if we’ve reduced all plastic, and we’re still seeing way too much 
+plastic be produced. 
+ 
+ And, in terms of this legislation, Chairman, I want to thank you 
+again for having this conversation, for introducing this Bill.  We heard from 
+former Administrator Enck -- the model bill in New York is that of 
+ 
+ 
+63 
+ 
+Assemblyman Englebright.  That bill has a lot of good things in it, and we 
+would strongly encourage that you look at that.  We’ll also pass along-- This 
+is included in my testimony, but I can include this as well to the Committee 
+members -- our report from a year and a half ago, Breaking the Waste Cycle.  
+ 
+I also wanted to highlight just recent polling that was just 
+released last week by the World Wildlife Fund, which kind of backs up the 
+reality of where we are from a public perspective right now.  And, the fact is, 
+the public is losing faith in recycling.  More than 75 percent said they believe 
+that none or only a small fraction of plastic waste in the U.S. actually gets 
+recycled.  And, the reality is, they’re right.  Because whether you agree with 
+the 9 percent recycling factoid, or the Beyond Plastics recent analysis of only 
+5 percent of plastics gets recycled.  That’s an atrocious number.   That means 
+91 percent to 95 percent of plastic does not get recycled.  That’s clearly a 
+market failure.  
+ 
+What we also saw in that polling -- which I reference in my 
+testimony -- is that 78 percent said they would prefer reusable to this 
+reasonable disposable plastic products.  And, 75 percent said they’d prefer to 
+buy things with minimal plastic packaging.  And then, finally, more than 52 
+percent said that businesses should be responsible for the plastic they 
+produce.  And, that is notable; that has increased.  Because as the plastic 
+pollution problem has gotten worse, we need to do more.   
+ 
+In terms of the legislation that’s in front of you, I just wanted to 
+outline some of the recommendations, then I’ll conclude my testimony, 
+because there are plenty of others who want to speak, including a colleague 
+of mine who can speak about what the public is saying about this issue at 
+their doorsteps. 
+ 
+ 
+64 
+ 
+ 
+First, that mandatory reductions need to be in the statute and 
+through reduction or use by 50 percent over a 10-year period.  Two, as 
+Administrator Enck testified, the need to eliminate toxic chemicals in plastic 
+products.  We increasingly have seen a PFAS crisis in the state.  We want to 
+ensure the plastic products aren’t exacerbating that problem. 
+ 
+Three, we want to ensure the recycling is defined as such, and 
+does not include recent attempts to include a waste-to-energy incineration or 
+“advanced recycling.”  That should not be defined as recycling and needs to be 
+clearly defined in the legislation. 
+ 
+Four, we would encourage direct funding to cities and towns for 
+waste reduction, which is clearly critical for environmental and economic 
+reasons.   
+ 
+And we also--  Five, we want to ensure the certitude for 
+accountability of the packing industry with clear standards, auditing, and 
+independent oversight.  And again, this is something that former 
+Administrator Enck testified.  We need to ensure there are clear standards 
+that are set by an independent agency, and that have accountability tracked. 
+ 
+ Six, as I mentioned before, the original EPR were Bottle Bills.  
+New Jersey should consider including a Bottle Bill provision in this.  It works, 
+and it’s clearly a solution that other states have adopted decades ago.  
+ 
+And, then, finally, we need to ensure that the environmental 
+standards for packaging to ensure the use of truly recyclable materials. 
+ 
+And, I’ll just conclude my testimony by saying that we know that 
+recycling alone can’t deliver all the environmental protections we need, 
+especially when we’re dealing with plastic waste.  We have to prevent the 
+waste at the source, and the first of the 3 Rs in the recycling mantra is reduce. 
+ 
+ 
+65 
+ 
+And, that’s what strong EPR should get to.  Because, if your bathtub is 
+overflowing, you don’t start by bailing out the water; you start by turning off 
+the tap.  And that’s what we need to do with the massive explosion of plastic 
+pollution in our state and country.  
+ 
+Thank you, Chairman. 
+ 
+SENATOR SMITH:  Thank you for your comments. 
+ 
+Next, Ed Waters from the Chemistry Council. 
+ 
+Ed, are you here? 
+E D   W A T E R S:  (off mic)  I’m here. 
+ 
+SENATOR SMITH:  Come on up. 
+ 
+Senator Greenstein is going to take over for a couple of minutes.
+ 
+MR. WATERS:  Good morning -- or good afternoon, Chairman 
+Greenstein and members of the Committee. 
+ 
+My name is Ed Waters; I’m the Senior Director of Government 
+Affairs for the Chemistry Council of New Jersey. 
+ 
+We’re seeking amendments.  We have two amendments we’re 
+looking to have, at least.  I agree with a lot of what other members of the 
+business community had testified to earlier today. 
+ 
+But, we’d like to see an exemption for federally regulated 
+packaging, like packaging for pharmaceuticals and other packaging that they 
+have to meet regulations from the FDA.  And, so that would make it very 
+difficult for them and put them in conflict with this law.  So, an exemption 
+for federally regulated products would be good.  
+ 
+And, one of the concerns that we have identified with this Bill is 
+that there are plastics that aren’t currently being recycled.  Those plastics end 
+up in the landfill because there is no marketplace right now for those plastics.  
+ 
+ 
+66 
+ 
+And, currently this Bill -- what it would do is, it would shift the responsibility 
+of putting those plastics into a landfill from the consumer to the producer.  
+And, this is why we’re requesting language be added to make it easier for us 
+to site advanced recycling facilities in the State of New Jersey.  Advanced 
+recycling is a manufacturing process, which is different from the traditional 
+recycling of plastics.  And, what it basically is, is we take plastics, we break 
+them down to the molecular level, and reconstitute them into a feedstock, 
+which replaces natural gas and the byproducts of natural gas, which we’re 
+currently using as a feedstock.  
+ 
+And, I think Mr. Russo aptly said that there are a lot of great 
+beneficial uses for plastics, whether it’s medical devices, it’s fuel-efficient cars.  
+You can’t have a fuel-efficient car without plastic.  So, there’s a lot of 
+beneficial use for plastics 
+ 
+ And, plastics aren’t the issue; it’s the fact that as someone who 
+represents the manufacturing of plastics, the issue is that when plastics were 
+developed, there was no good end-of-life plan for plastics.  And, that’s where 
+we’re getting to now through recycling, and now, through advanced recycling, 
+where we can now take those plastics -- that there’s no marketplace for -- and 
+we can turn them into a feedstock to create plastic.  So, it is truly the circular 
+economy; we are turning plastics back into plastics, and it just keeps going 
+around.  And a piece of plastic that is recycled through the advanced recycling 
+process can be recycled tens of thousands of times.  There’s small 
+degradation, but because you’re breaking it down, you’re bringing it down to 
+the molecular level, you can continue to use that piece of plastic over and 
+over again. 
+ 
+ 
+67 
+ 
+ 
+ Eighteen states have enacted laws that allow for advanced 
+recycling.  These bills have passed with overwhelming bipartisan support and 
+have been signed into law by Democrat and Republican governors alike.  We 
+are hopeful that it will soon be 19 states, as a bill in New Hampshire has been 
+sent to the governor’s desk and is awaiting action. 
+ 
+ I want to point out that the Commonwealth to our west, 
+Pennsylvania, has an advanced recycling law on the books.  If advanced 
+recycling facilities can’t be sited in the State of New Jersey, then I suspect we 
+will see one sited right across the Delaware River in Pennsylvania, where 
+materials, that the bill is requiring producers to collect, can be loaded onto 
+trucks, trucked over the bridge into Pennsylvania.  Pennsylvania will get all 
+of the economic benefits of an advanced recycling facility -- tax revenue, fees, 
+direct and indirect job creation -- and New Jersey will get more truck traffic 
+and more mobile emissions. 
+ 
+Plastics are not burned during the advanced recycling process, as 
+was stated earlier.  Advanced recycling technologies, like pyrolysis and 
+gasification, use thermal energy but take place with little to no oxygen; unlike 
+incineration, which uses a lot of oxygen.  
+ 
+ There is no legal or technical support to regulate pyrolysis or 
+gasification as incineration of solid waste.  And both the EPA and chemical 
+handbooks define pyrolysis and combustion separately, and, to argue that they 
+are the same ignores the principles of thermodynamics. 
+ 
+ Also, as was stated earlier, they create a lot of emissions.  These 
+facilities create little to no air emissions.  They basically create the same 
+amount of air emissions as a college, a university, or a hospital.  
+ 
+ 
+68 
+ 
+ 
+They don’t create any significant amount of hazardous waste, 
+especially compared to other manufacturing processes. 
+ 
+Federal law sets health and safety standards for all air emissions 
+with facilities much adhere to and report on.  Like other regulated entities, 
+these facilities are subject to fines, permitting revocations, and closure if they 
+exceed air emission limits.  
+ 
+ And, so, basically, let me just finish this.  I don’t want to ramble 
+on here. 
+ 
+These facilities are recycling facilities -- that we’re going to make 
+sure that the plastic is going from plastic to plastic, and it gives us an ability 
+to recycle plastics that aren’t currently being recycled. 
+ 
+ And, don’t take my word for it.  If any of the members of the 
+Committee would like to virtually tour an advanced recycling facility in 
+another state, we’re certainly offering that out.  Reach out to me; I’ll take you 
+on the virtual tour and you can see, you can ask questions, you can talk to 
+the people who run the facility and see that they’re running a very good 
+operation. 
+ 
+Are there any questions? (no response) 
+ 
+SENATOR GREENSTEIN:  Thank you very much.  We 
+appreciate it. 
+ 
+MR. WATERS;  You’re welcome. 
+ 
+SENATOR GREENSTEIN:  The next person is Isaac Bearg, New 
+Jersey Composting Council. 
+I S A A C   B E A R G:  So, Senators, thank you for your time today. 
+ 
+ I’m Isaac Bearg; I represent the New Jersey Composting Council.  
+I want to thank you for your time today, as well as the invitation just a couple 
+ 
+ 
+69 
+ 
+of weeks ago, to highlight how important organic waste management and 
+composting is to meeting our climate goals. 
+ 
+With that in mind, I want to say the NJCC supports this Bill, 
+but, would just ask for some minor modifications to ensure compostable 
+products and packaging and the composting industry are properly accounted 
+for. 
+ 
+First, while the Bill mentions compostability, there’s no 
+definition of compostable in the Bill.  So, we just referred to the recently 
+enacted post-consumer recycled content Bill, 2515, which defines compostable 
+and the need to meet certain ASTM standards.   
+ 
+Similarly, that Bill provides an exemption for compostable 
+products from post-consumer recycled content.  We would ask that this Bill 
+also do the same as post-consumer recycled content for compostable 
+products; isn’t that compost? 
+ 
+Additionally, we would ask the Committee to ensure that 
+compost infrastructure is included in the plan.  As written, producers of 
+compostable packaging will pay fees towards the plan.  But, to remain 
+consistent with the spirit of product stewardship, those fees should support 
+infrastructure to manage the compostable products.  Those fees, however, 
+shouldn’t be expected to cover the full cost of collecting and processing 
+commingled food waste and yard waste, along with the compostables.  So, in 
+other words, we would ask that the plan should include “solid waste 
+collection,” recycling, and end compost infrastructure throughout the 
+document. 
+ 
+ You will receive similar comments from the Biodegradable 
+Product Institute, who represents compostable products manufacturers and 
+ 
+ 
+70 
+ 
+certifies they’re compostability.  They also support this Bill, as it is critical 
+for compostable packaging to ensure that there’s proper infrastructure for 
+composting their products. 
+ 
+ And, finally, we would just ask that any funds that are collected 
+from this Bill, if they’re collected by the State, would go to a dedicated fund 
+so they would ensure that they go to funding much-needed recycling 
+infrastructure, and not swept into the General Fund.  
+ 
+So, with that in mind, compostable packaging producers and 
+composters both support this Bill.  We would just ensure that composting is 
+properly addressed. 
+ 
+SENATOR GREENSTEIN:  (off mic)  Thank you. 
+ 
+Any questions?  (no response) 
+ 
+Next, we have Carol Katz and Abigail Sztein, American Forest 
+and Paper, opposed. 
+C A R O L   K A T Z:  Thank you very much, Senator. 
+ 
+Thank you, Senator Greenstein, Senator Stanfield, Senator Durr 
+of the Committee, and staff, for having us here today. 
+ 
+I’m Carol Katz, with Katz Government Affairs.  I’m delighted to 
+be here today with Abigail Sztein, from the American Forest and Paper 
+Association, to discuss our concerns about the Bill.  
+A B I G A I L   S Z T E I N:  All right; good afternoon, members of the 
+Committee, and thank you all so much for allowing me to be here today. 
+ 
+ I’m with the American Forest and Paper Association, which is 
+the national trade association representing the forest product manufacturing 
+industry.  In New Jersey, that includes nearly 13,000 individuals with an 
+ 
+ 
+71 
+ 
+annual payroll of nearly $1.13 billion, and a manufacturing output exceeding 
+$3.35 billion annually. 
+ 
+Extended Producer Responsibility policies are most effectively 
+applied as a solution for hazardous, hard-to-handle materials with low 
+recycling rates.  The paper industry has a demonstrated measurable record of 
+success in making paper-based packaging more circular and sustainable 
+through market-based approaches, so we must respectfully oppose this Bill as 
+drafted.  
+ 
+There’s been a fair amount of mention of paper, and, so I 
+appreciate some of the positive comments that were made.  And, I want to 
+give a little bit of additional detail. 
+ 
+Sixty-eight percent of paper was recovered for recycling in 2021, 
+and we have met or exceeded 63 percent since 2009.  In fact, according to 
+the U.S. EPA, more paper by weight is recovered for recycling from municipal 
+waste streams than plastic, glass, steel, and aluminum combined.  The 
+recycling rate, specifically for corrugated cardboard -- which is obviously one 
+of the ones impacted by this Bill -- for 2021, is 91.4 percent.  We have some 
+concerns about what exactly this Bill might achieve for us.  
+ 
+Recycling is integrated into our business.  Our members own 114 
+materials recovery facilities, including one in New Jersey; and 80 percent of 
+paper mills use some amount of recycled fiber.  An impressive 91 percent of 
+New Jersey residents have access to curbside recycling.  So, that’s-- You can 
+put it out at your house or your apartment building, whatever the case may 
+be. 
+ 
+The  industry is also planned to announce around $5 million in 
+manufacturing infrastructure investments by 2023.  That’s going to result in 
+ 
+ 
+72 
+ 
+an additional 8-million-ton increase in capacity of percent recycled fiber.  So, 
+that’s in addition to what’s already out there -- we’re going to be able to use 
+that much more. 
+ 
+So, for highly recycled material, like EPR, we’re concerned that,     
+like paper, EPR could disrupt efficient and successful paper recycling streams 
+in an attempt to improve the least effective ones.  Without sufficient 
+protections, there’s a strong likelihood that fees paid by highly recycled 
+products will subsidize the low-performing products.  This will result in 
+certain producers contributing fees with little benefit to their own products; 
+but, rather, support infrastructure improvement for competing materials -- 
+direct competitors, in some cases. 
+ 
+We believe the Bill should focus on problematic materials in 
+commingled residential collection streams.  Paper recycling has enjoyed 
+decades of success because of the industries’ investments, consumer 
+education, the wide availability of recycling programs, and the efforts of 
+millions of Americans who recycle at home, at work, and school every day.  
+The industry is proud to be a part of the recycling solution by providing 
+renewable, sustainable, and highly recycled products for consumers. 
+ 
+ EPR fees and mandates or performance goals for the already  
+successful paper recycling streams stand to redirect private sector funds away 
+from investment in recycling infrastructure.  The paper industry supports 
+economically sustainable residential collection programs by purchasing and 
+utilizing the materials that they collect to manufacture new materials.  
+ 
+So, I direct you to my written testimony for more detailed 
+information and for sources of the data that I’ve cited.  And, I want to thank 
+you all for your time and consideration. 
+ 
+ 
+73 
+ 
+ 
+SENATOR GREENSTEIN:  Thank you very much. 
+ 
+Any questions? (no response) 
+ 
+Okay; thank you so much. 
+ 
+MS. KATZ:  Thank you very much. 
+ 
+SENATOR GREENSTEIN:  Next, we have Sameka Ferdous, 
+Environment New Jersey, in favor. 
+S A M E K A   F E R D O U S:  Hello, everyone.  
+ 
+My name is Sameka Ferdous.  I am from North Brunswick, 
+Central Jersey, which -- and I’m hoping Chairman Smith can vouch for me    
+-- does exist. 
+ 
+SENATOR SMITH:  It does.  (laughter) 
+ 
+MS. FERDOUS:  I am honored to represent Environment New 
+Jersey today as our Canvass Campaign Coordinator. 
+ 
+In 2018 and 2019, Environment New Jersey knocked on more 
+than 100,000 doors and talked to 40,000 New Jerseyans to help build public 
+support which culminated in the passage of the nation’s strongest ban on 
+single-use plastics in September 2020, which was implemented last month.  
+ 
+This summer, we have already spoken to more than 3,100 New 
+Jerseyans and collected more than 1,250 petitions to urge action on S-426  
+and Extended Producer Responsibility.  
+ 
+Currently, as I speak to all of you now, our New Brunswick office 
+is getting ready for the day to speak to even more constituents.  We canvass 
+rain or shine and receive support from the 7-year-olds, who are eager to make 
+a difference, waiving their allowance, to the 89-year-olds, who still believe it 
+is possible to purify our waterways and surrounding areas.  
+ 
+ 
+74 
+ 
+ 
+I joined Environment New Jersey to bring forth my passion for 
+environmental justice.  When we started, it was me and my two directors, 
+Caleb Haddad and Ben Rowley.  We have grown exponentially and found 
+like-minded individuals who are as dedicated to the mission of defending 
+New Jersey and its environment.  
+ 
+I joined Environment New Jersey because I recognized the lie 
+that average citizens reckoned with to be told that their recycling of plastics 
+will save the environment.  The sentiment that recycling takes care of the 
+problem is perpetuated through decades of marketing; but, it is not true.  As 
+testified earlier by Judith from Beyond Plastics, only 5 to 6 percent of plastic 
+actually gets recycled, and our Jersey Shore is still littered with plastic.  
+ 
+It’s time for major plastic producers to be held accountable for 
+their lack of action.  It is long overdue for consumers to have access to 
+affordable and sustainable materials.  And, it is time for New Jersey to lead 
+by example and pass S-426. 
+ 
+The overwhelming support from the community shows that New 
+Jersey’s residents are expectant of change.  Our canvassers hear repeatedly 
+from residents who are concerned about microplastics and their impact on 
+human health.  
+ 
+Environment New Jersey will continue to raise awareness for this 
+Bill.  And, of course, I am confident that after hearing from the experts 
+assembled here today, the Committee will come to a sound decision to work 
+to strengthen this legislation and do what is right.  
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Thank you for your comments.  
+ 
+ 
+75 
+ 
+ 
+Chris Tandazo, New Jersey Environmental Justice Alliance, in 
+opposition. 
+C H R I S   T A N D A Z O:  Thank you. 
+ 
+Good afternoon, and thank you for having this hearing today, 
+which includes accepting comments for Senate Bill 426. 
+ 
+And, just to clarify, we do support EPR; we just don’t support 
+this Bill in particular. 
+ 
+SENATOR SMITH:  (off mic)  Why? 
+ 
+MR. TANDAZO:  I can go into it in my-- 
+ 
+SENATOR SMITH:  (off mic) Please, sir. 
+ 
+MR. TANDAZO:  I am pleased to be here with you today. 
+ 
+My name is Chris Tandazo, they/them pronouns, and I am the 
+Community Connections Program Manager at the New Jersey Environmental 
+Justice Alliance; as well as someone who calls New Jersey their home.  
+ 
+The New Jersey Environmental Justice Alliance is the only 
+statewide environmental justice organization in New Jersey, and we are the 
+first statewide organization created for and by people of color.  
+ 
+NJEJA works in coalition with other groups to identify, prevent, 
+reduce, and/or eliminate environmental injustices that exist in communities 
+of color and low-income communities. 
+ 
+NJEJA, alongside other environmental justice advocates, 
+collectively advocated and led the way in the passage of the landmark 
+Environmental Justice Bill, S-232.  The EJ law, and recently proposed rules, 
+would direct the NJDEP to deny or condition certain permits due to 
+cumulative impacts of pollution from industrial facilities in overburdened 
+communities.  
+ 
+ 
+76 
+ 
+ 
+As we await the final set of rules to be adopted by the end of the 
+year, we hope that NJDEP and other elected officials will act in the spirit of 
+the law and protect our communities from currently proposed projects to site 
+polluting facilities in our communities, adding a threat to our health and well-
+being.   
+ 
+We also hope the State holds its promise of ensuring 
+environmental justice for every New Jerseyan and upholding Executive Order 
+No. 23. 
+ 
+For environmental justice groups on the East Coast, Extended 
+Producer Responsibility has become an important area of work.  NJEJA sees 
+it as imperative for environmental justice voices to be present in this area, as 
+we have been at the front line and backend of the plastic crisis and have 
+directly experienced the harms of the entire life cycle of plastic, from the 
+extraction of fossil fuels for plastic production, to the exposure of toxic 
+chemicals when using plastics, to the disposal of plastic waste by burning it 
+at incinerators.  
+ 
+Our Black and indigenous environmental justice partners in the 
+South and the Gulf Coast are actively fighting against the petrochemical 
+industries sited in their communities.  This is where the plastic crisis starts, 
+in places like Cancer Alley, as mentioned before,  in Texas, where the presence 
+of petrochemical industries has exposed Black communities to high rates of 
+cancer-related illnesses and deaths.  This crisis expands as less and less plastic 
+is made to be recycled, increasing plastic waste generation and disposal.  At 
+this stage, the plastic crisis arrives at our front door, in communities like 
+Camden, Rahway, and Newark, where plastic waste is burned, alongside all 
+other types of waste, at incinerators located in these communities.   
+ 
+ 
+77 
+ 
+ 
+Burning plastics exposes us to toxic ash and other chemicals and 
+increasing the risk of cardiovascular and respiratory-related illnesses to our 
+communities, which are already overburdened by other socio-economic 
+challenges.  And this toxic ash doesn’t stay in these communities.  The air 
+doesn't have any physical borders, and this pollution is carried to other 
+communities in New Jersey and neighboring states.  
+ 
+The current disposal of plastic waste in our communities in New 
+Jersey is a continuation of the environmental racism and injustices that allows 
+for the siting of incinerators and petrochemical industries in communities of 
+color and low-income communities throughout the country. 
+ 
+Reducing plastic production is in everyone’s best interest.  NJEJA 
+strongly recommends adopting a comprehensive Extended Producer 
+Responsibility law for plastic packaging.  And, within this law, environmental 
+justice advocates urge lawmakers to, one, encourage producers to influence 
+the packaging industry in pushing for the reduction of plastic packaging, 
+removing toxic materials, and having more diverse plastic materials that 
+increase the recyclability rate.  Producers should encourage the rethinking of 
+the design of plastic packaging, taking into consideration the materials used, 
+and the life cycle of the product, and rethink how we dispose of the packaging 
+by implementing reuse or deposit-return systems.  By rethinking the design 
+of packaging, we can reduce the amounts of plastic waste that get discarded 
+and burned at incinerators. 
+ 
+Two, ensure the definition of recycling prohibits -- and this one is 
+important -- any burning, waste-to-fuel or waste-to-energy, chemical 
+recycling, or so-called advanced recycling to count towards recycling targets.  
+This is called chemical recycling.  Chemical recycling is a false solution to the 
+ 
+ 
+78 
+ 
+plastic crisis.  Heating plastics generates toxins that pollute the air.  The 
+impacts of chemical recycling would be similar to the impacts of burning 
+plastics at incinerators.  A chemical recycling plant would likely trigger the EJ 
+law; however, and given that the EJ law rules will not be adopted until later 
+this year, we do urge Lawmakers and the State to act in the spirit of the law 
+and prevent any plans of chemical recycling plants to go any further.   
+ 
+As someone from an environmental justice community, I have a 
+crude feeling that if a new chemical recycling plant comes into existence, it 
+would most likely be sited in our communities.  And, to be honest, we do not 
+need any more pollution; nobody does.  
+ 
+Therefore, separate legislation that promotes chemical recycling, 
+such as Assembly Bill 5803 introduced by Assemblymember John McKeon, 
+should be rejected. 
+ 
+Three, eliminate toxic substances from packaging.  All the 
+chemicals used to produce plastic are highly toxic and not diverse, which 
+makes the plastic product harder to recycle.  These chemicals leach in our 
+food, our waterways, and our air, thereby increasing the levels of pollution 
+and toxicity that environmental justice communities are already exposed to 
+on a daily basis.  
+ 
+Following the recommendations from Beyond Plastics, we also 
+encourage lawmakers to include in the legislation a ban on the sale or 
+distribution of any packing, including reusable packaging, that contains the 
+chemicals or chemical classes mentioned in Judith Enck’s testimony. 
+ 
+Thank you for your time and attention to this critical issue that 
+affects communities throughout New Jersey and the world.  We have the 
+tools, knowledge, and resources to address this crisis.  And, as my colleague, 
+ 
+ 
+79 
+ 
+Judith, mentioned in her testimony, with some critical changes, Senate Bill 
+426 could be a tool to support New Jersey to address this crisis.  A reduction 
+in plastic pollution would mean a breath of fresh, non-polluted air, for our 
+communities here in New Jersey, on the Gulf Coast, and throughout the 
+country. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  So, why are you opposed to the Bill? 
+ 
+MR. TANDAZO:  Because the Bill does not--  The Bill doesn’t--  
+The definition of recycling in the Bill includes chemical recycling or advanced 
+recycling. 
+ 
+SENATOR SMITH:  I don’t think so.  But, if it does, we’ll take 
+it out.   
+ 
+MR. TANDAZO:  Thank you; I appreciate that. 
+ 
+SENATOR SMITH:  All right?  And, at that point, you’re in 
+favor, correct? 
+ 
+MR. TANDAZO:  Of course, yes.  We-- 
+ 
+SENATOR SMITH:  Yes; because everything you said you 
+wanted is in the Bill. 
+ 
+MR. TANDAZO:  Yes. 
+ 
+SENATOR SMITH:  You know, other than the chemical 
+recycling, which, if that’s in -- I don’t know why that got in -- but-- 
+ 
+MR. TANDAZO:  But it-- 
+ 
+SENATOR SMITH:  And also, too, you should know McKeon’s 
+Bill doesn’t have a Senate companion bill.   
+ 
+MR. TANDAZO:  Thank you for that. 
+ 
+SENATOR SMITH:  I think you know that. 
+ 
+ 
+80 
+ 
+ 
+MR. TANDAZO:  Yes, it’s just the chemical recycling, which is 
+the critical aspect.   Because now it goes by different names, such as advanced 
+recycling or waste-to-fuel.  And these are considered false solutions that are 
+perpetuating just more pollution in our community. 
+ 
+SENATOR SMITH:  Right, that point I got.  All the rest--  When 
+you said you were opposed to the Bill, I said, “Why?  We’re doing everything 
+that you--”  And after listening to your speech, it’s everything that’s in there.  
+That’s what’s in the Bill. 
+ 
+But, thank you for your comments.  We do appreciate it.  
+ 
+MR. TANDAZO:  Thank you.  
+ 
+SENATOR SMITH:  (confers with staff)  Is it in there? 
+ 
+UNIDENTIFIED COMMITTEE STAFF MEMBER:  (off mic)  
+No. 
+ 
+SENATOR SMITH:  So, anyway, staff says there’s nothing in 
+there that says chemical recycling.  There’s a generic definition of recycling.  I 
+don’t think any chemical recycling could occur unless there was actually 
+legislation to permit it.  DEP people, or former DEP people can confirm that, 
+but I don’t think it’s possible to do without legislation allowing it.  And, this 
+legislation doesn’t allow it. 
+ 
+Anjuli Ramos, who regrets to this day becoming Co-Chair of the 
+Forest Task Force, in favor, from the Sierra Club. 
+A N J U L I   R A M O S - B U S O T:  (off mic)  I do not regret it. 
+ 
+SENATOR SMITH:  She doesn’t regret it yet; (laughter) okay. 
+ 
+MS. RAMOS-BUSOT:  Good afternoon, Chairman Smith, Vice- 
+Chairman Greenstein, and members of the Committee.  
+ 
+ 
+81 
+ 
+ 
+My name is Anjuli Ramos, and I’m the New Jersey State Director 
+for the Sierra Club.  
+ 
+I would like to start by thanking Senator Smith for your 
+leadership on this very important topic, and for this discussion and 
+conversation.  And of course, for the Bill.  
+ 
+New Jersey has been a leader when it comes to reducing plastics, 
+with our newly implemented plastic bag-ban law and recycled-content law.  
+Extended Producer Responsibility, otherwise known as EPR, is now the next 
+logical step in order to reduce plastic packaging in New Jersey.  States like 
+Maine, Colorado, and Oregon have passed effective EPR legislation; and 
+other states like California, New York, Illinois, Maryland, Massachusetts, and 
+Hawaii have already introduced EPR legislation.  
+ 
+Senate Bill 426 is a great start to develop a dynamic and effective 
+EPR bill for New Jersey. 
+ 
+ In general, we believe an EPR bill should provide a broad 
+definition of producers who are tasked with formulating new packaging 
+designs and changes in the volume of virgin material content.  And that 
+producers will research, create, and finance changes impacting, therefore,  
+removing the rising cost of waste currently burdening our municipalities.  A 
+strong EPR bill should incentivize producers with monetary rewards for the 
+reduction of overall package materials used for increased recycled content, 
+reduce the use of virgin materials; benefit the environment by decreasing 
+toxins in the air and water; benefit environmental justice communities that 
+are disproportionately overburdened with pollution from incinerators and 
+landfills; and will enforce reduce, reuse, recycle in a circular economy.  
+ 
+ 
+82 
+ 
+ 
+Ultimately, a strong EPR bill focuses and pushes for circularity, 
+and it transfers their responsibility for managing packaging waste to the 
+companies that have caused the packaging waste problem, shifting the burden 
+away from taxpayers. 
+ 
+ In terms of recommendations, Senator, the Sierra Club echoes 
+former Administrator Enck, and all of our environmental advocate 
+communities, for Bill S-426.  But, I do want to stress some of our 
+recommendations that are very important for us that have been mentioned, 
+and others that have not been mentioned, but, I’ll try to keep it very brief. 
+ 
+ So, to start, we recommend to explicitly mention in the Bill for 
+producers to eliminate known toxic substances, like PFAS, which has been 
+stressed earlier, making packaging safer for consumers and viable for 
+recycling.  Because you cannot really recycle plastics that have toxins. 
+ 
+Another recommendation is to incorporate a fee structure, based 
+on the environmental impacts of the packaging.  The higher they impact, the 
+higher the fees.  Suggest that packaging categories could include highest fee 
+set for packaging waste going to landfills or incinerators; lowest fee set for  
+packaging with high post-consumer recycled content; and, no fees set for 
+packaging of containers and bottles that are reusable.  This creates a reward 
+system that focuses on circularity.  We recommend using these fees to 
+support local governments for recycling and waste disposal.   
+ 
+We recommend that this Bill should initially allocate funds to 
+the New Jersey DEP -- as we all know has had a flat budget for a long time -- 
+to essentially get the ball rolling by creating the team and logistical resources 
+before the Department may be able to start collecting the fees.  For the data 
+collection and the evaluation and approval within the 120 days of the 
+ 
+ 
+83 
+ 
+proposed stewardship plans submittal.  So, essentially helping DEP  to get 
+the ball rolling, because as suggested in the Bill, they would collect fees, but 
+the fees come later, not at the beginning where they need the team to get 
+everything started.  
+ 
+We recommend to specifically exclude advanced recycling and/or  
+chemical recycling, and plastic burning, and waste-to-fuel processes from the 
+definition of recycling, providing protection from new sources of pollution that 
+disproportionately impact environmental justice communities.   
+ 
+And, lastly, but not least, we recommend, in addition to how to 
+discard or recycle -- which is already included in this Bill -- we recommend S-
+426 should mandate a robust labeling to identify the percentage of recycled 
+content and toxin-free status.   
+ 
+Again, S-426 is a great start to develop a dynamic and effective 
+EPR Bill for New Jersey.  And, thank you for your leadership, and, thank you 
+for the opportunity to speak today. 
+ 
+SENATOR SMITH:  Thank you for your comments.  
+ 
+Chloe Desir.  Are you here, Chloe? 
+C H L O E   D E S I R: (off mic)  Yes. 
+ 
+SENATOR SMITH:  Chloe, would you like to speak?  You’re 
+from the Ironbound Community Corporation, opposed to S-426. 
+ 
+Same comment I made to Chris.  It’s like greatest bill since sliced 
+cheese for the environmental justice community. 
+ 
+MS. DESIR:  (off mic)  I’m coming. 
+ 
+SENATOR SMITH:  So, I want to know why you’re opposed.  
+ 
+ 
+84 
+ 
+ 
+MS. DESIR:  Hello, my name is Chloe Desir, and I’m an 
+environmental justice organizer with the Ironbound Community Corp. in 
+Newark. 
+ 
+To give a simple and brief introduction, you can view us as a 
+vessel fighting for things that are taken for granted by others like clean air 
+and the urge to keep toxin-producing facilities away from our communities. 
+ 
+ I’m here to emphasize the danger of running plastics, which is 
+ultimately chemical heating or burning.  It’s imperative to be more proactive 
+and cautious in our actions when it comes to the detriment of the 
+environment.  But, more importantly, shifting the narrative of that 
+responsibility from being on the individual and on to the industries that are 
+the greater contributor of the toxic air.  
+ 
+SENATOR SMITH:  (off mic)  But, you do wonder; you do 
+understand-- And, I didn’t get this from Chris’ testimony either -- we’re 
+talking about reducing plastics. 
+ 
+MS. DESIR:  Right. 
+ 
+SENATOR SMITH:  The whole point of the producer 
+responsibility programs is to get more plastics, more carbon, more everything 
+out of the waste stream so that there’s less impact on any community.  
+ 
+MS. DESIR:  Yes, but we definitely want to make sure that we’re 
+specific in our wording when it comes to these bills to make sure that    
+they’re-- 
+ 
+SENATOR SMITH:  Well, we can always do better; there’s no 
+question. 
+ 
+MS. DESIR:  Yes. 
+ 
+ 
+85 
+ 
+ 
+But to continue--   Essentially cities, such as Newark, that have 
+suffered the brunt of the damage from these plants, that are doing chemical 
+recycling and such -- are doing their best to advocate for themselves.  And, 
+with Bill 426 we should be able to have a bill that doesn’t encourage a false 
+narrative -- that chemical recycling is a justifiable method in getting rid of 
+plastics that are filling up the planet.  
+ 
+The real solution is to bear the responsibility on corporations to 
+reduce their use of toxic plastics in their packaging and distribution processes. 
+We should also be investing money into our communities, especially those 
+overburdened with the consequences of irresponsible choices made without 
+their input in placing these disaster sites on to where people live, giving them 
+the resources they need to drive waste reduction, such as which we want to 
+do in this Bill, and reduce toxics in packaging and prohibit burning plastics 
+under the guise of chemical recycling.   
+ 
+SENATOR SMITH:  (off mic)  Thank you for your comments. 
+ 
+MS. DESIR:  No problem. 
+ 
+SENATOR SMITH:  Mary Ellen Peppard, New Jersey Food 
+Council, opposed, and with concerns. 
+ 
+Mary Ellen. 
+M A R Y   E L L E N   P E P P A R D:  Thank you so much, Chairman and 
+members of the Committee. 
+ 
+I know we’ve talked about this a little bit with you, Chairman, 
+but not-- I don’t think with the other members who are here today, 
+representing the New Jersey Food Council. 
+ 
+Chairman, we certainly appreciate the intent of this legislation, 
+as others have said before.  New Jersey Food Council members are working 
+ 
+ 
+86 
+ 
+towards sustainable packaging, innovative packaging, the circular economy.  
+But we do have specific concerns with this Bill.  
+ 
+I did provide written testimony, so I won’t go through the 
+exhaustive list at this hour.   
+ 
+One of our key concerns-- 
+ 
+SENATOR SMITH:  Well, if you give us your printed testimony, 
+we actually read it. 
+ 
+MS. PEPPARD:  Oh, no; I know Chairman; I know you do.  I’m 
+aware; thank you. 
+ 
+Just some key points, I think, of concern. 
+ 
+One is that the producers are solely responsible for the collection, 
+transportation, etc., of recycling and waste disposal of all discarded 
+packaging.  To us, it’s not appropriate to make the producers solely 
+responsible for all of these activities, including waste disposal.  We would like 
+to see the waste disposal piece be removed from that, because obviously that 
+doesn’t incentivize recycling or waste reduction. 
+ 
+SENATOR SMITH:  (off mic)  Which waste disposal piece? 
+ 
+MS. PEPPARD:  I’m sorry, Chairman-- 
+ 
+SENATOR SMITH:  (off mic)  Which waste disposal piece? 
+ 
+MS. PEPPARD:  I’m sorry, I don’t have the Bill in front of me.  
+But one of the definitions early on in the Bill talks about producers are 
+responsible for collection, transportation, reuse, and recycling or disposal of 
+all discarded packaging.  And disposal is included a couple of times in the 
+legislation.  I just don’t have the Bill in front of me; I could-- 
+ 
+SENATOR SMITH:  So, we should switch it from the producers 
+to the people who market it. 
+ 
+ 
+87 
+ 
+ 
+MS. PEPPARD:  I’m sorry, Chairman; to the-- 
+ 
+SENATOR SMITH:  Well, for example, you have a package in a 
+supermarket, for example.  And you take the packaging off and you then put 
+it into your Dumpster, or whatever.  But what you’re saying is, it shouldn’t 
+be the producer of the product that’s responsible; it should be the 
+supermarket that’s responsible.  
+ 
+MS. PEPPARD:  Chairman, I think that it should be-- We think 
+that it should be a shared responsibility.  So, there are a lot of different players 
+in the system.  So there’s--  Obviously, there are producers, there are    
+retailers-- 
+ 
+SENATOR SMITH:  Would you give me a letter that says how 
+you think that responsibility should be shared?  Who should be paying for 
+it? 
+ 
+MS. PEPPARD:  I think we also think that should be a 
+combination of the producers and manufacturers, as well as the--  You know, 
+the current system has, obviously, your waste haulers, your recyclers-- 
+ 
+SENATOR SMITH:  Give me a letter on how you’d like to divide 
+it up. How you would like the cost divided up?  Okay? 
+ 
+MS. PEPPARD:  Thank you, Chairman. 
+ 
+So again, talking about the shared responsibility--  I think just 
+one more note on that.  I think it’s also important to kind of incentivize and 
+make sure that everybody has some skin in the game.  
+ 
+SENATOR SMITH:  Yes, but wait a minute. 
+ 
+Isn’t the skin the capitalistic profit that comes from selling the 
+goods?  I mean, you’re not going to sell something at a loss; you’re going to 
+ 
+ 
+88 
+ 
+sell it, and you’re going to make a profit.  So, why wouldn’t you put the cost 
+of disposal in that profit?   
+ 
+MS. PEPPARD:  I just think, Chairman, it’s a very small profit 
+margin and we’re not able to recoup-- Our members would not be able to 
+recoup those costs entirely.  They couldn’t possibly raise the costs so much. 
+ 
+SENATOR SMITH:  Then how do you figure it should be 
+divided up? 
+ 
+All right? 
+ 
+MS. PEPPARD:  Thank you, Chairman. 
+ 
+A few more points.   
+ 
+Again, I know this has been brought up by some other people, 
+but the current legislation does not match, it’s not consistent in terms of the 
+recycled content requirements with the new recycled content law.  So that’s 
+something that we need to be-- 
+ 
+SENATOR SMITH:  We’re going to compare the two bills. 
+ 
+MS. PEPPARD:  Okay, thank you. 
+ 
+Actually, one piece that I do like about the Bill is the focus on -- 
+and this is in my written testimony--  
+ 
+SENATOR SMITH:  Anybody have those paddles? (laughter) 
+ 
+MS. PEPPARD:  --is the focus on consumer education and 
+prioritizing consumer convenience.  I do think that is really important.   
+ 
+We did talk a little bit, as some previous people have mentioned, 
+needs assessments.  I do agree that that’s something that we ought to have in 
+this legislation.   
+ 
+We also think that the way the Bill is currently written, I think 
+there is an awful lot put on DEP.  And, we would prefer to have a more, I 
+ 
+ 
+89 
+ 
+think, market-based, incentive-based type of system, as opposed to a 
+government-run or a DEP-run system.  So maybe some of the wording-- 
+ 
+The implementation--  I mean, obviously, it’s very crucial how 
+you’re going to go about doing this and creating these types of programs.  It 
+could take quite a while, it’ll take a lot of coordination between the different 
+stakeholders to create these systems, to implement, to assess, to measure in 
+the consumer education piece.  So, I think that the timeframes in the Bill -- 
+180 days to create a plan; DEP only has 120 days.  We don’t believe these 
+are feasible timeframes to create a good, well-thought-out system.  So, that’s 
+something that we’d really like to work on. 
+ 
+I’ll wrap up soon, I promise.  I know it’s getting late. 
+ 
+One other thing that I’ll mention is that our members are 
+struggling right now with the implementation of the new-recycled-content 
+law.  So this Bill is sort of a complete overhaul of the system.  We would 
+rather be more narrowly targeted and focused on helping our members reach 
+those recycled-content goals.   Some people before me testified about having 
+a New Jersey-specific bill.  I do think that it’s very important to take into 
+account.  Some of the previous witnesses testified that New Jersey does not 
+have a Bottle Bill; that’s true.  Instead, we have a very comprehensive litter 
+reduction system through Clean Communities, and we have -- which I know 
+Chairman is a great supporter of -- and we also pay the litter tax.  So, I think 
+we have some great systems in place right now. 
+ 
+I’ll just end on that.  There were some other stakeholders who 
+wanted to be here today but couldn’t because of scheduling conflicts.  But, I 
+think you probably received some written testimony from them.  
+ 
+ 
+90 
+ 
+ 
+ One of the areas that I think we would also like some 
+clarification on are the definitions in the beginning of the Bill, particularly 
+the definitions of producer.  It’s a little bit unclear.  The Bill includes a lot in 
+that definition, including a person who is selling a product in the state.  I’m 
+not sure if that’s the intent -- to serve capture and general retailers in the Bill, 
+as opposed to a manufacturer.  So, we ask for some clarification around that 
+language. 
+ 
+ And, then finally, Chairman, like some other people have 
+mentioned, we are excited and looking forward hopefully to having some 
+comprehensive stakeholder hearings where we can have all the experts 
+together and really focus on this and spend some on this. 
+ 
+So, thank you so much. 
+ 
+SENATOR SMITH:  Thank you for your time. 
+ 
+MS. PEPPARD:  Thank you. 
+ 
+SENATOR SMITH:  Sarah Bloomquist, our last witness, from 
+TOMRA, T-O-M-R-A. 
+ 
+So, your first job, Sarah, is to tell us what is TOMRA? 
+S A R A H   B L O O M Q U I S T:  Thank you all for the opportunity to 
+speak today.  
+ 
+My name is Sarah Bloomquist; I’m the Director of Public Affairs 
+for Recycling and Circular Economy at TOMRA Systems.  TOMRA is a 
+pioneer in advanced technology for the collection and sorting for recycling. 
+We have over 50 years experience operating in more than 40 EPR for 
+packaging and EPR for beverage containers’ markets -- also known as deposit 
+return systems -- around the globe.  
+ 
+ 
+91 
+ 
+ 
+Thank you for the opportunity to submit testimony.  I’m here in 
+support of the EPR Bill, but with some critical amendments, which are 
+detailed -- I have a more extensive written testimony that I will submit to you 
+all. 
+ 
+ We support the components of this Bill, which are designed to 
+increase both the quantity and the quality of recycling in the state, and to 
+add a more climate-resilient future for the state through, for example, the 
+resulting reduction in landfill disposal and in the reduction and demand for 
+virgin resource extraction. 
+ 
+ Part of the success of all EPR programs is the setting of 
+ambitious and staggered targets for recycling and post-consumer recycled 
+content.  And, to be able to meet those targets, the system must put an 
+emphasis on quality through meaningful definitions and investment in 
+technology that can meet the stringent specifications required for circularity 
+in packaging.  
+ 
+Additionally, 
+we 
+recommend 
+that 
+existing 
+recycling 
+infrastructure is utilized and upgraded as needed to meet the high targets that 
+are critical to this EPR.  I believe this was mentioned a few times by other 
+folks from the NWRA and some others.  
+ 
+ So, a little more about who TOMRA is and what we do in our 
+presence in the state.  So, we provide sensor-based sorting technology, as I 
+said, which includes reverse vending machines for beverage containers and 
+optical sorters at material recovery facilities.  So, anyone in the waste space    
+-- hopefully you’re familiar with MRFs, the shorthand term for where all your 
+curbside recycling goes.  Our technology is installed across the state as part 
+ 
+ 
+92 
+ 
+of the value chain that turns your curbside recycling materials into new 
+products, ultimately completing the whole recycling chain. 
+ 
+ So, there are approximately 40 TOMRA systems in place in the 
+state sorting that curbside material.  So, for example, someone else had 
+mentioned the Mazza MRF in Tinton Falls.  We recently red-lit a little study 
+group for some folks interested in recycling to see what these systems look 
+like in practice.  And, I’d be happy to organize a tour for anyone else who’s 
+interested.  They use several of our units to sort all of Monmouth County’s 
+curbside recyclables and valuable commodities.  And, that’s how these 
+materials actually end up being turned into new products.  
+ 
+So, back to EPR, and a little bit about the whole supply-and-
+demand side, which I think is really critical to EPR. 
+ 
+So, EPR for packaging and printed paper -- it’s a proven solution 
+to improve New Jersey’s recycling performance, change how the system is 
+financed, and help rebalance the economics of recycling.  For example, 
+ambitious recycled content mandates were signed into law earlier this year, 
+as we all know, which is a promising move in the right direction.  However, 
+as most anyone in the industry will tell you-- And, I was just at a recycling 
+conference last week in Milwaukee, and this is really the theme for those 
+folks, who are one part of the value chain, but definitely an important part -
+- and their request is that supply is the key part of the problem.  So, you now 
+have recycled-content targets, which really is the driver on the demand side, 
+but, they need that material into the system, and that’s how we get--  That’s 
+the need for recycling rate targets.  
+ 
+ 
+93 
+ 
+ 
+So, if EPR is designed correctly, it includes targets for recycling, 
+as I mentioned, and that drives the supply side of the system ensuring that 
+those recycled-content targets can be met.   
+ 
+So, what does EPR for packaging look like around the world?  I 
+think some people touched on that for Europe, maybe Canada was 
+mentioned as well.  
+ 
+SENATOR SMITH:  (off mic)  By the way, do you guys work in 
+Europe?  
+ 
+MS. BLOOMQUIST:  We do; we’re global.  We’re 
+headquartered and founded in Norway.  
+ 
+SENATOR SMITH:  So tell me about Europe. 
+ 
+MS. BLOOMQUIST:  Europe; where do I start?  
+ 
+So, for one thing, they have targets in legislation.  They have 
+ambitious, single-use plastics directives, waste framework directives.  A 
+number of these -- which established very ambitious targets for recycling.  
+They have one that’s 90 percent for separate collection of containers -- don’t 
+quote me on these --  and then they also have a few by material stream, and, 
+to some extent possibly, by source. 
+ 
+SENATOR SMITH:  How is it working? 
+ 
+MS. BLOOMQUIST:  How does it work? 
+ 
+SENATOR SMITH:  No, no, no.  How is it working?  Is the 
+system working, or is it dysfunctional? 
+ 
+MS. BLOOMQUIST:  I think the reality is that overall it works, 
+but there’s room for improvement.  And, as I think Bree had mentioned, 
+there’s been a number of iterations.  So, right now, what they’re currently 
+ 
+ 
+94 
+ 
+work--  They basically have been making it more ambitious.  So right now, 
+they’re working on-- 
+ 
+SENATOR SMITH:  They started slower, and they’re now being 
+more aggressive? 
+ 
+MS. BLOOMQUIST:  Yes.  So like, for right now, they’re 
+working on their recycled content targets.  So that’s something New Jersey is 
+ahead of, but they’re looking into what that will look like.  So, they have 
+targets for recycling of materials and by streams, like I mentioned.  But 
+recycled content targets they only have for beverage containers.  So, they’re 
+now looking at expanding those to other materials and product categories.  I 
+mean, they have landfill bans, they have fees on landfills or bans, so, the 
+whole system is driven towards recycling and reduction because it costs so 
+much to landfill it or burn it, which is totally different than here.  
+ 
+So, a lot of the conditions are very different, but that doesn’t 
+mean we can’t all be shooting toward those types of targets.  
+ 
+SENATOR SMITH:  Who makes the decisions on the targets?  
+Is it governmental or is it a-- 
+ 
+MS. BLOOMQUIST:  That is a great question. 
+ 
+SENATOR SMITH:  --separate producer group? 
+ 
+MS. BLOOMQUIST:  Yes, that’s a great question, and I wish I 
+had a really astute answer.  I will follow up with you.   
+ 
+SENATOR SMITH:  So, you’ll follow up, yes, and find out. 
+ 
+MS. BLOOMQUIST:  Yes, I’ll follow up.  I don’t want to answer 
+incorrectly--  
+ 
+SENATOR SMITH:  Okay, that’s fair.  
+ 
+MS. BLOOMQUIST:  --so, I won’t. (laughter) 
+ 
+ 
+ 
+95 
+ 
+ 
+SENATOR SMITH:   Okay, thank you. 
+ 
+MS. BLOOMQUIST:  But yes, so EU is definitely an example to 
+look at.  
+ 
+But, as someone else had mentioned eco-modulated fees -- they 
+might not have used that term, but, again, that’s kind of like a sophisticated 
+aspect of EPR where not only are producers paying into the system at some 
+base level, based on the materials in the packaging they use.  So, for instance, 
+if you use a HDPE, like a shampoo container -- that’s one material, and it’s 
+easy to get through the system, and there’s a high-end market-- You’re going 
+to pay less for that package into the system.  Whereas, if you’re using 
+something that has many layers, there’s not a good end market, and you’re 
+going to pay a lot more.  Hopefully, I just explained that right. 
+ 
+So eco-modulation, as on this next level, where you’re 
+incentivizing to producers to really make well-designed packaging that moves 
+through the system so that packaging can be collected, can be recycled, can 
+be turned into new products.  
+ 
+So, I just wanted to end with that. 
+ 
+SENATOR SMITH:  In New Jersey-- 
+ 
+MS. BLOOMQUIST:  Yes. 
+ 
+SENATOR SMITH:  --when you talk about sorting, are you 
+getting from the municipalities--  You’re in Monmouth County you said, 
+right? 
+ 
+MS. BLOOMQUIST:  It’s not my--  Our machines are in the 
+Monmouth County facility, yes. 
+ 
+SENATOR SMITH:  So, do they get mixed waste into their 
+facilities, or is it source-separated when the waste comes in? 
+ 
+ 
+96 
+ 
+ 
+MS. BLOOMQUIST:  It’s source-separated curbside recycling.  
+And, then they have a number of things going there, as well as, like, mulch, 
+and they might have construction stuff that has something mixed.  I wish -- I 
+can’t really speak to that, but the recycling that we’re talking about is all 
+curbside source-separated recycling. 
+ 
+SENATOR SMITH:  Got it. 
+ 
+MS. BLOOMQUIST:  Okay, so just to continue a bit.  
+ 
+If I were to highlight a key point from our perspective, it’s that 
+well-designed EPR does not only shift the cost of recycling, rather, it also 
+improves the overall performance of it through an emphasis in increasing the 
+quantity and improving the quality of what is recycled.  
+ 
+So, hopefully, you’ve heard a theme so far.  Really, our emphasis 
+is on quantity, getting more material into the system-- 
+ 
+SENATOR SMITH:  And quality. 
+ 
+MS. BLOOMQUIST:  And then that material that comes in, that 
+there’s high quality systems, so it can be circular into new products.  
+ 
+SENATOR SMITH:  All right. 
+ 
+MS. BLOOMQUIST:  As other folks have mentioned, EPR is not 
+new.  In the States it’s more common for difficult-to-recycle materials, like 
+batteries, paint.  It’s coming more from (indiscernible) in EPR right now, but 
+the idea of EPR as a policy approach is not new.  It’s just for packaging in the 
+U.S. is where we’re seeing it new, and it runs a little bit differently.  
+ 
+So, consumers, producers, regulators have all been operating in 
+EPR systems to some extent.  And, as I think you pointed out before, 
+producers operate in global markets, and this isn’t new to them.  
+ 
+ 
+97 
+ 
+ 
+So, the timing is right to expand EPR strategies to include 
+packaging.  Three states, including Maine and Oregon last year, and then 
+Colorado just last week, passed EPR for packaging.  Those are all very 
+different approaches, and I could speak in detail later.  But, Colorado, for 
+example -- I don’t think I would use that as a model because Colorado has 
+extremely low recycling rates.  Like, I think it’s some of the lowest in the 
+country;  I couldn’t speak to the exact--  Whereas New Jersey is a little more 
+sophisticated, even though there’s room for improvement in both.  Colorado 
+is really starting at a baseline.  They also have predominantly privately run 
+systems where it’s municipal a significant portion, not majority.  So, there are 
+a lot of different stakeholders and performance that you’re trying to 
+accomplish.   
+ 
+So, I think all of these approaches have something valuable to 
+add; but I wouldn’t take the Colorado one as an example, nor the other 
+existing ones.  
+ 
+SENATOR SMITH:  What do you think about the New York 
+bill? 
+ 
+MS. BLOOMQUIST:  The New York one?  I would agree with 
+Judith, largely -- that the Englebright Bill has more promising aspects to it. 
+There’s probably a little bit in both, but definitely the Englebright Bill has 
+more that I would support.  There are some things there I would recommend 
+to update, too, but they have strong recycling targets and that’s what really 
+drives the performance.  
+ 
+SENATOR SMITH:  We’re going to take a look at the New York 
+Bill, we’re going to take a look at Europe. 
+ 
+ 
+98 
+ 
+ 
+ On the Englebright Bill, you said you had some items that you 
+wouldn’t agree with.  I’d appreciate a letter from you-- 
+ 
+MS. BLOOMQUIST:  Yes. 
+ 
+SENATOR SMITH:  --Indicating what you think would be a 
+mistake for New Jersey. 
+ 
+MS. BLOOMQUIST:  Okay. 
+ 
+SENATOR SMITH:  All right? 
+ 
+MS. BLOOMQUIST:  You know, I think everyone has different 
+knowledge based on what EPR is, so I apologize if any of this is redundant.   
+But, I have heard in other hearings in other states that there’s some 
+misunderstanding of what EPR can mean, depending on the material.  So, I 
+just wanted to explain that. 
+ 
+ In the current system, producers do not have an obligation to 
+use packaging that can be recycled.  There’s no prep, no tracking, and no 
+penalties.  Under EPR, the types and quantities of packaging will be reported 
+in order to gauge how the system is performing.  So, this is something that’s 
+completely lacking now; and, this isn’t just New Jersey, it’s really every state.  
+It’s hard to get good data on how recycling is performing.  But, we know, to 
+some extent, to some base level, that we can start with some type of target 
+and move up from there.  Of course, the challenge is what that number will 
+be, but I think having no targets in legislation would be a missed opportunity 
+for improvement.  
+ 
+So, again, I direct you to my longer written recommendations 
+and details, and I welcome any inquiry or follow-up.  
+ 
+We also recently did a white paper on EPR.  We researched the 
+different systems around the world, and really consulted with our global team 
+ 
+ 
+99 
+ 
+on what works well and not and put together what are the best aspects of 
+high-performing systems. 
+ 
+SENATOR SMITH:  Did you provide that to us? 
+ 
+MS. BLOOMQUIST:  Yes.  Well, I will when I send over my 
+testimony; it’s linked in there, yes; yes, sir. 
+  
+SENATOR SMITH:  If you wouldn’t mind, send it to every-- 
+ 
+MS. BLOOMQUIST:  Oh, yes.  
+ 
+SENATOR SMITH:  Well, you send it to staff-- 
+ 
+MS. BLOOMQUIST:  Yes; yes, sir. 
+ 
+SENATOR SMITH:  --Eric and Tom.  If you do that, we’ll get it 
+to all the members-- 
+ 
+MS. BLOOMQUIST:  Will do.   
+ 
+SENATOR SMITH:  --so they can read it. 
+ 
+MS. BLOOMQUIST:  Okay, thank you. 
+ 
+So, last but not least, I’ll just sum up. 
+ 
+However, there are several critical areas that must be revised in 
+order to align with other high-performing systems like we see around the 
+world, including adding a minimum target for recycling, which I think I 
+started with.  Adding a precise definition for how recycling is measured, so 
+it’s not measuring what comes into the MRF with contamination, other 
+materials.  You really want to be measuring what’s leaving the MRF and going 
+into final recycling.  And, that’s one of the upgrades that the EU is also doing 
+-- harmonizing how recycling is measured across their member states.  So, 
+right now it’s all over the place; and they’re currently doing that. 
+ 
+Two more recommendations. 
+ 
+ 
+100 
+ 
+ 
+Setting investment thresholds with the focus on quality systems.   
+And, lastly, improving recycling access so that it’s widespread and convenient 
+for all residents.  
+ 
+I forget how it’s exactly written, but usually I think it’s written 
+that access must be the same as it currently was under EPR.  And, although 
+that’s decent, I feel like a way to improve it would be that you’re saying 
+recycling access should be as convenient as waste disposal.  So, if I have 
+collection-- 
+ 
+SENATOR SMITH:  As convenient as what? 
+ 
+MS. BLOOMQUIST:   --As the way that you dispose of your 
+trash.  That’s the way to incentivize participation and to balance out the 
+systems.  If I have to drive 20 miles to drop off my recycling; I’m less 
+incentivized to participate, versus if I can put it on the curb like a black bag. 
+ 
+ So, I will leave you with that.  Thank you for your attention, 
+and I will follow up with those documents.  
+ 
+SENATOR SMITH:  Thank you for all the information.  
+ 
+MS. BLOOMQUIST:  Thank you. 
+ 
+SENATOR SMITH:  And the information you’re going to send.  
+ 
+MS. BLOOMQUIST:  Yes.  You’re welcome; thank you. 
+ 
+SENATOR SMITH:  And that, ladies and gentlemen, is the end 
+of today’s most interesting Committee in the Legislature. 
+ 
+ Have a good day.  
+ 
+(MEETING CONCLUDED) 
+ 
+ 
+ 
+ 
+101 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

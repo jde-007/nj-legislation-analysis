@@ -1,0 +1,2921 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Public Hearing 
+before 
+ 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+“The Committee will meet to hear testimony from invited guests  
+on strategies that the State and industries could implement in order to  
+adapt to and mitigate the effects of climate change” 
+ 
+LOCATION: 
+Committee Room 4 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+April 21, 2022 
+10:00 a.m. 
+ 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice Chair 
+Senator Edward R. Durr, Jr. 
+ 
+ 
+ 
+ 
+ 
+ 
+ALSO PRESENT: 
+ 
+ 
+                                                                       Joseph Gurrentz, Ph.D. 
+                                    
+Christina Denney                                           Matthew H. Peterson                      Rebecca Panitch 
+Office of Legislative Services                               Senate Majority                                   Senate Republican 
+Committee Aide                                                    Committee Aides                                  Committee Aide 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+ 
+ 
+Ralph Izzo, Ph.D. 
+Chairman of the Board, President, and Chief Executive Officer 
+Public Service Enterprise Group Inc. (PSEG) 
+9 
+ 
+Anthony J. Broccoli, Ph.D. 
+Distinguished Professor 
+Department of Environmental Science 
+School of Environmental and Biological Sciences, and 
+Co-Director 
+Climate and Environmental Change Initiative, and 
+Director 
+Center for Environmental Prediction 
+Rutgers Climate Institute, and 
+Member 
+Institute of Earth, Ocean, and Atmospheric Sciences (EOAS), and 
+Faculty Advisor 
+New Jersey Climate Change Resource Center 
+Rutgers, The State University of New Jersey 
+18 
+ 
+Jennifer Senick, Ph.D. 
+Executive Director 
+Rutgers Center for Green Building 
+Edward J. Bloustein School of Planning and Public Policy 
+Rutgers, The State University of New Jersey 
+23 
+ 
+Robert Pohlman 
+Vice President 
+Strategy, Communications, Government Relations, and Policy 
+New Jersey Resources (NJR) 
+41 
+ 
+Richard DeRose 
+Government Affairs and Public Policy 
+South Jersey Industries (SJI) 
+47 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+ 
+Page 
+ 
+Donna Schempp 
+President and Chief Operating Officer 
+Renewable Energy Ventures, and 
+Senior Vice President 
+Energy Enterprises Group 
+South Jersey Industries (SJI) 
+47 
+ 
+Kyle Nolan 
+Vice President 
+Strategy 
+South Jersey Industries (SJI) 
+53 
+ 
+Ken Dolsky 
+Co-Founder 
+Don’t Gas the Meadowlands Coalition, and 
+Member 
+Steering Committee 
+Empower NJ 
+54 
+ 
+Anjuli Ramos Busot 
+State Director 
+New Jersey Chapter 
+Sierra Club 
+Representing 
+Empower NJ 
+63 
+ 
+APPENDIX: 
+ 
+Just Look Up – How New Jersey’s Legislature  
+is Responding to the Very Real Threat of Climate Change 
+submitted by 
+Senator Bob Smith, Esq., and 
+Joseph Gurrentz, Ph.D., and 
+Matthew H. Peterson, Esq. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1x 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+APPENDIX (continued) 
+ 
+ 
+ 
+Page 
+Introduction 
+submitted by 
+Richard DeRose 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+6x 
+ 
+Testimony 
+submitted by 
+Donna Schempp 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+7x 
+ 
+Testimony 
+submitted by 
+Kyle Nolan 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+9x 
+ 
+Completed and Pending Murphy Administration  
+Fossil Fuel Projects, and  
+Transportation Fact Sheet 
+submitted by 
+Empower NJ  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+11x 
+ 
+Testimony 
+submitted by 
+Ken Dolsky 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+30x 
+ 
+Testimony 
+submitted by 
+Anjuli Ramos Busot  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+36x 
+ 
+Testimony 
+submitted by 
+Raymond Cantor, Esq. 
+Vice President 
+Government Affairs 
+New Jersey Business and Industry Association (NJBIA) 
+ 
+ 
+ 
+            43x
+ 
+ 
+ 
+ 
+ 
+pnf:1-75 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+SENATOR BOB SMITH (Chair):  So welcome to the most 
+interesting Committee in the Legislature.  
+ 
+Today we are not talking about specific bills; but we took the 
+opportunity, the symbolic opportunity of Earth Day, Earth Day week, to deal 
+with what we believe to be the most pressing, existential issue that we in New 
+Jersey face, which is global climate change.  
+ 
+So we have some speakers today who are just going to blow you 
+away, and they’re going to blow you away because they’re really smart people; 
+and we’ve asked them all to tell us what we should be doing in New Jersey 
+because we’re clearly making some strides, but we’re not doing enough. 
+ 
+  So anyway, I thought I’d start off with a little handy work from 
+our staff.  Joey Gurrentz has a Ph.D. in chemistry, and he’s been with us, 
+now, for--  Joe, how long have you been with us? 
+ 
+DR. GURRENTZ (Committee Aide):  So far? 
+ 
+SENATOR SMITH:  Yes. 
+ 
+DR. GURRENTZ:  Nine months. 
+ 
+SENATOR SMITH:  Okay; it feels like nine years (laughter).  But 
+yes, he’s been with us for nine months, and he’s been a magnificent addition 
+to Matt Peterson, and to Eric, and to all the staff.  We really have some 
+stupendous people here. 
+ 
+But anyway, Joe and I put together an article that we submitted 
+to the New Jersey -- and Matt; I’m sorry, all three of us -- we submitted it to 
+the New Jersey Bar Association magazine.  And what we tried to do was to 
+put what we -- kind of what New Jersey has done so far, and maybe lay the 
+groundwork for what we need to do.  
+ 
+ 
+ 
+2 
+ 
+So I’m going to just read you the article because--  I don’t know 
+if you’ve been watching these meetings, but we have a -- there’s a strategy 
+here.  We’re keeping a stenographic record of all the global climate change 
+suggestions, and we’re hoping this year to have, maybe, new policy directions.  
+Because as I say, clearly we’re not doing enough.   
+ 
+So let me read this to you.  And I hate to read stuff, but this is a 
+very succinct summary. 
+ 
+All right, so we start with Climate Change Impacts to New Jersey. 
+ 
+“Often, when we read about climate change, we are inundated 
+with messages about its catastrophic global impacts like melting glaciers, 
+ocean acidification, and more frequent and intense storms.  However, too 
+little is shared on specific regional impacts and what has been done to combat 
+them. 
+ 
+ “With our over 130 miles of coastline and many low-lying 
+inland waterways, New Jersey is particularly vulnerable to sea-level rise, 
+flooding events, and saltwater intrusion.  As highlighted in the New Jersey 
+Department of Environmental Protection’s 2020 Scientific Report on Climate 
+Change, rising temperatures will increase droughts, strain the State’s 
+freshwater supply, and decrease the productivity of important food crops that 
+make New Jersey the Garden State.  
+ 
+“Each of these climate impacts can have broad ramifications on 
+our economy, the natural environment, and our way of life.  Everyone who 
+was impacted by Hurricane Sandy or Ida, for example, knows too well how 
+high winds and heavy precipitation can result in road closures, sodden homes, 
+power outages, and coastline damage.  What’s less evident is how much 
+weather and climate disasters impact our economy, decreasing property 
+ 
+ 
+ 
+3 
+values 
+and 
+requiring 
+costly 
+taxpayer-funded 
+remediation 
+efforts. 
+Unfortunately, the frequency of billion-dollar weather and climate disasters 
+is increasing.  
+ 
+“In a recent report, the Union of Concerned Scientists found that 
+New Jersey will lead the nation in the number of commercial properties at 
+risk of chronic inundation in 2045, and will be second only to Florida in the 
+number of residential properties at risk.  The U.S. Army Corps of Engineers 
+projects that New Jersey’s coastal communities could face a combined average 
+of nearly $1.6 billion a year in damages if additional steps aren’t taken to 
+mitigate and respond to climate impacts.  Other recent research has found 
+that sea-level-rise driven changes in tidal flooding have already reduced home 
+values in New Jersey by an estimated $4.5 billion.  So the true cost of doing 
+nothing is enormous. 
+ 
+“Aggressive action is necessary to reduce our dependence on 
+fossil fuels to help avoid the worst effects of climate change.  While some may 
+argue that climate change is too big and too expensive an issue for any one 
+state to meaningfully address, I believe that we have a moral obligation to do 
+so.  I maintain that we can get to net-zero greenhouse gas emissions, and we 
+can do so feasibly and affordably.  In fact, Princeton University’s Net-Zero 
+America study shows that the nation will return value on coordinated climate 
+action.  At the end of the day, if New Jersey does not lead the way, who will? 
+ 
+“Despite our state’s small geographic size and relatively small 
+contribution to total global emissions of greenhouse gases, our Legislature’s 
+actions and omissions have ramifications that extend beyond the state’s 
+borders.  Our climate policies signal to carbon-intensive industry sectors, 
+ 
+ 
+ 
+4 
+surrounding states, and the Federal government that they need to prepare for 
+a decarbonized future.” 
+ 
+Now, let’s talk about Powering the Future with Carbon-Free 
+Electricity.  
+ 
+“Since the passage of the Global Warming Response Act in 2007, 
+New Jersey has successfully reduced greenhouse gas emissions by 20 percent 
+below 2006 levels.  This is a huge win, but a coordinated, economy-wide 
+transformation will be required to achieve our more ambitious goals: 100 
+percent carbon-free electricity and an 80 percent reduction in carbon 
+emissions by 2050.  
+ 
+“To achieve this transformation, the Legislature is working from 
+a variety of angles.  Some of the Legislature’s actions include decarbonizing 
+the State’s electric grid, transitioning to electric vehicles, and guiding market 
+forces to incentivize the rise of products that utilize innovative, low-carbon 
+manufacturing processes  
+ 
+“On the energy front, New Jersey’s Renewable Portfolio 
+Standard is one of the most aggressive in the nation.  The RPS, established 
+in 1999 and updated in the Clean Energy Act of 2018, requires New Jersey 
+electricity suppliers to procure 22.5 percent of the electricity sold in the state 
+from qualified renewable energy resources.  This requirement increases to 35 
+percent in 2025, and to 50 percent by 2030.  On top of that, New Jersey’s 
+Energy Master Plan calls for 100 percent clean energy by 2050.  To meet 
+these goals, the Legislature has developed several incentive programs to spur 
+the development of clean energy resources.  
+ 
+“The Solar Renewable Energy Certificate, SREC, program, for 
+example, has accelerated the development of solar energy installations.  Solar 
+ 
+ 
+ 
+5 
+now accounts for more than 5 percent of New Jersey’s total retail electricity 
+consumption, and we’re aiming to double that by 2026.  This past summer, 
+the Legislature authorized the Successor Solar Incentive Program, called 
+SuSI,  which includes a competitive solicitation process for at least 1,500 
+megawatts of large, grid-scale solar facilities.  The Legislature also established 
+the Dual-Use Solar Energy Pilot Program to authorize co-productions of solar 
+energy and crops on unpreserved farmland.  
+ 
+“The State has also sought to harness the incredible power of our 
+offshore wind by approving over 3,700 megawatts of new offshore wind 
+energy projects, enough to power roughly 1.15 million homes in our state. 
+With construction having recently begun on the massive wind port in Salem 
+County and the Paulsboro Marine Terminal in Gloucester County, our 
+offshore wind capacity is only expected to increase, eventually surpassing the 
+State’s goal of 7,500 megawatts by 2035, while creating high-paying jobs and 
+stimulating the local economy.  
+ 
+“Finally, we can’t ignore the importance of nuclear power plants 
+in facilitating the decarbonization of the state’s electrical grid.  Three nuclear 
+power plant facilities provide New Jersey with 42 percent of our electricity, 
+and roughly 90 percent of our total carbon-free energy.  The continued 
+operation of these plants is critical if we’re going to keep our carbon footprint 
+low while transforming to a more reliable renewable energy grid in our future.  
+In 2018, the Legislature established the Zero-Emissions Credit, ZEC, 
+program to compensate the state’s nuclear energy facilities for the full value 
+of the carbon-free electricity they provide.  Additionally, the State should 
+explore the feasibility of incorporating next-generation, small modular 
+reactors to increase resilience and the diversity of our clean energy portfolio.  
+ 
+ 
+ 
+6 
+ 
+“So far, about 50 percent of New Jersey’s in-state electricity 
+production comes from emission-free sources” -- mainly the nukes.  “Thanks 
+to the State’s aggressive climate policies, that number is primed to increase. 
+While this is a big accomplishment, there is much that needs to be done, 
+obviously.” 
+ 
+All right; how about talking about Cleaning up the Transportation 
+Sector?  
+ 
+“The single largest source of greenhouse gas emissions in this 
+state is the transportation sector, which accounts for 40 percent of the total 
+statewide emissions.  The Legislature has taken several meaningful steps 
+toward decreasing transportation emissions, including enacting the extremely 
+successful light-duty electric vehicle incentive program, requiring electric 
+vehicle charging stations in new construction, and using RGGI -- Regional 
+Greenhouse Gas Initiative -- proceeds to electrify public transportation and 
+build out the State’s EV charging infrastructure.  Still, more aggressive action 
+is needed if we are going to clean up our transportation sector in a substantial 
+and lasting way.  
+ 
+“One meaningful way in which theLegislature can decrease 
+transportation emissions is through the electrification of public transit.  This 
+is a public health and an environmental justice priority.  Urban centers are 
+often the most dependent on public transport, while being disproportionately 
+impacted by the negative health effects of toxic air pollution from combustion 
+engines.  
+ 
+“Unfortunately, air pollution is endemic across our entire state.  
+To address the broader issue of transportation emissions, the Legislature has 
+its eyes on the lowest hanging fruit: New Jersey’s medium- and heavy-duty 
+ 
+ 
+ 
+7 
+vehicles.  These account for only 4 percent of the vehicles on the road, while 
+generating approximately 25 percent of the transportation greenhouse gas 
+emissions.  I applaud the DEP, the Department of Environmental Protection, 
+for implementing the Advanced Clean Trucks Rule, which would increase the 
+proportion of electric medium- and heavy-duty vehicles sold in the state, but 
+I will continue to advocate for additional legislation that would further 
+incentivize the conversion of commercial automotive fleets to zero-emission 
+vehicles.” 
+ 
+So what comes next?  The answer is, your testimony makes the 
+difference and gives us the good ideas.  But what comes next? 
+ 
+“Moving forward, we need to shift the way the State conducts 
+business by considering more seriously the costs associated with climate 
+change impacts.  If the State intends to meaningfully address climate change, 
+we must ‘practice what we preach.’  We cannot continue to tout our 
+commitment to environmental protection, while simultaneously perpetuating 
+and profiting off the actions of climate-polluting industries.   
+ 
+“To this end, last session I  introduced S-330, which would 
+prohibit the State pension fund, valued at more than $76 billion, from 
+investing in 200 of the largest publicly traded fossil fuel companies.  I also 
+co-sponsored SCR-18, which would prohibit the construction of new fossil 
+fuel power plants, thus requiring retiring fossil fuel plants to be replaced with 
+renewable energy generation.  For now, at least, renewables remain our least 
+expensive and least polluting energy resources, so it makes environmental and 
+fiscal sense to support them. 
+ 
+“Of course, these policies don’t constitute an exhaustive list.  We 
+are continuing to work on measures to mitigate the effects of climate change 
+ 
+ 
+ 
+8 
+and aid the transition to a zero-emission future.  These include programs that 
+would incentivize the deployment of energy storage systems,  streamline the 
+interconnection of renewables to the grid, establish an electric school bus fleet 
+conversion grant program, and more.  This session, the Senate Environment 
+and Energy Committee will take testimony at each meeting from interested 
+stakeholders on what more the State can do.” 
+ 
+And that’s what today is a part of, obviously.   
+ 
+“Climate change may be the single greatest threat we face this 
+generation; but not ‘looking up’ and ‘sitting back and reassessing’” -- if you 
+saw the movie, you know what I’m talking about -- “is not acceptable in New 
+Jersey.” 
+ 
+So that’s something Joey, Matt, and I sent to the Ledger (sic), and 
+I don’t know if they printed it yet.  I think we only sent it about two weeks 
+ago.  But that’s where we think we are.  We’re not doing enough, and we 
+hope to hear from people today who are smart enough to give us a little 
+guidance on what we should be doing.   
+ 
+We have a list of witnesses.  Our first witness is the retiring 
+President and Chairman of Public Service Electric and Gas.  And as Ralph is 
+coming up -- Ralph Izzo, of course, is the person I’m talking about -- and we 
+thank him and his company for their many efforts over these years to try and 
+help New Jersey to deal with climate change.  You’ve been a real leader, 
+Ralph, and your company has as well.  
+ 
+So with that, take it away.  
+R A L P H   I Z Z O,   Ph.D.:  Thank you, Mr. Chair. 
+ 
+SENATOR SMITH:  By the way, just for the record, can we take 
+a roll so that everybody knows we actually had a meeting and a quorum? 
+ 
+ 
+ 
+9 
+ 
+Go right ahead. 
+ 
+MS. DENNEY (Committee Aide):  Senator Durr. 
+ 
+SENATOR DURR:  Here. 
+ 
+MS. DENNEY:  Vice Chair Greenstein. 
+ 
+SENATOR LINDA R. GREENSTEIN (Vice Chair):  Here. 
+ 
+MS. DENNEY:  Chairman Smith. 
+ 
+SENATOR SMITH:  And I am also here. 
+ 
+Ralph, take it away. 
+ 
+DR. IZZO:  Well, thank you for your leadership on this vitally 
+important topic, and allowing me to speak with you today. 
+ 
+ Earlier in April, the United Nations released its latest report 
+from the intergovernmental panel on climate change, indicating that carbon 
+emissions from the year 2010 to the year 2019 had never been higher in 
+human history.  The report states that we’re on a path to global warming of 
+more than double the 1.5-degree Centigrade limit that was agreed upon in 
+Paris in 2015.  
+ 
+That is why it is so important that we are convened here today 
+to talk about actions we can take to limit global warming and reduce the 
+related impacts of climate change -- sadly, impacts that we in our state have 
+already seen all too well.  
+ 
+The good news is that we can battle climate change, and we can 
+do it in a way that’s planned and purposeful, keeping energy affordable, while 
+creating jobs and growing our economy.  For our part, PSEG continues to 
+support New Jersey’s transition to a clean energy future, and to further the 
+goal of reaching 100 percent clean energy by 2050. 
+ 
+ 
+ 
+10 
+ 
+ During the past several years, PSEG has moved decarbonization 
+to the forefront of our overall business strategy.  And we’ve demonstrated 
+this in a number of ways.  Last year, we accelerated our Net Zero climate 
+vision by 20 years, setting a new goal of achieving net-zero emissions in our 
+operations by 2030.   
+ 
+We’ve also reshaped our business in several ways.  We’ve closed 
+over 4,000 megawatts of fossil generation.  Then we divested nearly all of our 
+remaining fossil fuel plants, working towards becoming a 100 percent carbon-
+free generator.  I should be clear, however.  The plants we close do result in 
+the planet breathing easier.  The plants we sold are still operating, but 
+someone else is operating them and we don’t own them.  
+ 
+We’ve been helping our customers to use less power through 
+energy efficiency, a topic I will return to repeatedly today.  We’ve been 
+supporting the switch to electric vehicles by preparing the grid to ensure it is 
+ready for electric vehicles.  And we’ve been increasing resiliency, investing to 
+ensure that aging energy infrastructure, right down to the individual 
+neighborhood level, is able to withstand the challenges of extreme weather. 
+ 
+ And in October -- something I’m most proud of -- we signed on 
+to the United Nations-backed Race to Zero Campaign, which enlists 
+organizations in the effort to achieve economy-wide decarbonization by mid-
+century.  As part of the Race to Zero, PSEG is committed to setting science-
+based targets which will help us provide clearly defined and objectively 
+measured targets.  
+ 
+For the last few years, I’ve talked about a five-point list of actions 
+we can all take to mitigate the most damaging impacts of our changing 
+climate.  All of these are immediately actionable.  The five things include, 
+ 
+ 
+ 
+11 
+first and foremost, enabling greater energy efficiency.  Secondly, preserving 
+our existing nuclear fleet.  Third, developing renewable energy resources at 
+scale.  Fourth, electrifying the economy, starting with transportation.  And 
+fifth, enacting an economy-wide price on carbon; or, at the least, viewing the 
+first four items I mentioned through an economic lens that maximizes the 
+environmental benefit while minimizing customer costs.  
+ 
+So let me begin with energy efficiency.  According to the United 
+States Department of Energy, Americans spend $100 billion every year on 
+wasted energy from buildings, heating and cooling units, and more.  And 
+currently, residential and commercial buildings account for more than one-
+third of the carbon emissions America releases each year, while consuming 
+40 percent of the nation’s energy and 75 percent of its electricity. 
+ 
+ The technology to save energy without sacrificing lifestyle exists 
+today in the form of high-efficiency appliances, insulation, and even the lowly 
+light bulb.  We also have smart thermostats and smart meters being deployed 
+by the millions.  We recently launched clean energy programs at PSEG, 
+including the largest energy efficiency investment in New Jersey’s history.  
+This is a win-win-win.  The program is designed to cut carbon emissions by 
+up to 8 million tons, help customers save on their monthly energy bills to the 
+tune of an estimated $1 billion, while also creating 4,000 jobs.  Let me be 
+clear:  With energy efficiency, jobs are created, customer bills are lowered, 
+and carbon emissions are reduced.  It’s not pixie dust.  There is a loser in this.  
+The loser in this are the fuel companies -- the ones that are mining for coal 
+and fracking for gas.  But otherwise, everyone else comes out a winner.   
+ 
+As for the second of the five things we’ve been advocating, we 
+need to preserve our existing nuclear fleet.  It is our number one source of 
+ 
+ 
+ 
+12 
+carbon-free power generation in New Jersey and throughout the United 
+States.  Preserving existing nuclear energy for the coming decades is critical 
+to keep us from backsliding on our nation’s emissions reductions 
+achievements.  In numerous reports, including the most recent one from 
+Princeton, researchers have found that supporting continued operation of 
+New Jersey’s nuclear generation is consistently the lowest-cost option for in-
+state carbon-free generation.  Federal support would help ensure the nation’s 
+nuclear plants don’t prematurely retire and also alleviate some of the burden 
+New Jersey bears.  But sadly, the likelihood of enactment of needed 
+legislation at the Federal level is uncertain, despite bipartisan support.  And 
+I personally have had numerous conversations on both sides of the aisle in 
+support of such programs.  
+ 
+Let me turn to item number three, renewable energy.  We 
+absolutely need to deploy renewable energy.  Renewable energy holds great 
+promise; but like each of the five things, it does not come in a one-size-fits-
+all.  Densely populated New Jersey simply doesn’t have the same unoccupied 
+space as West Texas.  So large-scale wind on land doesn’t make sense here. 
+However, thanks to our state’s long, mid-Atlantic coastline, we do have a 
+great opportunity for offshore wind energy.  PSEG is eagerly supporting New 
+Jersey’s goal of developing 7,500 megawatts of offshore wind by 2035.  And 
+we’re heartened by the Biden Administration recognition of the opportunity 
+for offshore wind in the U.S., setting a goal of 30 gigawatts, or 30,000 
+megawatts, of offshore wind by 2030.  PSEG is investing in offshore wind 
+and plans to continue to enable this exciting new industry to grow on the 
+East Coast, including our agreement to host the New Jersey Wind Port on 
+land adjacent to our nuclear facilities.  
+ 
+ 
+ 
+13 
+ 
+Separately, New Jersey is a leader in rooftop solar.  But for many 
+reasons, chiefly the cost of rooftop and the lack of universal access to rooftop, 
+we need to revisit the advantages of grid-connected solar.   
+ 
+Let me move on to the fourth item, electrifying the economy, 
+starting with transportation.  No discussion of reducing carbon emissions and 
+tackling climate change would be complete without hitting on the number 
+one source of greenhouse gas emissions in New Jersey, and now in the United 
+States: transportation.  Electrifying the transportation sector has the 
+potential to have the greatest impact on reducing carbon emissions by 
+reducing the number of vehicles powered by gasoline, a fossil fuel.  This is 
+especially true as the profile of power generation on the grid evolves in coming 
+decades to include more megawatts of clean energy.  To support this, we’ve 
+begun developing New Jersey’s EV-charging infrastructure to help people get 
+over their range phobia.  
+ 
+Now, lastly, to unleash the creativity of the market we need to 
+talk about a price on carbon.  We need a mechanism for putting a price on 
+carbon emissions to allow the most cost-effective carbon reduction solutions 
+to rise to the top.  Now, a nationwide price on carbon would be optimal.  It 
+would allow us to do away with today’s confusing collection of prices and 
+State subsidy programs that are applied haphazardly to the various sources 
+of energy in this country.  A nationwide price on carbon is vital if we want to 
+pursue that carbon-free future in the most economically efficient way 
+possible.   
+ 
+However, in the absence of such a program, we in New Jersey 
+should consider the cost-per-unit of energy to support each of our programs 
+so as to prioritize investment decisions. 
+ 
+ 
+ 
+14 
+ 
+ In conclusion, as the primary sponsor of the Clean Energy Act 
+in 2018, Senator Smith, you are instrumental in setting a path for the 
+expansion of energy efficiency renewables and electric vehicles in this state. 
+That legislation paved the way for PSEG to create our Clean Energy Future 
+programs, bringing New Jersey to the energy efficiency and EV infrastructure 
+programs we are deploying today. 
+ 
+In addition to the five steps I’ve mentioned, a key opportunity 
+across the transition to a decarbonized clean energy future is ensuring that 
+we create an environment where entrepreneurs can develop the new products 
+and solutions that form the foundation of tomorrow’s carbon-free economy.  
+Smart, forward-thinking policies can facilitate this.  I’m heartened to read 
+that the North American venture capital and private equity investment in 
+new businesses targeting the energy transition hit a 10-year high last year.   
+ 
+Tomorrow, I’ll be speaking at the TechUnited: BetterX Summit, 
+where I’ll talk about how corporations and entrepreneurs can come together 
+to find innovative solutions to help decarbonize.  
+ 
+So if we’re serious about tackling climate change, it’s time to act 
+in an economically intelligent manner.  By that I mean the need to maximize 
+the environmental benefit with every dollar spent.  Let’s make energy 
+efficiency our top priority and put it on steroids.  Let’s keep our existing 
+nuclear fleet viable for decades; let’s turn to grid-connected solar so all 
+customers can enjoy universal access.  Let’s make use of the robust wind 
+resource off our coast, and let’s tackle the number one source of carbon in 
+New Jersey by electrifying transportation.  
+ 
+Thank you for your attention.  I’m happy to answer any 
+questions you may have. 
+ 
+ 
+ 
+15 
+ 
+SENATOR SMITH:  Thank you, Ralph, for your comments. 
+ 
+Senator Greenstein. 
+ 
+SENATOR GREENSTEIN:  Thank you. 
+ 
+Hi; good morning. 
+ 
+DR. IZZO:  Good morning, Senator. 
+ 
+SENATOR GREENSTEIN:  I wanted to find out your sense of 
+how other states around us are doing; and are we working together with them 
+on some of -- specifically on some of your five points.  
+ 
+DR. IZZO:  So in some regards, we are.  Clearly, the RGGI  states 
+have tried to set a price on carbon.  Candidly, it’s far below what the National 
+Academy says is the social cost of carbon.  
+ 
+The problem with that is that the RGGI  states don’t align with 
+what we would call the PJM states.  So you have a power market that is 
+separate and apart from the carbon market.  So as a result, the price of carbon 
+doesn’t get into the number one state from which we import electricity, that 
+being Pennsylvania.  
+ 
+So while there’s some cooperation there, it’s not optimized in 
+terms of the two markets overlapping each other.   
+ 
+You’re also seeing some independent activities as it relates to 
+offshore wind.  There are eight states, each of which wants to be the center 
+of the offshore wind industry in the future.  And if we remember our high 
+school geometry, there’s only one center whenever you define a certain 
+geography.  So that’s probably sub-optimizing the development of the supply 
+chain that’s going to be instrumental in bringing the price down. 
+ 
+ 
+ 
+16 
+ 
+ Candidly, Senator, there’s only one way to optimize the kind of 
+cooperation we need, and that’s action at the Federal level.  But we seem to 
+be somewhat stuck there at getting programs approved. 
+ 
+SENATOR GREENSTEIN:  Do you see any hope for things to 
+begin to start at the Federal level and move us-- 
+ 
+DR. IZZO:  I do.  There is discussion about a climate-only bill 
+that could pass the U.S. Senate under the Reconciliation Rules.  And I’m sure 
+you’re familiar with them; I won’t go into details.  My concern is that while 
+that could pass the Senate, I’m not sure that a climate-only bill would pass 
+the House.  Because, as you know, the Climate Plus Provisions passed the 
+House by a very modest margin.  And the ability to maintain that margin if 
+you pair -- if you take away everything other than climate -- is not obvious to 
+me.   
+ 
+There are certainly people in the Congressional Delegation who 
+are far more astute on these matters than I am.  So I never say never, but I’m 
+not wildly optimistic of us being able to get that through. 
+ 
+SENATOR GREENSTEIN:  And my last question for the 
+moment is, are there Federal or regional rules, regulations -- any specific ones 
+that you can mention that are hindering the timely decarbonization?  Are 
+there things we need to get rid of, or things we need to add? 
+ 
+DR. IZZO:  So there are no specific items.  Clearly, with offshore 
+wind, we have a brand-new regulatory regime that’s in its infancy. And I give 
+credit to the Bureau of Ocean Energy Management for what it’s able to 
+accomplish under this brand-new situation we find ourselves in. 
+ 
+ There are challenges at the Nuclear Regulatory Commission to 
+try to pave the way for advanced nuclear.  Which, by the way, I think under 
+ 
+ 
+ 
+17 
+the current market structure, does not have a likely home in New Jersey, just 
+because of the absence of this price on carbon.  And I would simply go back 
+to the fact that the number one gap in coherent national policy that New 
+Jersey could piggyback on would be a price on carbon.  
+ 
+SENATOR GREENSTEIN:  Thank you.  
+ 
+DR. IZZO:  Thank you.  
+ 
+SENATOR GREENSTEIN:  Thank you. 
+ 
+SENATOR SMITH:  Any other questions? (no response) 
+ 
+It’s still a way to go, but we’re going to wish you a happy 
+retirement.  And I hope, I really hope that you stay active in this for our 
+State.  I think you have a lot of great policy ideas to bring to the table.  
+ 
+DR. IZZO:  Thank you, Senator. 
+ 
+My wife hopes I stay active too.  She’s terrified of my retirement 
+at this point. (laughter) 
+ 
+SENATOR SMITH:  Well, my wife retired six months ago from 
+my office.  And I can tell you that I think she may be changing her mind. 
+(laughter)  But I don’t know that, and I’m not going to bring the subject up. 
+ 
+But anyway, stay active, please. 
+ 
+DR. IZZO:  Thank you very much. 
+ 
+SENATOR SMITH:  We appreciate your input.  
+ 
+Our next witnesses will be from Rutgers University, and I’d ask 
+that you come forward. 
+ 
+And neither of you is Jeanne Herb.  I see Jeanne in the back.  
+That means we’ll need you to tell us who you are and your specific area of 
+expertise. 
+ 
+ 
+ 
+18 
+A N T H O N Y   J.   B R O C C O L I,   Ph.D.:  Thank you, Chairman 
+Smith and Committee members for inviting us to appear today.  
+ 
+My name is Anthony Broccoli, and I’m a climate scientist in the 
+Department of Environmental Sciences at Rutgers University, where I serve 
+as Co-Director of the Rutgers Climate Institute and a Faculty Advisor to the 
+New Jersey Climate Change Resource Center.   
+ 
+The New Jersey Climate Change Resource Center recently issued 
+a State of the Climate report for New Jersey, which focuses on changes in 
+temperature, sea level, precipitation, and extreme events.  I’ll briefly 
+summarize some of the findings from this report. 
+ 
+Global average temperature has risen about 2 degrees Fahrenheit 
+since 1900.  According to data compiled by NASA, the period from 2014 to 
+2021 has the warmest eight years in records of global temperature going back 
+to 1880.  The primary cause of this warming has been an increase in 
+greenhouse gases, mainly carbon dioxide, in the atmosphere.  Carbon dioxide 
+concentrations now exceed 415 parts per million, which is about 50 percent 
+higher than they were during the Industrial Revolution. 
+ 
+ To put this in perspective, most of that increase has occurred 
+during my lifetime.  
+ 
+Here in New Jersey, average annual temperature has risen about 
+4 degrees Fahrenheit since statewide records began in 1895, or roughly twice 
+as fast as the global average.  This amounts to an average warming rate of just 
+over 0.3 degrees Fahrenheit per decade.  But the warming has been more 
+rapid since 1970, averaging 0.66 degrees Fahrenheit per decade. Of the 20 
+warmest years on record in New Jersey, 15 have occurred since the year 2000.  
+ 
+ 
+ 
+19 
+ 
+Further increases in temperature are projected to occur, the 
+amount of which will depend on future greenhouse gas emissions.  As 
+temperatures continue to rise, there will be many consequences, including for 
+human health.  Extreme heat events will become more common, increasing 
+the potential for heat stress.  Because a warmer atmosphere can contain more 
+water vapor, humidity will also increase, adding to the heat stress burden.  
+Increased heat stress can cause greater incidences of heat-related illnesses, 
+hospital admissions, and deaths among vulnerable populations.  
+ 
+Sea-level rise along the New Jersey coast has been more rapid 
+than the global average because the land is sinking, while water levels are 
+rising.  The tide gauge at Atlantic City has registered an increase in sea level 
+of almost 18 inches since it began operating in 1911.  
+ 
+As the ocean continues to warm, and glaciers and ice sheets 
+continue to melt, sea-level rise has accelerated; and this acceleration is 
+expected to continue over the next century. 
+ 
+ Relative to a 1991 to 2009 baseline, sea level is expected to rise 
+by 0.9 to 2.1 feet by 2050.  By 2100, the amount of sea-level rise will depend 
+upon the rate of future greenhouse gas emissions, with 1.7 to 4 feet expected 
+under a low-emission scenario; the 2.3 to 6.3 feet expected under a high-
+emission scenario.  
+ 
+The most serious impacts of sea-level rise will be felt when strong 
+onshore winds from coastal storms, both hurricanes and wintertime 
+nor’easters, push water towards the coastline.  There is high confidence that 
+coastal flooding from future storms is likely to be more frequent and more 
+severe as rising sea levels raise the baseline for flooding events.  
+ 
+ 
+ 
+20 
+ 
+It has been estimated that human-caused sea-level rise was 
+responsible for about 12.8 percent of the total property damage from 
+Hurricane Sandy in New Jersey, because it made a larger area susceptible to 
+flooding.  A coastal storm affecting New Jersey in the future will cause more 
+flooding damage than the same storm would have produced in the past.  
+ 
+Tidal flooding occurs when unusually high tides cause flooding 
+in the absence of storm surge.  Such flooding events, sometimes called 
+nuisance flooding or sunny-day flooding, have also become more frequent, with 
+their number increasing from less than one per year in the 1950s to about 
+eight per year from 2007 to 2018.  Under a moderate emission scenario the 
+frequency of nuisance flooding events could reach 240 days per year -- in 
+other words, more often than not -- by 2100. 
+ 
+ Sea-level rise can also lead to saltwater contamination of 
+freshwater resources used for crop irrigation.  And it can also adversely affect 
+freshwater ecosystems by pushing saltwater further upstream in estuaries.  
+Higher sea levels can also elevate the water table in coastal areas, adversely 
+affecting low-lying farmland.  
+ 
+Total rainfall in New Jersey has increased by about 7 percent 
+since the early 1900s.  There are also indications that there has been more 
+year-to-year variability in rainfall recently, with an increase in the range 
+between the wetter years and the drier years.  Modest increases in annual 
+rainfall of about 5 to 8 percent by the century are projected by climate 
+models.  But because summer precipitation is not projected to change 
+substantially and will be accompanied by higher temperature and evaporation 
+rates, the duration of summer dry spells is expected to increase.  These more 
+frequent dry periods -- or flash droughts, as they’re sometimes called -- could 
+ 
+ 
+ 
+21 
+lead to increased irrigation and water use by homes and businesses.  New 
+Jersey’s water supply can be susceptible to such dry spells, which can lead to 
+restrictions on water use even if they are not part of a prolonged drought 
+pattern.  
+ 
+The changes in precipitation resulting from a warming climate 
+can also have implications for flooding.  The frequency of heavy precipitation 
+events has been increasing in New Jersey, with individual events of 2 inches 
+or more happening as much as 50 percent more often than the long-term 
+average in recent years.  In the United States, two-day rainstorms that had a 
+1 chance in 5 of occurring during the year in the first half of the 20th century, 
+the so-called 5-year storm, have happened 20 to 40 percent more often since 
+the 1990s.  This trend is expected to continue, with implications for the 
+frequency of inland flooding along New Jersey’s rivers and streams.  
+ 
+We were reminded of the devastating impact of intense rainfall 
+events just last year, when the remnants of what had been Hurricane Ida 
+arrived in New Jersey, unleashing excessive rainfall in a swath that extended 
+from Mercer and Hunterdon counties in the west, to Hudson and Bergen 
+counties in the east.  More than 9 inches of rain fell in Hillsborough in 
+Somerset County and Flemington in Hunterdon County.  This is more than 
+twice the normal rainfall for the entire month of September, and most of it 
+fell in a span of six hours.  Tragically, the flash flooding that resulted killed 
+30 people and displaced many, many more from their homes.   
+ 
+The flooding from Ida provides insights into the hazards that 
+New Jersey communities will face over the decades to come as rainfall events 
+become more intense.  
+ 
+ 
+ 
+22 
+ 
+I’ll close by pointing out that research has shown that the adverse 
+effects of climate change grow roughly in proportion to the amount of future 
+warming.  Although this information is sobering, it also means that actions 
+taken to reduce the amount of future warming will also reduce the most 
+severe impacts. 
+ 
+ Thank you for giving me the opportunity to share my 
+perspectives on this important issue that faces the citizens of New Jersey.  
+ 
+SENATOR SMITH:  Thank you, Dr. Broccoli.  
+ 
+One point I would emphasize by asking a question concerns the  
+Ida scenario, where heavy amounts of rain fell in New Jersey.  It had no 
+necessary relationship to where our wetlands are, where our floodplains are.  
+It was  -- I don’t want to say random, but the distribution of the heavy rainfall 
+was at places where people would not expect it to be flooded.   
+ 
+So  what are the implications for flood insurance as a concept, 
+and is there anything New Jersey can do about these vast amounts of the vast 
+quantities of water that can fall anywhere? 
+ 
+DR. BROCCOLI:  Yes, I think that’s a very good point -- that 
+what we see when we have that kind of intense rain, many inches of rain 
+falling in a period of just a few hours, is that even places that aren’t necessarily 
+stream corridor or river flood plains get flooded.   
+ 
+I think one of the big implications is for public safety.  Among 
+those 30 people who died, many of them were trapped in their cars in places 
+where they didn’t realize they would be vulnerable.   
+ 
+So looking forward, I think it is going to be important that as 
+events like this become more common, we’re better prepared to get people 
+out of harm’s way.   
+ 
+ 
+ 
+23 
+ 
+The implications for property are, as you mentioned, also very 
+severe.  And in that case, we may want to learn from Ida that there are places 
+that are vulnerable that perhaps we didn’t realize were as vulnerable 
+beforehand.  
+ 
+SENATOR SMITH:  Thank you.  
+ 
+Any questions for Dr. Broccoli? (no response) 
+ 
+Then the lady next to Dr. Broccoli -- if you would introduce 
+yourself.  
+J E N N I F E R   S E N I C K,   Ph.D.:  Sure thing. 
+ 
+ Good morning, everybody.  I am Jennifer Senick, and I’m the 
+Executive Director of the Rutgers Center for Green Building at the Edward J. 
+Bloustein School of Planning and Public Policy.  
+ 
+I’m going to share some ideas and pathways to building 
+decarbonization in New Jersey, including those that are regulatory, incentive- 
+and information-based.  And I’m going to start by providing a depiction of 
+New Jersey’s existing building stock. 
+ 
+ We know that New Jersey buildings are responsible for a 
+combined 62 percent of the state’s total energy consumption, which is led by 
+commercial buildings at 26 percent, followed by residential buildings at 25 
+percent, and the industrial sector at 12 percent. 
+ 
+End-uses in buildings -- for example, space heating and cooling, 
+and water heating; as well as other appliance end-uses, such as clothes drying 
+and cooking; and industrial uses -- combined count for 28 percent of New 
+Jersey’s greenhouse gas emissions.  Many of these same end-uses and 
+associated activities of daily living additionally degrade indoor air quality, 
+which is important for its impacts on health.  
+ 
+ 
+ 
+24 
+ 
+New Jersey has in the neighborhood of 2.9 million residential, 
+commercial, and multi-family buildings.  This includes approximately 2.4 
+million residential buildings.  That’s single-family and two-to-four unit; 
+another approximately 18,000 multi-family buildings of five units or more; 
+and approximately 516,000 commercial buildings.  
+ 
+New Jersey’s residential stock is relatively old.  Approximately 80 
+percent of those buildings were constructed prior to 1989, split about equally 
+prior to 1959, and built between 1960 and 1989; whereas 19 percent were 
+built from 1990 onwards.  
+ 
+Commercial building stock is a little bit newer.  Sixty-seven 
+percent of those buildings were constructed between 1920 and 1999, 16 
+percent before 1920, and approximately 18 percent after 1999.  
+ 
+Multi-family buildings have a bit of a more uniform distribution 
+across these vintages, with 39 percent built after 1990, 35 percent between 
+1960 and 1989, and 22 percent prior to 1929.  These vintages matter because 
+they have implications for the energy performance of the buildings in terms 
+of their envelopes, things like insulation in each window, and also the 
+equipment or appliances that are installed. 
+ 
+ Specifically, residential buildings in New Jersey -- again, 
+approximately 2.5 million -- 67 percent of them use natural gas as their 
+primary heating fuel, 17 percent use fuel oil, 8 percent electricity -- again, for 
+their primary heating fuel -- 4 percent propane, and 4 percent a mix of other 
+fuels. 
+ 
+In commercial buildings the primary heating fuel is 49 percent 
+electricity, 39 percent natural gas, 5 percent propane, 1 percent fuel oil, and 
+6 percent a mix of other fuels.   
+ 
+ 
+ 
+25 
+ 
+In multi-family buildings -- again, those of five units or more -- 
+the predominant primary heating fuel is natural gas, at 87 percent; electricity 
+accounting for approximately 12 percent; and much smaller percentages for 
+fuel oil and mixes of electric and gas. 
+ 
+Of the approximately 2.4 million residential buildings that 
+comprise our existing building stock, 66 percent have furnaces, most of which 
+are going to be ducted.  This has implications for the ease with which they 
+can be replaced with heat pump technology.  Twenty-six percent use boilers, 
+6 percent electric baseboards for primary heating equipment, and 2 percent 
+heat pumps -- so a relatively low rate of penetration for heat pumps in our 
+existing residential building stock.  
+ 
+In commercial buildings, 45 percent use packaged heating units; 
+26 percent use individual space heaters; 11 percent use heat pump technology 
+already; boilers, 8 percent; furnaces, 9 percent; district steam, 1 percent; and 
+some other smaller percentages. 
+ 
+In multi-family buildings -- again, five units or more -- 41 percent 
+use furnaces; 45 percent use boilers; 8 percent, electric baseboards; 2 percent 
+heat pumps; packaged heating units and individual space heaters also at 2 
+percent. 
+ 
+For primary cooling equipment in existing residential buildings, 
+54 percent have central air, ducted.  Thirty percent use room air conditioners, 
+and 16 percent actually have no air conditioning, which has implications for 
+human health and safety, and resiliency as the climate warms.  
+ 
+In commercial buildings, 39 percent use packaged air 
+conditioning units; 32 percent, residential-type central air conditioners; 12 
+percent, heat pumps as their primary cooling equipment; individual room air 
+ 
+ 
+ 
+26 
+conditioners, 11 percent; and some other smaller percentages.  In multi-
+family buildings the majority use room air conditioning units -- 52 percent;  
+27 percent, approximately, are accounted for by residential split systems; heat 
+pump penetration is minimal at 0.57 percent. 
+ 
+Both the Global Warming Response Act and Energy Master 
+Plan, as this audience well knows, identify strategies for building 
+decarbonization, including electrification.  And these do include a mix of 
+regulatory incentive-based and information-based strategies, such as the 
+development of a building’s electrification roadmap with strategies and 
+concrete timelines for achieving widespread electrification. 
+ 
+I’m pleased to share that this has since come to life as the New 
+Jersey Zero Energy Emissions Building road map, comprising a year or more 
+of stakeholder process facilitated by NEEP, the Northeast Energy Efficiency 
+Partnership, and the Rutgers Center for Green Building, and which is 
+continuing into Fiscal Year 2023. 
+ 
+ Another strategy is prioritizing near-term conversion of 
+buildings relying on propane and heating oil.  In New Jersey, as elsewhere, 
+the economics for this are very strong.  
+ 
+Studying and developing mechanisms and regulations to support 
+net-zero carbon new construction; and EV ready and demand- response ready 
+building codes; partnering with private industry to establish building 
+decarbonization demonstration projects.  And, additionally, I would mention 
+that New Jersey now has an energy and water benchmarking disclosure 
+requirement, which goes into effect next year, for commercial buildings over 
+25,000 square feet.  Building benchmarking programs are well proven to 
+result in significant resource savings, as the market uses these data to compare 
+ 
+ 
+ 
+27 
+performance and reward efficiency through the more informed decisions of 
+building owners and tenants.  It’s an example of an information-based 
+strategy.   
+ 
+I’m going to return to each of these in turn. 
+ 
+While much national emphasis is on building decarbonization in 
+the new construction sector, New Jersey has a unique opportunity to address 
+existing buildings through the New Jersey Rehabilitation Subcode and its 
+associated triggers.  
+ 
+So to be clear, the way this works is that a building owner -- he 
+or she decides to undertake a renovation, an addition, an alteration, a 
+reconstruction, and, accordingly, there are requirements that pertain to that 
+in the New Jersey Rehabilitation Subcode.  
+ 
+It is possible within the requirements of the code -- fair and 
+proportional, meaning cost-effective -- to add both requirements and 
+supplemental or voluntary requirements for building decarbonization.  That 
+would be triggered by these actions: renovation, alteration, reconstruction, 
+addition alteration; probably not repair.  In order to explore those scenarios 
+and leveraging the existing building stock of New Jersey that the Rutgers 
+Center for Green Building recently built -- and I just shared an overview  with 
+you -- we analyzed 720 cases, or scenarios, through energy modeling and cost 
+estimating, representing three different building types -- mixes of building 
+types -- residential, multi-family, commercial; the three vintages that we just 
+spoke of -- prior to 1959, 1960 to 1989, and 1990 and newer; different sizes 
+of buildings; four different heating fuels -- natural gas, propane, fuel oil, and 
+electricity; two distribution technologies, mainly, ducted and non-ducted; 
+and five replacement strategies.  Again, we’re talking about existing buildings.  
+ 
+ 
+ 
+28 
+ 
+Replace in-kind -- meaning, replace the appliance or the 
+equipment with what was there before; replace in-kind efficient -- something 
+that is more efficient than required by the building code; replace with an air-
+forced heat pump; replace with a ground-source heat pump; replace with a 
+heat pump, plus integrated weatherization measures to improve the building 
+envelope at the same time.  
+ 
+So we looked at 720 cases that map to New Jersey’s existing 
+building stock so we could, sort of, figure out the answer to what’s cost-
+effective and, really, where should we be focusing our attention.  
+ 
+I’m not going to get into the details of the simple paybacks for 
+each of those 720 scenarios now, but suffice to say that the efficiency is 
+almost always cost-effective.  Meaning, in existing buildings now it is almost 
+always cost-effective to replace equipment with more efficient equipment 
+than is required in New Jersey’s Rehabilitation Subcode.  By cost-effective here 
+we mean many things pay back between 0 and 2 years; some things pay back 
+in less than 10 years.  We never call something cost-effective that has a longer 
+payback period than the expected life of the equipment that’s being installed. 
+ 
+ Replacement of propane and oil is always cost-effective, ranging 
+from an immediate payback to two years.  And integrated weatherization 
+interventions are often cost-effective, which is really nice because it means we 
+could possibly associate heat pump replacement with improving the 
+performance of the building envelope at the same time, which would--  
+ 
+SENATOR SMITH:  So how much of an advantage is a heat 
+pump versus other sources? 
+ 
+DR. SENICK:  Versus-- 
+ 
+SENATOR SMITH:  Take anything. 
+ 
+ 
+ 
+29 
+ 
+DR. SENICK:   Natural gas boiler versus other technologies? 
+ 
+SENATOR SMITH:  Yes. 
+ 
+DR. SENICK:  The energy savings are greater.  And it really sort 
+of depends on, like, what building in which we’re installing this, whether it’s 
+a large multi-family building, a complicated commercial building.  But the 
+energy savings are very significant.  You actually get more energy out than 
+you put in.  But what we have to look at very carefully in these scenarios is 
+the relationship of the incremental cost and the operating cost when we’re 
+trying to, sort of, figure out a measure of a simple payback. And we’re using 
+simple payback because New Jersey has a statute, 52:27D 123b, that 
+stipulates that building code amendments for new construction  -- there’s no 
+such requirement for existing buildings -- must satisfy a threshold of cost-
+effectiveness determined by the 10-year energy price projections provided by 
+an institution of higher education; along with measure specific added costs 
+recoverable through energy conservation over a period of not more than seven 
+years.  So for the most part, we adopted that same rule and applied it also to 
+existing buildings. 
+ 
+SENATOR SMITH:  Do heat pumps generally meet that 
+standard? 
+ 
+DR. SENICK:   I’m sorry, Senator? 
+ 
+SENATOR SMITH:  Do heat pumps generally meet that 
+standard -- the seven-year payback standard? 
+ 
+DR. SENICK:   It depends on what you’re replacing.  If you 
+replace propane and oil -- yes.  It depends on the vintage of the equipment 
+you’re replacing and, again, it sort of depends on the building.  So these 
+energy models looking at different vintages of New Jersey buildings -- these 
+ 
+ 
+ 
+30 
+are models that are produced by the Department of Energy.  And they 
+produce them for every state, multiple climate zones, and different building 
+code versions.  But then, you can sort of make adjustments to them based on 
+the estimation we’ve built in New Jersey’s building stock, to add more or less 
+insulation, or so on.   
+ 
+There are some scenarios where it is difficult to reach a cost-
+effective outcome; although, in many cases, adding those integrated 
+interventions, bundling weatherization measures, a heat pump replacement 
+can get you over that hurdle.   
+ 
+I guess just a quick-- 
+ 
+SENATOR SMITH:  The answer is, it’s complicated.   
+ 
+DR. SENICK:   I’m sorry. (laughter)  Yes; but that’s true. 
+ 
+I went out of my way to mention furnaces and ducts.  If we’re 
+looking at buildings that already have the ductwork -- for heat pump 
+replacement, there are ways to do it without ductwork.  But if there’s already 
+ductwork and you don’t have to put that into your construction cost, that’s 
+a favorable scenario.  So it really kind of depends on what that building 
+comprises. 
+ 
+ And then you sort of prompted me, though, to just I guess give 
+a quick 30 seconds on the data.  How did we construct this estimation of 
+New Jersey’s existing buildings, which now can be--  We’re going to build out 
+a bunch of decision tools for policymakers so they can simulate lots of 
+different scenarios with it, right?  “What if we do this?  What if we do that?”  
+Because we run 720 scenarios, but we’re not going to sit here and run 7 
+million.  We want to get it out to the public.  
+ 
+ 
+ 
+31 
+ 
+These data come, for the residential data, from a tool built by 
+NREL, National Renewable Energy Lab of the Department of Energy called 
+ResStock.  And what ResStock does is, it takes specific data based on every- 
+three-year surveys -- representative statistically significant samples of New 
+Jersey residential buildings -- and it associates it with other data sources -- 
+like American Community Survey census data, and so on -- and kind of runs 
+lots of different scenarios to what’s called synthetic population technique until it 
+reaches the scale of the population.  So it’s based on actual data, and it’s 
+scaled up. 
+ 
+ At the time that we built this estimation of New Jersey’s existing 
+building stock, the corresponding tool NREL had and completed was called 
+ComStock.  So we went back to the same source they used for the original data, 
+called CBECS, Commercial Building Energy Consumption Survey, the companion 
+to the Residential Energy Consumption Survey, and we used that technique 
+ourselves. 
+ 
+For the multi-family data -- five units or more -- fortunately we 
+recently completed -- Rutgers Center for Green Building, with a 
+subcontractor, ADM Associates, funded by the BPU -- a multi-family baseline 
+study of New Jersey.  And so that comprised a collection of survey  -- quite a 
+bit of on-site verification visits -- to understand New Jersey’s existing multi-
+family building stock.  So that’s where the data came from.  It is actual data 
+and, in some cases, scaled up through these various data analytic techniques.  
+ 
+SENATOR SMITH:  So if you had--  Looking up the broad 
+spectrum of the state of our buildings, residential and commercial, if you have 
+one recommendation to us to try and make our buildings more energy-
+efficient, help us to reduce energy consumption, what would it be? 
+ 
+ 
+ 
+32 
+ 
+DR. SENICK:   Well, first of all, it would be to focus on existing 
+buildings, because the model code community is kind of taking care of this 
+for new construction.  So the model code community has a pathway to net-
+zero energy buildings by 2028.  So what we did in our work, and actually the 
+result of this particular project -- also funded by BPU -- is a series of draft 
+proposed code amendments that still need to be socialized with the relevant 
+stakeholders.  
+ 
+We focused 80 percent of our effort on existing buildings and, 
+therefore, the New Jersey Rehabilitation Code.  And we would--  You know, 
+again, this is sort of like replace-on-failure scenarios.  Somebody’s boiler, or 
+furnace, or whatever stops working; or somebody who has oil or propane, 
+particularly in a territory not served by natural gas, now needs something new 
+for space heating, cooling, possibly hot water heating.  We would require a 
+heat pump replacement at that point.  We would like to require heat pump 
+replacement with weatherization measures, at least where it makes sense.   
+ 
+The way one sort of starts this journey with making amendments 
+to an existing building code is, you sort of identify the things that are like the 
+low-hanging fruit that make the most sense.  And it’s not just a matter of 
+pairwise technology replacements; it’s also a matter of -- for which building 
+occupancy codes does it work.  So for example, in many of our scenarios, it’s 
+easier to make things work in a smaller, multi-family building than a larger 
+one.  My suggestion, a little further in, for large multi-family buildings, 
+corporate and academic campuses, and residential subdivisions is 
+community- or network-based geothermal heat pump technology.  And I 
+think that that bears study, bears looking at much more closely.   
+ 
+ 
+ 
+33 
+ 
+SENATOR SMITH:  When do you think you’ll have the 
+socialization of the proposed changes to the building code completed? 
+ 
+DR. SENICK:  Yes.  So the study is under review right now,  with 
+a bunch of briefings scheduled to three State agencies and your staff starting 
+about July 1, which corresponds with our next BPU contract, Fiscal Year 
+2023.  We’ll be sort of releasing them into the energy code collaborative that, 
+again, is facilitated by NEEP, the Northeast Energy Efficiency Partnership, 
+that does a lot of this work through the Northeast Region.  They’re funded, 
+presently, by the Energy Foundation and partnered with us.   
+ 
+And so this summer, fall.   
+ 
+And so the idea is obviously to vet our proposals, make changes 
+to the proposals, build support for the proposals.  And then, likely, the various 
+stakeholders participating in the energy code collaborative will kind of tee up 
+to bring the changes. 
+ 
+SENATOR SMITH:  All right; so I would hope you’d keep us in 
+the loop, and let us-- 
+ 
+DR. SENICK:   Absolutely.  I will offer to share all the data that 
+I’m talking about -- the report -- as things are sort of released.  The multi-
+family baseline study I mentioned is on the BPU website under Evaluation. 
+ 
+SENATOR SMITH:  At the end of 2021, the charge was leveled 
+against the Energy Master Plan -- that the Master Plan was going to require -
+- and laws that we might pass--  We had a bill last term and it would say, 
+“Energy Master Plan goals would become statutory.”  So the charge was laid 
+that we, the New Jersey Legislature, if we passed that, would be increasing 
+the costs of renovation to New Jersey citizens’ homes and businesses, by a 
+minimum of $20,000 per building unit.  You’d think the charge was 
+ 
+ 
+ 
+34 
+ridiculous, but, that being said, in your review I think one of the things you 
+need to do is to be sensitive to the issue of cost.  
+ 
+DR. SENICK:   Of course.  
+ 
+SENATOR SMITH:  All right?  But that’s going to get the 
+greatest microscopic review. 
+ 
+DR. SENICK:   Understandably.  I appreciate that comment, 
+Senator, and that’s why we’ve kind of given ourselves fairly stringent kind of 
+guidelines for what comprises cost-effectiveness.  I mean, sort of another 
+comment on that--  Again, when we’re talking about existing buildings and 
+triggers in the rehab code, this happens when somebody undertakes to do 
+something to their building.   
+ 
+It’s my guess -- speaking about cost pressures, increased housing 
+prices, and higher cost of borrowing -- that we’re actually going to see more 
+people choosing to make renovations to existing homes.  And so I think, 
+again, New Jersey has a real opportunity.  We have a unique bespoke existing 
+building code.  It’s not a model code, it’s our own code, it’s a smart code, an 
+award-winning code.  It can be amended administratively.  This can move 
+relatively quickly.  And while higher home prices and borrowing costs may 
+not be a welcome thing, it probably does mean that we have an inflection 
+point for more rapidly upgrading buildings. 
+ 
+SENATOR SMITH:  Right. 
+ 
+DR. SENICK:  Though that, of course, is through regulatory 
+means.  But for things that seem, perhaps, or are deemed not cost-effective 
+by the stakeholders who will ultimately vet these proposals, of course, there’s 
+a role for program design and incentives.  
+ 
+ 
+ 
+35 
+ 
+And, generally speaking, I think that there is a real need in New 
+Jersey to establish something like a New Jersey Building Decarbonization 
+Institute.  I would volunteer New Jersey’s universities, colleges, nonprofits 
+like Sustainable Jersey, the Heldrich Workforce Center (sic), and many 
+others, to do that.  We would be replicating or adapting the efforts that have 
+already been made by states like California and Massachusetts to do this--  
+ 
+SENATOR SMITH:  Right. 
+ 
+DR. SENICK:  --to be able to communicate some of this 
+information to building owners, building contractors, provide the workforce 
+training, and so on.  So that is something that I’m keenly interested in 
+discussing. 
+ 
+You asked what measures -- what would I recommend.  I mean, 
+the other thing I would recommend -- which seems very low-hanging fruit, 
+particularly in new construction, but doable also in existing buildings -- is 
+electric readiness. There’s already a bill that’s addressed, I guess, EV 
+Readiness in New Construction.  But electric readiness could be triggered for 
+existing buildings when somebody’s doing electric panel work anyway, for 
+example, right?  And so it becomes a matter of circuitry and outlets for 
+household ranges, clothes dryers, water heaters, and space for a heat pump 
+water heater.  
+ 
+The model code community is now working on demand response 
+readiness in energy codes.  And so if New Jersey is ready to move forward and 
+adopt some of these already-existing proposals and amendments from the 
+IECC, that would be great.  If New Jersey’s not ready to do it or is ready to 
+do it in some instances and not others, I would propose that they could 
+become part of a stretch code that could be a pilot in New Jersey 
+ 
+ 
+ 
+36 
+municipalities, where, again, the State would, therefore -- and its citizens, 
+therefore, gain some experience with some of these provisions.  And these are 
+all like, kind of, infrastructure-ready provisions.   And so by the time they 
+become required, as they will in the next version of IECC, for example -- as 
+far as the International Energy Conservation Code, which we use for new 
+residential buildings -- then there will already be some experience with that.  
+And sort of some of the -- any fears or misgivings perhaps will be allayed 
+between some kind of pilot program with municipalities, and also by having 
+something like a New Jersey Building Decarbonization Institute. 
+ 
+I have spoken with--  Actually, Sustainable Jersey approached me 
+on this, and I have agreed to help them develop such a stretch code that 
+would be inserted into the green building toolkit and provide points to 
+municipalities that would participate.  
+ 
+So some next steps -- as we discussed -- socializing, vetting some 
+of the proposed code amendments, getting this building data out there. We’re 
+going to develop some decision support tools, put it up on a website so that 
+policymakers and other interested parties can run their own simulations.  
+Taking, I think, a much deeper look at the potential of community or 
+networked heat pumps in New Jersey.  And that Building Decarbonization 
+Institute. 
+ 
+So that’s what I prepared to share today, and I thank you very 
+much for the opportunity.  
+ 
+SENATOR SMITH:  Well, and we thank you for sharing. 
+ 
+Are there questions from Senators? 
+ 
+Senator Greenstein. 
+ 
+SENATOR GREENSTEIN:  Thank you, Chairman. 
+ 
+ 
+ 
+37 
+ 
+Just one question I wanted to ask, I guess, Dr. Senick.  I can’t see 
+you too well with this light. (laughter) 
+ 
+DR. SENICK:   I need to grow. 
+ 
+SENATOR GREENSTEIN:  I wanted to ask -- on that 
+decarbonization issue.  How well does the State’s current path toward 
+decarbonization align with projected best or worst case scenarios?  How do 
+you think we are, at this moment in time, in terms of decarbonization? 
+ 
+DR. SENICK:  The best- or worst-case scenarios as shared by my 
+colleague? 
+ 
+SENATOR GREENSTEIN:  Either one of you, really. 
+ 
+DR. SENICK:  I mean, my understanding of the climate science 
+-- and we’ll see how right I get this -- is that there’s a certain level of global 
+warming that’s already baked in, unfortunately.  So what we’re really doing 
+by transforming the market towards decarbonized buildings is trying to 
+prevent future emissions.   
+ 
+The new construction codes will get us there for new buildings 
+by 2028, if New Jersey adopts them without weakening amendments.  That 
+is not what’s happening now.  
+ 
+So New Jersey, the last couple of rounds, has been adopting 
+model codes with what are called weakening amendments; so not everything 
+that’s in the code.  So I think currently, now, the discussion is about not 
+adopting all of the insulation requirements.  If we adopt the model codes, 
+then there are those really great projections by the Department of Energy 
+that sort of show us where we’ll be.  And so that would handle the new 
+building sector; but, of course, what we really need to deal with is the existing 
+building stock.  
+ 
+ 
+ 
+38 
+ 
+Based on the work that we’ve performed, if some of these kinds 
+of code amendments could go forward, we’d make a dent.  But we’re dealing 
+with sort of a natural rate of replacement in these buildings.  And so I have 
+to admit, I’m like a little challenged about how to think about that.  I’ve been 
+starting to try to pull as much permit data as I can to understand what that 
+natural rate of replacement is.  I think it’s going to increase.  If we rely only 
+on that one measure, we’re probably not going to be where we want.  So that’s 
+why I think we need to bundle regulatory measures with incentive-based 
+measures, with informational strategies -- the so-called toolkit of policymaking 
+-- to try to avoid some of the worst impacts. 
+ 
+ And I don’t want to lose sight of the other reasons for building 
+decarbonization.  The Senator, earlier, mentioned air pollution.  I don’t know 
+if we’ve talked about environmental justice communities yet or not.  Full 
+disclosure, the Rutgers Center for Green Building -- probably 50 percent of 
+our work is on indoor air quality.  And we will benefit health by having 
+cleaner buildings.   
+ 
+I mean, there’s also, I guess, another answer to this, that the 
+esteemed Ralph Izzo was providing, which is, what’s the grid supply side that 
+you leave of this look like -- right? -- and, sort of, the investments in the grid.  
+ 
+And I guess, finally, I would be remiss, as an urban planning 
+professor, if I didn’t mention that land use strategies belong in this mix, and 
+certainly could be a part of the New Jersey Building Decarbonization 
+Institute, right?  So if we really, kind of, focus on creating, sort of, sustainable 
+walking communities -- that so-called 15-minute community -- this will be 
+amenable not only to some of these district energy solutions -- either new or 
+retrofit -- but also to vehicle miles traveled being reduced.  And so, I think 
+ 
+ 
+ 
+39 
+that if we really also give it our all in land use planning, then perhaps we can 
+get to where we need to be.  There’s a lot of work to be done. 
+ 
+SENATOR SMITH:  So you really -- you hit a button on that 
+one. 
+ 
+What land-use policies are necessary, or do you believe would be 
+helpful, toward solving some of these global climate change issues? 
+ 
+DR. SENICK:  Well, the one in particular that I was reminded 
+of by the Senator to mention, is really community design that supports and 
+encourages the creation and retrofitting of these, sort of, tighter end 
+neighborhoods and communities -- that compact, mixed-use community, 
+right?   
+ 
+SENATOR SMITH:  So you’re talking about higher density. 
+ 
+DR. SENICK:   Higher density, with 15-minute neighborhoods, 
+right?  You know, so where--  Yes, higher density so that community scale, 
+energy infrastructure makes sense, and so that people do not need to drive as 
+much.  My colleague, Jon Carnegie, from the Voorhees Transportation 
+Center, is really interested in this topic and also willing to testify at any time.  
+He was sharing with me a lot of studies that show what’s happened in the 
+increasing switch to electric vehicles is that vehicle miles traveled have not 
+gone down, right?   It’s just, sort of, in some ways, mode--  Well, it’s not 
+mode-switching.  We’re switching the technology, where what we really need 
+to do is to diminish the amount of vehicle miles traveled.   
+ 
+And it seems to me that a silver lining, if one could even say that, 
+of this pandemic is that more people have learned to work from home. I do 
+realize many people are going back to the office, but to a certain extent, some 
+people will stay at home more often.  We may not need the same number of 
+ 
+ 
+ 
+40 
+commercial office buildings.  In my dream scenario, besides learning to 
+manage them better for partial load conditions -- which is a real challenge, 
+especially if there are not enough zones in the building.  So like, maybe all of 
+Bloustein is up and running at low occupancy; but if we really learn to do 
+with fewer commercial office buildings, we could upcycle them, perhaps, to 
+affordable housing.  
+ 
+SENATOR SMITH:  Thank you for those comments. 
+ 
+Any other questions from Senators? (no response) 
+ 
+Okay, thank you very much.  
+ 
+DR. SENICK:   Thank you. 
+ 
+SENATOR SMITH:  It was very helpful. 
+ 
+So we have New Jersey Resources and South Jersey Industries, 
+who have agreed to split their time. 
+ 
+Are you here?  Come on up.  
+ 
+So we’re going to have a panel; let’s do a panel.  Then you’re 
+going to have to arm wrestle who’s going to go first.  
+R O B E R T   P O H L M A N:  Chairman Smith, Committee members, it’s 
+good to see you.  Thanks for having us today. 
+ 
+My name is Robert Pohlman, Vice President of Corporate 
+Strategy, Communications, Government Relations, and Policy at New Jersey 
+Resources, the parent company of New Jersey Natural Gas. 
+ 
+On behalf of New Jersey Natural Gas, thank you for the 
+opportunity to provide comments today.   
+ 
+And first, I’d like to say that NJR strongly supports the State’s 
+climate emissions reduction goals.  Our company is committed to playing a 
+ 
+ 
+ 
+41 
+leading role in our State’s clean energy journey and has proven this through 
+real actions through the years.  
+ 
+We’ve invested significantly in our system.  It’s now 99 percent 
+plastic or protected steel, zero cast iron.  This focus on sustainability has led 
+to a reduction of operational emissions by over 50 percent since 2006, and 
+we are targeting net-zero operational New Jersey emissions by 2050.  
+ 
+Since 2010, our clean energy infrastructure group has invested 
+over $1 billion in New Jersey solar, becoming the largest commercial owner-
+investor in the state.   
+ 
+We lead with action and continue to do so as New Jersey drives 
+towards its 2050 clean energy goals.  However, affordability, reliability, and 
+redundancy for all New Jersey’s residents need to remain top priorities for 
+this transition.  
+ 
+This Committee meeting and dialogue come at a beneficial time, 
+given that the three-year anniversary of the Energy Master Plan is upon us.  
+Technological advances happen quickly, and decarbonization strategies at the 
+Federal and international level now recognize that low-carbon gaseous fuels, 
+paired with existing infrastructure, will play an important role as we drive 
+towards 2050 emission reduction goals. Momentum is building behind 
+technologies like hydrogen and RNG in a way that no one could have 
+imagined at the time the EMP was constructed. 
+ 
+A path exists for New Jersey to reach its climate goals more 
+quickly, more reliably, and more affordably by leveraging our already-built, 
+highly reliable underground infrastructure to deliver increasing percentages 
+of low- and zero-carbon gaseous fuels, paired with energy efficiency.  
+ 
+ 
+ 
+42 
+ 
+Some important points to keep in mind.  New Jersey has more 
+than 35,000 miles of existing infrastructure; $17 billion of ratepayer 
+investment has gone into this high-quality existing infrastructure to build and 
+maintain. 
+ 
+More than 75 percent of the state’s residents depend on this 
+infrastructure for home heating.  This deep reliance can be leveraged as an 
+early enabler to decarbonization, delivering an increase in percentages of low- 
+and zero-carbon fuels with little disruption to customers.  
+ 
+SENATOR SMITH:  Let me interrupt, if I might, because you 
+stimulated the question.  
+ 
+What do you see as the role of hydrogen in your company’s 
+future?  
+ 
+MR. POHLMAN:  So we see hydrogen--  Right now, the 
+technology and the recognition by the DOE right now -- we see hydrogen as 
+an early enabler to decarbonization; it’s been recognized internationally as 
+such.  We’ve gone out and we’ve built what is now the first green hydrogen 
+blending project on the East Coast.  There are more coming right now. 
+ 
+SENATOR SMITH:  Here in Jersey? 
+ 
+MR. POHLMAN:  Yes, sir; here in Jersey. 
+ 
+SENATOR SMITH:  So send us an invite.  We’d like to see it. 
+ 
+MR. POHLMAN:  We look forward to having you out. 
+ 
+SENATOR SMITH:  All right.  And how do you--  The hydrogen 
+facility, or the role of hydrogen with natural gas -- how do you see that 
+reducing the emissions?  What specifically are you going to do with the 
+hydrogen?  How does it play out?  
+ 
+ 
+ 
+43 
+ 
+MR. POHLMAN:  Sure.  So, right now, we are using renewable 
+energy to electrolyze.  We have a 170 KW electrolyzer being served by 
+renewable electricity.  We are creating a 100 percent green hydrogen blend 
+system, systematically blending that into our system to serve customers.   
+ 
+SENATOR SMITH:  So can that be done without the gas itself 
+becoming more “explosive”? 
+ 
+MR. POHLMAN:  Yes.  The explosive characteristics of 
+hydrogen -- this gets very technical-- 
+ 
+SENATOR SMITH:  Right. 
+ 
+ 
+MR. POHLMAN:  --but it’s a lighter molecule.  So it actually 
+disperses and raises into the atmosphere more quickly than natural gas. 
+ 
+  Right now our project is a -- it’s a very small project.  We’re 
+blending less than a percent based on our total infrastructure.  But it was an 
+important first step to get comfortable with the technology and to get 
+policymakers and ourselves comfortable.  And we saw ourselves in a unique 
+position to be an early actor.  That high-quality infrastructure that I spoke 
+about earlier -- plastic-protected steel -- works well with these low-carb and 
+gaseous fuels.  We took a look at that, and we saw the state’s renewable 
+targets.  We see hydrogen as a real complement to the state’s renewable target 
+of 7.5 gigawatts of offshore wind, 16 gigawatts, or 13 gigawatts by 2035, of 
+solar.  There are going to be intermittent resources there.  Green hydrogen 
+can be leveraged as a long-duration storage mechanism for renewable energy.  
+And we felt, given our strategic location along the coast, in a state with 
+progressive targets, we were in as good a position as any to get out there and 
+learn this project and lead with action. 
+ 
+ 
+ 
+44 
+ 
+SENATOR SMITH:  So as I understand it, you’re saying that 
+when our windmills start generating surplus energy, surplus to what the grid 
+needs at that particular time, you’d have the electricity used for electrolysis 
+of water, generating hydrogen and oxygen; and then you would store the 
+hydrogen but then use it as a complement to the existing natural gas fuel 
+that’s in your lines. 
+ 
+MR. POHLMAN:  We would blend it systematically with 
+existing natural gas.  But we see a future where-- 
+ 
+SENATOR SMITH:  Right. 
+ 
+MR. POHLMAN:  --you blend higher and higher percentages of 
+these low-carbon gaseous fuels, no different than the electric wires are 
+blending-- 
+ 
+SENATOR SMITH:  So the point of this is, you’re becoming a 
+battery.  You’re storing the surplus electricity in the form of hydrogen gas.  
+ 
+MR. POHLMAN:  Yes, and we can do so because our system is 
+an inherent storage mechanism.  We are built for peak demand days, and 
+serve heating load on the very coldest of winter days.  We are an inherent 
+storage mechanism. 
+ 
+SENATOR SMITH:  Good. 
+ 
+All right.  I interrupted you, I apologize. 
+ 
+MR. POHLMAN:  No, that’s okay, that was great, that was great.  
+Thank you. 
+ 
+And I was about to just get up to that part.  We see our 
+infrastructure as a complement to the state’s renewable targets.  
+ 
+ 
+ 
+45 
+ 
+And all of the above approaches and collaboration across 
+industries will enable New Jersey to reach its 2050 decarbonization goals in 
+the most efficient and affordable manner possible.   
+ 
+There’s been a real shift at the international and Federal level.  
+The U.S. Department of Energy, as part of their bipartisan infrastructure 
+plan, directed $9.5 billion to green hydrogen technologies.  That’s more than 
+any other green technology in that plan.  
+ 
+They’ve also announced the Hydrogen Shot initiative.  It’s worth 
+noting that this is the first shot initiative since their SunShot Initiative.  That 
+was their initiative a number of years ago to drive the cost of solar down.  We 
+all know what a success that has been; I believe they hit their goal two years 
+early on that.  So for them to step out and make hydrogen their next shot 
+initiative speaks to the value of these low-carbon gaseous fuels in the existing 
+infrastructure.  
+ 
+The United Kingdom has taken the same approach: their Ten 
+Point Plan to decarbonization.  They list existing infrastructure and hydrogen 
+as central pillars, and blending with the natural gas system as an early enabler 
+to decarbonization.  They have a  similar penetration as New Jersey of 
+reliance on existing infrastructure -- over 83 percent of their residents.  So 
+they see it as immediately touching the energy needs of their customers in an 
+early fashion. 
+ 
+NJNG recognizes the important role our infrastructure will play 
+as we drive towards 2050 goals.  And just as we’ve done in the past, we’ve led 
+with action -- and we’ve already hit on this, Commissioner Smith -- we’ve 
+built the first green hydrogen project on the East Coast, and we’d love to have 
+you out to see it and talk through our strategy.   
+ 
+ 
+ 
+46 
+ 
+SENATOR SMITH:  Yes; where’s it located? 
+ 
+MR. POHLMAN:  It’s in Howell, New Jersey. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+MR. POHLMAN:  So it’s an exciting project and we’d love to 
+have you out there. 
+ 
+New Jersey Natural Gas urges New Jersey policymakers to ensure 
+that all pathways that lead to decarbonization remain open, and that our 
+state’s existing, paid for, and reliable infrastructure will be leveraged as an 
+asset to attain a zero-carbon future in the most affordable way, while leaving 
+none of the state’s residents behind. 
+ 
+Thanks very much for your time.  
+ 
+SENATOR SMITH:  Thank you.  
+ 
+And Team Two. (laughter) 
+R I C H A R D   D e R O S E:  Good morning, Chairman and Senators. 
+ 
+ Rich DeRose, representing SJI, old South Jersey Gas and 
+Elizabethtown Gas. 
+ 
+In the interest of time, I’m going to turn it over immediately to 
+our subject matter experts to discuss green hydrogen and renewable natural 
+gas. 
+ 
+SENATOR SMITH:  Go ahead. 
+D O N N A   S C H E M P P:  Good morning, Chairman Smith and members 
+of the Committee.  
+ 
+My name is Donna Schempp, and I serve as President and Chief 
+Operating Officer of SJI Renewable Energy Ventures, and Senior Vice 
+President of SJI Energy Enterprises Group.  
+ 
+ 
+ 
+47 
+ 
+Thank you for the opportunity to appear before this Committee 
+today to talk about the many exciting investments that SJI is making to 
+advance our clean energy and decarbonization initiatives.  
+ 
+As the leader of SJI’s non-regulated, clean energy-focused 
+business entities, I am fortunate to help drive our organization’s 
+contributions to meeting the long-term environmental goals of our State and 
+nation.  One of the most important ways that SJI is helping to bring about 
+our clean energy future is through investments in, and development of, 
+renewable natural gas projects.  Renewable natural gas, or RNG, is methane 
+that is derived from landfills, sewage treatment plants, and agricultural 
+activities; and is chemically identical to and fully interchangeable with 
+conventional natural gas.  
+ 
+SENATOR SMITH:  So let me, also, interrupt. 
+ 
+The “renewable natural gas” is somewhat controversial.  On the 
+other hand, we did pass legislation two years ago with regard to food waste.  
+And what we basically said was, we want to get food waste out of landfills, 
+even landfills that have gas recovery systems, because no matter how good 
+the operators say they are, they’re leaky, leaky, leaky.  And methane, which 
+is the leaked gas from anaerobic digestion, has 80 times the impact, or 20 
+times -- I forget what the factor is -- of carbon dioxide as a greenhouse gas. 
+ 
+So by renewable natural gas, you’re talking about the products 
+of anaerobic digestion of an organic substance. 
+ 
+MS. SCHEMPP:  Yes. 
+ 
+SENATOR SMITH:  So how are you going to do it?  Are you 
+going to do food waste?  What’s your source of fuel?   
+ 
+ 
+ 
+48 
+ 
+MS. SCHEMPP:  We are currently investing in dairy farms, 
+where we’re solving-- 
+ 
+SENATOR SMITH:  Manure. 
+ 
+MS. SCHEMPP:  --renewable--  Yes, we’re solving for the 
+methane issues on the dairy farm.  We will also be looking at sewage 
+treatment plants and landfills.  We have several shut-in landfill gas and 
+electric projects that we’re looking to convert to RNG. 
+ 
+SENATOR SMITH:  Now, are these already in operation? 
+ 
+MS. SCHEMPP:  They are not. 
+ 
+SENATOR SMITH:  They are not; okay. 
+ 
+MS. SCHEMPP:  We are in the middle of construction. 
+ 
+SENATOR SMITH:  Otherwise, I was going to request a tour; 
+you know that.  (laughter) 
+ 
+MS. SCHEMPP:  I’m happy to give you a tour of the 
+construction that’s happened so far. 
+ 
+SENATOR SMITH:  But there is construction actually? 
+ 
+MS. SCHEMPP:  Not here in New Jersey, but in the Northeast 
+and the Midwest. 
+ 
+SENATOR SMITH:  Okay.  Well, you know-- 
+ 
+MS. SCHEMPP:  I’ll keep it in mind. 
+ 
+SENATOR SMITH:  To be more credible, we’d like to see you 
+doing something in New Jersey. 
+ 
+MS. SCHEMPP:  Yes. 
+ 
+SENATOR SMITH:  The food waste bill says that if you do 52 
+tons of food waste or more a year -- which is restaurants, institutional settings, 
+hospitals, schools, whatever, whatever -- that you have to take it to a--  If 
+ 
+ 
+ 
+49 
+there is a food waste processing center, you have to take it there or you have 
+to get it there as long as it’s within 25 or 35 miles -- I think it’s 35 miles.  So 
+if you want some real credibility, set up a food waste collector-- 
+ 
+MS. SCHEMPP:  Yes. 
+ 
+SENATOR SMITH:  --because when it goes to landfills, it’s not 
+in our best interest, global-climate-change wise. 
+ 
+So you’re thinking in the right direction, but we’d like to see you 
+build something. 
+ 
+MS. SCHEMPP:  And I will talk about that in a minute. 
+ 
+SENATOR SMITH:  Go for it. 
+ 
+MS. SCHEMPP:  Across the country, RNG production, 
+distribution, and consumption is growing every year.  The production of 
+RNG relies on digesters, which extract methane -- a powerful greenhouse gas 
+-- from various waste products, using a proven membrane upgrading process.  
+This methane gas would otherwise escape into the environment and 
+contribute to climate change.   
+ 
+RNG technology repurposes this methane gas for any end use 
+that is typically fueled by traditional natural gas.  For example, RNG can be 
+utilized for electricity generation, building heating and cooling, industrial 
+applications, transportation, and gas appliances such as kitchen stoves and 
+ovens.  
+ 
+Ramping up RNG production and distribution will reduce the 
+need for geologic natural gas, which is important because RNG is far less 
+carbon-intensive than geologic natural gas and can be carbon negative 
+depending on its source.  SJI fully embraces RNG and seeks to displace as 
+much geologic natural gas with RNG as reasonably possible.  
+ 
+ 
+ 
+50 
+ 
+As states across the country continue to set aggressive 
+decarbonization goals and strategies, a growing number of jurisdictions are 
+looking to the natural gas industry for solutions.  In 2019, Oregon enacted 
+sweeping legislation setting RNG goals for the state’s natural gas utilities, 
+thereby charting a course for RNG to become an important part of Oregon’s 
+future energy supply.  And just this year, California became the first state in 
+the nation to adopt a renewable natural gas standard, requiring gas utilities 
+in that state to replace a certain percentage of the traditional natural gas they 
+deliver to their customers each year with renewable natural gas. 
+ 
+SENATOR SMITH:  So you recommend that for New Jersey? 
+ 
+MS. SCHEMPP:  Yes. 
+ 
+SENATOR SMITH:  Okay, and what’s the California standard? 
+ 
+MS. SCHEMPP:  The California standard is the low carbon fuel 
+standard.  And it is looking to decarbonize the transportation sector there.  
+So we are encouraging the bill that is actually before this Committee today 
+in the Senate, Bill S-1366. 
+ 
+SENATOR SMITH:  Somebody make a note; I don’t remember 
+S-1366.  Well, I don’t remember most bills, but-- (laughter)  We definitely 
+want to look at S-1366 and see what that renewable natural gas standard is.   
+ 
+And how about Team Two; would you guys also be supportive of 
+a renewable natural gas standard? 
+ 
+MS. SCHEMPP:  Yes, absolutely. 
+ 
+SENATOR SMITH:  No, no, I know you are, but-- (laughter) 
+ 
+MS. SCHEMPP:  I’m sorry. 
+ 
+SENATOR SMITH:  New Jersey Resources?   
+ 
+ 
+ 
+51 
+ 
+MR. POHLMAN:  Having the ability to blend renewable natural 
+gas is part of our strategy as well. 
+ 
+SENATOR SMITH:  Okay, good. 
+ 
+MR. DeROSE:  And-- 
+ 
+SENATOR SMITH:  Yes, sir. 
+ 
+MR. DeROSE:  Chairman, that Bill is Senate President Scutari’s 
+and Minority Leader Oroho’s Bill. 
+ 
+SENATOR SMITH:  So why haven’t we put the Bill up?  We 
+have to get that one going. 
+` 
+All right, thank you very much. 
+ 
+The Senate President has not asked me to post it, but we’re going 
+to -- we’ll tap on his shoes and see where he stands on that. 
+ 
+MS. SCHEMPP:  Thank you, we’d appreciate that. 
+ 
+SENATOR SMITH:  But getting part-- You have two things 
+going on here.  Hopefully, you’re reducing the impact of natural gas on global 
+climate change, but the food waste thing is just horrible in this world.  We’re 
+wasting 50 percent of our food.  It would be great to see that taken out of the 
+methane production stream that goes into the atmosphere, as opposed to 
+actually using it for fuel and not letting it get in the atmosphere. 
+ 
+So that’s terrific; it’s very progressive. 
+ 
+MS. SCHEMPP:  We would love to use our expertise that we’re 
+learning on the dairy projects to bring that here to New Jersey.  
+Unfortunately, we don’t have dairy farms that are large enough.  And so we 
+would be looking at landfill waste and sewage treatment plants, food waste; 
+and would be happy to invest in that if the legislation would support it. 
+ 
+ 
+ 
+52 
+ 
+SENATOR SMITH:  Yes.  And listen, if you are taking sewage 
+sludge and converting to methane -- God bless you there, too.   But we have 
+a disposal problem with that as well. 
+ 
+MS. SCHEMPP:  Yes. 
+ 
+SENATOR SMITH:  So anyway, any questions from Senators 
+for our representatives of the gas industry in New Jersey? 
+ 
+SENATOR GREENSTEIN:  Well, I guess-- 
+ 
+SENATOR SMITH:  Yes, Senator Greenstein. 
+ 
+SENATOR GREENSTEIN:  I want to just follow up -- although 
+we’ve somewhat talked about this -- just really one question. 
+ 
+Do you have any concerns that, as we’re expanding this 
+renewable natural gas infrastructure, that it will also expand the other type, 
+the not-as-good type -- in other words, the fossil fuel type -- and will help sort 
+of keep us relying on fossil fuels?  Is there that hidden aspect to it as we look 
+at renewable natural gas? 
+K Y L E   N O L A N:  I can take that. 
+ 
+And good morning.  I’m Kyle Nolan, Vice President of Strategy 
+at SJI. 
+ 
+Truly the RNG, and also the green hydrogen, is really meant to 
+start mitigating our reliance on conventional natural gas.  As my colleague 
+shared, leveraging the infrastructure -- that exists.  This isn’t about building 
+more infrastructure or larger infrastructure.  It’s truly looking at the fuel 
+source that flows throughout it.  So the RNG build-out and green hydrogen 
+complementing the renewables actually just lets us leverage that in a different 
+way, and start to mitigate our reliance on conventionally fracked natural gas.  
+ 
+ 
+ 
+53 
+ 
+SENATOR GREENSTEIN:  Well, I realize the intention is to get 
+rid of that reliance.  I just wondered if there was something in the process of 
+expanding the renewable natural gas that would somehow enable the other 
+type.  But obviously, is something built in to make sure that doesn’t happen? 
+ 
+MS. SCHEMPP:  Well, I would say that, right now, we’re using 
+natural gas boiler fuel to heat up the digester.  But in the future, as these new 
+renewable technologies come into play, then we would naturally switch over.  
+ 
+So as Kyle said, we would actually be displacing natural gas, fossil 
+fuel.  
+ 
+SENATOR GREENSTEIN:  Okay, thank you.  
+ 
+SENATOR SMITH:  Thank you for your contributions today. 
+We appreciate it.  
+ 
+Our last group, with a very important point of view, Empower 
+New Jersey.  We have Ken Dolsky, Co-Founder of Don’t Gas the 
+Meadowlands Coalition; and Anjuli Ramos -- who I’m sure she’s tired of 
+hearing it -- is the new Jeff Tittel.  (laughter) 
+ 
+And let me point out, too, that we’re running a little late, but it’s 
+okay.  You have your half-hour; we’ll stay, all right?   
+ 
+So Ken, Anjuli -- arm wrestle who’s going first. 
+K E N   D O L S K Y:  Yes, I will start off. 
+ 
+SENATOR SMITH: Yes, sir. 
+ 
+MR. DOLSKY:  So first of all, Senator Smith, members of the 
+Environment and Energy Committee, Empower New Jersey thanks you very 
+much for the opportunity to testify today.  We very much appreciate this 
+Committee, especially the Chair’s focus on tackling the existential threat of 
+ 
+ 
+ 
+54 
+climate change.  And we were very heartened by the words that you used 
+when you opened this session.  
+ 
+My name is Ken Dolsky; I’m a member of the Empower New 
+Jersey Steering Committee, and also the Co-Leader of the Don’t Gas the 
+Meadowlands Coalition.   
+ 
+I’ll be joined today by Anjuli Ramos-Busot, Director of the New 
+Jersey Chapter of the Sierra Club. 
+ 
+Empower New Jersey is a coalition of more than 135 
+environmental, civic, faith, and progressive organizations committed to, one, 
+the overwhelming scientific evidence that we must reduce global greenhouse 
+gas emissions by at least 50 percent, from 2010 levels, by 2030 to avoid 
+climate catastrophe that’s called for by the IPCC.  And second, prohibiting 
+major new fossil fuel expansion projects that are inconsistent with that goal, 
+particularly environmental justice communities.  
+ 
+The 
+overwhelming 
+scientific 
+consensus, 
+most 
+recently 
+documented by IPCC reports, stresses the fact that the window to limit 
+warming to 1.5 degrees is rapidly closing; and that overshooting 1.5 degrees 
+Centigrade and planning to reduce warming later in the century is not an 
+option because certain harms, such as positive feedback loops, could not be 
+undone.  And even just what we have today in the atmosphere is continuing 
+to warm our planet.  
+ 
+ Therefore, reducing greenhouse gases in the limited time we 
+have left is the issue; it is the only issue  Our message today is that New Jersey 
+is going, unfortunately, full speed in the opposite direction.  Despite all the 
+benefits and positive actions that have been taken, we are increasing 
+greenhouse gas emissions.  And neither the Legislature nor the 
+ 
+ 
+ 
+55 
+Administration has had the political will or used the tools available to them 
+to change this.  
+ 
+The EMP and GWRA have specific, although insufficient, goals.  
+But when you read them, they’re really just lists of suggestions and potential 
+actions -- they are not implementable plans -- that require strong rules and 
+regulations to back them up, as well as human and financial resources, and 
+milestone objectives.  
+ 
+The NJ PACT process is far too slow.  It is not meeting its own 
+timelines, and has yet to have any impact on greenhouse gas emissions.  We 
+have a State policy to cut greenhouse gases by 50 percent by 2030, but 
+nothing in the way of even a DEP, DOT, DCA, or BPU recommendation as 
+to how we will do this, let alone a real plan.  Not only have we not made any 
+significant reductions in greenhouse gases, but we are increasing emissions at 
+an accelerating pace.  Our 2019 report predicted a 30 percent increase in 
+greenhouse gases based on 13 new fossil fuel projects at that time.  Our report 
+-- which we just published in early April, that we are distributing here today 
+-- shows that 6 of those 13 projects completed under this Administration have 
+potentially already increased greenhouse gases by 19 percent, and the DEP 
+had concurred in the methodology that we had used at the time to compute 
+that. 
+ 
+And now there are seven more projects in various stages of 
+development that could increase greenhouse gases by another 38 percent, 
+mostly in the next few years, for a total increase of about 57 percent.  Putting 
+that in terms of volume, the State’s policy to reduce greenhouse gases 50 
+percent by 2030 requires a cut of 60 million metric tons.  Yet, we are on track 
+to add 57 million metric tons to our total, which would therefore require a 
+ 
+ 
+ 
+56 
+total reduction in annual greenhouse gases of the 57 that we add, plus the 
+original 60 million, for a total of 117 million metric tons, in order to make 
+the 2030 target.  That’s more than our total greenhouse gas emissions in 
+2019.  The incongruity of the State’s actions versus its policies demands 
+immediate corrective action.   
+ 
+Now, some of you may be scratching your heads and asking how 
+13 projects can increase total State greenhouse gas emissions by over 50 
+percent.  And frankly, so are we.  We are confident in our estimating process, 
+leaving the only remaining explanation to be significant undercounting from 
+the DEP’s estimating process when they do their greenhouse gas inventory -- 
+something that we intend to investigate. 
+ 
+SENATOR SMITH:  Ken, something that would be helpful -- 
+because I’m also interested in whose numbers are correct -- if you could do, 
+after the Committee, send us exactly how the calculations were performed, 
+all right?  And then we could have our staff take a look at it and try to do 
+some comparisons and see where the rubber meets the road. 
+ 
+MR. DOLSKY:  We’d be delighted to do that.  We would love 
+to have a meeting with whoever and we can walk through it.  There are a lot 
+of different methods, depending upon the type of information. 
+ 
+SENATOR SMITH:  Joey and Matt do all the hard work.  So 
+those are the guys you want to meet with. 
+ 
+MR. DOLSKY:  Okay, we’d be happy to do that.  
+ 
+Do you have any improvements for us, or suggestions -- that’s 
+great.  
+ 
+However, the situation with pending new projects is not 
+hopeless.  Five of these projects are unnecessary and would provide no benefit 
+ 
+ 
+ 
+57 
+to New Jersey residents.  And their rejection will not add to residents’ costs 
+or reduce energy availability.  The other two, the New Jersey Transit project 
+and the PVSC power plant, can accomplish their goals with very high 
+percentages of clean energy.  However, that requires action on the part of the 
+Administration to force those entities to make this happen.  
+ 
+So the good news is that we can largely avert this disaster if we 
+have the political will to do so.  And it will not harm anybody in New Jersey 
+by doing it.  The largest of these projects is the Williams Regional Energy 
+Access Expansion, which is meant to replace the unnecessary and recently 
+defeated PennEast project.  The REAE project will have 75 percent of the 
+capacity of PennEast, and alone will generate between 16.8 million and 18 
+million tons of greenhouse gases from gas combustion.  Williams is looking 
+to start construction in the third quarter of this year.  We need to act now. 
+ 
+ Another project worth mentioning -- because the Governor has 
+total control over it -- is the New Jersey Transit power plant.  Transit has 
+published a Request for Proposal, which claims to be unbiased regarding 
+energy technology, but it’s clearly favoring a gas plant.  The RFP does not 
+even ask for bids based on renewable energy.  It only asks for a transition 
+plan to get to carbon neutrality by 2050, not tomorrow.  There seems to be 
+no sense of urgency on their part. 
+ 
+ At a recent Transit board meeting, several members publicly 
+demonstrated their bias by declaring that renewable energy was not available 
+or up to the task, yet failed to provide any details to support their claims.  
+Our Coalition, having worked with a well-known expert on solar, has said 
+otherwise.  Unless the Governor steps in and forces Transit to rewrite the 
+RFP to remove the bias, they’re going to have a new 140 megawatt fracked 
+ 
+ 
+ 
+58 
+gas power plant in the Meadowlands in 2028, two years before our 2030 
+deadline. 
+ 
+Another project of no value to the residents of New Jersey is the 
+proposed Gibbstown LNG liquid natural gas export terminal on the 
+Delaware.  Its transportation infrastructure delivers nothing but peril for 
+those who live along the LNG trail and truck routes, or within the impact 
+zone at the terminal and its ships.  The risk of catastrophe, should there be a 
+release of the highly flammable LNG, would be borne by New Jersey and 
+Pennsylvania communities, and the environment.  And what do we get along 
+with all those risks?  A potential project capable of potentially emitting 12 
+million metric tons of greenhouse gas.   
+ 
+We also have to make it clear that five of these polluting projects 
+will be sited in or near low-income and/or communities of color.  The 
+Gibbstown project, New Jersey Turnpike Authority highway expansion -- 
+which I’ll talk about in more detail later -- the Keasby gas plant, and the New 
+Jersey Transit gas plant, and the Passaic Valley Sewerage Commission gas 
+plant -- so these are all violating at least the spirit of the new EJ law.  We 
+should use that law to stop these projects or force them to use truly clean 
+energy.  
+ 
+And also, when I sum up, I’m going to say we really need to focus 
+at least on the EJ communities and focus very heavily on what they are going 
+to have to endure if these projects go through.  
+ 
+And speaking of clean energy, we also call on you to not allow 
+the use of so-called renewable natural gas solutions to the greenhouse gas 
+problem, as some recent bills have proposed.  At least two of these new 
+projects are planning to start with natural gas and migrate, by 2050, to RNG, 
+ 
+ 
+ 
+59 
+or hydrogen, or other fuels.  This will allow them to claim reduced greenhouse 
+gas emissions through an accounting gimmick, while still emitting the same 
+volume of greenhouse gases and possibly even more toxic pollutants in the EJ 
+communities.  RNG does not reduce greenhouse levels in the atmosphere.  
+New sources of methane will only increase the possibility of leakage, and 
+locks in for gas and makes it harder to transition to renewables.  How are we 
+going to transition all those buildings off of gas?  They’re now being told, 
+“No, use RNG and stick with gas.” 
+ 
+A recent report prepared for the BPU shows that reducing energy 
+demand and improving energy efficiency are far more effective than 
+increasing the supply of gas, such as RNG, LNG, and hydrogen.  The 
+Legislature must reject the proposal to subsidize these false solutions.  
+ 
+So I’ve spent some time discussing the energy production sector.  
+I also want to talk briefly about the transportation and building sectors.  
+ 
+We can spend the entire hearing talking about reducing 
+greenhouse gas emissions from the transportation sector -- by far the largest 
+source of greenhouse gases in the state.  The DOT and Turnpike Authority 
+are doing little or nothing to address this issue, despite being required to do 
+so by Executive Order 274.  We will shortly provide this Committee with 
+proposals, supported by a PTL fact sheet, on how to turn this situation 
+around and make some other needed reforms in the transportation sector. 
+ 
+ But let me highlight one of our proposals.  A new buzzword in 
+Trenton -- and we heard it today -- is affordability.  The Senate and this 
+Committee can immediately make substantial progress in addressing all of 
+these issues, including affordability, with one simple action: stop spending 
+billions of dollars -- and that’s billions, with a b -- on unneeded highway 
+ 
+ 
+ 
+60 
+expansion projects.  For example, the Turnpike expansion project of Exits 14 
+to 14a.  The expansion will tear through the heart of Jersey City, over the 
+opposition of the Mayor and the people of Jersey City.  This project makes 
+no sense under any metric, starting with its cost.  When first proposed in 
+2020, the cost was $4.3 billion.  It has now ballooned to $4.7 billion, and 
+only preliminary design work has started.  The project would be an 
+environmental disaster.  You’ll see more greenhouse gases and more 
+pollution.  Our report conservatively estimates that the current plan to widen 
+124 miles of Turnpike and Parkway will increase greenhouse gases by 1.5 
+million metric tons annually. 
+ 
+The project will not even accomplish its goal of reducing traffic 
+congestion.  It’s a fundamental rule of highway planning that expanding 
+highways in urban areas results in induced demand, where the highways 
+quickly fill to their increased capacity, leaving traffic congestion the same as 
+it was before.  
+ 
+This is certain to be the case in Jersey City, where there is an 
+immovable bottleneck at the end of the Turnpike, known as the Holland 
+Tunnel.  This project, and the others like it, are lose-lose-lose propositions for 
+the State.  The DOT Commissioner and the entire insular Turnpike 
+Authority Board operate without oversight as if we are still in the 1950s, 
+when the climate crisis did not exist, and before we learned, through one 
+example after another, that highway expansions are enormously costly to 
+build and counterproductive.  
+ 
+The Senate and this Committee should stop these projects and 
+use their oversight powers to have the DOT Commissioner testify about not 
+only the highway projects but, more generally, what DOT and the Turnpike 
+ 
+ 
+ 
+61 
+Authority are doing or, more accurately, are not doing to reduce greenhouse 
+gases.  
+ 
+Let me wrap up with a few words about the building sector.  
+ 
+We are working with the building electrification team that I liaise 
+with from Empower New Jersey.  And we’re very consistent, of course, with 
+the words that you heard from Jen earlier, from Rutgers. 
+ 
+ The building sector’s greenhouse gas emissions -- about 26, 27 
+percent of total New Jersey emissions -- are the second-largest segment in the 
+state; and reducing them is of critical importance to achieving the 50 by 30 
+goal.  Given the highly disaggregated nature of this segment -- and the 
+numbers that we have are 3.5 million distinct housing units, 800,000 
+separately owned businesses; and the significant capital cost of replacing 
+existing fossil fuel appliances -- it will be one of the most difficult to address.  
+Therefore, time is of the essence.  The efforts to reduce greenhouse gas in this 
+segment must be put in place immediately.   
+ 
+Unfortunately, the Global Warming Response Act 2020 plan 
+only calls for a building electrification roadmap sometime before 2030.  I was 
+very encouraged to hear Dr. Senick say that she is working on that.  We will 
+certainly speak with her. 
+ 
+Unfortunately, unlike the specific goals for EVs, solar storage, 
+offshore wind, and energy efficiency, New Jersey has no specific goals for 
+building electrification.  Instead, we seem to be paralyzed by the 
+disinformation campaign from the gas industry.  This sector can be electrified 
+with residents’ support if we try.   Cold climate heat pumps work, even at 
+minus 15 degrees Fahrenheit.  Electrification has significant long-term 
+financial and health benefits for residents, while creating many good jobs.  
+ 
+ 
+ 
+62 
+New Jersey needs to set specific building electrification goals and provide the 
+support needed to achieve them, including appropriate incentives to purchase 
+electric appliances.  Remove, in fact, what exists today as substantial 
+incentives to buy gas appliances, like furnaces, and change the building codes 
+for new developments, and provide effective and highly visible consumer 
+support programs.  
+ 
+So I will sum up.  If nothing else--  Let me just sum up this way. 
+ 
+Time is of the essence and, unfortunately, in some ways, we seem 
+to be wasting it.  Because we are allowing all these new projects to overwhelm 
+all the good work that you’ve already talked about.  We have to stop these 
+projects, and we have to move forward.  
+ 
+And with that, I’ll turn it over to Anguli.  
+A N J U L I   R A M O S   B U S O T:  Thank you, Ken. 
+ 
+Chairman, Senator Smith, and members of the Senate 
+Environment and Energy Committee, thank you for the opportunity to 
+testify today, and for all the work that you do to protect the environment. 
+ 
+ My name is Anjuli Ramos Busot; I’m the new New Jersey State 
+Director for the Sierra Club.  As Senator Smith calls me, the new Jeff Tittel. 
+ 
+And today, I’m speaking on behalf of the Empower coalition, to 
+which I am a member, as well as on behalf of the New Jersey Sierra Club. 
+ 
+ Affordability, as my colleague previously mentioned, is the new 
+buzzword in town, and we understand the reasons why.  We’re going through 
+a period of record inflation.  Our markets have all been impacted, our supply 
+chain is suffering, and the prices for gas at the pump are record high.  Of 
+course, I cannot miss the opportunity to say, record-high prices at the pump, 
+ 
+ 
+ 
+63 
+while oil companies are reporting record-breaking profits by utilizing the 
+Russian invasion of Ukraine as their excuse.  
+ 
+This is all to say, yes, we understand the focus on affordability. 
+We’re all going through it.  I believe we all here agree that the ratepayers 
+should not be impacted by the cost of our inability to be energy independent,  
+and of most importance, should not be impacted by the urgent and necessary 
+energy transition from fossil fuels to renewables.  This is why we need your 
+help.   
+ 
+The longer we allow for the construction of new fossil fuel 
+infrastructure and for the modernization of the existing one, the longer we 
+will be hooked and dependent on a volatile and geopolitical fossil fuels 
+market.   
+ 
+I’m not going to preach to the choir here, because I’m very much 
+aware that you all understand the environmental and health impacts of 
+climate change.  We see it with our own eyes.  However, what I will mention 
+is the economic impact of climate change to our State.  The National Oceanic 
+and Atmospheric Administration, otherwise known as NOAA, recently, 
+released a report on billion-dollar weather and climate disaster events.  Last 
+year, New Jersey was hit by four different billion-dollar weather and climate 
+disaster events, and by a total of 71 severe weather events.  This data 
+indicates that last year, New Jersey’s total cost from these events was $10 
+billion dollars, with more than $5 billion dollars in property damage.  Last 
+year was the most expensive year in terms of weather and climate disasters, 
+after 2012, the year we got hit by Superstorm Sandy. How does this fit under 
+affordability?  
+ 
+ 
+ 
+64 
+ 
+New Jersey is losing a lot of money, and the data shows that the 
+cost of inaction, as you mentioned, Senator, is higher than the cost of actually 
+investing in climate change mitigation, as well as being proactive about it.  
+Thus, when I asked for your help, I specifically asked, for example, to not 
+allow for the usage, let alone the construction, of new infrastructure for the 
+incorrectly marketed renewable natural gas, or RNG,  especially while 
+subsidized by the ratepayer.   
+ 
+My colleague Ken spoke briefly about this.  However, I would 
+like to go into details because the greenwashing of dirty fuels, like RNG, is 
+one of our most significant challenges.  Members of this Committee, as 
+introduced by the Legislature this past session, RNG can be one of any of the 
+following options.   
+ 
+Number one, biogas upgraded to pipeline quality, which is still 
+burning of a fuel made out of carbon, and still contributes to significant 
+leakage of methane to the atmosphere.   
+ 
+Number two, hydrogen gas derived from Class 1 or Class 2  
+renewable energy, which I will further explain why it is not a  good use of our 
+resources. 
+ 
+And number three, methane gas, which, again, is just simply 
+burning carbon.   
+ 
+RNG is highly expensive to make because it depends on the 
+supply of biological sources, one that is limited.  Costs can range from 4 to 
+17 times higher than natural gas.  Investing more money in constructing and 
+prolonging the so-called Transition to Renewables, or low carbon energy, no 
+longer passes as a smart or efficient idea.  It’s a waste of resources that will 
+ 
+ 
+ 
+65 
+lock us into the burning of carbon beyond 2050.  That’s time that we don’t 
+have.  
+ 
+Now, going back to hydrogen.   As a chemist, I can inform you 
+that this type of energy source is a technology that we can truly say, as of 
+today, is not ready to be scaled up in a clean way.   In order for us to be able 
+to use hydrogen produced in a clean way, it needs to be generated in an 
+electrochemical or fuel cell environment, which does not include any form of 
+carbon.  Unfortunately, this technology is not yet scalable to our energy 
+demand levels.  And, as of today, it has a high cost.  If not done this way, 
+hydrogen, otherwise generated with the usage of biogas, ends up producing 
+carbon monoxide and carbon dioxide.  
+ 
+Additionally, if we combust or mix hydrogen with RNG or 
+natural gas, in order to be able to use our existing pipeline infrastructure and 
+reduce the usage of gas, we end up generating the deadly and potent climate 
+pollutant black carbon, and up to 6 times more emissions of nitrous oxides, 
+or NOx, than if we just simply burn natural gas, or RNG. 
+ 
+It is also worth mentioning that there are numerous studies in 
+scientific literature about the difficulties of controlling NOx emissions from 
+hydrogen combustion in various industrial applications.  Emitting NOx and 
+the creation of ground-level ozone -- which, as many of you know, is 
+considered smog, and you’re very much acquainted with -- we understand the 
+health impacts and the unnecessary toll it takes on public health, especially 
+our communities overburdened with pollution.  However, it is especially 
+important to mention that the entire state of New Jersey -- it's currently under 
+non-attainment by the U.S. EPA for ground-level ozone, an extremely toxic 
+pollutant, which is produced in the atmosphere at ground level by high levels 
+ 
+ 
+ 
+66 
+of NOx; and volatile organic compounds, or VOCs -- yet another co-pollutant 
+of fossil fuel combustion, regardless of the source. 
+ 
+The key takeaway from all of this is that there is no fossil fuel 
+transition solution to reaching renewable energy.  And these “solutions” are 
+costly, a waste of resources, and will continue to harm our health and 
+exacerbate the impacts of climate change.  
+ 
+The solution is to systemically invest in more renewable energy, 
+while incentivizing its incorporation and usage; and protecting the ratepayer 
+from the economic impacts of climate change. 
+ 
+ Members of the Committee, I would like to explain further why 
+we need your help. 
+ 
+As New Jersey DEP Commissioner Shawn LaTourette explained 
+to you when he previously testified to this Committee on the impacts of 
+climate change to New Jersey, time is of the essence and we need to urgently 
+do more.  However, the Administration’s progress on implementing the 
+Governor’s vision has been painfully slow.  To be specific, the revision of the 
+Energy Master Plan took longer than expected, which then resulted in a 
+further delay in rulemaking by the DEP that took the Governor’s entire first 
+term.  All PACT or Protecting Against Climate Threats rulemaking deadlines 
+have been missed, and thus far, only one rule has been adopted.   
+ 
+The goal was to adopt those rules by January 2020, a huge subset 
+of rules under PACT that focus on a resilient environment -- right? Mitigation 
+of climate change and landscapes are still at least months away from being 
+proposed.   
+ 
+Additionally, we have yet to see the establishment of entering 
+benchmarks under the Global Warming Response Act, and the 20-year time 
+ 
+ 
+ 
+67 
+frame for all greenhouse gas computations by the DEP, as enacted into law 
+by the Legislature and Governor Murphy in July 2019, and January 2020. 
+ 
+ The 20-year timeframe is of special importance, because not all 
+greenhouse gases have the same global warming potential as carbon dioxide, 
+as you were mentioning, Senator.  To be specific, those short-lived climate 
+pollutants like methane and black carbon, which are present in the 
+atmosphere for a shorter period of time, have a significantly higher warming 
+potential than carbon dioxide. 
+ 
+All of these delays speak volumes to the fact that the New Jersey 
+DEP is understaffed and underfunded, something that you can all help with 
+during this Budget season.  New Jersey DEP has had flat funding since 2005; 
+not a cut, but also not an increase.  When considering inflation, this results 
+in a 40 percent cut in funds and a 30 percent cut in staff. Personally, prior to 
+me joining the New Jersey Sierra Club, I used to work for the New Jersey 
+DEP; to which I attest to the goodwill and the hard work the staff puts 
+forward in order to protect our environment and public health -- good people 
+trying to accomplish a lot with not a lot of resources. More funding is 
+essential. 
+ 
+In regards to the actual rules that have been proposed and 
+undergone public comment, one of the most important rules which targets 
+the electric generating sector does not truly contribute to significant 
+reductions in greenhouse gas emissions.  It doesn’t even acknowledge, let 
+alone is informed, by the Governor’s Executive Order 274, despite being 
+drafted concurrently.  This proposed rule would only contribute a 4 percent 
+reduction in greenhouse gas emissions, and this is only after full 
+implementation by 2035.   
+ 
+ 
+ 
+68 
+ 
+This is in direct contrast to Governor Murphy’s climate goals and 
+Executive Order 274, which states that, by 2030, we are supposed to achieve 
+a reduction of 50 percent of greenhouse gas emissions.  Yes, the proposed 
+rule only considers the electric generation sector, thus it is not expected for 
+this rule alone to reduce all 50 percent of emissions, or even close to that.  
+However, the most up-to-date data reported by the DEP shows that the 
+electric generation sector is the third-highest contributing sector in the state, 
+and it comprises 20 percent of all greenhouse gas emissions.  What we do 
+expect is that this proposed reduction at least comes close to 20 percent.  
+ 
+The proposed rule is packed with loopholes that bypass many 
+greenhouse gas-emitting electric generating sources.  The most egregious ones 
+are the sources that burn 50 percent or less of fossil fuels and the sources that 
+contribute less than 10 percent of its annual gross electric output to the grid 
+-- like all backup generators or self-powered facilities in the state, as well as 
+co-generation units and incinerators.  All those sources would be exempt. 
+ 
+There is so much more than these proposed rules can cover and 
+enforce.  And a stronger political will from the Murphy Administration, as 
+well as the Legislature, can get this done. 
+ 
+In order to holistically reduce greenhouse gases, there needs to 
+be broad government action.  As previously mentioned by my colleague Ken, 
+we need more concrete action from the BPU, DCA, DOT, EDA, and NJ 
+Transit, and any government agency that may play a role in reducing 
+emissions, developing the market, and creating clean jobs.  We ask ourselves, 
+“Where are the good and efficient climate plans and actions by these 
+agencies?” The BPU currently refuses to include a cost analysis that includes 
+the true social, health, and climate costs of greenhouse gases in their Ratepayer 
+ 
+ 
+ 
+69 
+Impact Study of clean energy policies, presented in the most recent Energy 
+Master Plan; let alone frame the analysis around them. Additionally, the DCA 
+and DOT, for example, have not even developed policies to reduce 
+greenhouse gas emissions from the transportation and building sectors, as 
+explained by my colleague, as required by Executive Orders 28 and 274.  
+ 
+And the Senate hasn’t made things easier with its passage, a few 
+months ago, of a Bill that would undermine DCA’s consideration of 
+electrifying buildings and plays into the extremely misleading campaign of 
+the fuel merchants concerning affordability, mandates, and the climate 
+emergency we face. 
+ 
+Moving forward with this rate of implementation of regulations. 
+and the potential increase in greenhouse gas emissions as described by my 
+colleague, it is impossible to see a clear path to achieve our climate goal of 50 
+percent reduction by 2030.  For these reasons, we call on the Administration 
+and the Legislature, as well as individual legislators, to do everything in your 
+power to, number one, prevent the current seven pending fossil fuel projects 
+from being approved and built.  Number two, to 
+direct all State agencies, especially New Jersey DEP, DCA, BPU, New Jersey 
+Transit, and DOT, to urgently provide written executable roadmaps and rules 
+by the end of 2022, to implement Executive Order 274 and achieve our 
+existential goal of reducing greenhouse gases by 50 percent by 2030.  Number 
+three, to oppose the usage and the creation of new infrastructure for 
+renewable natural gas, or RNG.  Number four, to help with the cost-effective 
+electrification of our buildings.  Number five, to give the DEP the funding to 
+do the job.  And number six, to empower all of the markets, businesses, and 
+individuals through this energy transition. 
+ 
+ 
+ 
+70 
+ 
+We also urge the Legislature to pass budget resolutions that 
+restore the raids of more than $83 million from the New Jersey Clean Energy 
+Fund so we can more fully fund clean energy and energy efficiency programs. 
+ 
+In conclusion, we ask the Legislature to be proactive instead of 
+reactive.  Do not leave New Jersey behind.  Just two weeks ago, New York 
+State adopted a budget that, number one, includes a $4.2 billion 
+environmental bond act to protect against climate change.  And number two, 
+requires all new school bus purchases be zero emissions by 2027, and all 
+school buses on the road be zero emissions by 2035.  And number three, 
+funds electrifying an additional 50,000 homes. 
+ 
+Climate change, regardless of current political and economic 
+situations, is society’s true existential threat.  Action is required now.  At this 
+point, we are and will continue to suffer from the imminent and irreversible 
+impacts of climate change.   
+ 
+There is no more time for planning, we are already so behind. 
+We ask the Legislature to recognize the urgency to mitigate the impacts and 
+protect the public.  So many are already suffering and dying due to 
+overburdening pollution, by floods, drought, fires, tornadoes, and tropical 
+systems.   
+ 
+The list of environmental, health, and economic benefits of fully 
+transitioning into true renewable energy is endless. 
+ 
+Promote 
+climate 
+mitigation and renewable energy bills, and stop those who do not push New 
+Jersey forward. 
+ 
+And we understand how difficult this is going to be for legislators.  
+It is going to require heroic action to stop new fossil fuel projects, shut down 
+existing sources, and develop programs to replace them with renewable energy 
+ 
+ 
+ 
+71 
+ones.  Some of these actions may not be popular in the near term, and 
+residents may not see the benefits until some of you are gone from office.  
+But this is reality. 
+ 
+Factoring all the social costs of carbon, accelerating the transition 
+to clean renewables and not delaying it, not the business-as-usual fossil fuel 
+approach -- that’s how you make New Jersey more affordable. 
+ 
+ Again, thank you for the opportunity to testify. 
+ 
+SENATOR SMITH:  Ms. Ramos, that was very illuminating.   
+And we appreciate everybody’s input today.  A lot of very good ideas were 
+discussed and hopefully will become legislation.  
+ 
+ So thank you so much for your contribution, and that concludes 
+our agenda for today. 
+ 
+Senator.  
+ 
+SENATOR DURR:  I actually just have a statement, not a 
+question. 
+ 
+And I don’t want you to take this the wrong way.  I’m kind of an 
+older guy; I don’t know if you’re familiar with the gentleman named Ed 
+Begley, Jr.  He’s an actor and he’s a real environmentalist-type.  
+ 
+But he not only talks the talk, he walks the walk.  He bike pedals 
+everywhere.   
+ 
+Do you drive a car?  
+ 
+MS. RAMOS BUTOS:  I do drive a car, sir. 
+ 
+SENATOR DURR:  Is it an electric car?  
+ 
+MS. RAMOS BUTOS:  Not yet. 
+ 
+SENATOR DURR:  Okay.  Is your home electric heat? 
+ 
+ 
+ 
+72 
+ 
+MS. RAMOS BUTOS:  Just bought a home for the first time this 
+last summer, so we’ll get there.   
+ 
+SENATOR DURR:  So I just feel that -- there’s an old statement 
+that says lead by example, all right? 
+ 
+MS. RAMOS BUTOS:  Okay. 
+ 
+SENATOR DURR:  Thank you. 
+ 
+SENATOR SMITH:  Well, I--  You know, we would not want to 
+get into it too much.  But the moral of the story, all of us are working hard 
+to have more environmentally sustainable lives.  And it’s not easy, and you 
+work your way toward it.  So please don’t feel personally-- 
+ 
+MS. RAMOS BUTOS:  Oh, no, that’s--  I mean, it’s a fair point, 
+absolutely. 
+ 
+SENATOR DURR:  No, I’m not trying to personally attack you.  
+But, you know-- 
+ 
+MS. RAMOS BUTOS:  No, I know. 
+ 
+SENATOR DURR:  --don’t tell me what I need to do if you’re 
+not going to do it yourself.   
+ 
+SENATOR SMITH:  Which is why we have a bill to have our 
+State capitol and our State buildings -- to walk the walk as well.  Because, 
+quite frankly, if you look at our State facilities, we’re telling everybody to do 
+all the right things and we’re not showing it by example.  So that’s a shame 
+on us. 
+ 
+But I think all of us are trying our best to make those changes in 
+our lives.   
+ 
+When does the bag ban start? 
+ 
+UNIDENTIFIED MEMBER OF COMMITTEE:  May 4. 
+ 
+ 
+ 
+73 
+ 
+SENATOR SMITH:  May 4.  So in a week and a week, we’re 
+going to see the impact of changing culture and how hard it is.  I mean, I 
+expect every one of us to get calls.  And, right now, if you wanted to go out 
+and buy an electric vehicle-- 
+ 
+SENATOR DURR:  I’m already getting those calls about the 
+bags. 
+ 
+SENATOR SMITH:  Yes. 
+ 
+SENATOR DURR:  That aren’t single-use bags. 
+ 
+SENATOR SMITH:  Yes. 
+ 
+SENATOR DURR:  So I kind of am against that. 
+ 
+SENATOR SMITH:  And if you wanted to buy an electric 
+vehicle, our subsidies for this year are already wiped out.  When we talk about 
+putting more money into the program, the comment from the auto industry 
+is, “We can’t supply EVs to New Jersey as quickly as you might want.” 
+ 
+  So it’s--   And that’s actually a huge part of this debate.  Is this 
+going to be evolutionary or revolutionary?  Do you say to citizens, “All right, 
+turn out the light switch” or “Don’t heat your homes with natural gas”  I 
+think the number was 1.6 million; I forget who -- the gas company reps, who 
+were talking about how many homes are heated by natural gas.  What if we 
+said, “Tomorrow, no more natural gas.  What are you going to do?”  Where, 
+likewise, “We’re not going to allow the sale of gasoline.”  I mean, they all 
+sound very extreme.  But it’s the point of view, or the position--  You need 
+an evolutionary approach that gets us the fastest way we can get to where 
+we’re not going to be a ball of fire.  And unfortunately, the ball of fire is 
+looking more and more probable, because we’re not getting there fast enough.  
+ 
+ 
+ 
+74 
+ 
+So on that happy note, thank you very much for coming today, 
+and the meeting is adjourned.  
+ 
+Thank you.  
+(MEETING CONCLUDED) 
+ 

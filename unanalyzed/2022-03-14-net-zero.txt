@@ -1,0 +1,714 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+"The Committee will meet to hear testimony from invited guests on what actions the State 
+should take to achieve net-zero greenhouse gas emissions by 2050, 
+ and the cost of those actions to ratepayers" 
+ 
+LOCATION: 
+Committee Room 10 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+March 14, 2022 
+10:00 a.m. 
+ 
+ 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice-Chair 
+Governor Richard J. Codey 
+Senator Edward R. Durr, Jr. 
+Senator Jean Stanfield 
+ 
+ 
+ 
+ 
+ 
+ALSO PRESENT: 
+ 
+Christina Denney 
+ 
+ 
+Joseph Gurrentz 
+Eric Hansen 
+ 
+ 
+ 
+Matthew H. Peterson  
+ 
+Rebecca Panitch 
+Office of Legislative Services 
+ 
+Senate Majority  
+ 
+ 
+Senate Republican 
+Committee Aides 
+ 
+ 
+Committee Aides 
+ 
+ 
+Committee Aide 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+Jesse D. Jenkins, Ph.D. 
+Assistant Professor 
+Department of Mechanical and Aerospace Engineering 
+Andlinger Center for Energy and the Environment, and 
+Lead 
+ZERO Carbon Energy Systems Research and Optimization Laboratory 
+Princeton University 
+2 
+ 
+APPENDIX: 
+ 
+New Jersey’s Pathway to a 100% Carbon-Free Electricity Supply:  Policy and Technology 
+Choices Through 2050:  Summary for Decision Makers 
+submitted by 
+Jesse Jenkins 
+1x 
+ 
+mej: 1-16 
+ 
+ 
+ 
+ 
+1 
+(This is an excerpt from the Senate Environment and Energy Committee 
+meeting of March 14, 2022.) 
+ 
+ 
+ 
+SENATOR BOB SMITH (Chair):  So the order of the next item 
+of business--  And I mention it only because Senator Lesniak is here, and I 
+know he’s here for some of the animal bills. 
+ 
+ 
+We do have a promise, however, to a Princeton -- a very fine 
+Princeton professor.  Every one of our committee meetings starts with a 
+discussion of global climate change and what are the solutions.  And, because 
+I didn’t have my trusty notes immediately available, I forgot.  So let me ask 
+Jesse Jenkins to come forward, and let me tell you a little bit about him, and 
+right after that, we’ll get into it. 
+ 
+ 
+Jesse Jenkins is an Assistant Professor at Princeton University in 
+the Department of Mechanical and Aerospace Engineering, and the 
+Andlinger Center for Energy and the Environment.  He is a macro-scale 
+energy systems engineer, with a focus on a rapidly changing electricity sector, 
+including the transition to Zero-Carbon resources, the proliferation of 
+distributed energy resources, and the role of electricity in economy-wide 
+decarbonization. 
+ 
+ 
+Professor Jenkins leads the Princeton ZERO -- Z-E-R-O, capital 
+letters -- Lab, the Zero-Carbon Energy Systems Research and Optimization 
+Laboratory, which conducts research to improve decision making to 
+accelerate rapid, affordable, and effective transitions to net-zero carbon 
+energy systems. 
+ 
+ 
+Professor Jenkins also served as Co-Principal Investigator of the 
+Princeton Net-Zero America study, which offers guidance on how to build a 
+ 
+ 
+ 
+2 
+net-zero greenhouse gas emission economy in the United States.  Professor 
+Jenkins has been published in peer-review journals and advised Federal and 
+state regulators on energy policy. 
+ 
+ 
+I think you’ll find Professor Jenkins’ input today to be really 
+fascinating and maybe a totally different approach to global climate change. 
+ 
+ 
+So, Professor, take it away. 
+J E S S E   D.   J E N K I N S, Ph.D.:  All right, thank you, Chairman Smith, 
+and honorable members of the Committee. 
+ 
+ 
+I appreciate the opportunity to testify today and to share the 
+findings of a new study that was published today from my Princeton ZERO 
+Lab on pathways for New Jersey to reach 100 percent carbon-free electricity 
+supply. 
+ 
+ 
+As the Chairman mentioned, my name is Jesse Jenkins; I’m an 
+Energy Systems Engineering Professor at Princeton University, but I must 
+note that my views expressed today are my own and do not represent the 
+views of the University. 
+ 
+ 
+So as you know, New Jersey is among a vanguard of states that 
+is pursuing a pathway to a 100 percent carbon-free electricity system.  In 
+2018, Governor Phil Murphy’s Executive Order 28 set the goal of 100 
+percent clean energy by 2050, and tasked the State’s Board of Public Utilities, 
+in consultation with other State agencies, to develop the New Jersey Energy 
+Master Plan to provide a comprehensive blueprint for the State’s conversion 
+to a carbon-free electricity supply.  Additionally, the State’s Global Warming 
+Response Act of 2007 directs State agencies to develop plans and policies to 
+reduce emissions of greenhouse gasses across the entire economy by 80 
+percent by 2050. 
+ 
+ 
+ 
+3 
+ 
+ 
+The Energy Master Plan was released in January 2020, which 
+defines the goal of 100 percent clean energy as 100 percent carbon-neutral 
+electricity supply by 2050; as well as maximum electrification of 
+transportation -- electric vehicles; and buildings -- like electric heat pumps for 
+water heating and space heating -- in order to meet or exceed the 
+requirements of the Global Warming Response Act.  The Master Plan 
+includes comprehensive modeling of pathways to transform the State’s 
+energy system, and outlines a set of key strategies to reach New Jersey’s clean 
+energy goals.  The Master Plan rests centrally on electrification of vehicles 
+and buildings, accelerated deployment of renewable and distributed energy 
+sources, retention of our existing nuclear power plants, and improved energy 
+efficiency. 
+ 
+ 
+Well, today, after a two-year effort initiated by Dr. Chuan Zhang 
+and Neha Patankar, and ably completed, under my supervision, by Dr. 
+Qingyu Xu, The Princeton ZERO Lab is releasing a new study entitled New 
+Jersey’s Pathways to a 100% Carbon-Free Electricity Supply.  The goal of this 
+study is to provide an independent, detailed assessment of key policy and 
+technology options and choices, and their implications for New Jersey as we 
+chart the path to 100 percent clean electricity.  In particular, this study 
+examines least-cost options for New Jersey’s current laws -- to reach New 
+Jersey’s current laws and stated policy goals under a range of possible future 
+conditions, and to explore the role of in-state solar photovoltaics (PV), 
+offshore wind, nuclear power, gas-fired power plants, and imported electricity 
+from the rest of the region in the State’s electricity future. 
+ 
+ 
+Our goal is to provide an independent assessment of costs and 
+trade-offs associated with our different choices that face stakeholders and 
+ 
+ 
+ 
+4 
+decision-makers in the region, and to provide actionable insights to guide 
+decisions. 
+ 
+ 
+For this study, we used a state-of-the-art electricity system 
+optimization model, originally developed by myself at MIT, and now jointly 
+supported by the MIT Energy Initiative and the Princeton ZERO Lab.  This 
+model plans investments and operational decisions to meet our projected 
+future energy demands, while meeting all relevant engineering, reliability, and 
+policy constraints, all at the lowest affordable cost.  We create a detailed 
+model of the New Jersey electricity system, as well as the broader PJM 
+interconnection that we are a part of, and neighboring grid regions that we 
+trade with, in order to explore a range of policy, technology, and fuel price 
+scenarios to assess options for New Jersey to reach 100 percent clean 
+electricity by 2050. 
+ 
+ 
+So now I’ll summarize some of the key findings and takeaways 
+of the study for the Committee.  First, I think most importantly, a transition 
+to 100 percent carbon-free electricity is feasible while maintaining necessary 
+reliability and with reductions in bulk electricity supply costs.  Across a range 
+of possible futures that we model in the study, we find that a least-cost 
+strategy to reach 100 percent carbon-free electricity by 2050 results in a 5 to 
+25 percent decrease in bulk electricity supply costs, relative to a 2019 cost 
+benchmark.  Bulk electricity supply costs include the cost of full-scale 
+electricity generation, capacity, transmission costs, and policy support for 
+bulk generation, energy storage, and distributed solar resources.  Excluded in 
+our totals are distribution network costs, retailing and hedging costs, and 
+other policy charges that might be included in retail bills as well. 
+ 
+ 
+ 
+5 
+ 
+ 
+Second, though we find the lowest cost strategy, to reach 100 
+percent carbon-free electricity entails a significant increase in New Jersey’s 
+dependence on imported electricity.  Imports of wind, solar, and other 
+carbon-free resources from out of state are generally more affordable than 
+available in-state resources, and so make up about two-thirds of New Jersey’s 
+electricity supply by 2050 in our least-cost strategy. 
+ 
+ 
+We also find that electricity demand could grow significantly, 
+with total sales increasing by 70 percent, and peak demand increasing by 85 
+percent, as electrification of vehicles and buildings proceeds, consistent with 
+New Jersey’s economy-wide climate goals.  These new demands for electricity 
+will also shift the pattern of electricity consumption in important ways, from 
+summer afternoon peaks driven by air conditioning demand, to winter 
+overnight peak demands driven by electric vehicle charging and heat pump 
+heating demands.  That has important implications for the value of different 
+resources in our mix; for example, the role of solar power, which produces 
+most of its energy, of course, during the daytime and can’t contribute to those 
+winter overnight peak periods. 
+ 
+ 
+Fourth, we find that the lowest-cost pathway to a carbon-free 
+electricity supply departs in important ways from New Jersey’s current 
+approach to policy, which prioritizes in-state and distributed energy 
+resources, like rooftop and utility-scale solar, offshore wind, and our existing 
+nuclear power plants. 
+ 
+ 
+We find that import dependence can be reduced by requiring 
+more in-state renewable resources than in the least-cost strategy, and by 
+preserving the state’s existing nuclear reactors -- but this comes at a higher 
+cost for New Jersey electricity consumers.  The most affordable strategy that 
+ 
+ 
+ 
+6 
+we identified to prioritize in-state resources, which would meet about 80 
+percent of electricity demand in that scenario, increases our bulk electricity 
+supply cost by about 7 to 10 percent relative to the least-cost strategy.  Yet 
+this strategy will result in costs that are still comparable to or lower than 
+today’s, ranging from about 20 percent below to 4 percent greater than 2019 
+costs, depending on the different uncertain futures that we look at. 
+ 
+ 
+Sixth, we also look at scenarios where all states in the region 
+pursue parallel pathways to deep decarbonization goals, following New 
+Jersey’s lead, and proceeding to develop clean electricity sources and to 
+electrify vehicles and buildings.  We find that in this case, if other states 
+follow our lead, it will increase costs for New Jersey by 16 to 20 percent in 
+2050.  The reason for that is that greater demand for clean energy across the 
+region drives up the cost of imports for New Jersey, as more people are 
+demanding the same resources across the region.  That means that bulk 
+electricity supply costs in 2050 are higher, but still range from between 13 
+percent below and 11 percent above 2019 costs, assuming all states in the 
+region pursue similar goals.  So still roughly comparable to 2019 costs, but 
+more reliant on in-state resources and with higher costs for imports. 
+ 
+ 
+If we take a look at some of the key technology options that New 
+Jersey faces, our study finds the following:  The least-cost pathway to 100 
+percent carbon-free electricity supply for New Jersey entails a substantial 
+expansion of utility-scale solar resources; new gas-fired generating capacity, 
+mostly efficient combined cycle power plants; and conversion of all of these 
+gas plants to run on zero-carbon fuels by 2050.  That could include some 
+combination of hydrogen, biomethane or biogas, or synthetic methane 
+produced from carbon-free or carbon neutral sources; as well as a significant 
+ 
+ 
+ 
+7 
+increase in imports, as I mentioned, of zero-carbon electricity from 
+throughout the region.  And then we also include off-shore wind, distributed 
+solar, and storage capacity that’s required by current statutes and regulations. 
+ 
+ 
+We looked closely at the role of New Jersey’s existing nuclear 
+plants, and concluded that preserving New Jersey’s nuclear generators can 
+reduce dependence on imports, and avoid an increase in fossil gas generation 
+-- and associated CO2 emissions and air pollution -- that might otherwise 
+occur in the 2030s when those nuclear plants retire and are replaced, in part, 
+by natural gas generation.  Supporting continued operation of New Jersey 
+reactors after 2030 is consistently among the lowest cost options for in-state 
+carbon-free generation.  But we stress it would require ongoing policy support 
+after 2030, when the current Zero-Emissions Certificates Program ends. 
+ 
+ 
+Additionally, if all states in the region pursue deep 
+decarbonization and/or the state prioritizes in-state generation, maintaining 
+nuclear operation is part of a least-cost strategy to meet the State’s goals.  We 
+find that utility-scale solar is considerably lower cost than the distributed 
+resources that have typically been supported by State policy.  Expanding large 
+utility-scale solar projects is part of the least-cost portfolio in all of our 
+scenarios.  In the end, though, deployment may be constrained in the long 
+run by available land for citing of large-scale solar farms.  So proactive steps 
+to identify locations, and setting reforms and processes that could untap or 
+unlock more utility-scale solar setting potential, would help lower the cost of 
+our transition. 
+ 
+ 
+Expanding distributed or smaller-scale solar resources on 
+rooftops or parking lots, or other facilities connected at the distribution level, 
+will require more substantial policy support, but may become a lower-cost 
+ 
+ 
+ 
+8 
+option than off-shore wind by the 2040s, as cost declines for solar PV are 
+expected to continue.  We find that requiring about 23 gigawatts of 
+distributed solar by 2050, which is similar to the values in the New Jersey 
+Energy Master Plan, would increase our 2050 bulk electricity supply cost by 
+about 6 to 11 percent, relative to the least-cost import-dependent strategy.  
+But growing distributed solar could lower costs if the State is committed to 
+80 percent of our electricity from in-state resources. 
+ 
+ 
+I wanted to note that this study is limited in scope to modeling 
+the wholesale electricity system at the transmission level, so distributed solar 
+systems can result in additional costs and/or savings at the distribution level, 
+depending on the pattern and scale of deployment, and these impacts are not 
+assessed but are important to consider when we look at distributed solar. 
+ 
+ 
+Offshore wind is one of the more expensive options that New 
+Jersey has for decarbonization, and we find in our modeling it is rarely 
+deployed beyond current mandated levels across the scenarios that we 
+modeled.  There are some exceptions in futures where all states are pursuing 
+deep decarbonization, and therefore we need to rely more on in-state 
+resources, since out-of-state resources prove more expensive. 
+ 
+ 
+Flexible electricity demand -- we just heard about the importance 
+of network charging -- can reduce New Jersey’s peak consumption of 
+electricity and help compensate for increased demand from electrification of 
+vehicles and buildings.  Unlocking this kind of flexible demand can substitute 
+for what would otherwise be poorly utilized battery storage capacity or gas-
+fired generator capacity -- that is rarely used -- and could eventually lead to 
+cost savings for New Jersey consumers on the order of half a billion dollars 
+annually by 2050. 
+ 
+ 
+ 
+9 
+ 
+ 
+New Jersey gas-fired generating capacity actually expands in 
+almost all of our modeling until 2040, while electricity generation, 
+consumption of fossil gas, and related emissions from these units all decline.  
+Gas-fired capacity, or the ability to produce power when needed, is needed 
+to meet growing demand from electrification as we turn more to electric 
+vehicles and heat pumps.  But we use these resources less and less over time, 
+as more clean energy deployment squeezes them out of their role in the 
+energy mix.  By 2050, these resources would all have to be converted to run 
+on some zero-carbon fuel; or, if we pursue a carbon neutrality approach, any 
+residual emissions would have to be offset by carbon removal technologies by 
+2050, when 100 percent carbon neutral electricity is required.  By that point, 
+these gas generators are used very infrequently, only to provide firm power 
+during periods when both wind and solar output are very low. 
+ 
+ 
+Finally, New Jersey will need to expand our transmission capacity 
+to increase deliverability between coastal and inland areas in the near term, 
+in order to integrate the offshore wind that we’re planning to deploy on the 
+coast; as well as to significantly strengthen ties to neighboring regions, states 
+in PJM, and New York in the longer term, in order to enable greater imports. 
+ 
+ 
+I’ll leave it there and would like to leave some time for questions, 
+if you have any. 
+ 
+ 
+And I appreciate the opportunity to share these findings. 
+ 
+ 
+SENATOR SMITH:  Our biggest -- one of our biggest concerns 
+is affordability.  The actions that we need to take for global climate change 
+we think will meet great resistance from the New Jersey public if there is a 
+huge cost associated with it.  And I noticed your first -- not your first choice, 
+ 
+ 
+ 
+10 
+but one of the first things you talked about, was getting more out-of-state 
+renewable electricity as a model. 
+ 
+ 
+I don’t know that New Jersey wants to be dependent on other 
+states and their policies.  If we rely more heavily on renewables in New Jersey, 
+can we still say to our citizens, with a straight face, that there’s a way to do 
+that and keep the costs very manageable? 
+ 
+ 
+DR. JENKINS:  Yes, so that’s definitely the central choice that 
+our study identifies -- how much do we want to depend on lower cost 
+resources from throughout the region?  Importing solar from North Carolina, 
+for example; or wind from Indiana or Illinois or Pennsylvania, where the 
+resource quality is better and there’s more land availability. 
+ 
+ 
+And so we present, you know, sort of two poles of that, and we 
+could land somewhere in between, of course.  So the lowest-cost strategy is 
+certainly to import resources from throughout the rest of the region -- again, 
+that could result in a 5 to 25 percent decrease from current electricity supply 
+costs, so certainly meeting our affordability needs. 
+ 
+ 
+But if we take current electricity costs as a benchmark and 
+consider those as affordable, there are other strategies that would be higher 
+cost than that but still affordable relative to today.  The key would be to 
+maintain our existing nuclear reactors and to develop utility-scale solar 
+resources within the state.  So larger multi-megawatt solar farms.  Those are 
+consistently the lowest-cost options for in-state carbon-free generation, 
+offshore wind and distributed solar on rooftops being considerably more 
+expensive; so we want to maximize the use of those resources before turning 
+to more expensive resources, if affordability and in-state generation are our 
+goals. 
+ 
+ 
+ 
+11 
+ 
+ 
+And of course, affordability is central but also there are other 
+rationale for having in-state development.  Economic development, 
+environmental impacts could be a pro or a con, for setting in-state.  And so 
+our study doesn’t comment on those other considerations, but tries to 
+provide quantitative guidance on the affordability implications. 
+ 
+ 
+SENATOR SMITH:  And would it be possible for you to send us 
+the study that was released today-- 
+ 
+ 
+DR. JENKINS:  Yes. 
+ 
+ 
+SENATOR SMITH:  -- so that we can share it with our members? 
+ 
+ 
+DR. JENKINS:  Yes.  I provided a summary I printed out for 
+members today, and there’s a link to the full report, which has additional 
+detail for staff and others.  And I’m happy to continue to discuss any of these 
+findings. 
+ 
+ 
+You should also note that in the future--  We have now 
+established this detailed model of the New Jersey electricity system, and we’re 
+happy to provide resources in the future to assess other scenarios that may 
+be of interest to the Committee. 
+ 
+ 
+SENATOR SMITH:  That will be very helpful for New Jersey. 
+ 
+ 
+Questions from other members? 
+ 
+ 
+Governor. 
+ 
+ 
+GOVERNOR CODEY:  How the hell did you lose to Yale 
+yesterday?  (laughter) 
+ 
+ 
+DR. JENKINS:  No comment on that. 
+ 
+ 
+GOVERNOR CODEY:  Really?  Did you go? 
+ 
+ 
+DR. JENKINS:  No, I was traveling yesterday. 
+ 
+ 
+GOVERNOR CODEY:  I didn’t think so. 
+ 
+ 
+ 
+12 
+ 
+ 
+Let me ask you this.  What would be the best investment for us 
+to make right now, as a State, in terms of the environment? 
+ 
+ 
+DR. JENKINS:  So the best from an affordability perspective, at 
+least, would be to continue to develop larger utility-scale solar resources to 
+try to unlock more flexible demand, so that we’re not building transmission 
+and distribution capacity or peaking power plants that are sitting around idle 
+most of the time.  Both of those are probably going to require both policy 
+support and some regulatory reform in order to look at how we’re going to 
+cite utility-scale solar resources more effectively, and how to incentivize 
+demand of -- electricity demand to be more flexible.  Particularly new large 
+consumption from electric vehicles or heating electrification, which has a lot 
+of potential to shift around when it consumes and avoid those most heavily 
+utilized periods. 
+ 
+ 
+So those are probably the two biggest ways, and then we are 
+continuing -- we are now supporting our existing nuclear fleet through 2030; 
+continuing that beyond 2030 would also help create a base of existing low-
+carbon generation that we can then build from in the state. 
+ 
+ 
+GOVERNOR CODEY:  By the way, when I was Governor, I 
+spoke at Princeton.  And I got up and I said, “I was almost a student here, 
+but I was 300 points short on the SAT.” (laughter) 
+ 
+ 
+DR. JENKINS:  I’m not sure I would have even been admitted 
+by (indiscernible) either as a student, so no worries there. 
+ 
+ 
+GOVERNOR CODEY:  And that was just on the math side. 
+(laughter) 
+ 
+ 
+SENATOR SMITH:  Any other questions from members for 
+Professor Jenkins? 
+ 
+ 
+ 
+13 
+ 
+ 
+Senator Greenstein. 
+ 
+ 
+SENATOR LINDA R. GREENSTEIN (Vice Chair):  Thank 
+you. 
+ 
+ 
+A very large percent of the greenhouse gas emissions in our state, 
+I guess about 40 percent, comes from the transportation sector.  How would 
+you characterize New Jersey’s current progress, as we’re moving toward 
+electric vehicles and other things, in transportation emissions reduction; and 
+what policy changes do you identify that could help reduce these emissions? 
+ 
+ 
+DR. JENKINS:  That’s a great question, and there are, of course, 
+important implications for electricity demand as we emphasized in the report 
+as well.  So we have to tackle both challenges of reducing emissions in 
+electricity and expanding our electricity supply -- clean electricity supply to 
+prepare for electrification. 
+ 
+ 
+I would say New Jersey is amongst the leaders in the country for 
+vehicle electrification -- that’s thanks in part to State policy support; rebates 
+for electric vehicle adoption within the state that add to Federal incentives, 
+and make it an affordable option for more consumers to purchase electric 
+vehicles.  Greater support for EV charging networks is critical, I think, to 
+promote mass adoption at this point.  We’re at a point now where the 
+industry is at a turning point.  You see companies shutting down their 
+investment in internal combustion engine development and committing 
+entirely to electric product lines, so the industry is responding, the mass 
+market models are increasingly available in all vehicle segments. 
+ 
+ 
+And so now the key is that for the next, you know, eight years or 
+so, it’s likely that there will still be an upfront cost premium for purchasing 
+an electric vehicle.  So you’ll see that sort of sticker shock up front; but the 
+ 
+ 
+ 
+14 
+cost of ownership is already lower today, including that upfront cost, for 
+electric vehicles, because fueling costs are far lower, even before gas prices 
+shot up, and maintenance costs are lower. 
+ 
+ 
+So taking that initial sting out of the purchase price through the 
+continuation of those sorts of incentive programs can really help facilitate 
+adoption, as well as ensuring that range anxiety and charging needs are met 
+with a robust charging network.  That’s particularly important in places where 
+you don’t have off-street parking, so finding ways to develop networks for 
+folks in city, urban environments, as well, is key. 
+ 
+ 
+New Jersey’s policies have focused on light-duty vehicles, 
+primarily, and bus fleets, which is a good place to start.  But medium and 
+light-duty vehicle fleets -- you know the vans and delivery vehicles that bring 
+all of our Amazon shipments and things like that -- that could also be cost-
+effectively electrified now, as well, and further focus on those vehicle 
+segments is important.  They are also significant sources of air pollution since 
+a lot of that fleet is diesel, and so there are significant environmental justice 
+and public health improvements that would come along with that as well. 
+ 
+ 
+SENATOR GREENSTEIN:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Any other questions from members? 
+ 
+ 
+SENATOR DURR:  Would you say that -- because I’m reading 
+reports, and maybe you can correct it -- is the mining for the batteries of the 
+cars more harmful than what we have now? 
+ 
+ 
+DR. JENKINS:  So I wouldn’t say it’s more harmful; I mean, there 
+are different types of harms and they are important to consider as part of the 
+supply chain.  So cobalt and other metals that are used in lithium-ion 
+batteries, some of them come from parts of the -- countries with terrible 
+ 
+ 
+ 
+15 
+human rights concerns, right, like the Democratic Republic of Congo.  And 
+so the industry is moving away from those sorts of things, and we need to 
+continue to accelerate our reduction and independence on those sorts of 
+minerals for batteries. 
+ 
+ 
+But from a total resource consumption perspective, and from an 
+emissions perspective, it’s far better to use electric vehicles today than to 
+continue to-- 
+ 
+ 
+SENATOR DURR:  Are they looking to improve the quality, 
+too?  The American people are an impatient bunch, and I hear 45 minutes to 
+charge. 
+ 
+ 
+DR. JENKINS:  Yes, but you don’t do that very often, right?  You 
+do that at home.  And the convenience of not having to go to the pump every 
+couple of days to fill up is also, I think, underappreciated. 
+ 
+ 
+Consumer satisfaction amongst folks who have adopted EVs is 
+quite high, and you see that in the vehicle offerings that Ford, and GM, and 
+others are offering now.  Reservations for the F-150 Lightning, the electric 
+truck, are done -- they can’t meet the demand for the rest of the year.  So I 
+think there’s a significant uptick happening as well, as the vehicles have 
+gotten to the point where it’s not just a little hatchback you can buy; now 
+you can buy midsized SUVs, you can buy full-sized pickup trucks, you can 
+buy vans.  And so the technology has significantly improved in the last few 
+years and the industry is investing heavily in making sure our needs as 
+consumers are met. 
+ 
+ 
+SENATOR DURR:  Okay. 
+ 
+ 
+Thank you. 
+ 
+ 
+SENATOR SMITH:  Thank you, Senator. 
+ 
+ 
+ 
+16 
+ 
+ 
+Any other questions?  (no response) 
+ 
+ 
+Professor Jenkins, we’re going to put you on speed dial. 
+ 
+ 
+DR. JENKINS:  Okay; thank you very much. 
+ 
+ 
+SENATOR SMITH:  We do appreciate your comments. 
+ 
+ 
+DR. JENKINS:  Thanks for the opportunity. 
+ 
+ 
+(END OF EXCERPT) 
+ 

@@ -1,0 +1,3482 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+“The Committee will meet to hear testimony from invited guests  
+on how food waste management and organics recycling can be used 
+ to mitigate greenhouse gas emissions in the State” 
+ 
+“The Committee will also take testimony, for discussion only, on 
+S-431, S-439, and S-2185” 
+ 
+LOCATION: 
+Committee Room 10 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+May 16, 2022 
+10:00 a.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT:     
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice-Chair 
+Senator Richard J. Codey 
+Senator Edward R. Durr Jr. 
+Senator Jean Stanfield 
+ 
+ 
+ 
+ 
+ 
+ALSO PRESENT:  
+ 
+ 
+ 
+ 
+ 
+ 
+Joseph Gurrentz, Ph.D. 
+Eric Hansen 
+ 
+ 
+ 
+Matthew H. Peterson  
+Rebecca Panitch 
+Office of Legislative Services 
+ 
+Senate Majority Office  
+Senate Republican Office 
+Committee Aide  
+ 
+ 
+Committee Aides 
+ 
+Committee Aide
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+ 
+ 
+Isaac Bearg  
+Vice President 
+New Jersey Composting Council 
+1 
+ 
+Fred DeSanti 
+Executive Director 
+New Jersey Solar Energy Coalition 
+11 
+ 
+Lyle K. Rawlings 
+President, Chief Executive Officer, and Founder 
+Advanced Solar Products, Inc., and 
+President and Co-Founder 
+Mid-Atlantic Solar and Storage Industries Association (MSSIA) 
+12 
+ 
+Doug O’Malley 
+State Director 
+Environment New Jersey 
+13 
+ 
+Don  Lepore, Esq. 
+Partner and General Counsel 
+True Green Capital Management LLC 
+15 
+ 
+Scott Elias  
+Director 
+State Affairs, Mid-Atlantic 
+Solar Energy Industries Association (SEIA) 
+16 
+ 
+Lauren Kahme 
+Policy Research Intern 
+Ecogy Energy 
+17 
+ 
+Ron Urban 
+Chief Executive Officer 
+Advanced Solar and Energy Solutions, LLC 
+18 
+ 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+Page 
+ 
+Larry Barth 
+Managing Director 
+New Jersey Resources, representing  
+NJR Clean Energy Ventures (NJRCEV) 
+ 
+ 
+ 
+ 
+ 
+ 
+18 
+ 
+Kimberly Giese 
+Project Developer 
+Energy Storage System 
+174 Power Global Corporation 
+26 
+ 
+Brett Simon 
+Manager 
+Commercial Strategy  
+Eos Energy Enterprises, Inc. 
+29 
+ 
+Evan Vaughan 
+Deputy Director 
+Mid-Atlantic Renewable Energy Coalition Action (MAREC) 
+32 
+ 
+Ben A. Graziano 
+Policy 
+State Street Associates 
+35 
+ 
+ 
+Josh Lewin 
+President 
+Helios Solar Energy LLC 
+55 
+ 
+Ila Gillenwater 
+Business Development 
+CED Greentech, and 
+Member 
+56 
+Board of Directors 
+Mid-Atlantic Solar and Storage Industries Association (MSSIA) 
+ 
+Melissa Sims 
+Ecological Systems, LLC, and 
+Member 
+Board of Directors 
+Mid-Atlantic Solar and Storage Industries Association (MSSIA) 
+58 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+ 
+Page 
+Andy Wall 
+Chief Executive Officer and Founder 
+Ad Energy, and 
+Vice President, Delaware 
+Mid-Atlantic Solar and Storage Industries Association (MSSIA) 
+61 
+ 
+ 
+Baoli Wang, Ph.D. 
+Owner 
+U.S. Clean Energy LLC 
+63 
+ 
+Kyle Wallace 
+Director 
+Public Policy 
+Sunrun Solar Inc. 
+69 
+ 
+Jeremy Connor 
+Founder and Chief Executive Officer 
+Novitium Energy  
+National Energy Partners, LLC 
+80 
+ 
+ 
+APPENDIX: 
+ 
+Testimony 
+submitted by 
+Isaac Bearg 
+1x 
+ 
+Testimony, plus maps 
+submitted by 
+Fred DeSanti 
+5x 
+ 
+Circuit map  
+submitted by 
+Lyle K. Rawlings 
+(MSSIA) 
+13x
+ 
+ 
+Testimony (Bills S-4312, S-439, S-2185) 
+submitted by 
+Scott Elias 
+17x 
+ 
+Testimony 
+submitted by 
+ 
+ 
+Kimberly Giese 
+22x 
+TABLE OF CONTENTS (continued) 
+ 
+ 
+ 
+Page 
+ 
+ 
+Letters (3), addressed to 
+Members of the Senate Environment and Energy Committee 
+from Brian O. Lipman, Esq. 
+Director 
+Division of Rate Counsel 
+State of New Jersey 
+24x 
+ 
+pnf:1-84 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1 
+ 
+ 
+ 
+SENATOR BOB SMITH (Chair):  Welcome, everybody, to-- 
+ 
+ALL (in unison):  --the most interesting Committee in the 
+Legislature. (laughter) 
+ 
+SENATOR SMITH:  Where have you been?  You’re all 
+regulars.  You should know the answer to that. 
+ 
+Okay, so a big agenda today.  Our first order of business -- as it 
+has been for all the meetings so far in 2022 -- is a speaker on coming to the 
+end of the world.  And I’d like Mr. Isaac Bearg (mispronouncing the name)  
+--  Are you here? 
+I S A A C   B E A R G:  Here; that’s a G. 
+ 
+SENATOR SMITH:  Isaac-- 
+ 
+MR. BEARG:  Bearg.  
+ 
+SENATOR SMITH:  Bearg.  Are you here, Isaac? 
+ 
+MR. BEARG:  Bad handwriting. 
+ 
+SENATOR SMITH:  I’m sorry.  
+ 
+And Isaac, if you would identify where you’re from; and then, in 
+a relatively short period of time, tell us how we stop the end of the world 
+from coming too quickly. (laughter) 
+ 
+MR. BEARG:  Well, I’ll do my best, Senator. 
+ 
+Senator Smith and fellow Senators, thank you for your time 
+today, and for the opportunity to testify on the important issue that is climate 
+change.   
+ 
+We’re very excited that we live in a state with Governor Murphy, 
+and the State Legislature, and especially this Committee that has taken the 
+ 
+ 
+ 
+2 
+issue extremely seriously and has acted to address climate change, and is 
+prepared to continue to do so. 
+ 
+ So my name is Isaac Bearg; I’m Vice President and a founding 
+member of the New Jersey Composting Council.  We’re a chapter of the 
+U.S. Composting Council, a national organization.  And our mission is to 
+promote compost manufacturing, compost utilization, and organics recycling 
+to the benefit of our member society and the environment in the State of 
+New Jersey.  
+ 
+We specifically requested to speak before this Committee 
+because, while we recognize that this Committee understands the importance 
+of organics recycling, we feel it’s often ignored in the broader discussion of 
+climate change.  This, of course, is a mistake.  The statistic we most often use 
+when talking about organics recycling is that, according to the EPA, organics 
+rotting in landfills account for the third-highest source of methane emissions 
+-- a greenhouse gas that, while short-lived, is far more potent than carbon 
+dioxide. 
+ 
+As the 2021 U.N. report details, we need to reduce our methane 
+emissions by 45 percent by 2030 to have a fighting chance at staving off 
+climate change.  So we can’t wait to act on our waste sector.  
+ 
+In New Jersey, we currently have towns sending our trash to the 
+state of Ohio, increasing our emissions from transportation and disposal, 
+while handing our problems to somebody else.  We have counties expanding 
+their landfills to the tune of millions of dollars, all the while missing out on 
+regenerative and climate-fighting opportunities to use compost for growing 
+food, managing stormwater, and reducing harmful pollution from 
+runoff.  Not to mention the opportunity to reduce our dependence on 
+ 
+ 
+ 
+3 
+petroleum-based fertilizers and sequester carbon in the soil, which is needed 
+over and above stopping our emissions.  
+ 
+This Committee helped pass the Food Waste Recycling Law in 
+2018, and it was a great accomplishment.  But currently, its effects are limited 
+for reasons I will discuss.  We must do more.  
+ 
+With that in mind, I wanted to give a quick overview of the 
+landscape of the organics recycling industry here in New Jersey, and discuss 
+how we might be able to help.  Currently in New Jersey, the primary organic 
+feedstock that is being recycled and, in most cases, composted is green waste 
+-- primarily leaves and yard waste.  Now, the reason that’s getting composted 
+is because it’s mandated to do so.  But the rules also allow for some reasonable 
+exemptions to the solid waste permitting that allows facilities of not 
+insignificant size to get up and running with minimal hurdles.  
+ 
+There’s also some biosolids composting happening, especially at 
+a well-operated facility in Burlington, and some food waste in pockets.  But 
+it is a fraction of the waste that could be diverted from landfills and 
+incinerators.  Recently, we’ve had some AD facilities come online that will 
+accept food waste.  These are Trenton Renewable and Rahway Valley Sewage, 
+in conjunction with CORe  Waste Management facility.  But these are the 
+only two permitted food waste facilities that trigger the Food Waste 
+Recycling Law the Senate passed in 2018 and came into effect last year.  And 
+while AD is a very good alternative, we need composting to realize the full 
+climate value of organics recycling, including soil rehabilitation, fertilizer 
+replacement, and beyond. 
+ 
+MR. GURRENTZ (Committee Aide):  Could you define AD?  
+ 
+MR. BEARG:  Sorry; anaerobic digestion.   
+ 
+ 
+ 
+4 
+ 
+MR. GURRENTZ:  Thank you. 
+ 
+MR. BEARG:  And that can be done co-digesting with biosolids 
+or just straight food waste.  
+ 
+So part of the reason there are so few facilities is that permitting 
+and confined costs are very high, especially for new facilities and new 
+entrants.  Which is, across the nation, where we see growth; from small to 
+large over time.  This is especially problematic for composting facilities, as 
+opposed to AD, in light of smaller profit margins and fewer incentives for 
+composting.  
+ 
+Additionally, while the Legislature has enacted the previously 
+mentioned Food Waste Recycling Law, over two years later we do not have 
+rules to implement that policy.  There’s no enforcement program in place, 
+and the Food Waste Recycling Market Development Council -- which was 
+established in that Bill -- a great decision -- has yet to meet.  And there are 
+limited reports that it’s starting to appoint members, but it has yet to meet. 
+ 
+SENATOR SMITH:  By the way, it would be very helpful for 
+your group to make some recommendations about significant members who 
+might have more information about it.  If you would forward a list to us and 
+a little description of their backgrounds, it would be really helpful. 
+ 
+MR. BEARG:  Absolutely.  We are prepared to do that. 
+ 
+So where do we go from here?  We think the quickest solutions 
+are probably small-scale food waste composting exemptions.  A community 
+garden should not need the same permit as a landfill.  Today it does.  Let’s 
+exempt community gardens and, perhaps, other small-scale projects entirely 
+from solid waste, air, and stormwater permitting.  These are small-scale 
+solutions, but they can be acted on quickly. 
+ 
+ 
+ 
+5 
+ 
+If we want to go a step further, we can establish a system closer 
+to what New York State and others have, which provides blanket exemptions 
+under a certain tonnage; then a registration, which requires a slightly -- more 
+information, but has a higher threshold.  And then a permit is only needed 
+once you get above a certain threshold.  
+ 
+So that’s-- 
+ 
+SENATOR SMITH:  Your recommendation of what that 
+threshold should be? 
+ 
+MR. BEARG:  I think we have put together those in the past and 
+worked with the DEP on that.  But we’re happy-- 
+ 
+SENATOR SMITH:  Could you forward it to us as well? 
+ 
+MR. BEARG:  Yes.  We’re absolutely happy to do so. 
+ 
+Currently, the permitting process here in New Jersey is too long, 
+too expensive, and too one-size-fits-all for composting.  To the extent the 
+Legislature can act on permitting, it would move the entire industry forward. 
+ 
+We can also help by incentivizing composting.  Currently, there 
+are no tax breaks or financial benefits for composting, or for generators that 
+divert towards organics recycling.  Grants and loans do not exist or are, at a 
+minimum, difficult to find for facilities that want to start composting or 
+businesses that want to cover the cost of starting a transition program. 
+ 
+ In New York State, you can get costs associated with both of 
+those covered, and that’s specifically because their leadership has stated 
+they’re treating organics reduction and diversion as a way to meet their 
+climate goals.  
+ 
+Another hurdle composters face  -- and this is an issue you see in 
+any environmentally friendly project -- is the not-in-my-backyard issue.  No 
+ 
+ 
+ 
+6 
+one wants a solar farm in their backyard, much less a facility that’s handling 
+food waste.  Yet, when properly run, these facilities are not a nuisance for 
+their neighbors.  Unfortunately, the neighbors are not convinced of that until 
+the facility is up and running, and operating without issue.  And this process 
+then causes many delays, and that costs far too much for facilities trying to 
+get permits. 
+ 
+There currently exists a Bill in the Legislature requiring county 
+plans to incorporate food waste reduction.  Now, we have colleagues in the 
+environmental community who would opt for a different tactic in addressing 
+county planning.  But any bill that should move forward -- an action must 
+include a plan for food waste recycling in addition to reduction.  This would 
+encourage the counties whose sign-off sign off is currently needed for facilities 
+to take action by either operating their own food waste recycling operations, 
+working with others in public-private partnerships, or, at a minimum, 
+providing a preference for these projects, including, perhaps most 
+importantly, over a lack of support of the town from whom they do not need 
+approval, but will often withhold if they don’t receive.  
+ 
+So we would also ask for the Legislature’s help in ensuring the 
+Food Waste Recycling Market Development Council, which I mentioned 
+earlier, is finally appointed.  Our members have suggested that New Jersey 
+could implement a number of different things, working with the DEP and the 
+Department of Agriculture, that would be particularly meaningful for the 
+Food Waste Recycling Market Development Council.  And I have a couple 
+of them here that I won’t read for you right now, but they’re not considering 
+it because they’re not meeting.   
+ 
+ 
+ 
+7 
+ 
+So again, as I mentioned, we’re happy to provide assistance and 
+recommendations on appointments. 
+ 
+And then, thinking longer-term, there are many ways the 
+Legislature can take it to, even, the next level.  If we look at the laws in 
+California about climate change, those require a far broader class of organics 
+recycling.  I don’t know if New Jersey’s there yet, but that may be something 
+for the future.  
+ 
+People have suggested a small tax on trash generated that would 
+support 
+regenerative 
+activities, 
+including 
+composting, 
+as 
+another 
+opportunity.  So there are a lot of things we can do.   
+ 
+And the last thing I’ll mention is, we can help raise awareness. 
+This testimony today is not insignificant.  It was not until the end of my 
+education, as an MBA in sustainability, that I learned about the issues of food 
+waste and composting.  And so raising awareness about this issue is 
+critical.  The first full week in May every year is International Composter 
+Awareness Week.  We have spoken to the Legislature and asked for it to be 
+recognized with an official resolution.  We were met with positive feedback, 
+but that has not yet been accomplished.  So that’s another thing that the 
+Legislature can very easily do.  
+ 
+So with that, I’m going to thank you for your time, and I’m 
+happy to answer any questions.  
+ 
+SENATOR SMITH:  So, in a nutshell, what you’re saying -- our 
+regulatory process is a little too crazy to encourage food waste recycling, and 
+that a little bit of a subsidy would help. 
+ 
+Just for your information, we have the Recycling Enhancement 
+Act now, that collects a little vig on solid waste disposal -- collection and 
+ 
+ 
+ 
+8 
+disposal -- and we may want to take a look at redirecting some of that money 
+toward the efforts that you’re talking about. 
+ 
+ I didn’t hear anything about--  I heard a lot about food waste 
+composting, but how about on the reduction of methane generically?  I mean, 
+right now we have landfills that are taking in a lot of food -- almost all the 
+food waste in the state.  Some of them have collection systems, but they don’t 
+seem to be very good. 
+ 
+Do you have any recommendations concerning landfills? 
+ 
+MR. BEARG:  So there are a lot of ways I can go there. 
+ 
+One of the things we try to do and work with landfills is to say, 
+“If you want to extend the life of your landfill, and have to reduce investment 
+in expanding it, one of the things you can do is get 40 percent of your material 
+out of the stream, and composted, and back into a saleable product. 
+ 
+SENATOR SMITH:  Or aerobic digestion to turn it into 
+methane and burn it. 
+ 
+MR. BEARG:  Sure, sure, sure.  So I would say, even with 
+anaerobic digestion there’s usually some amount of solid product, which we 
+would then say should go to composting.  So yes, one way or another, if you 
+want to extend the life of your landfill, you can get the organics out of there 
+and create a saleable product at the end, whether that’s gas and/or compost. 
+ 
+So from an economic standpoint, we’re trying to promote that, 
+as well as just from an environmental standpoint.  Obviously, the less 
+organics that are in a landfill, the less methane that’s going to be generated.  
+ 
+SENATOR SMITH:  Thank you very much for your testimony. 
+ 
+Any questions from members of the Committee for Mr. Bearg? 
+(no response) 
+ 
+ 
+ 
+9 
+ 
+If not, thank you so much for coming in today.  
+ 
+All right; let’s take a roll. 
+ 
+Oh, I’m sorry. 
+ 
+Governor. 
+ 
+SENATOR CODEY:  Anaerobic digestion?   
+ 
+SENATOR SMITH:  Yes, anaerobic digestion; yes. 
+ 
+SENATOR CODEY:  Is that a new diet? (laughter) 
+ 
+SENATOR SMITH:  No, no.  No, it’s allowing biological 
+processes to occur in the absence of air and oxygen.  That’s what it actually 
+is, but we get it.  I mean, it’s a very interesting question that you’re asking 
+because we have a little bit of a disagreement within the environmental 
+community.  Some people--  And that gas is called renewable natural gas -- the 
+theory being that you are not allowing it to go into the atmosphere where it’s 
+going to have this 20- or 80-times impact of carbon dioxide.  But you are 
+going to burn it, and you’re not going to make electricity.   
+ 
+So yes, you’re consuming it in a more efficient and less 
+environmentally impactful way if you do anaerobic digestion.  But some of 
+my good friends in the environmental groups feel not even that.  But the 
+alternative is much worse -- if you want it to go to the landfill and become 
+methane, it’s just going right into the atmosphere.  
+ 
+So thank you very much for your comments.  
+ 
+Let’s call the roll so we can get some business done.  
+ 
+MR. HANSEN (Committee Aide):  Chairman Smith. 
+ 
+SENATOR SMITH:  I’m present. 
+ 
+MR. HANSEN:  Vice Chairwoman Greenstein. 
+ 
+SENATOR LINDA R. GREENSTEIN (Vice-Chair):  Here. 
+ 
+ 
+ 
+10 
+ 
+MR. HANSEN:  Governor Codey. 
+ 
+SENATOR CODEY:  Here. 
+ 
+MR. HANSEN:  Senator Durr. 
+ 
+SENATOR DURR:  Here. 
+ 
+MR. HANSEN:  And Senator Stanfield. 
+ 
+SENATOR STANFIELD:  Here. 
+ 
+(Committee unanimously passes 
+S-294, S-520, S-1229, S-1983, S-1985, and SJR-73) 
+ 
+ 
+SENATOR SMITH:  So we have three items for discussion only, 
+and they’re for discussion because they are controversial, and we want to hear 
+all points of view.   
+ 
+So we’re going to do them one at a time, and not do in a group 
+of three.  That doesn’t work because each has its own separate issues.  And 
+hopefully, we get a little insight on what we should or shouldn’t be doing as 
+policy.   
+ 
+So number one that we’re going to talk about is S-439, which 
+directs the BPU to establish a process for maintaining supply and demand for 
+solar 
+renewable 
+energy 
+certificates.  
+And 
+this 
+-- 
+this 
+is 
+very 
+controversial.    We-- 
+ 
+You know, maybe I’ll let the witnesses do it and put it in context 
+first, because that’s a better way to do it. 
+ 
+All right; Mr. DeSanti, from the New Jersey Solar Energy 
+Coalition, is in favor. 
+ 
+Come on forward, Fred. 
+ 
+ 
+ 
+11 
+F R E D   D e S A N T I:  Thank you, Senator.  
+ 
+Good morning.  My name is Fred DeSanti; I’m the Executive 
+Director of the New Jersey Solar Energy Coalition.  
+ 
+We support this Bill simply because it’s fair.  When we first 
+started our path down towards solar energy in the State of New Jersey, we 
+developed a system, a market-based system of SRECs -- where SREC prices 
+would change and go up and down.  It was immediately done on the basis of 
+a balanced market, where the SRECs would be generated by the solar energy 
+facilities, and people would pay for them based upon the need associated with 
+that.  
+ 
+When that system was closed down, the statute said it should be 
+done in a fair way; it should be done in a balanced way.  So that the system 
+was closed down to not jeopardize investments that people had made in the 
+early stages of this solar energy.  Because, at that time, as you recall, we had 
+prices of about $8 a watt, or so.  It was very, very high.   
+ 
+But New Jersey was a leader.  New Jersey got into solar very early 
+on.  It was expensive, as we all know.  But as that system is now closed down, 
+it’s important that we keep a balance.  And by 2025, right now, based upon 
+the numbers we see, there is going to be a significant pressure of having too 
+many SRECs in the market.  
+ 
+And so what we would like to see is a balance, where the Board 
+is required to establish that balance and make sure that these early investors 
+are treated fairly in the process. 
+ 
+And it’s that simple. 
+ 
+SENATOR SMITH:  Okay.  Thank you, Mr. DeSanti, for your 
+comments. 
+ 
+ 
+ 
+12 
+ 
+Next, Lyle Rawlings, in favor. 
+ 
+Lyle, are you here?  Yes. 
+ 
+And Lyle, are you representing you and your company, or 
+MSSIA? 
+L Y L E   K.   R A W L I N G S:  MSSIA, the Mid-Atlantic Solar and Storage 
+Industries Association. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+MR. RAWLINGS:  Senator, thank you for bringing forward this 
+Bill, and for the opportunity to speak.  And good morning, everyone. 
+ 
+Mid-Atlantic SSIA has done a great deal of analysis around this 
+because we understand the question is if we do maintain a balanced and 
+stable SREC market, are we going to be overpaying these projects that 
+invested based on the Legacy SREC program?   
+ 
+And first of all, our analysis has shown that the market is likely 
+to reach an oversupply condition that would be in the range of crash 
+conditions for the value of the SREC.  The investors invested somewhere 
+around $10 billion worth of investment in this state, and the solar projects 
+under that program were expecting a rate of return -- as the BPU stated 
+originally -- around 12 percent.  That’s what it took to get people to invest 
+early on in the program.  That declined over time,  capital got cheaper.  But 
+our analysis of a number of real projects -- for which we know the contract 
+price, the contract PPA rate that provides revenue, etc. -- indicates that most 
+of the investment that happened during that period is going to be seriously 
+impaired.  Not only not meeting the expectations of the time, but not even 
+meeting the investment expectation that an investor today would expect.  So 
+these would be seriously hurt.  
+ 
+ 
+ 
+13 
+ 
+Now, the BPU promised, at the time that they took the vote, to 
+close the SREC market under these conditions that they were -- and I quote 
+exactly -- “committed to maintaining a stable and balanced SREC market in 
+the years to come.”  And we believe this Bill is needed to fulfill that promise. 
+ 
+That’s it. 
+ 
+SENATOR SMITH:  Short and sweet. 
+ 
+MR. RAWLINGS:  Yes; thank you. 
+ 
+SENATOR SMITH:  Thank you. 
+ 
+For the record, Shannon Meyer-Johanson from Sol Systems, in 
+favor, no need to testify.   
+ 
+Doug O’Malley, in favor, from Environment New Jersey. 
+ 
+Mr. O’Malley. 
+D O U G   O ’ M A L L E Y:  Mr. Chairman and members of the Committee, 
+it’s great to be back.  And obviously, I wanted to comment on this Bill, and I 
+wanted to thank you, Mr. Chairman, for bringing up this series of bills on 
+solar.  Because obviously New Jersey historically has been a leader in the solar 
+market.  
+ 
+However, if we look at the amount of megawatts produced last 
+year, it was roughly around 300 megawatts.  That fell drastically from the 
+year prior.  We are seeing New Jersey solar--  Compared to other states, we 
+are kind of falling down the rankings.  We’re also seeing job loss in the solar 
+market around the state.   
+ 
+So when we look at this Bill that we’ve previously heard, or the 
+commitment from the BPU to maintain a steady transition in the SREC 
+market, we believe this Bill does that.  And the thing, I guess, I wanted to 
+emphasize here is that we need to make sure that we’re truly capturing the 
+ 
+ 
+ 
+14 
+true value of solar.  And there’s a report that Environment New Jersey put 
+out three years ago that looked at a broad range of studies, some conducted 
+by independent organizations, some conducted by utilities.  And it showed 
+that of the 16 studies, half of them showed that solar had a benefit of 14 
+cents per kilowatt-hour.  That percentage, though, was not incorporating 
+studies that had a thumb on the scale for the impact of reducing 
+emissions.   When you put the thumb on the scale for reducing emissions, 
+the benefit and the value of solar goes up to 23 cents per 
+kilowatt.  Remember, this is looking at kind of a national collection of 
+studies.  
+ 
+If we look at the actual research shown in New Jersey, conducted 
+by MSSIA, the value goes up to 27 cents per kilowatt.  And, in many ways, 
+that makes sense, because we have such a congested energy grid in New Jersey 
+-- that having more solar on the grid provides benefits more broadly for 
+society because it’s reducing emissions.  And also benefits for ratepayers, 
+because it meets peak load.  
+ 
+ So that’s just a kind of a reminder here that when we look at 
+solar, we have to look at the true cost of solar and the benefits it provides. 
+ 
+ And I’m happy to provide that research to members of the 
+Committee. 
+ 
+SENATOR SMITH:  Great idea.  Send it--  I think you already 
+have,  but send it again, and we’ll make a note to distribute it to everybody.  
+ 
+MR. O’MALLEY:  Super. 
+ 
+SENATOR SMITH:  Thank you so much. 
+ 
+Don Lepore, from True Concern Capital Management.  Did I get 
+that right? 
+ 
+ 
+ 
+15 
+ D O N   L E P O R E,   Esq.:   True Green Capital Management. 
+ 
+SENATOR SMITH:  True Green; sorry. 
+ 
+MR. LEPORE:  That’s okay.  My handwriting is a little atrocious; 
+I apologize. 
+ 
+SENATOR SMITH:  It’s okay. 
+ 
+SENATOR CODEY:  He didn’t go to Catholic school, then. 
+(laughter) 
+ 
+SENATOR SMITH:  In favor, by the way. 
+ 
+MR. LEPORE:  Good morning, Senators.  
+ 
+I wanted to thank you for the opportunity this morning to 
+express my views. 
+ 
+True Green Capital Management is a dedicated renewable energy 
+infrastructure firm and has invested in over 145 megawatts of solar 
+generation facilities in New Jersey.   
+ 
+We share the concern expressed by our industry colleagues that 
+the closure of the Legacy SREC program may create a severe imbalance in the 
+supply and demand dynamics of the Legacy SREC program.  And 
+accordingly, we support the Bill proposed by Senator Smith, and likewise 
+recommend its passage. 
+ 
+ For over the past two years, True Green Capital Management, 
+together with many of our industry colleagues, has engaged with the BPU 
+staff on this important issue, and we greatly appreciate the time and attention 
+the BPU has given to us.  We believe that the current Bill is the natural 
+outgrowth of these efforts, and provides the needed direction and clarity 
+required by the BPU.  
+ 
+ 
+ 
+16 
+ 
+Maintaining balance in the SREC program is of paramount 
+importance; and considerations of balancing supply and demand are common 
+across comparable programs in other states where True Green Capital has 
+invested, as well as in many programs in Europe.  The Legacy SREC program 
+requires maintaining such a balance to avoid both potential harm to 
+ratepayers, as well as potentially wiping out billions of dollars of capital that 
+has been invested in New Jersey.  
+ 
+This level of commitment is critical to maintaining investor 
+confidence in the New Jersey market, not only under the Legacy program, 
+but under a successor program and the State’s clean energy goals generally.  
+ 
+We are hopeful that this Bill paves the way for a robust and 
+balanced program in maintaining the confidence of investors in the New 
+Jersey market.  
+ 
+I want to thank you again for your time and the opportunity to 
+express our views.  
+ 
+Thank you.  
+ 
+SENATOR SMITH:  Thank you, Mr. Lepore. 
+ 
+Scott Elias, Solar Energy Industries Association, in favor. 
+ 
+Mr. Elias. 
+S C O T T   E L I A S:  Hello. 
+ 
+Scott Elias with SEIA, Solar Energy Industries Association.   
+ 
+Chairman Smith, members of the Committee, thank you.  My 
+name is Scott, as I said.  I am the Director of Mid-State Affairs for SEIA.  We 
+are the national trade association for the U.S. solar industry.  We have about 
+45 member companies located in New Jersey, with many more national firms 
+also conducting business in the state.  
+ 
+ 
+ 
+17 
+ 
+I’ll be pretty brief here.  We support this Bill and recommend its 
+passage for many of the reasons that others have said.  I think the key thing 
+to note is that while the SREC program is closed for new participants, the 
+SREC Legacy projects are eligible to earn SRECs over a 10- to 15-year period 
+from those projects -- from when those projects initially went into service. 
+And so, as a result, we’re talking about over $13 billion in capital that has 
+been invested by New Jersey families, businesses, schools, and communities; 
+and we need to make sure that we retain investor value.   
+ 
+So this Bill is really about fairness, and ensuring that prior 
+investments retain value as we transition over to the solar successor program. 
+ 
+ So thank you for your time and attention.  Again, we support 
+this Bill.  
+ 
+Thank you.  
+ 
+SENATOR SMITH:  Thank you, Mr. Elias. 
+ 
+Next is Lauren Kahme from Ecogy Energy, in favor. 
+ 
+Ms. Kahme. 
+L A U R E N   K A H M E:  Good morning, Committee; and thank you, 
+Chairman, for sponsoring this Bill.  
+ 
+I would just -- I’ll keep it brief, similar to what everyone before 
+me has been saying.   
+ 
+Sorry; for the record, my name is Lauren Kahme, here on behalf 
+of Ecogy Energy.  We’re a solar developer, financier, and owner/operator of 
+distributed generation resources.  
+ 
+This Bill requiring the Board to implement metrics and 
+mechanisms to measure the supply and demand for SRECs will help mitigate 
+the volatility in the market.  And as everyone before me has said, it will ensure 
+ 
+ 
+ 
+18 
+the current solar and early investments -- the assets, early investments are 
+secure in the future.  
+ 
+So thank you for sponsoring this Bill, and we hope to see it pass. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Thank you, Ms. Kahme. 
+ 
+Ron Urban, Solar Clean Energy, in favor. 
+R O N   U R B A N:  My name is Ron Urban; I’m from Advanced Solar and 
+Energy Solutions. 
+ 
+I am in favor of the Bill.  I think without it, the industry will be 
+dead. 
+ 
+That’s all; thank you. 
+ 
+SENATOR 
+SMITH:  
+Shakespeare 
+would 
+be 
+proud. 
+(laughter)  Brevity is the soul of wit. 
+ 
+Larry Barth, from New Jersey  Resources, AKA Clean Energy 
+Ventures. 
+ 
+Mr. Barth is in favor; if you would please come forward. 
+ 
+Go right ahead, sir. 
+L A R R Y   B A R T H:  Thank you.  Good morning, Senators. 
+ 
+My name is Larry Barth, Managing Director at New Jersey 
+Resources, representing our Clean Energy Ventures business unit.  
+ 
+Over the past decade, Clean Energy Ventures has invested about 
+$1 billion and 370 megawatts of solar projects in the state, supporting 
+approximately 1,000 jobs since inception and saving 300,000 tons of 
+greenhouse gas emissions. 
+ 
+ 
+ 
+19 
+ 
+We very much appreciate the introduction of this Bill; we 
+support it.  We appreciate having a couple of minutes to talk about why we 
+support it, and also some suggestions for possible improvement. 
+ 
+The Clean Energy Act of 2018 required -- in pursuit of a new 
+solar incentive program required that we close the SREC program and open 
+up a new incentive program.  Thanks to a lot of hard work and leadership at 
+the BPU, that’s happened.  The SREC market was closed April 30, 2020, and 
+new solar incentive programs have been opened.  I might add that those 
+programs are providing incentives at significantly less cost than would be 
+available under the SREC program.  
+ 
+We have--  Since the closing of the program, we’ve had 
+discussions with the BPU -- as some of my colleagues have mentioned -- about 
+the analysis that we’ve done that shows that in many scenarios, as this 
+program will remain open until 2035--  Starting in the mid-2020s, out until 
+the program stops operating in the mid-2030s, there is significant potential 
+for a significant oversupply of material, oversupply such that many SRECs 
+will be stranded and not expected to have any value.  There are also some 
+scenarios where we show some significant undersupply, but most of them are 
+related to oversupply.  
+ 
+And the second point in that analysis is that there is no way 
+within this program that it can self-correct.  Unlike other markets -- 
+commodity markets, where supply and demand can come back into balance 
+-- it can’t happen in this closed program.  And I think one of the points that 
+we want to make here is that this, while it is sometimes referred to as a market, 
+it is not really a market.  It is a program; it is the creation of policy.  SREC 
+demand is a function of the renewable portfolio standard that is in 
+ 
+ 
+ 
+20 
+statutes.  The SREC supply is a function of the megawatts that have been put 
+into the closed program, and how long those megawatts will be eligible to 
+continue to earn SRECs. 
+ 
+Right now, the root cause we see of the imbalance is that there 
+just is a significant misalignment between what the RPS says right now and 
+what the actual megawatts in the closed program are, and how long those will 
+be generating SRECs. 
+ 
+So as we come today to discuss the future, I want to be clear that 
+investors in solar -- we take risks: we take development risks, we take 
+construction risks, we take operating risks.  We’ve also taken risks in the 
+SREC program -- that there will be periodic fluctuations in supply and 
+demand.  Prices will go up and down, but on a temporary basis, not a 
+permanent basis.  And what we’re seeing in our analysis is that some of the 
+direction of the market will be permanent and perpetual, leading to stranded 
+SRECs.  And that’s our concern.  That’s a risk that we did not sign up for. 
+ 
+Now, we don’t feel, in any way, that State policy would 
+encourage such a material adverse outcome.  The State policy has always 
+supported the solar market.  When the SREC program was designed in 2007 
+-- and I have been around long enough to have been in a room when that 
+happened -- there was always discussion about fluctuations in supply and 
+demand and prices.  But never permanent imbalances.  
+ 
+The other thing is, this Legislature has always stepped up when 
+we’ve been -- in the past, whether it was 2012 or 2018 -- stepped up to make 
+adjustments to the RPS when it looked like there were going to be material 
+oversupply situations.  In our discussions with the BPU--  The BPU has 
+always supported the solar market in New Jersey.  That’s not for debate.  In 
+ 
+ 
+ 
+21 
+fact, they’ve mentioned that their policy goal is a stable and balanced 
+market.  So we know the BPU supports this.  And the Clean Energy Act itself 
+provided very specific guidance that the solar market transition should be 
+orderly.  And there were also some solar market transition principles adopted 
+by the BPU in December of 2018.  It said we need to make sure that we 
+ensure solar growth, and also ensure the prior investments retain value. 
+ 
+This Bill does some important work in clarifying the policy 
+objective as to a stable and balanced market that we all believe is part of the 
+State’s policy.  It also properly, we think, assigns accountability and 
+responsibility for meeting that policy goal to the BPU.  It should not be part 
+of the Legislature’s responsibilities.  
+ 
+Now, we have left in the Bill -- it’s open as to what type of 
+mechanism, operational mechanism will be developed to keep the market in 
+balance.  We did that deliberately to not be overly prescriptive.  But I will 
+say we’ve also had some engagement and discussions with the BPU on 
+this.  And it is possible that with some focused effort we could come back to 
+this Legislature with, perhaps, something that’s agreeable to the BPU and the 
+industry; where it could be brought back as a package solution, giving the 
+BPU the authority that they need to be able to implement that 
+solution.  That’s possible; but again, our deliberate attempt was not to be 
+overly prescriptive at this time.  
+ 
+So I want to thank you very much for introducing this Bill and 
+giving me the chance to talk about it. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  So listen, to all of the witnesses who 
+testified on this legislation -- and generally very favorably -- I need you to 
+ 
+ 
+ 
+22 
+meet with the BPU.  You know, I think it’s time for re-engagement on this 
+issue.  Let’s see if we can come up with an acceptable way to go ahead.  It’s 
+like anything -- everybody knows the rule in Trenton, which is 41, 21, and 1, 
+all right?   So if the BPU is not going to be supportive, this gets short-
+circuited, and it doesn’t get a Governor’s signature on it. 
+ 
+On the other hand, you bring a valid concern to the table -- 
+namely, that the State made some promises, especially early on with some of 
+the solar developers; and I think it would be in everybody’s best interest if 
+the stakeholders can meet with the BPU and try to work out a plan for going 
+forward.  That would be very, very helpful.  So let me give you that 
+admonition. 
+ 
+ Are there any questions from members of the Committee to any 
+of the witnesses? (no response) 
+ 
+  If not, this discussion is over, and let’s go to the next discussion, 
+namely S-2185, Senator Smith and Senator Greenstein, requiring the BPU 
+to develop a program to incentivize new energy storage systems.  And it’s just 
+exactly what it describes.   
+ 
+But I have to tell you the screaming scandal that we have in new 
+energy, all right?  The BPU was given a directive to get new energy storage 
+systems.  And I’ve told them this to their individual faces.  They should be 
+ashamed of themselves, because they used Yards Creek, 1965 --  built in 1965 
+-- as credit for them meeting our energy storage needs.  And Yards Creek -- a 
+wonderful facility.  If you haven’t been there during excess load--  They pump 
+water up a hill to a mountaintop lake.  And when there’s a huge demand for 
+electricity, they let it come back down and generate electricity.  It’s like the 
+simplest energy storage system you can imagine.  It does great work; it’s been 
+ 
+ 
+ 
+23 
+doing great work since 1965.  But come on, BPU.  You can’t take credit for 
+that facility as meeting your energy storage needs -- the State’s energy storage 
+needs.  There should have been some significant expansion; we’re trying with 
+this Bill to nudge them along.  
+ 
+So do we have witnesses on 2185? 
+ 
+Lyle Rawlings, MSSIA, in favor.  
+ 
+MR. RAWLINGS:   Thank you, Chairman Smith. 
+ 
+First of all, this is an excellent Bill; sorely needed.  The 
+requirement in the Clean Energy Act of 2018 was to have a battery incentive 
+bill by two years after that, which would be 2020, two years ago.  So it’s two 
+years late, and we’ve already missed the first requirement of 600 megawatts 
+by 2021.  And we’re getting to the point now where we’re only less than eight 
+years away from the 2030 requirement, which is for 2,000 megawatts.  That’s 
+a lot of batteries and we haven’t even gotten started.  
+ 
+SENATOR SMITH:  So totally off -- well, not totally off the 
+subject -- but we’ve introduced two budget resolutions -- one for the BPU, 
+and the other for DEP -- and that is that they increase staff.  Neither agency 
+has enough staff to do their job.  And as a result, they’re both becoming 
+dysfunctional.  That’s a little harsh, but somebody has to kick some butt 
+here.  
+ 
+MR. RAWLINGS:  Yes. 
+ 
+SENATOR SMITH:  So I don’t expect the budget resolutions 
+will necessarily pass.  But we’re really doing a disservice to the people of New 
+Jersey.  
+ 
+So that’s my soapbox for the moment.  I’m sorry. 
+ 
+ 
+ 
+24 
+ 
+MR. RAWLINGS:  Well, I have 
+to agree, Chairman 
+Smith.  They are understaffed and they’re overloaded.  They have a lot to 
+do.  The Clean Energy Act of 2018 was an enormous undertaking.  Switching 
+societal energy over to renewable energy is an incredibly vast and complicated 
+task, and it’s all falling on the shoulders of the BPU.  So I do understand 
+that.   
+ 
+But we do need to get working, not only to fulfill the 
+requirements of the law, but just to keep the grid running with all of the 
+renewable energy we’re throwing at it.  It’s not going to happen without 
+massive amounts of storage.  
+ 
+Furthermore, many State agencies, towns, and counties are 
+preparing to do vital storage projects for microgrid operation.  These are 
+facilities that keep vital functions going.  They’re critical facilities: hospitals, 
+senior living centers, transportation assets, sewage treatment plants -- a 
+variety of things that we have to keep running during emergencies, which we 
+learned during Hurricane Sandy.   And they can do those tasks with new 
+fossil fuel infrastructure, and many are planning to do so, not understanding 
+that there are renewable energy alternatives. 
+ 
+One thing we do not want to do is build new fossil fuel energy 
+infrastructure.  But when it comes to either meeting those critical needs 
+involving public health and safety, or building new fossil fuel infrastructure   -
+- it’s happening right now.  So we’re trying to turn the tide and switch those 
+projects over to renewable energy resources.  But there are projects that we 
+know about that are holding up issuing the RFP, because how are bidders 
+going to bid a solar-plus battery alternative if they don’t know what the State 
+incentives are going to be?  So we’re holding up real important critical 
+ 
+ 
+ 
+25 
+projects because of the lack of these incentives -- knowledge about what these 
+incentives will be.  
+ 
+The one suggestion I would make of potential amendments to 
+the Bill would be to put actual incentive levels.  We have studied the matter 
+and found that, because of market revenue that batteries can earn, the 
+incentive levels that the BPU put into a battery incentive program -- a smaller 
+one, many years ago; I think about eight years ago -- was a pretty high 
+incentive level.  We can cut that by a factor of three or four.  And so I think 
+it’s appropriate to put actual incentive levels in the Bill.  That way some of 
+these critical projects can move forward with their RFPs.  And also, we don’t 
+have to wait, who knows how long, for the deliberations that would come up 
+with those.  
+ 
+The market studies are good news.  We can, very, very 
+dramatically, reduce these incentive levels.  We would like to see them go in 
+the Bill. 
+ 
+SENATOR SMITH:  So we’d appreciate if you’d send us 
+a  communication from MSSIA, indicating what the appropriate levels of 
+support may be.  And let me say, you missed one; you missed a reason for us 
+to be really doing this.  And that is, we’re going to save money for 
+ratepayers.  What costs us a lot of money is turning on those peaker plants -
+- very, very expensive electricity -- in a time of shortage, like summer air 
+conditioning, etc.  If you had that more battery storage around our grid, you 
+would be able to take the rough edges off that to some extent.  You’d need 
+fewer peaker plants for a lower period of time, and that would save us all a 
+lot on our rates.  
+ 
+ 
+ 
+26 
+ 
+MR. RAWLINGS:  That’s a very, very good point.  And I also 
+didn’t mention that these batteries will help stabilize voltage on the grid.  So 
+brownouts, unstable voltage can happen all over the state.   They can be 
+tremendous assets that the utilities can use to keep our grid stable.  
+ 
+SENATOR SMITH:  Thank you, Lyle. 
+ 
+MR. RAWLINGS:  Thank you, sir. 
+ 
+SENATOR SMITH:  All right, next is going to be Kimberly Giese 
+from 174 Power Global.  
+ 
+While Kimberly’s coming up, Shannon Meyer-Johanson, from 
+Sol Systems, in favor, no need to testify.  Sterling Clifford, from Sunnova 
+Energy, in favor, no need to testify.  And Julian Boggs, Keystone Energy 
+Efficiency Alliance, in favor, no need to testify. 
+ 
+And so now, back to our next witness -- Kimberly Giese, from 
+174 Power Global, in favor. 
+K I M B E R L Y   G I E S E:  Thank you, Chairman, Senators, and 
+Committee. 
+ 
+ Basically, 174 Power Global is a nationwide developer of battery 
+storage and solar projects.  We do have projects in New Jersey already, as well 
+as New York.  We have three solar projects under construction in New Jersey 
+right now, and we are also participating in the Connecticut Battery Storage 
+Incentive Program that was released in January.  And we did have one call 
+with the BPU about that, to communicate what Connecticut was doing and 
+to help assist in developing the New Jersey incentive program. 
+ 
+You mentioned peaker plants.  We were awarded the 2019 
+ConEd RFP to build the 100-megawatt battery storage project in Astoria 
+Queens, which is replacing an old coal- and gas-fired peaker plant.  And that 
+ 
+ 
+ 
+27 
+battery storage facility, once built, will have enough energy to power 16,000 
+homes for four hours; and to your point, using inexpensive energy at night 
+and releasing it during great times of great peaks of energy.  
+ 
+So basically, we support SEIA’s comments, and we support an 
+upfront and performance incentive program for battery storage.  And the 
+reason I gave you the background, and one of the main reasons why, is it does 
+reduce the rates that ratepayers will pay, because it’s much less expensive 
+than building new peaker plants and larger distribution efforts.  And we’ve 
+done numerous projects and financial models, and without the Build Back 
+Better Bill passing, and stand-alone storage ITC, we often have to couple, or 
+try to couple the battery storage projects with solar to get the ITC.  And the 
+projects are just really difficult to pencil out, even with antennas, like in the 
+Connecticut market.  So we really need strong incentive programs to be able 
+to develop these projects and help New Jersey reach its storage goals and have 
+a greener, resilient grid. 
+ 
+SENATOR SMITH:  Kimberly, let me ask you a question.   
+ 
+Lyle Rawlings said our incentive is too big -- that we should cut 
+it down by a third or a fourth.  Do you agree with that?  
+ 
+MS. GIESE:  No; I think that you need strong incentive 
+programs to make these projects work.  And the whole industry just has really 
+suffered because these projects take a long time to develop, and so contracts 
+were signed two or three years ago-- 
+ 
+SENATOR SMITH:  Yes. 
+ 
+MS. GIESE:  --where lithium’s up, like, 400 percent.  Labor is 
+up, raw materials, steel--  There’s a lot of steel in the platforms of these.  And 
+ 
+ 
+ 
+28 
+they’re just -- we’re losing money on past projects, and we need assistance 
+and help to get these built. 
+ 
+SENATOR SMITH:  So do you think this new Federal money  -
+- some of which is energy-related -- that storage facilities would be eligible for 
+some of that Federal money? 
+ 
+MS. GIESE:  It depends.  I mean-- 
+ 
+SENATOR SMITH:  It always depends. 
+ 
+MS. GIESE:  You know, we were planning on 26 to 30 percent 
+ITC, which is a significant portion of these projects.   And that’s been stalled. 
+And that alone makes a lot of projects just not pencil out.  So again, we’ve 
+been trying to pair the storage projects with solar, but in dense areas that just 
+always isn’t viable. 
+ 
+So we just really support S-2185 upfront, and performance 
+incentives, to get these projects going and help New Jersey meet its targets. 
+ 
+SENATOR SMITH:  Thank you, Ms. Giese. 
+ 
+MS. GIESE:  Thank you. 
+ 
+SENATOR SMITH:  We appreciate your testimony. 
+ 
+Fred DeSanti, NJSBO (sic), in favor. 
+ 
+MR. DeSANTI:  Well, thank you again, Senator. 
+ 
+Fred DeSanti, New Jersey Solar Energy Coalition. 
+ 
+I don’t want to just spend time echoing what I’ve heard up 
+here.   It’s absolutely true; we need more help with the Board.  There’s clearly 
+a need to get a lot of these policies in place.  
+ 
+What I want to spend just a minute about is the duck curve.  We 
+haven’t talked about the duck curve, but I think we should.  The duck curve, 
+very simply, is a period of time, normally during the day, when there is more 
+ 
+ 
+ 
+29 
+renewable energy generated than is needed by the system.  So what happens 
+to the price of energy at that point?  It goes negative, meaning that we end 
+up paying fossil stations money not to run.   
+ 
+Now, think about the fact of how dysfunctional this is, in terms 
+of consequences.  If we took that same money and provided incentives for 
+batteries and other energy storage facilities, we can take that same money 
+and store that energy rather than paying people not to run.  We’re there; the 
+duck curve exists in California, it’s headed here in New Jersey because of the 
+amount of renewable.  We have to fix this. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Any questions for Fred? (no response) 
+ 
+Thank you. 
+ 
+Brett Simon, EOS Energy Enterprises, in favor. 
+ 
+Brett. 
+B R E T T   S I M O N:  I’m just going to get out my talking points. 
+ 
+Thank you so much for having me, Senator Smith, and for 
+championing this important policy.  
+ 
+My name is Brett Simon.  I am the Manager of Commercial 
+Strategy at EOS Energy Enterprises.  We have our headquarters and Battery 
+Testing Lab in Edison, New Jersey.  It’s actually the largest privately held 
+battery testing lab on the East Coast.  And we manufacture our batteries in 
+Turtle Creek, Pennsylvania.  
+ 
+We’re very proud to be an American-based and manufactured 
+zinc-based battery system.  New Jersey still has a long way to go for their 
+energy storage target.  It was alluded to earlier, but to hit that 2,000-
+megawatt target by 2030, there’s a lot of work that still needs to be done. 
+ 
+ 
+ 
+30 
+ 
+ We’re strongly supportive of this incentive, and we see this Bill 
+as a great way to kickstart the energy storage market in New Jersey.  
+ 
+Just as we have seen done in other states like New York, 
+Connecticut, and California, doing this will pave the path for a clean energy 
+transition in our home state, and create opportunities for homegrown 
+companies like ours.  We also recommend that preference be given to energy 
+storage products and service companies headquartered in New Jersey.  
+ 
+Thank you again for your time, and for supporting this crucial 
+effort. 
+ 
+SENATOR SMITH:  I like the thematic, but I enjoyed the 
+commercial at the end. (laughter) 
+ 
+Thank you very much. 
+ 
+MR. SIMON:  Thank you so much. 
+ 
+SENATOR SMITH:  Doug O’Malley, Environment New Jersey, 
+in favor. 
+ 
+MR. O’MALLEY:  Thank you, Mr. Chairman; and thank you, 
+members of the  Committee. 
+ 
+Doug O’Malley, Director of Environment New Jersey. 
+ 
+Energy storage is probably the single-most important clean 
+energy technology that we don’t talk enough about, and we don’t invest 
+enough in.  And I wanted to thank you, Chairman Smith, for your comments 
+in the budget resolution to get more funding to DEP and the Board of Public 
+Utilities.  If you’d look at comparable institutions in other states, like 
+Minnesota and New York, they have tremendously more resources.  And the 
+historic investments in our State agencies, specifically for the BPU and the 
+DEP, have decreased precipitously over the course of the last decade-plus. 
+ 
+ 
+ 
+31 
+ 
+ I’d also want to specifically highlight the funding source for this 
+Bill, which is critical, right?  We’re talking about $60 million which can jump-
+start energy storage in this state and allow us to hit the Energy Master Plan 
+goals.  Of course, that funding comes from the Societal Benefits Charge and 
+Clean Energy Fund.  And I wanted to thank you as well, Mr. Chairman, for 
+your support previously on any of the raids of the Clean Energy Fund.  We 
+have a historic surplus in front of the Legislature with this year’s budget.  This 
+is the time to end those raids so we can actually spend those dollars on clean 
+energy programs, like energy storage.  
+ 
+I wanted to highlight-- 
+ 
+SENATOR SMITH:  We reduced the raids, but there are still 
+raids going on.    
+ 
+MR. O’MALLEY:  Yes, that is correct.  It was $1.5 billion that 
+was raided in the Christie era, and it’s close to $500 million in the Murphy 
+era.  So they are still significant, as you noted. 
+ 
+I wanted to make just a couple of comments regarding this 
+particular 
+Bill.  
+There 
+is 
+actually 
+some 
+great 
+language 
+in 
+this 
+legislation.  We’re referencing not only performance incentives, but also 
+separating out a customer energy storage, and specifically prioritizing energy 
+storage for low-to-moderate-income customers, as well as overburdened 
+communities.  That is critical here because this isn’t just about the 
+(indiscernible) and large energy storage installations.  It’s also about 
+incorporating storage into homes, and then being able to make our 
+communities more resilient.  That provides, obviously, a broad benefit to the 
+grid.  
+ 
+ 
+ 
+32 
+ 
+Chairman Smith, you referenced earlier the importance of 
+storage to reduce peaker plants.  That’s hugely important.  Obviously, one of 
+the ways you do that is by having more storage distributed everywhere.  
+ 
+Thank you so much.  
+ 
+So I’m hoping, someday in New Jersey, every EV -- electronic 
+vehicle --  is a battery for the grid.   
+ 
+MR. O’MALLEY:  Exactly, exactly.  
+ 
+SENATOR SMITH:  Thank you, sir.  
+ 
+Evan Vaughan, from MAREC Action, in favor of the Bill. 
+ 
+Evan. 
+E V A N   V A U G H A N:  Thank you, Mr. Chairman, members of the 
+Committee, Vice-Chair Greenstein. 
+ 
+ I want to thank you for introducing this very important piece of 
+legislation and leading this important discussion on energy storage issues. 
+ 
+ My name, for the record, is Evan Vaughan.  I’m Deputy Director 
+of the Mid-Atlantic Renewable Energy Coalition, or MAREC Action for 
+short.  We are a membership organization of utility scale, solar wind, and 
+battery storage developers that operate in the PJM grid. 
+ 
+As you know, Chairman Smith, your leadership was instrumental 
+in getting the 2018 Energy Storage Goal for the State passed.  And we were 
+very appreciative of that goal, and these new efforts now to get that goal 
+implemented and to get these projects built. 
+ 
+ We support this Bill because it establishes an innovative energy 
+incentive program to drive new energy storage deployment; contributes to 
+more affordable, reliable, and resilient electricity supply for the State of New 
+Jersey; and it will facilitate more clean energy use in the state.   
+ 
+ 
+ 
+33 
+ 
+Specifically, we think the Bill’s approach to incentives, piloting 
+both an upfront deployment incentive, as well as a performance incentive -- 
+which will more efficiently reward battery storage projects for their services 
+that 
+they provide to the grid -- will help 
+to jumpstart this 
+industry.  Ultimately, the information gained from the pilot, as outlined in 
+the legislation, would establish a long-term program to sustain storage 
+development and build a 21st-century grid for New Jersey.  
+ 
+MAREC Action is eager to see Senate Bill 2185’s regulatory 
+updates, which would alleviate one of the biggest challenges to front-of-the-
+meter storage -- which is what our members are primarily concerned with -- 
+namely, the lack of utility tariffs grounded in the cost of service associated 
+with adding that storage to the grid.  
+ 
+As you noted, Senator Smith -- and I was very glad to hear this  
+--  we believe it is key to provide the Board of Public Utilities with resources 
+to do this; not just quickly, but also to perform quality analysis and make 
+sure that this is done right.  The more quickly that these robust energy storage 
+goals can be achieved with this legislation and the previous goal, the more 
+quickly consumers will see benefits, including cost savings from reducing 
+those peak energy-demand hours.  And those benefits will only grow as New 
+Jersey expands and achieves its RPS standards.  
+ 
+So again, thank you for this -- your leadership on the issue.  We 
+support the Bill.  
+ 
+SENATOR SMITH:  You just stimulated a crazy idea.  And I’ll 
+throw it out there. 
+ 
+What do you think about New Jersey setting up its own energy 
+storage utility?  In other words, instead of giving money to individual utilities 
+ 
+ 
+ 
+34 
+or incentivizing, they do it themselves.  And that way, you could guarantee-
+-  First of all, there would be no profit incentive.  So forget the 12 percent a 
+year forever.  And then New Jersey could locate the energy storage wherever 
+it thinks the grid would be most strengthened by it.  And it could be 
+reimbursed by Societal Benefits Charges, or in some other way, so it wouldn’t 
+necessarily impact rates.  Just something to think about.  I’m going to throw 
+that out there.  You don’t have to give me an answer to it now (laughter), but 
+if you want to, we’re willing to respond. 
+ 
+MR. VAUGHAN:  We’ll discuss it with our members.  Yes, I 
+always like inspiring crazy ideas, so I feel like I’ve done my job here. 
+ 
+Thank you, Senator. 
+ 
+SENATOR SMITH:  And by the way, does any other state do 
+that?  Does any other state have an independent corporation, or a state-
+run  corporation, that makes sure that what it wants to happen to the grid 
+actually happens?  The utilities aren’t doing it.  
+ 
+MR. VAUGHAN:  Yes, I’ll have to put some thought into it. 
+ 
+SENATOR DURR:  That would be putting your finger on the 
+scale.  I don’t think the government should be involved. 
+ 
+SENATOR SMITH:  You don’t like the finger on the scale?  All 
+right. 
+ 
+SENATOR DURR:  Let business do business; government -- just 
+regulate. 
+ 
+SENATOR SMITH:  If they do business.   
+ 
+The next Bill you’re going to hear what the real-- 
+ 
+SENATOR DURR:  Don’t have the government put their finger 
+on the scale and picking winners and losers. 
+ 
+ 
+ 
+35 
+ 
+SENATOR SMITH:  Wait till you see the next Bill. (laughter) 
+ 
+But anyway, something for people to think about. 
+ 
+MR. VAUGHAN:  Thank you. 
+ 
+SENATOR SMITH:  So Ben Graziano and Jeremy Connor, State 
+Street Associates and New Idiom Energy. 
+ 
+First, you have to tell us how to pronounce it.  And you’d like 
+amendments -- in favor, but you’d like amendments. 
+B E N   A.   G R A Z I A N O:  Yes. 
+ 
+Good morning, Chairman; it’s still morning. 
+ 
+Ben Graziano from State Street Associates; this is Jeremy Connor 
+from Novitium Energy.  They are a Jersey-based commercial solar producer.  
+ 
+We appreciate the opportunity to testify on 431 today.  I think 
+it’s 
+an 
+interesting 
+Bill.  
+It 
+deals 
+with 
+a 
+big 
+issue, 
+which 
+is 
+interconnection.  And as New Jersey has a very ambitious-- 
+ 
+SENATOR SMITH:  I think you’re on the wrong Bill. 
+ 
+MR. GRAZIANO:   Oh; we were supposed to be on 431.  Did 
+we-- 
+ 
+SENATOR DURR:  We’re on 1285 (sic). 
+ 
+SENATOR SMITH:  You signed a slip for 1285 (sic). 
+ 
+MR. GRAZIANO:  Oh, it should have been 431; I apologize. 
+ 
+SENATOR SMITH:  So do you have any comments for 2185? 
+ 
+MR. GRAZIANO:  Briefly, because I think that 2185 can fit in, 
+sort of like with what our recommendations were for 431.  I mean, we’re 
+supportive of an idea of moving towards an incentive for battery storage, 
+because we actually think that battery storage should be part of 431.  
+ 
+SENATOR SMITH:  Okay. 
+ 
+ 
+ 
+36 
+ 
+MR. GRAZIANO:  Yes. 
+ 
+SENATOR SMITH:  All right; and you’re going to have your 
+comments on the last one? 
+ 
+MR. GRAZIANO:  Yes, the last one. 
+ 
+SENATOR SMITH:  Larry Barth, New Jersey Resources, AKA 
+Clean Energy Ventures. 
+ 
+Larry, in favor. 
+ 
+MR. BARTH:  Thank you, Senator. 
+ 
+We like this Bill. 
+ 
+Larry Barth, with New Jersey Resources. 
+ 
+We like this Bill.  Two very slight modifications we’d request 
+today.  One is to explicitly recognize hydrogen storage as a storage 
+technology.  Now, I think some of my colleagues today have illustrated that 
+-- they’ve said -- when they referred to energy storage, it’s battery storage, 
+battery storage.  Hydrogen is something that’s really kind of come up quickly 
+in terms of its potential.  So in the scenario Mr. DeSanti just mentioned, 
+where you have excess renewable energy, clean energy, that can be used in 
+electrolysis to split water to capture hydrogen that can either be blended into 
+the gas system to decarbonize gas, or can be captured and stored as pure 
+hydrogen and put back into the electric system through a fuel cell.  So we just 
+would like the mention of it in the Bill. 
+ 
+SENATOR 
+SMITH:  
+So 
+I 
+think 
+that’s 
+absolutely 
+reasonable.  And everyone should know that Joey Gurrentz, who is the 
+Committee Aide, has a Ph.D. in chemistry.  And what he did his work on was 
+electrolysis. 
+ 
+MR. BARTH:  Wow.   
+ 
+ 
+ 
+37 
+ 
+SENATOR SMITH:  So there you go. (applause)  We have a lot 
+of expertise here. 
+ 
+MR. BARTH:  And I can tell you-- 
+ 
+SENATOR SMITH:  Good suggestion. 
+ 
+MR. BARTH:  And I can tell you from working with him, he’s a 
+pleasure to work with.   
+ 
+SENATOR SMITH:  Yes. 
+ 
+MR. BARTH:  The second is, we suggest--  In the Bill, it suggests 
+that the BPU take a look at net metering in the context of storage.  So that’s 
+kind of looking at rate structures.  We think it’s important that they also look 
+at time-of-use rates, right?  Because we’re talking about ways to shift load.  If 
+we do a good job with rate design, we can really encourage the behaviors that 
+shift load, and then storage is one of those technologies that can meet that 
+goal.  And really it gets us having a discussion now about -- less about 
+incentives, but more that we’ve designed the rate structures that really 
+encourage the kind of behaviors we’re looking at.  And then storage becomes 
+adopted, not because of incentives, but because it makes sense for people to 
+move from on-peak charging to off-peak charging.  
+ 
+And as you know, it’s going to be extremely important, as we talk 
+about electric vehicles, that we do that, get that right.  Otherwise, we’re going 
+to be adding a tremendous amount of load and adding all the infrastructure 
+requirements on the electric system.  So we have to get that right. 
+ 
+So time-of-use rates, I think, and storage go hand-in-hand.  And 
+I think, at the end of that, we’ll get a better result in terms of understanding 
+that maybe we need less direct incentives, and that the rates themselves can 
+do a lot of the work.  
+ 
+ 
+ 
+38 
+ 
+SENATOR SMITH:  By the way, what do you think about Mr. 
+Rawlings’ comment that the incentive for storage could be one-third or one-
+quarter less? 
+ 
+MR. BARTH:  Well, I don’t know; I haven’t looked at his 
+analysis.  But in the back of my mind, I’m thinking that maybe that’s where 
+he’s going -- is that if we do have better rate structures, then what you’re 
+going to actually need to compensate people to get them to adopt these 
+technologies may be less if we really have a good on-peak rate, and a good 
+off-peak rate, and good differentials that might actually encourage the 
+behavior to adopt storage without needing as much direct incentive.  
+ 
+So it’s something, I think, we really have to be looking at.  
+ 
+SENATOR SMITH:  I appreciate your comments. 
+ 
+MR. BARTH:  I gave our suggestions to Joey, and I appreciate 
+your considering them. 
+ 
+SENATOR SMITH:  Absolutely. 
+ 
+MR. BARTH:  Thank you. 
+ 
+SENATOR SMITH:  Thank you very much for your comments. 
+ 
+Lauren Kahme from Ecogy Energy, in favor. 
+ 
+MS. KAHME:  Thank you. 
+ 
+Yes, I’ll keep it brief. 
+ 
+Ecogy supports this Bill.  We think that expanding battery 
+storage opportunities in New Jersey, obviously, is not only obligatory 
+pursuant to Bill A-3723 from 2018 -- which established the 2000-megawatt 
+goal by 2030 -- but it is also beneficial for the local economy of New Jersey 
+as a state.  Ecogy’s portfolio includes battery energy storage, which we 
+currently have in other states throughout the Northeast.  Developers like us 
+ 
+ 
+ 
+39 
+at Ecogy will only have reason to bring our storage technologies to New Jersey 
+with such incentives.  
+ 
+So we look forward to seeing this program -- the pilot program 
+introduced.  And hopefully, a more engaged stakeholder process, as well, 
+while it’s being developed.   
+ 
+So thank you for your time.  
+ 
+SENATOR SMITH:  Thank you, Ms. Kahme. 
+ 
+The last witness is Scott Elias from the Solar Energy Industries 
+Association, in favor.  
+ 
+Mr. Elias. 
+ 
+MR. ELIAS:  Chairman Smith, members of the Committee, 
+Scott Elias.  I am the Director of Mid-Atlantic State Affairs for the Solar 
+Energy Industries Association. 
+  
+I mentioned before we have about 1,000 member companies, but 
+what we do is both solar and, increasingly, storage.  And so our members are 
+increasingly interested in whether they can invest in energy storage within 
+New Jersey.  
+ 
+We support Senate Bill 2185 and recommend its passage to 
+maintain New Jersey’s position as a clean energy leader.  And to achieve the 
+Murphy Administration’s Energy Master Plan goal of 100 percent clean 
+energy by 2050, we need to ramp up energy storage in New Jersey.  This 
+Legislature took a critical step in 2018, when it set out its visionary goal of 
+2,000 megawatts of energy storage by 2030.  But New Jersey needs effective 
+policies, programs, and mechanisms to actually reach those targets.  
+ 
+We specifically support this legislation directing the BPU to 
+develop an energy storage incentive pilot program, with $60 million per year 
+ 
+ 
+ 
+40 
+for the duration of the pilot program, before creating a permanent 
+program.  And we support the combined approach of upfront incentives for 
+customers for every kilowatt-hour of energy storage capacity they install, with 
+performance payments -- where utilities will literally pay customers to allow 
+them to dispatch power from their energy storage systems when demand for 
+electricity is at its highest, which is providing needed grid services that benefit 
+all ratepayers.  
+ 
+This approach incorporates best practices from several states in 
+New England and New York.  And it’s a cost-effective way to encourage the 
+deployment of capital and the development of both behind-the-meter storage 
+and in-front-of-the-meter storage at the distribution and transmission 
+level.  Put simply, this will reduce the upfront cost of storage technologies.  It 
+will normalize and expand solar-plus storage as a product offering in the 
+market, as well as stand-alone storage as a product offering in the market.  It 
+will improve customer resilience to grid outages, and it will provide storage 
+solutions to vulnerable communities. 
+ 
+ States with successful energy storage policies have programs 
+focused both on the deployment and optimization of energy storage 
+resources.  And that’s what this Bill does, with a wide degree of flexibility 
+offered to the BPU in how to get the job done.  
+ 
+We also support the Bill’s requirement that a third of the 
+incentives for energy storage be reserved for low-income customers, and 
+customers in overburdened communities who are most at risk for storm-
+related outages.  And while the Bill suggests that adders can be considered, 
+we do suggest that the BPU embrace a system of incentive bonuses, or adders, 
+for projects serving these LMI communities.  
+ 
+ 
+ 
+41 
+ 
+Finally, if the objective is to normalize and expand solar-plus 
+storage as a product offering in the market, one area where we think the Bill 
+can be improved is adding language to support customer- and third party-
+provided and owned meter-collared adapters, deployed for the purpose of 
+isolating a customer’s electrical load to enable the provision of backup 
+power.   Colorado recently passed a bill that does this.  This will save 
+customers installing combined solar and battery storage systems hundreds, if 
+not thousands of dollars.  And it will dramatically reduce installation 
+timelines. 
+ 
+And we’re happy to follow up with Joey with more details on that 
+suggestion.  
+ 
+So in conclusion, as climate impacts worsen, we need to make 
+sure energy storage is a driving piece of New Jersey’s clean energy 
+future.   This Bill will foster a business environment that captures the benefits 
+of energy storage on both the customer side of the meter, as well as the utility 
+side of the meter, and create a long-term demand signal that New Jersey is a 
+place to invest in the deployment of energy storage.  
+ 
+So thank you, and I’m happy to answer any questions.  
+ 
+SENATOR SMITH:  Any questions for Mr. Elias? (no response) 
+ 
+Thank you very much for your comments.   
+ 
+Mr. Elias was our last witness on 2185, which, of course, was for 
+discussion only.   The comments were very, very helpful and informative. 
+ 
+And our last hearing (sic) of the morning is S-431, 
+Smith/Greenstein, pending referral.  It directs the BPU to update 
+interconnection standards for Class 1 renewable energy sources, and develop 
+the fixed fee structure for interconnection costs. 
+ 
+ 
+ 
+42 
+ 
+So let me put this a little bit in perspective, but we’ll hear more 
+from the witnesses.   
+ 
+Last year we -- and actually over the course of the year -- we did 
+everything we could to promote solar.  When you look at the cost of solar, 
+grid-scale solar is about 40 percent of the cost of rooftop solar.  Rooftop solar 
+is a little bit expensive.  We have been criticized in The Star-Ledger -- Tom 
+Moran’s article a few Sundays ago, saying, “Too damn expensive.”  And, in 
+fact, we spend $800 million a year in subsidies for solar programs.  A lot of 
+money. 
+ 
+ We’re not doing enough to do grid-scale solar.  Even though last 
+year, you may remember, we found a way to get 5,000 acres of farmland, of 
+our huge inventory, to be accessible to grid-scale solar.  We did dual-use solar, 
+where you can continue farming and put solar on the fences overhead -- 
+whatever -- so you can do it in agricultural communities.  And by the way, 
+with the support of all the farm people -- Farm Bureau, Department of 
+Agriculture.  It included, as well, a pilot program to see what’s the best kind 
+of farm solar -- North, Central, and South Jersey.  It’s Rutgers University 
+doing a study and a pilot program.  And it ain’t happening.  We’re not getting 
+grid-scale solar in the state.  And the reason we’re not getting grid-scale solar 
+in the state is interconnection problems.  The interconnection problems are 
+-- if you are trying to do a grid-scale project, you have to make an application 
+to the local utility.  And the local utility -- depending on which one; and we 
+all know who’s really horrible at it -- but depending on which one, will take 
+six months, a year, 18 months to give you the answer.  And the answer is, 
+how do you have to change the grid in order to take the grid-scale solar 
+(indiscernible) this new facility? 
+ 
+ 
+ 
+43 
+ 
+SENATOR DURR:  So you agree; we have too much red tape in 
+this government. (laughter) 
+ 
+SENATOR SMITH:  We have way too much red tape.  And 
+added to that, all the incentives are wrong.  You may remember that we 
+deregulated the electric world in New Jersey so that utilities are now 
+plumbers.  They’re now the people who are the pipes to get electricity to a 
+customer.  They’re not generators.  The theory being by separating the two 
+of them you’re going to have a more economically efficient system.  I voted 
+against it then; and if it was up again, I’d vote against it now, because it just 
+hasn’t worked.  All the promises for deregulation were lies.  It has not made 
+this State better in terms of either the stability of the grid, or providing 
+electricity more efficiently -- blah, blah, blah, blah blah.  
+ 
+So you now have utilities having the yes or no button.  And the 
+yes or no is not only can you connect to my grid, but here’s a bill for how 
+much it’s going to cost for the revision to the infrastructure.   And even 
+though they’re not in the energy generation business, it’s not happening.  
+ 
+So I have to ask, “What’s the problem?”  And by the way, the 
+other entity at fault, besides us -- because we’re the Legislature, and we’re 
+supposed to be setting policy -- but the other entity is the BPU, because 
+they’re not requiring utilities to upgrade that part of the grid that they 
+have.  There are various parts of the grid that just couldn’t do grid-scale 
+solar.  So we’re all at fault, all right? 
+ 
+ So this Bill has two ideas in it.  The one idea is that we adopt 
+what’s called I-RECs standards.  I-RECs standards are, for lack of a better 
+phrase, the best practices for interconnections.  They actually help getting 
+more interconnections.  And the other one is support for modernizing the 
+ 
+ 
+ 
+44 
+grid.  When you have solar developers applying to connect, or anybody to 
+connect, there’s going to be a small vigorish set by how much electricity 
+you’re putting into the grid.  But only for the purpose of upgrading the grid, 
+all right? 
+ 
+So that’s what’s in the Bill.  And I have a wild and crazy idea to 
+add to it, but I don’t know if I’ll add to it now.  Some states are -- maybe I’ll 
+mention it -- some states are going with a no-export concept.  And that is -- 
+you want to cut the wires to the utility?  So you become an independent 
+entity. You generate power for hospitals, school systems, a whole bunch of 
+residential homes.  You can do that, but you can’t depend on the grid.  So 
+you have to have battery storage and you have to have emergency generation 
+capability.  And what it does-- 
+ 
+SENATOR DURR:  Doesn’t that add the risk of what happened 
+in Texas? 
+ 
+ SENATOR SMITH:  Well, I think a reasonable imitation of 
+that.  But that’s not in the Bill.  But if you have any comments, I’d love to 
+hear them. 
+ 
+So this one we have the most slips.  Let me see if there’s anybody 
+who doesn’t want to testify.  And again, it’s for discussion only.  We want to 
+vet this; we want to find out what the problems are. 
+ 
+So Elena Wiseman, Vote Solar, in favor, no need to 
+testify.  Sterling Clifford, from Sunnova, in favor, no need to 
+testify.  Shannon Meyer-Johanson, from Sol Systems, in favor, no need to 
+testify.  Larry Barth, New Jersey Resources, AKA Clean Energy Ventures, in 
+favor, no need to testify.  I have one in opposition, which is good too.   
+ 
+So that cuts the stack a little smaller. 
+ 
+ 
+ 
+45 
+ 
+Let me ask Fred DeSanti to come up, because Fred brought 
+forward a whole bunch of these ideas.  So I think you’re going to be the best 
+spokesman on why you think it’s necessary.  
+ 
+MR. DeSANTI:  Thank you, Mr. Chairman.  I very much 
+appreciate the opportunity.  
+ 
+SENATOR SMITH:  A little identification. 
+ 
+MR. DeSANTI:  Fred DeSanti, New Jersey Solar Energy 
+Coalition. 
+ 
+ I appreciate the opportunity.  This is a very important, very 
+complicated Bill.  
+ 
+I would first like to compliment the Committee -- and I failed to 
+do this earlier -- but I know at the last meeting it was mentioned that we are 
+now 20 percent lower in environmental emissions than we were in 2006.  And 
+that’s a very significant achievement, and I think that this Committee really, 
+really deserves a round of applause for the work that they’ve done in 
+achieving that, as these are policies that have been born here.  
+ 
+SENATOR SMITH:  That being said, we haven’t done enough. 
+ 
+MR. DeSANTI:  Well, that’s why we’re here.  
+ 
+SENATOR SMITH:  Okay. 
+ 
+MR. DeSANTI:  S-431 represents an important step in creating 
+actionable plans.  These are practical plans to meet the goals set forward by 
+Governor Murphy and the Board of Public Utilities.  
+ 
+The problems currently facing the solar industry are 
+unprecedented.  And if we’re going to move forward, we need the kind of 
+practical, clear-thinking approaches that exist in this Bill.  Rough justice, 
+basically, is what this comes down to.  
+ 
+ 
+ 
+46 
+ 
+I’d like to begin by calling your attention to some maps that I 
+distributed, if you have these (indicates). 
+ 
+This is actually right from the Internet; you can get these.  And 
+this shows the Atlantic City Electric territory.  
+ 
+I would call your attention to the circuits that are shown in black. 
+Those are circuits that are completely closed down.  If you’re a resident, a 
+homeowner, and you call up and say, “Geez, I’d like to have solar on my 
+roof,” even though it’s 8 to 10 kilowatts, which is a very small amount of 
+power, you’re going to be told, “No.  You live in a place where we can’t 
+accommodate any additional.”  What is not said is that while you can’t put 
+solar on, you’re still paying for it.  As a customer, you’re paying for the Clean 
+Energy Program.  The solar program is an expensive part of that.  So here in 
+black, you’ve got constituents and you’ve got customers who are paying for a 
+program that they can’t participate in.  And this is in a lot of your districts 
+right now -- thousands and thousands of people.  
+ 
+If you look at the red, you’re looking at the areas that can 
+accommodate no more than 250 kilowatts.  Two hundred fifty kilowatts is 
+about 25 homes; we’re talking about a small amount of power.  So that means 
+you can’t host community solar there.  You certainly can’t do grid supply 
+there.  You can’t host anything but a couple of residential, maybe a small 
+retail or warehouse facility.   But essentially that’s pretty close to being closed 
+as well.  
+ 
+So you take out the red and black, and that leaves you with the 
+yellow.  Yellow goes from up to 500 kW, which, again, is not very big.  You 
+still can’t-- 
+ 
+SENATOR SMITH:  Fifty homes. 
+ 
+ 
+ 
+47 
+ 
+MR. DeSANTI:  Fifty homes.  You got a situation where you still 
+can’t do community solar.  You still can’t do grid supply.  So you’re basically 
+down to the green, and you’d have to be into the dark green, actually, to get 
+into the one-and-a-half megawatt area where you can start to bring in.  
+ 
+This is a pretty serious problem because, right now, under the 
+requirements of Atlantic City Electric, they will not take more than three 
+megawatts of renewable energy on a circuit.  That’s not a lot.  
+ 
+So we’re dealing with a situation that’s upon us now.  I mean, 
+this is not far-reaching, this is not something that exists in the future.  This 
+is the way it is today, and it’s a real problem.   
+ 
+I think it’s very important and fair to compliment Atlantic City 
+Electric.  I want to repeat that.  I want to compliment Atlantic City Electric, 
+and here’s why.  In December of 2020, they proposed a base rate case.  And 
+in that base rate case, they, in and of themselves, suggested that $10 million 
+of base rates be set aside to begin to open up these circuits.  They had 38 
+circuits closed at the time.  They identified 19 transformers that needed to 
+be upgraded.  And as soon as we heard about that -- my organization, New 
+Jersey Solar Energy Coalition, Lyle, Scott -- we pooled our resources.  We 
+hired an attorney, a guy by the name of Bill Potter, who many of you 
+know,  and we said, “We’ve got to intervene on this case.  We’ve got to 
+support this.” This is the first time any utility has come up and said, “Hey, 
+we want to socialize some of these costs.  We have an obligation to these 
+customers to open it up.”   
+ 
+We were through.  We were granted, by the judge, intervention 
+status.  We participated in the case.  But at the end of the day, and perhaps 
+because of the ratepayer advocates’ objections, we learned that the Board of 
+ 
+ 
+ 
+48 
+Public Utilities staff recommended that the issue not be included in the final 
+stipulation of settlement, arguing that socializing grid modernization costs 
+was a generic utility issue.  It should be handled not on a one-off basis, but 
+in terms of, all the utilities should come to the table. 
+ 
+So in the stipulation of settlement, which we agreed to, it 
+suggested that Atlantic City Electric file a new petition; and that this new 
+petition could be resolved at the Board with all parties at the table.   
+ 
+That was March of 2021.  So we’re here, more than a year later. 
+There’s no petition.  We now have 50 circuits closed, and that’s up from 38 
+two years ago.  So the situation is getting worse, and we need to act. 
+ 
+ Now, in fairness, I don’t have to point out that both Jersey 
+Central and PSE&G’s territory are nowhere near as challenged as Atlantic 
+City’s.  That’s the result of the fact that PSE&G has a much denser 
+geographic area.  The low densities are a lot higher.  And as a result of that, 
+there’s more forgiveness in the system.  But clearly, they’re headed in the 
+same direction, because there are limits. 
+ 
+Now, in fairness, you’re going to hear a number of stories today 
+about the interminable utility delays, which are true.  The fact that many of 
+these upgrades are astronomical in cost, which is true.  But I think we also 
+have to reflect for a minute on a corollary issue about renewable energy and 
+its impact on utility earnings.  
+ 
+When a utility loses a customer, they lose throughput, they lose 
+sales, they lose revenue.  That loss in revenue results in a lower margin for 
+their shareholders.  It results in less expense money to repair the system and 
+to hire people to do that.  And, very clearly, it’s not in their best economic 
+interest.  They’re dying a death of a thousand cuts.  And here we are, as an 
+ 
+ 
+ 
+49 
+industry, saying, “Hurry up, hire more people.  Let’s accelerate your 
+bankruptcy.”  I mean, maybe I’m exaggerating with bankruptcy, but it’s 
+making things very difficult for them.  And clearly, if we’re going to get to the 
+point where we’re really going to get 750 megawatts of renewable energy 
+every year, we’re going to have to deal with the utility issue.  We’re going to 
+have to deal with the construct, the economic construct of how these folks 
+make money.  It’s called decoupling; it’s where revenue and sales are decoupled 
+so that we don’t end up in a situation where they’re incented by sales, and 
+they really take a beating if they lose money.  
+ 
+Now, I would also point out, then, the Clean Energy Act of 2018, 
+where we get into energy efficiency.  They were taken care of; they made an 
+investment in energy efficiency, they were allowed to earn a return.  If they 
+lost money because of energy efficiency, they were allowed to recover those 
+lost revenues.  So we essentially decoupled energy efficiency, and we did 
+nothing for solar.  Zero. 
+ 
+You have to re-think that policy.  I clearly think that we’re not 
+going to get to where we want to go if we don’t do that. 
+ 
+ 
+Now, quickly, there are three levels of interconnection.  Level 1 
+studies are residential; cursory examinations.  It’s 8 to 10 kilowatts; it’s not a 
+big deal.  They turn around in three days.  We get 15,000 of these things -- 
+up to 15,000 a year, and these things run a quick turnaround.   
+ 
+When you get into the Level 2 and Level 3 -- where we get into 
+what the Senator talked about, in terms of grid solutions -- you’re talking 
+about significant analyses.  They first charge you up to $30,000 dollars, and 
+these studies can take many, many months -- and do, because they’re 
+complicated.  They have to do load flow studies, they have to look at 
+ 
+ 
+ 
+50 
+overloads, they have to look at a lot of things, because these are big projects 
+coming on their circuits.  
+ 
+But under the mechanism right now, there is no funding available 
+to reopen circuits; zero.  Right now, at the end of the time when they do the 
+study, they make a very detailed estimate of all the equipment that is needed 
+for upgrade.  Whatever that number is, it debt served on the developer, and 
+the developer has to pay it immediately.  If the developer doesn’t pay it, they 
+don’t act.  Once it is paid, then the developer knows his cost and can begin 
+to commence construction on the project.  But up to that point, nothing can 
+occur.  
+ 
+Now, when we talk about the practical solutions of this Bill, I 
+think we have to look at the fact that this is an opportunity to really create a 
+fund that would be very substantial, on the backs of the development 
+community.  And they’re not doing this necessarily because they want to 
+provide funding; they’re doing this because, if they don’t do it, they don’t 
+have any place to sell.  This is going to grind to a halt.  In Atlantic City 
+Electric territory right now, as you can see from the maps, there’s not a lot of 
+places to go to sell solar.  And if you don’t have a place to go, you’re not in 
+business.   
+ 
+So this Bill offers -- and I think appropriately -- a cost-sharing 
+mechanism.  It says, let the developers pay some money; let the utility 
+ratepayers pay a share, in an equitable way, so that there’s a balance; and let’s 
+move forward to modernizing the grid.  We have to do this, and we have to 
+start now. 
+ 
+But let’s talk about the amount of money.  The Bill suggests up 
+to $50 a kilowatt for a residential home.  That means the developer would 
+ 
+ 
+ 
+51 
+send a check for up to $500 to the utility for each home, 15,000 homes a 
+year.  That’s $7.5 million.  Now, I’m not suggesting it has to be $50.  Maybe 
+in Atlantic City Electric territory, it is because that’s where they need the 
+upgrades the most.  But we would assume that in PSE&G and Jersey Central, 
+it might be $20, $30, even $10 a kilowatt.   
+ 
+So when you do that, though, you recognize that you could be 
+generating up to $7.5 million just from the residential community.  As you 
+get to larger projects where there’s a lot more that’s required to be done, here 
+you’re talking--  Let’s pick a number; let’s say it’s $100 a kilowatt instead of 
+$50, up to.  Multiply that by the residual 600 megawatts of solar on a 750 
+desired scale.  That’s $60 million.  Sixty plus $7.5 million -- $67.5 million a 
+year that the development community, up to, could put on the table and say, 
+“Let’s modernize the grid.  Let’s pay for interconnections with this.” 
+ 
+ What this Bill does is, it then says, “Okay, utilities.  Let’s 
+socialize the rest of the cost in a rough justice way.”  It doesn’t mean that any 
+individual project is not going to have some number that it knows what it’s 
+supposed to be  -- it’s going to be a fixed cost.  If you’re developing something 
+in the 50-kilowatt range, the Board of Public Utilities is going to say, “Here’s 
+what your fees are.”  They’ll know what it is, they don’t have to wait, there’s 
+no study period or anything else.  Because they know that whatever is not 
+paid for by the developer is simply going to be kicked in with residual costs 
+of the rate base.  And of course, the utilities will learn on the rate base, just 
+like they do with the Energy Efficiency Program.  
+ 
+So we think that this is a very good way to balance costs, to get 
+moving on moving this grid forward.  We spent hundreds -- not hundreds; 
+we spent billions of dollars after Superstorm Sandy making the grid much 
+ 
+ 
+ 
+52 
+more hardened.   And it helped us all.  I mean, I can’t complain about that; 
+that was money well spent.  We didn’t have a lot of outages.  But remember, 
+those are billions of dollars that were spent on treating the symptoms of 
+climate change.  We’re here now to say, “Let’s go after the cause,” which is, 
+“Let’s make the grid the system of highways.”  It’s no longer a system of 
+arteries where the heart pumps linearly to peak circuits.  We need an 
+integrated system, a modern grid, where you can get on with power at any 
+location, and they can go freely in the most efficient way the server will 
+load.  That’s where we have to get to.  If we don’t start getting on that road 
+right now, I can tell you that the industry is going to start to really close 
+down.  We have to make this -- make the decisions on these costs.  
+ 
+ I would finally argue one important thing.  You’re now meeting 
+with the Board of Public Utilities.  We’re working with the stakeholder 
+groups.  And this is a highly charged technical evaluation.  I mean, you need 
+to have an electrical engineering degree really to enter into these discussions. 
+We’re talking about reverse currents, we’re talking about Vars, we’re talking 
+about all sorts of things.  Let the technical piece reside there.  They’re 
+working on the technical.  The I-REC  things are important.  I mean, there’s 
+a free application process in here which I think is very, very 
+important.  Because what it says is, instead of paying $30,000, pay the utility 
+$1,000 and have their engineers look at the wall map and say, “You’re six 
+miles from the substation; you’re putting in 3 megawatts.  And you expect 
+not to build an express circuit at $1 million a mile back to the substation?”  
+ 
+Immediately you can wash out projects that don’t deserve to take 
+a lot of time to study.  And that’s also in the Bill.  If a project comes in and 
+the cost is way too high, the Board can say, “Developer, plus what the 
+ 
+ 
+ 
+53 
+responsibility to the ratepayers is, is still far too -- this project is far beyond 
+those bounds.”  So it’s a short circuit or a circuit breaker that says, “If the 
+cost gets too high, that project just gets kicked aside.  This is only for low-
+hanging fruit.  Let’s get the best projects done quickly.”  
+ 
+So my argument would be, let’s keep the technical stuff away. 
+This is about funding.  Because if you create the funding, it’s like if you build 
+it, they will come.  And I think this provides an equitable way for the utilities 
+to get paid, to earn a return, finally getting through some of these issues of 
+decoupling.  And it’s a way for the development community to put an 
+equitable share in.  It’s a very, very important Bill-- 
+ 
+SENATOR SMITH:  So two questions. 
+ 
+MR. DeSANTI:  Sure. 
+ 
+SENATOR SMITH:  Number one, if they’ll pass, how do we 
+know the money goes for the purpose intended? 
+ 
+MR. DeSANTI:  Well, you have the Board of Public Utilities 
+that would have oversight, through rules and regulations, that this money be 
+put into a segregated fund, and it be used and drawn down for 
+interconnection and for grid modernization purposes.  There would be a 
+system of rules and regulations that would have to flow from this. 
+ 
+SENATOR SMITH:  What impact on ratepayers? 
+ 
+MR. DeSANTI:  Well, it’s up to the Board of Public Utilities. 
+ 
+SENATOR SMITH:  Not a good enough answer.  
+ 
+MR. DeSANTI:  Not a good enough answer.   
+ 
+All right, let’s say, for sake of argument, matching.  Let’s say the 
+utility matches what the development community puts in.  In a given year, 
+ 
+ 
+ 
+54 
+we said up to $67 million; $67 million for all ratepayers.  If we come up with 
+$30 million, $30 million for all ratepayers. 
+ 
+SENATOR SMITH:  Yes, what is that spread over the--   
+ 
+MR. DeSANTI:  Thirty million dollars over all the customers in 
+the state--  Wow; I’d be guessing. 
+ 
+Lyle, any idea? 
+ 
+MR. RAWLINGS (off mic):  I’ll get back to you in a second. 
+(laughter) 
+ 
+MR. DeSANTI:  Let’s wait for him. 
+ 
+SENATOR SMITH:  All right; he’s a witness.  We’ll get it from 
+him when he gets up. 
+ 
+MR. DeSANTI:  He’s a witness. 
+ 
+It’s equitable; it has to be fairly shared.  We’ve got to modernize 
+the grid.  The grid is 100 years old.  It was designed for a completely different 
+purpose.  We need a system of highways; we need a system of byways.  This 
+has to be an equal access where you can put power in any place and take it 
+out any place.  The only way to get there is to fund it, and let’s leave the 
+technical issues to the technicians.  
+ 
+SENATOR SMITH:  Got it.  
+ 
+MR. DeSANTI:  Thank you, sir.  
+ 
+SENATOR SMITH:  Any questions for Fred? (no response) 
+ 
+All right. 
+ 
+MR. DeSANTI:  I appreciate it. 
+ 
+SENATOR 
+SMITH:  
+Thank 
+you, 
+Mr. 
+DeSanti; 
+most 
+appreciated. 
+ 
+MR. DeSANTI:  Thank you. 
+ 
+ 
+ 
+55 
+ 
+SENATOR SMITH:  Josh Lewin, Helios Solar Energy, LLC, in 
+favor. 
+J O S H   L E W I N:  Hello; this is Josh Lewin, Helios Solar Energy. 
+ 
+Thank you, everyone on the Committee; and thank you, Senator, 
+for doing everything that you’re doing for our industry and things over the 
+years.  
+ 
+The reason why I’m here is we have a -- we’ve experienced a lot 
+of circuit closures in the Atlantic City area.  These aren’t small projects; 
+they’re commercial projects, ranging from 120 kW to a megawatt.  And 
+they’re hurting three specific customers that we have.  One has a big data 
+center that they’re trying to put in, in the Millville area, which is a low 
+economic area that the Governor wants to go after.  Another is a furniture 
+store that he runs on tight margins.  He’s changing everything to EV electric 
+vehicles, heat pumps, and things like that.  And he finds solar is very helpful 
+for him and his stores and distribution centers.  Another is a big union 
+contractor down there that wants to change their entire fleets to EVs, and E   
+storage, and things like that.  And again, Atlantic City Electric has denied us 
+again and again. 
+ 
+We’ve tried multiple different ways to overcome these issues. 
+We’ve talked about battery storage and other options with them, and 
+everything, unfortunately, fell through.  
+ 
+ So we greatly appreciate what you all are trying to accomplish 
+here today.  And we look forward to helping with this help, because what we 
+see, as a business owner and things, is basically slow suffocation of our 
+business.  And we’ve been doing this for 15 years now.  Not that others here 
+haven’t been doing this much longer, and I’m grateful for everyone who has 
+ 
+ 
+ 
+56 
+come before us and things.  But I don’t see how we’re going to be able to 
+meet and (indiscernible) the state’s needs from an energy perspective, but 
+also from an employment perspective if the grid continues to slowly close in 
+major areas. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Thank you, Josh. 
+ 
+Ila Gillenwater from MSSIA and CED Greentech, in favor. 
+I L A   G I L E N W A T E R:  Thank you; good afternoon. 
+ 
+Yes, I work for CED Greentech.  I’m also on the Board of 
+MSSIA.  CED Greentech is a solar equipment distributor.  And so my clients 
+are the developers of commercial, municipal, and residential; people who are 
+selling and installing solar across our great state.  
+ 
+You know, New Jersey’s been committed to renewables with an 
+aggressive stance for a long time, with an aggressive energy plan.  And as a 
+result, we have a huge industry here, employing over 7,000 people.  And 
+what’s happening is, those solar developers are seeing a harder and harder 
+time getting projects done.   
+ 
+I thought it might be helpful for the Committee to hear a few 
+examples of those types of projects.  So I reached out to my base, and they 
+sent information on projects that were thwarted over the last few years.  And 
+it’s interesting; they’re across all the different utilities, and they’re also across 
+different types of projects.  So while, yes, ACE is one that is primarily on the 
+list, PSE&G is there, as is JCP&L.  They’re residential projects; they’re 
+municipal school projects, which I think is a big concern -- municipal schools; 
+and PSE&G in Newark and Washington Township.  There are municipal 
+schools in Gloucester County; there are projects in Upper Township, which 
+ 
+ 
+ 
+57 
+is ACE.  JCP&L has projects that have been denied for Community 
+Solar.  They were a dual-use between Community Solar and commercial 
+usage. 
+ 
+There are also some very large projects in ACE, like a 1.2-
+megawatt commercial project, where the developers often find that the 
+utilities take months, 12 to 24 months, to get back to them.  And by the time 
+that comes back, they’re asking for $700,000 worth of work.  And it makes 
+the project undoable and not able to move forward.  
+ 
+So one of the things that has come up over again -- I mentioned 
+it earlier that I’m in the solar equipment arena.  And the solar equipment has 
+the capability to make it so that the power does not have to be fed back to 
+the grid.  And that’s been a complaint from the utilities -- is that their concern 
+is that feedback to the grid.  Well, their technology is there to cut it off, and 
+they seem to ignore that fact.  That’s what the developers are telling me. 
+ 
+ So as Mr. Lewin pointed out, what’s happening is there are less 
+and less projects being able to move forward.  And it’s really hurting the jobs 
+in our state.  As I mentioned, 7,000 people are employed in our 
+industry.  And as the jobs are not being able to be fulfilled, those jobs aren’t 
+getting built.  And so their unemployment is growing in our sector.  
+ 
+I’m happy to answer any questions if you have any. 
+ 
+Thank you. 
+ 
+SENATOR SMITH:  Any questions? (no response) 
+ 
+Thank you very much for your testimony.  
+ 
+Doug O’Malley; oh, I’m sorry.  Senator Durr. 
+ 
+SENATOR DURR:  I’d like to hear from somebody who is 
+against it. 
+ 
+ 
+ 
+58 
+ 
+SENATOR SMITH:  There’s only one slip against.  Let’s get the 
+against. 
+ 
+Opposed is Melissa Sims, Ecological Systems LLC. 
+ 
+Ms. Sims, in opposition. 
+M E L I S A   S I M S:  Okay. 
+ 
+My name’s Melissa Sims.  I own a solar company; it’s a family-
+owned and run business called Ecological Systems.  We’re in Monmouth 
+County, but we work all over New Jersey. 
+ 
+ I should say I support the idea, in general, that we need to 
+modernize the grid, of course.  However, this Bill needs amendments; it needs 
+work.  So I can’t say I’m 100 percent supportive of this Bill.  
+ 
+SENATOR SMITH:  So what amendments would you like?   
+ 
+MS. SIMS:  So--  Well, first, let me say a couple of 
+things.   Recently we’ve had projects specifically in Atlantic City Electric 
+territory. They’re smaller projects; like I said, we are a residential and small 
+commercial.  So we have one residential and one small commercial that we 
+can’t get through in Atlantic City Electric territory.  So that’s a huge -- that’s 
+a huge problem.  If my company is having this problem, this is widespread 
+across everyone.  
+ 
+But there are solutions that we have in the ground right now to 
+help modernize the grid.  We talked about low-hanging fruit often in this 
+industry -- what the utility companies can do right now that is not that--  Like 
+Ila just said, there are solutions that we have right now which are--  We have 
+frequency modulation or reversing power at substations.  And, of course, 
+battery storage.  These are all solutions that can help us open the closed 
+circuits.  
+ 
+ 
+ 
+59 
+ 
+One issue I have is the -- with the I-RECs  standards.  I don’t 
+believe we should be adopting I-RECs standards.  I don’t think they’re--  We 
+already have an interconnection procedure.  I don’t think we need to revisit 
+that.  We already have that procedure in place.  
+ 
+SENATOR SMITH:  What is it in the I-RECs standards that you 
+disagree with? 
+ 
+MS. SIMS:  Well, I just -- I don’t know why we need--  We 
+already have a procedure-- 
+ 
+SENATOR SMITH:  So it’s theoretical.  Every other witness 
+said  that these interconnections are a nightmare.  So we’re trying to make it 
+a little bit faster, a little bit more efficient. 
+ 
+MS. SIMS:  Well, we already have the procedure.  It’s just that 
+the grid modernization is the issue.  So I think they’re two separate things. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+SENATOR DURR:  So you’re saying that the procedures would 
+work if the grid was modern.  
+ 
+MS. SIMS:  Yes.  
+ 
+So it should be the public utilities’ job to make the grid solar-
+ready.  It’s beneficial to everyone in New Jersey.   
+ 
+There are already tremendous fees being collected on every 
+utility bill.  I am concerned that if we--  We have this fund; we need to make 
+sure we know exactly where it’s going, exactly how it’s being used.   
+ 
+I also take issue with the Level 1 interconnection, which is 10 
+kW and under, which is usually for a residence.  It doesn’t have to be for 
+residences, but it usually is.  So those systems are already at the point of 
+ 
+ 
+ 
+60 
+use.   I don’t know why we’re adding an extra fee to that.  The system is 
+already there, so I don’t know why we would charge another fee for that.  
+ 
+So instead of public utilities--  We really need to be working 
+smarter with the solutions we already have in place.  I, 100 percent, agree 
+that we have a huge grid infrastructure problem.  We need to modernize it, 
+but we also need to reach for the low-hanging fruit that we already have in 
+place to modernize that.  And that needs to be brought up, and that needs to 
+be recognized, and we need to call attention to it.  
+ 
+So thank you.  
+ 
+SENATOR SMITH:  We appreciate your comments. 
+ 
+SENATOR DURR:  Thank you. 
+ 
+SENATOR SMITH:  Next, Doug O’Malley, Environment New 
+Jersey, in favor. 
+ 
+MR. O’MALLEY:  In favor. 
+ 
+Doug O’Malley, Environment New Jersey.  
+ 
+We support this Bill because -- for the simple reason that without 
+a working electric grid, the Wizard of Menlo Park would just be an 
+experimenter, right?  And that’s, I think, the critical thing to remind ourselves 
+-- is that we have an electric grid that does not work for Clean Energy projects 
+in a vast amount of the state.  And I’m deeply appreciative for Fred DeSanti’s 
+testimony and the map he provided to members of the Committee; and also 
+the work of Atlantic City Electric.  They recognize that this is an issue; they 
+want to fix this.   
+ 
+And I also want to note, this isn’t just Atlantic City Electric, this 
+isn’t just South Jersey.  This is also increasingly in service areas in JCP&L’s 
+service territory as well.  
+ 
+ 
+ 
+61 
+ 
+So we obviously need a statewide solution.  Because right now 
+we’re seeing a -- essentially, a de facto solar moratorium in place for certain 
+parts of the state.  I’d also want to emphasize the critical nature of offshore 
+wind, and the fact that the BPU is working with PJM on a process on how 
+we’re going to accommodate a massive influx of literally thousands of 
+megawatts of offshore wind onto the electric grid.  We can’t do that with a 
+19th-century grid or 20th-century grid.  We need to make those 
+investments.   And as we heard, there would be basically -- developers would 
+be chipping in as well as utilities.  There was a question on, kind of, what the 
+cost ultimately will be. 
+ 
+SENATOR SMITH:  Yes. 
+ 
+MR. O’MALLEY:   And I believe Lyle Rawlings will testify to 
+that a little later.  But the cost is not significant, in the sense that it’s -- all 
+costs are significant, but it’s 0.004 cents.  All costs are significant but, in this 
+case, this is not just a question of what the cost is.  It’s a question of, can the 
+cost ultimately save us by getting more clean energy onto the grid -- which, 
+as the Chairman noted, will actually reduce energy load in the highest 
+demand times, right?  So this is ultimately--  We don’t want to strangle clean 
+energy projects before they can get onto the grid, and that’s what we’re seeing 
+right now.  
+ 
+Thank you, Mr. Chairman.  
+ 
+SENATOR SMITH:  Thank you, Doug. 
+ 
+Andy Wall, from Ad Energy, in favor. 
+A N D Y   W A L L:  Hi.  Thanks for the opportunity to testify.  
+ 
+My name is Andy Wall.  I run a residential installation company 
+here in New Jersey, based down in West Berlin, New Jersey.  
+ 
+ 
+ 
+62 
+ 
+And I am in favor of the Bill.  
+ 
+What I wanted to communicate here was--  I think, for obvious 
+reasons, if we want to put up a lot of solar in the state, we have to have a 
+place to put it.  So I think it’s pretty obvious that something is needed to be 
+done, given the feeder closures that you’ve seen.  
+ 
+I wanted to talk about a kind of second-order effect, a deleterious 
+second-order effect that the closed feeders cause. 
+ 
+ So in residential solar, which is what we focus on, it is more 
+expensive than larger-scale solar that you might do.  What is perhaps less well 
+understood is that, while there are some diseconomies of scale that create 
+that extra cost, most of that cost is from marketing costs.  It’s kind of getting 
+the word out.  We’re still knocking on doors; we’re still pounding the phones 
+-- that sort of thing.   
+ 
+And so what we’re trying to do, I think it’s fair to say, is 
+transition this market from kind of the early adopters to when it’s 
+mainstream.  The cheapest customer who we acquire is the customer who has 
+a neighbor who already went solar and calls our office.  You know, that costs 
+next to nothing.  
+ 
+Now, closed feeders almost surgically target, or prevent, that 
+from 
+happening 
+because 
+these 
+closed 
+feeders 
+are 
+geographically 
+clustered.  Neighbors live on the same feeder.  So what ends up happening is, 
+that transition from early adopter to mainstream gets stifled just as it’s 
+building up some momentum.  And that means that solar for the state -- at 
+least in our corner of the market, in residential -- ends up costing work 
+because we have to go out and knock on more doors in new areas to find 
+them. 
+ 
+ 
+ 
+63 
+ 
+ That’s all I wanted to say.  Thanks. 
+ 
+SENATOR SMITH:  Thank you, Andy. 
+ 
+ The next witness is Baoli Wang from U.S. Clean Energy, in 
+favor. 
+B A O L I   W A N G,   Ph.D.:  Yes, I’m in favor of the Bill. 
+ 
+I had a very bad experience with Atlantic City Electric 
+connection.  
+ 
+And in April of last year, I started a NET meter 
+application.  They spent almost six months reviewing the design, back-and-
+forth, and then said the design passed the review.  And then later they said 
+that they need to continue to study the grid, and that we need to pay 
+$10,000, and that they need three to four more months to finish the review. 
+ 
+ And a full month later, they said the grid needs about a 
+$160,000 upgrade.  And it also needs-- 
+ 
+SENATOR SMITH:  Wow; and that’s to do--  How big a solar 
+system were you-- 
+ 
+DR. WANG:  It’s a 1.2 mega DC and 800 AC.  They need 
+$160,000 to upgrade-- 
+ 
+SENATOR SMITH:  No, no, no.  I’m asking about the 
+upgrade.  What is it you were trying to service with solar energy?  Was it your 
+house, was it a business? 
+ 
+DR. WANG:  This is a commercial warehouse. 
+ 
+SENATOR SMITH:  Okay. 
+ 
+DR. WANG:  Another to handle the $44,000 to upgrade 
+telecommunications using fiber optics.  So basically, it killed the project. 
+ 
+SENATOR SMITH:  Okay.   
+ 
+ 
+ 
+64 
+ 
+Anything else? 
+ 
+DR. WANG:  Yes; also another experience we had--  The 
+Township permitted the project, right?  They asked permitting fees of 
+$51,000 for the connection.  No, for the Township permit fee approval to 
+install.  But for comparison, I have some other similar commercial project 
+that is only a few thousand dollars.  What they’re charging, they are trying 
+to base on the (indiscernible) kW chart permitting fee, and that’s electrical   
+-- or at least $35,000; than the other fees on top of that is $51,000.  It’s too 
+much. 
+ 
+SENATOR SMITH:  Absolutely. 
+ 
+Thank you very much for your comments. 
+ 
+DR. WANG:  Thank you. 
+ 
+SENATOR SMITH:  Lyle Rawlings, MSSIA. 
+ 
+MR. RAWLINGS:  Thank you, Mr. Chairman.  
+ 
+If you’ll permit me, I’d like to give you a handout.  
+ 
+SENATOR SMITH:  Sure. 
+ 
+SENATOR DURR:  Did you get that number that Fred was 
+asking about? 
+ 
+MR. RAWLINGS:   I did, and I actually told it to Doug O’Malley 
+incorrectly, unfortunately.  So I’d like to correct it. 
+ 
+ The number -- when you spread $30 million over all of the 
+state’s power -- is 0.04 cents per kilowatt-hour.  And that’s still pretty 
+tiny.  It’s an extremely small fraction of people’s bills.  
+ 
+So this issue has been identified by the Mid-Atlantic Solar and 
+Storage Industries Association’s Board as the number one issue that we need 
+to address this year.  It’s highly urgent, and our members are desperate.  The 
+ 
+ 
+ 
+65 
+kinds of stories that you heard before -- and you’re hearing from several other 
+MSSIA members today, including me, and four members of our Board are 
+here to speak today, which speaks to the urgency.  Our members are all telling 
+us that they are getting shut down by numerous projects.  Many members are 
+saying they’re abandoning Atlantic City Electric territory all together; many, 
+many members doing that.  
+ 
+I don’t know if you’ve seen the sheet yet; has that gone 
+around?  Yes? 
+ 
+SENATOR SMITH:  Yes. 
+ 
+MR. RAWLINGS:  So the first page of that was already spoken 
+about 
+eloquently 
+by 
+Fred 
+DeSanti; 
+Atlantic 
+City 
+Electric 
+territory.  It’s  already become legendary.  It’s been shutting down for many, 
+many years already.  And when you look at the screenshot -- that’s your first 
+page -- of Atlantic City Electric’s web page that shows hosting capacity, and 
+you see these large black areas -- much larger areas now than before -- 
+completely shut down.  You see these large red areas where it’s severely, 
+severely restricted.  It’s been bad for several years, and it’s getting a lot worse. 
+ 
+But even more concerningly, if you look at the second page -- 
+that was back in February of 2020 when I made a presentation at a 
+stakeholder meeting at the BPU about the infrastructure crisis that we 
+identified at the time.  And that’s a zoomed-in view of the only really bad 
+areas in JCP&L at the time.  And you can see two red blobs; those are severely 
+restricted to under 50 kilowatts.  Those red blobs were what I zoomed in on 
+as the worst areas in JCP&L territory.  There were only two, relatively small 
+areas, and it was making the point that there are some problems 
+ 
+ 
+ 
+66 
+coming.  Here are two scary red blobs, but the rest of JCP&L territory, at the 
+time, was coded green, which is relatively open; or yellow, slightly restricted. 
+ 
+ On the next page, what you can see is a zoomed-out view of a 
+portion of JCP&L territory, where it’s turned all red.  And that’s in February 
+of 2022, when these slides were presented at another stakeholder meeting 
+out of the BPU.  So in just two years, we went, in JCP&L, from just two small 
+red blobs to a situation in which literally all of JCP&L territory is mostly red, 
+with only a little bit of green and yellow.  In other words, it flipped just in 
+the course of two years.  
+ 
+Now, the last page is a depiction of a certain area within PSE&G 
+territory.  PSE&G is in much better shape.  But you can see there is a large 
+area of red between Springfield, New Jersey, and Bristol, PA, that has turned 
+red. So it’s coming on like a freight train in PSE&G; it’s already here, pretty 
+bad, in JCP&L; and Atlantic City Electric -- not to put too fine a point on it 
+-- it’s closing down the solar.   
+ 
+So it’s also important to note the self-accelerating nature of this 
+problem.  If you’re trying to fit the same amount of solar every year into a 
+shrinking geography, then you’ve got the same amount going into less area. 
+That’s going to accelerate this process.  If, per the Energy Master Plan, you 
+want to accelerate the amount of solar you’re doing every year, it’s double 
+acceleration.  You’re doing more, and more, and more, in less and less 
+territory every year.   
+ 
+So we expect this to be a hockey stick-shaped curve, where the 
+pace of the problem is going to self accelerate.  And we believe that right now 
+we’re on the up-facing curve of that, of that hockey stick-shaped problem.  So 
+the urgency is extremely high in our membership.  
+ 
+ 
+ 
+67 
+ 
+Now, this is an extremely important Bill.  The part about 
+socializing a portion of the cost of upgrading the system is necessary for a 
+couple of different reasons.  One is, the situation we’ve had in the past is a 
+little ludicrous.  You can have a circuit that’s completely open at the 
+beginning.  You start to do a few solar projects on that circuit, maybe 5, 10, 
+20, 30 projects, and then just the last one in has to pay for upgrades for the 
+whole circuit after a large number of projects got a free ride.  It’s like a game 
+of musical chairs.  The last one in pays the entire freight.  That can’t 
+continue; it’s illogical.  Furthermore, the types of measures we’re going to 
+need in the very near future, and really now, are system-wide upgrades.  And 
+you can’t do that project by project, and say to one project, “You’ve got to 
+pay for system-wide upgrades.”  That just won’t work at all.  
+ 
+So we need a comprehensive statewide solution, and that’s why, 
+as Fred noted, we have to start to socialize these costs so that we can do these 
+system-wide upgrades that are needed.   
+ 
+We need a modern grid that’s ready for renewables; so a 
+renewable-ready grid.  We don’t have that, and we need a comprehensive 
+solution that will get us there.  
+ 
+Now, this socializing sharing formula that Fred has proposed 
+isn’t what we would prefer.  We think the societal utility compact that’s been 
+in place for 100 years is, utilities do what’s necessary to make the grid ready 
+for what society wants.  So we think it should be fully socialized.  But we 
+recognize that, because of the concerns on the other side of the consumer 
+protection entities in this state, we need a compromise.  So we’re supportive 
+of that.  
+ 
+ 
+ 
+68 
+ 
+I think probably the most important thing we want to say today 
+is that this lays the framework for how we move forward into a modern future 
+that can really support the transition to renewable energy -- that we want by 
+2030, and that we want by 2050 -- 100 percent.  But we have an urgent 
+problem now.  We are shutting down this industry, and businesses are leaving 
+the state entirely because they don’t see a future.  They’re leaving large 
+portions of this.  We need some urgent measures that can be done now.  And 
+there is low-hanging fruit.  MSSIA has identified at least four really easy, low-
+cost to no-cost measures that can open up these circuits again.  That’s what 
+we need -- is we need to start reopening these circuits to solar development. 
+ 
+ Now, this is new policy not contained in this Bill.  Perhaps this 
+needs to be in a separate bill, but this needs to happen.  We’ve got to capture 
+this low-hanging fruit; these four simple ideas that are a recipe to reopen these 
+circuits now, and we have to do that urgently.  We can’t just study the 
+problem for the next couple of years. 
+ 
+SENATOR SMITH:  So Lyle, the four low-hanging fruit -- have 
+you forwarded something to us on that? 
+ 
+MR. RAWLINGS:  We have not yet; we are ready to do so. 
+ 
+SENATOR SMITH:  Well, so one question about the Bill-- 
+ 
+MR. RAWLINGS:  Yes. 
+ 
+SENATOR SMITH:  --is, maybe we should set them up as 
+priorities.  But we can’t unless we know what they are. 
+ 
+MR. RAWLINGS:  Of course, yes.  And we do intend to send 
+those to you.  They’re very simple and easy to express.  And a lot of it is the 
+standards we have in place.  Not the procedural standards, as Melissa was 
+saying; the procedural standards right now are not that bad.  They do 
+ 
+ 
+ 
+69 
+work.   It’s the grid itself, and how we look at the grid, how utilities look at 
+the grid that’s not working.   
+ 
+So the limitations need to be done away with.   Those limitations 
+-- I represented the solar industry when interconnect standards were first 
+introduced way back in the year 2000.  It was a different world.  We had a 
+few tiny residential solar systems at that point.  Now we have thousands of 
+megawatts of solar.  So those antiquated standards from the year 2000 don’t 
+work anymore.  So we have to throw out the limitations that say only a small 
+percentage of the throughput of a substation can be allowed on.   
+ 
+Any place in the world that does large amounts of solar will put 
+enough solar on a substation to reverse flow through that substation.  And 
+that currently is not allowed in New Jersey.  We will not get there without 
+allowing reverse flow through substations.  That’s one of the four. 
+ 
+SENATOR SMITH:  Now you’re getting into the technical that 
+Fred said, “Let somebody else think about it.”   
+ 
+MR. RAWLINGS:  Well, you could say that. 
+ 
+SENATOR SMITH:  But I’d like to see what the four low-
+hanging fruit are, and we’ll take a look at it. 
+ 
+MR. RAWLINGS:  Yes, and that’s one of them, yes. 
+ 
+And it is technical, but it’s common-sense stuff that we need to 
+do urgently. 
+ 
+SENATOR SMITH:  Good. 
+ 
+MR. RAWLINGS:  Thank you. 
+ 
+SENATOR SMITH:  Kyle Wallace, Sunrun, in favor. 
+ 
+Mr. Wallace. 
+ 
+ 
+ 
+70 
+K Y L E   W A L L A C E:  Thank you, Chairman, members of the 
+Committee.  
+ 
+My name is Kyle Wallace.  I’m the Director of Public Policy for 
+Sunrun, the nation’s largest residential solar and storage installer in the 
+country.  We have over 690,000 customers, including over 40,000 in New 
+Jersey, with over 600 New Jersey employees across the state.  
+ 
+We are in strong support of Senate Bill 431.  This is an incredibly 
+necessary Bill to modernize the grid, and the interconnection standards and 
+technical requirements.  We believe the IRF model standards is a really good 
+template to start from.  It handles the whole host of issues that are currently 
+not included in New Jersey’s interconnection standards, such as non-export 
+systems, and helping deal with how you deal with batteries and some of the 
+newer technical standards that didn’t exist at the time when New Jersey 
+established their current rules. 
+ 
+ The real core of it is, it’s clear that closed circuits, in our view, 
+from a residential perspective -- I can’t tell you how frustrating it is that we 
+have customers who have been calling for years, trying to get solar on their 
+home, and they have been unable to do so because of these closed circuits.  I 
+mean, these have been an issue since at least 2016, and they’ve been growing, 
+and it’s a real problem.  
+ 
+If you look at the data from the New Jersey Clean Energy 
+Program,  residential installations in ACE are down 60 percent from 2016; 
+and that’s been accelerating.  And that’s just truly a fairness and access issue 
+-- that these customers are paying into these programs, they deserve the right 
+to be able to interconnect a system to the grid, just like their neighbors; just 
+ 
+ 
+ 
+71 
+like the folks in northern New Jersey where this is less of an issue, but a 
+growing possibility that an issue will be right around the corner. 
+ 
+The Energy Master Plan even cites this as a specific issue that 
+could grind renewable development to a halt.  We were really glad to see that, 
+but here we are, a couple of years later, and still nothing has been done about 
+it.  We really need to act, because, as Lyle mentioned, we really do see this 
+accelerating across the state.  And while it is primarily ACE right now, it’s 
+going to spread.  
+ 
+SENATOR SMITH:  And by the way, I forgot to mention it 
+when Lyle was here, but most of our witnesses are talking about this Bill from 
+an industry perspective.  But there’s another perspective to this as 
+well.  We’ve invested somewhat in making our grid more sustainable in the 
+event of weather events, etc.  But the same kinds of things that we’re doing 
+here to strengthen the grid, or modernize the grid, would help to stabilize it 
+in the event of those weather events, correct? 
+ 
+MR. WALLACE:  Yes, it could.  That’s if you have holistic 
+planning for the grid, and you’re using these upgrades, and doing it 
+strategically to make sure you’re putting in the right equipment.  Absolutely. 
+ 
+SENATOR SMITH:  Thank you. 
+ 
+MR. WALLACE:  And just as a hypothetical, just to show the 
+importance of this -- this grid modernization fee structure.  If you had this 
+fee in place in 2016 for those ACE customers when they were still at, kind 
+of, the peak of the residential installations, you’d be bringing in over $3 
+million a year, in 2016, 2017, 2018, to help fund these upgrades, which 
+would have prevented these circuits from being closed in the first place.  And 
+when you consider the cost was only $10 million to reopen all of these areas 
+ 
+ 
+ 
+72 
+in the last rate case, that would have been covered in just a matter of years 
+under these fees.  And so it really shows that this can be a really significant 
+driver of ensuring that there doesn’t need to be as much rate basing as maybe 
+some may believe there will be.  I think that these fees can do a significant 
+amount of that. 
+ 
+SENATOR SMITH:  By the way, you make an interesting 
+point.   Maybe one of the things we should consider here is a sunset provision 
+when the grid is modernized, or a reduction when the grid is modernized.  
+ 
+And by the way, I’d love to have some-- 
+ 
+SENATOR DURR:  How about not at all? 
+ 
+SENATOR SMITH:  Yes, but it’s a possibility. 
+ 
+You know, when we accomplish the purpose, that may not be the 
+worst way to do it.  Also, it probably makes it a little more salable to our 
+constituents.  And I think they realize that you have to have a grid--  By the 
+way, next time Ida comes here, you’re going to have people knocking on our 
+doors big time.   
+ 
+But part of the selling point to this is that we’re going to have a 
+strengthened grid.  And if we have a sunset so that the fees just don’t continue 
+on forever, or they get reduced, or whatever -- once the BPU has made that 
+determination -- that might be something we should consider. 
+ 
+MR. WALLACE:  And that’s where I believe the Bill has a three-
+year cycle that the BPU would review these fees and make the changes.  And 
+the way that I envision it -- granted, I don’t know if the BPU would fully 
+agree -- I do see these fees being a utility-specific fee based on the actual 
+upgrade needs.  And that they would change over time.  They’d go up when 
+ 
+ 
+ 
+73 
+you have those upgrades, and then they might go down if you can have a five-
+year period where you have fewer upgrades that are needed.   
+ 
+So we really do think it’s a dynamic mechanism that can really 
+help ensure that every customer has a right to interconnect.   
+ 
+ As a solar developer, we never love an additional fee.  That’s 
+never something we’re happy about.  But if the exchange is always being able 
+to have our customers interconnect, we view that as a worthwhile trade-off. 
+ 
+ And also on the kind of ratepayer cost perspective--  I think that 
+that is a little bit misplaced in that, if these parts of the grid are so limited in 
+their capabilities that one more residential solar PV system -- it can’t handle 
+that, how is it going to handle all the electric vehicles and the heat 
+pumps?  These upgrades are going to have to happen.  It’s not a matter of if, 
+it's when.  And if you don’t have the solar developers paying in and covering 
+some of those costs, who is going to bear those costs?  It’s going to be 100 
+percent ratepayers.  So in my view, this is a way that helps reduce the overall 
+ratepayer impact over time, unless you believe that no upgrades will actually 
+be necessary.  And I don’t know that anyone would really think that that’s 
+realistic. 
+ 
+SENATOR SMITH:  Very interesting point; thank you. 
+ 
+MR. WALLACE:  So yes, we’re very supportive.  This still differs 
+from the BPU, and I think that it complements the work they’re doing in the 
+interconnection proceeding.  If they are able to embrace smart inverter 
+technology, energy storage, limited or non-export interconnections, I think 
+we can reduce the need for upgrades through those technical changes, while 
+also providing more stable funding for those upgrades when they are 
+necessary.  
+ 
+ 
+ 
+74 
+ 
+So I think they go hand-in-hand.  This is a policy issue; it’s not 
+a technical one.  It’s how we want to pay for these upgrades.  And so I believe 
+this Bill is the right vehicle. 
+ 
+I appreciate it. 
+ 
+SENATOR SMITH:  Thank you, Mr. Wallace. 
+ 
+Any questions for Mr. Wallace? 
+ 
+SENATOR DURR:  I just feel adamant against--  These are 
+private businesses, right? 
+ 
+SENATOR SMITH:  Yes, but the grid’s not private.  And if we 
+don’t have it solved-- 
+ 
+SENATOR DURR:  It’s like a pizza shop charging me for a pizza 
+and asking me to provide the oven for it. 
+ 
+SENATOR SMITH:  I don’t see it that way, Ed.  We may    
+differ-- 
+ 
+SENATOR DURR:  I agree; the upgrades need to be made.  But 
+taxpayers shouldn’t have to pay for the upgrades.  They’re already paying for 
+the electric.  
+ 
+SENATOR SMITH:  Yes, but if the electric can’t get to them, 
+that’s the problem they have.  I mean, I see all these ancillary benefits.  Yes, 
+it’s good for the solar industry; yes, it’s good for EVs; yes, it’s good for 
+whatever the purpose may be.  But at the end of the day, if we don’t have a 
+grid that works, we’re in trouble.  And it’s that much more vulnerable when 
+these weather events come.  So my biggest selling point here is, we have to 
+finish the job on the grid, as well as I think of the ancillary benefits.  And 
+now you have somebody contributing to the cost.  That’s where I thought it 
+was one of the winning comments. 
+ 
+ 
+ 
+75 
+ 
+But thank you, Mr. Wallace. 
+ 
+MR. WALLACE:  Thank you. 
+ 
+SENATOR SMITH:  Lauren Kahme, Ecogy Energy, in favor. 
+ 
+MS. KAHME:  Thank you, Chairman, for the time. 
+ 
+I’ll make it brief. 
+ 
+Yes, Ecogy Energy supports this Bill.  Our only concern -- we 
+share the concerns that Lyle expressed on behalf of MSSIA.  But we’re 
+particularly concerned with the language in the Bill that does not define the 
+fee that would be required above 10 kW.  
+ 
+We understand that this is -- you’re giving deference to the BPU 
+to set these fees.  But as a developer, from a developer’s perspective, if you’re 
+giving the authority of the language of the Bill to set the fee at $50 per kW 
+for projects under -- like, 10 or under, we would urge the Committee to 
+consider making similar authority of decisions with projects above that.  It 
+would just give more project certainty in our financial projections to know 
+what that fee would be while we’re developing in New Jersey. 
+ 
+ So I thank you for your time.  That was the main issue, but we 
+also share the concerns that MSSIA displayed today. 
+ 
+Thank you.  
+ 
+SENATOR SMITH:  Thank you for your comments.  
+ 
+Scott Elias, Solar Energy Industries Association, in favor. 
+ 
+MR. ELIAS:  I guess it’s good afternoon now. (laughter) 
+ 
+Scott Elias with the Solar Energy Industries Association.  
+ 
+ 
+I want to focus on a couple of things here.  We already heard 
+how inadequate interconnection policy has posed a threat to New Jersey’s 
+Clean Energy bills, and I want to help -- make that a little bit more tangible. 
+ 
+ 
+ 
+76 
+ 
+ You can think about interconnection kind of like the rules of the 
+road that carry energy from its origin to its final destination.  And just like 
+we need to often update our roads, we also need to make sure that 
+interconnection policies evolve and keep pace so that these hypothetical 
+roads and bridges are not broken, preventing energy from going from one 
+destination to another.  
+ 
+I think the I-REC standards are about process; that is 
+correct.  And while I don’t think this Bill adjudicates some of the technical 
+details -- that’s smart -- there are a number of things that are missing from 
+the current processes.  So for example, right now there’s not something called 
+a pre-application report.  And that is something that’s extremely important, in 
+particular for the community solar industry.  As the name would suggest, 
+basically a developer would be able to apply; note their project location, the 
+size.  This would typically be for projects over 500 kilowatts.  And for a 
+modest fee the utility would be able to let them know a reasonable estimate 
+of the interconnection viability.  So a reasonable estimate of the cost upfront 
+before either the developer or the utility goes further down the process.  This 
+saves time, this saves money.  And if a project is extremely cost-prohibitive, 
+the developer is not going to continue to develop in that specific location.  So, 
+in particular, I want to highlight that. 
+ 
+ There are also different, sort of, dispute mechanism resolutions 
+contained within the I-REC models.  And New Jersey does not have a current 
+process 
+that 
+adequately 
+handles 
+when 
+there 
+are 
+disputes 
+over 
+interconnection, such as whether or not the utility is adhering to the timelines 
+or things of that nature.  This pre-application report concept I mentioned is 
+something that is a no-regrets approach in over 12 states.  And again, I think 
+ 
+ 
+ 
+77 
+this is a huge improvement, particularly if we do want to see at least 150 
+megawatts of community solar each year.  
+ 
+We heard a little bit today about the current problem of closed 
+circuits 
+and 
+how 
+New 
+Jersey 
+unfairly 
+allocates 
+costs 
+for 
+grid 
+modernization.   And I want to just note that what this Bill does is, it really 
+empowers the BPU and the utilities to come up with a better way to unlock 
+areas of the grid that accommodate more distributed resources, like solar.  If 
+upgrades are required to accommodate additional solar on a circuit, it is, as 
+Lyle mentioned, the unlucky project that triggers the upgrade, and they’re 
+the ones that have to pay for the full cost, even if the upgrade results in 
+additional benefits to several subsequent interconnection customers and New 
+Jersey’s ratepayers at large. 
+ 
+ The way I would think of it -- it’s kind of like moving.  Let’s say 
+you move to a new neighborhood; it’s Trenton.  And you decide you want to 
+pay for Internet service.  But if you stream that Netflix show, that is the 
+tipping point that will break the network.  You can either pay thousands of 
+dollars to be able to watch the Netflix show, and be able to access the Internet 
+to be able to do online shopping or whatever it is you want to do with the 
+Internet; or you can’t access the Internet at all.  And if you pay for these 
+upgrades, it’s not just you who is going to be benefiting from it; you’re also 
+going to pay to make sure that the Internet speed for all of your neighbors -- 
+and for anyone else who moves to Trenton after that  -- is able to have faster 
+Internet and doesn’t have the same sort of predicament.   
+ 
+Obviously, it’s unfair if you are the first mover.  If you’re 
+Company A and you’re paying 100 percent for Company B, C, D and E, and 
+that is the issue of the first mover, the cost causer -- whatever you want to call 
+ 
+ 
+ 
+78 
+it; there are a number of different names for it in the industry -- this Bill seeks 
+to resolve that.  It’s not necessarily about making sure that ratepayers are 
+paying for everything.  It’s about changing the paradigm that doesn’t work, 
+which makes it unfair for certain developers based on who gets there first.  
+ 
+And what this Bill is suggesting as an alternative model, is 
+basically a model that has cost-sharing that equitably shares the cost of 
+upgrading these infrastructure upgrades across multiple customers who 
+benefit from them; and repairs at large.  It’s a multi-beneficiary cost approach 
+-- similar to what Massachusetts is considering -- where a developer has 
+contributions capped on a dollar-per-kilowatt-hour basis and the remaining 
+costs are socialized among utility ratepayers.  This will help bring much more 
+clean energy online.  And, put simply, this Bill is creating an innovative 
+approach that distributes these costs across multiple projects.  It enables 
+proactive grid investments that are necessary for New Jersey’s clean energy 
+future, whether it’s hardening the grid to prevent outages, whether it’s 
+reopening closed circuits that are closed, or whether it’s just simply 
+modernizing the grid. 
+ 
+ So for all these reasons, SEIA is in support of this Bill.  And I 
+think a lot of the details that people want to discuss, those technical details, 
+will be worked out through the BPU process that this Bill prescribes. 
+ 
+Thank you, and I’m happy to answer any questions. 
+ 
+SENATOR SMITH:  We appreciate your comments; they were 
+very helpful. 
+ 
+ Ben Graziano and Jeremy Conner; I think you guys got up 
+before-- 
+ 
+MR. GRAZIANO (off mic):  We did. 
+ 
+ 
+ 
+79 
+ 
+SENATOR SMITH:  -- but you’re allowed to come back. 
+ 
+MR. GRAZIANO:  Thank you. 
+ 
+SENATOR SMITH:  And if you can briefly tell us what you’d 
+like to see in the way of amendments.  
+ 
+MR. GRAZIANO:  Absolutely.  
+ 
+As I said, this is -- I’m with Jeremy Connor from Novitium 
+Energy; they are an NEP partner. 
+ 
+We have a few amendments we’d like to request. 
+ 
+ First and foremost, if the Bill wants to have the desired impact 
+that everyone spoke about, I think that it should have some accountability 
+for the utilities.  I’d like to see it where, if anything, if they fail to meet their 
+obligation, there should be a penalty phase structured in there.  And as 
+Jeremy can go into a little bit more detail-- 
+ 
+SENATOR SMITH:  Penalty fees against the utilities? 
+ 
+MR. GRAZIANO:  Yes, if they fail to do the upgrades in a timely 
+manner or meet certain standards that the BPU has.  There’s simply no 
+accountability now.  And as they can tell you, a number of these companies 
+have said they’ve paid for upgrades and are waiting; I mean, in some cases, 
+over a year now, for anything to be done.  
+ 
+SENATOR SMITH:  So why don’t you send in some 
+recommendations about what you think the penalties should be. 
+ 
+MR. GRAZIANO:  We will.  Joey and I have been in 
+communication, so we’ll get everything in writing; we will. 
+ 
+Secondly, a fee structure for commercial projects; someone else 
+had mentioned it as well.  We would support that so there’s stability in the 
+ 
+ 
+ 
+80 
+marketplace.  So for commercial producers, like Jeremy here, they would 
+understand what those costs would be upfront.  
+ 
+And lastly, inclusion of other technologies, like battery storage; 
+NetZero export, which we can go into a little bit more detail on.  We think 
+that should be included in the Massachusetts bill, as mentioned.  That’s in 
+that legislation, that pending legislation, so we’d like to see that incorporated 
+in this one as well.  
+ 
+SENATOR SMITH:  So if you wouldn’t mind, and even though 
+the hour is late, can you, in three minutes, tell us about the NetZero 
+suggestion?  
+J E R E M Y   C O N N O R:  Hi,  this is Jeremy  Connor from Novitium 
+Energy.  I’m a solar developer here in New Jersey.  I’ve been here for 13-plus 
+years.  
+ 
+So basically, what we’re talking about right now is -- the big issue 
+is, the grid or the utilities do not want power to go back to their 
+infrastructure.  They don’t want us to export power to their infrastructure.   
+ 
+So we’ve actually done this in New Jersey; it actually has 
+happened.  It’s been in operation for two-plus years.  It’s a commercial school 
+district, so it’s a big user with the utility here in New Jersey.   So basically, 
+we have a control system that will basically not allow the energy to be 
+exported to the utility.  It basically shuts down the inverters, or shuts the 
+system down, or ramps the inverters down so they’ll produce less energy. 
+ 
+SENATOR SMITH:  Right.  So I think what members need to 
+know is, why would the utility be concerned.  And the answer is, they’re 
+afraid that might destabilize the grid and cause a blackout.   
+ 
+ 
+ 
+81 
+ 
+So what the gentleman is talking about is, if we’re generating 
+electricity, we can stop it from going into the grid. 
+ 
+MR. CONNOR:  Correct. 
+ 
+SENATOR SMITH:  Am I right? 
+ 
+MR. CONNOR:  Or you have a user, as an example, a 
+manufacturer, that we can only put 50 percent of the load on.  There’s not 
+enough room on their roof or their parking lot, so they’re never going to 
+export because they just use so much energy.  But even in that scenario, the 
+utility will not allow them, because they’re saying they don’t want the chance 
+that that may go back to their grid; even though this technology is proven, 
+and we’ve done it in the State of New Jersey.  It’s been in operation for two 
+years. 
+ 
+SENATOR SMITH:  Has it been done in other states? 
+ 
+MR. CONNOR:  It’s been done in Hawaii; it’s been done, I 
+think, in Connecticut and Massachusetts; it’s been all over the country. 
+ 
+MR. GRAZIANO:  New York, I believe-- 
+ 
+MR. CONNOR:  So it’s proven technology.  This is not new 
+technology that just happened a couple of months ago, or a year ago. 
+ 
+SENATOR SMITH:  All right.  And so my understanding, again, 
+of why there would be a lot of resistance from utilities -- even though they’re 
+not agreeing to the connection because they think it’s going to upset the 
+stability of the grid -- but in effect, you’re taking new markets from 
+them.  The utility always wants to have more customers that they can deliver 
+electricity to.  And this makes it much easier for a private developer to 
+provide the electricity through renewables for a facility.  But they have to 
+ 
+ 
+ 
+82 
+agree -- they can’t destabilize the grid.  The utilities would still not like it 
+because you’re taking new customers away from them. 
+ 
+Am I missing the point, or is that it? 
+ 
+MR. CONNOR:  Correct. 
+ 
+I think the other opposition is that the utility feels that they’ve 
+already approved other people in that area who we’re going to export that 
+power to the grid.  And they were hoping that that building is going to take 
+that power.  Their argument is, if that building goes dark or is no longer there, 
+they can’t make that user use power.  And that’s another opposition to this 
+scenario as well. 
+ 
+SENATOR SMITH:  All right.  So this Bill has enough 
+controversy in its current form.  So I think I’m going to introduce a separate 
+Bill on the net export concept that you have, which this -- it deserves its day 
+in the sun as well,  no pun intended (laughter) -- so we can see what the 
+benefit is for the State of New Jersey, 
+ 
+But this Bill, with the I-REC standards and the sharing costs, has 
+enough controversy.  
+ 
+Well, we had some ideas today.  Send in your cards and letters. 
+ 
+June 9 is our next meeting.  I don’t know if we’re going to be 
+ready, but we’re going to take a look at these Bills and see what we can 
+hopefully get into a final form, or a pretty good final form.   
+ 
+Did you have more you wanted to say? 
+ 
+MR. CONNOR:  We had more, yes. 
+ 
+MR. GRAZIANO:  We just-- 
+ 
+MR. CONNOR:  So I just wanted--  A lot of people brought up 
+examples about projects taking a year or two years.  I just wanted to give you 
+ 
+ 
+ 
+83 
+one example of a project that we’re doing for a school district that needs the 
+savings and needs the opportunity to use renewable energy.  
+ 
+We worked with Atlantic City Electric on a project for a school 
+district.  We started the interconnection process in October of 2019.  It took 
+four months to even hear feedback from them on how they were going to 
+proceed with the utility interconnection, after numerous attempts to call 
+them and try to find out what was going on.   
+ 
+They came back with a million-dollar upgrade to upgrade the 
+infrastructure for this project; which, two months later, we received an 
+invoice, and we paid the invoice in full.  We paid $1 million for the upgrade. 
+ 
+We still have not even started that project as far as an 
+upgrade.  The project is completely built.  The modules are on the 
+ground.  So we’re almost at three years now, where the utility has not even 
+started the project, and we’ve actually paid $1 million.   
+ 
+You know, one of the things that was mentioned is the idea of 
+roughly $10 million dollars is a number that solar developers or people would 
+pay towards these costs.  I can tell you, our company in the State of New 
+Jersey has paid over $5 million in upgrades, and we have not seen any relief 
+whatsoever.  And I’m sure the other gentlemen in this area have spent even 
+more.   
+ 
+So I think the one thing to understand is, solar energy, for some 
+of these commercial businesses, is no longer an option.  They are being 
+mandated by their publicly traded company to do solar.  And even though 
+the solar companies are going to leave this area because they can’t do business 
+here--  Because of the issue of being renewable is very important now for 
+financial reasons and customers, we’re going to see manufacturers and 
+ 
+ 
+ 
+84 
+organizations leave this area because they can do solar somewhere else, and 
+they can do what they need to do to be renewable. 
+ 
+Thank you for your time.  
+ 
+SENATOR SMITH:  Questions for the witness? (no response) 
+ 
+If not, this concludes this meeting of the most interesting 
+Committee in the Legislature. 
+ 
+ 
+ 
+(MEETING CONCLUDED) 
+ 
