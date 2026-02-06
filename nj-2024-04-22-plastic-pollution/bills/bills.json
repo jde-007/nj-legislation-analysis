@@ -1,0 +1,659 @@
+[
+  {
+    "id": "A426",
+    "synopsis": "Repeals law that prohibits certain establishments from providing or selling various single-use products to customers.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A552",
+    "synopsis": "Requires manufacturers of electric vehicles to establish and implement electric vehicle battery management plans.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "MOTOR VEHICL",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A575",
+    "synopsis": "Directs DEP to develop guidelines concerning State and local government purchase of goods made from recycled material.",
+    "status": "2RS",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "LOC GOVT",
+      "SOLID WASTE",
+      "STATE GOVT"
+    ]
+  },
+  {
+    "id": "A1249",
+    "synopsis": "Establishes \"Electric Vehicle Battery Recycling Task Force\" to study ways to safely store, reuse, recycle, and dispose of used electric vehicle batteries.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENERGY",
+      "MOTOR VEHICL",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A1420",
+    "synopsis": "Establishes \"Electric Vehicle Battery Repurposing Fund\" to support repurposing, remanufacturing, and recycling of electric vehicle batteries; dedicates amounts based on certain sales of electric vehicles.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENERGY",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A1481",
+    "synopsis": "Directs DEP to take certain actions concerning identification and testing of microplastics in drinking water, and requires DEP and BPU to study and promote use of microplastics removal technologies.",
+    "status": "WAPP",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "A1664",
+    "synopsis": "Eliminates prohibition on provision of single-use paper bags by grocery stores for delivery orders; requires certain retailers to repurpose cardboard boxes if feasible.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A2089",
+    "synopsis": "Requires certain recycling centers to report information about recycling markets and contamination to DEP.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A2094",
+    "synopsis": "Requires producers of packaging products sold in New Jersey to adopt and implement packaging product stewardship plans.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A2560",
+    "synopsis": "Requires DEP to develop, and solid waste management districts to use, standardized labels for recycling bins.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A2775",
+    "synopsis": "Prohibits sale, distribution, and import of certain products marketed as recyclable, unless DEP determines that products are widely recycled.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A2776",
+    "synopsis": "Exempts certain plastic materials processed at advanced plastic processing facilities from State laws regulating solid waste disposal and recycling.",
+    "status": "ACE",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A3070",
+    "synopsis": "Requires State entities to recycle certain materials and provide recycling bins in State buildings.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE",
+      "STATE GOVT"
+    ]
+  },
+  {
+    "id": "A3240",
+    "synopsis": "Codifies certain cannabis packaging requirements; establishes offense for minor gaining access to improperly stored cannabis products.",
+    "status": "AJU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "CRIMES",
+      "MARIJUANA"
+    ]
+  },
+  {
+    "id": "A3633",
+    "synopsis": "Establishes School Plastics Upcycling Grant Program in DEP to provide proportional awards to eligible schools based on pro rata share of plastics collected, by each school, for upcycling purposes; appropriates $5 million.",
+    "status": "AED",
+    "intro_date": "2/12/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "SCH FACILITI",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A4367",
+    "synopsis": "Requires producers of plastic packaging and certain other plastic products to reduce quantity of plastic sold; restricts additional substances under \"Toxic Packaging Reduction Act.\"",
+    "status": "AEN",
+    "intro_date": "5/16/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC"
+    ]
+  },
+  {
+    "id": "A4549",
+    "synopsis": "Authorizes grocery stores to provide certain single-use paper carryout bags to customers.",
+    "status": "AEN",
+    "intro_date": "6/13/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A4776",
+    "synopsis": "Exempts sales of tangible personal property made from 100 percent post-recycled waste and recycled materials from sales and use tax.",
+    "status": "AEN",
+    "intro_date": "9/19/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SALES TAX"
+    ]
+  },
+  {
+    "id": "A4794",
+    "synopsis": "Requires Division of Travel and Tourism to establish campaign that displays certain tourism advertisements through plastic wrapping of certain utility boxes located at intersections.",
+    "status": "ATG",
+    "intro_date": "9/19/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "COMMERCE"
+    ]
+  },
+  {
+    "id": "A4850",
+    "synopsis": "Prohibits procurement of single use plastic beverage containers by State and local government entities.",
+    "status": "AEN",
+    "intro_date": "9/23/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "LOC GOVT"
+    ]
+  },
+  {
+    "id": "A4859",
+    "synopsis": "Eliminates prohibition on paper bags, and allows packaging options, for certain grocery orders for three years; requires program for disposition of reusable bags; extends timeframe for use of certain bags by food banks and pantries.",
+    "status": "AEN",
+    "intro_date": "9/23/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A4902",
+    "synopsis": "Directs DEP to select consultant to perform Statewide needs assessment regarding recycling of packaging products; establishes \"Statewide Recycling Needs Assessment Advisory Council\" in DEP; appropriates $500,000.",
+    "status": "ABU",
+    "intro_date": "10/17/2024",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A5009",
+    "synopsis": "\"Packaging and Paper Product Stewardship Act.\"*",
+    "status": "AST",
+    "intro_date": "11/14/2024",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A5153",
+    "synopsis": "Makes annual allocation of $500,000 from Clean Communities Program Fund for public outreach concerning single-use plastics reduction program permanent.",
+    "status": "SUB",
+    "intro_date": "12/19/2024",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A5157",
+    "synopsis": "Prohibits food service business from providing single-use utensils and condiments to customers under certain circumstances and requires DEP to establish education campaign on benefits of reducing single-use utensils and condiments.*",
+    "status": "SUB",
+    "intro_date": "1/14/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "FOOD",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A5192",
+    "synopsis": "Establishes recycling program for unused road sign posts.",
+    "status": "ATR",
+    "intro_date": "1/16/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "AUTH - LOCAL"
+    ]
+  },
+  {
+    "id": "A5338",
+    "synopsis": "Repeals law prohibiting sale or distribution of single-use plastic carryout bags, single-use paper carryout bags, polystyrene foam food service products, and single-use plastic straws.",
+    "status": "AEN",
+    "intro_date": "2/20/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A5394",
+    "synopsis": "Requires certain State-funded construction projects to utilize plastic construction materials that contain certain amounts of postconsumer recycled content.",
+    "status": "SUB",
+    "intro_date": "3/6/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A5745",
+    "synopsis": "Requires large organic waste generators to separate and recycle organic waste.",
+    "status": "AEN",
+    "intro_date": "6/12/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A5852",
+    "synopsis": "Requires DEP to regulate scrap metal facilities as recycling facilities.",
+    "status": "SEN",
+    "intro_date": "6/19/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "A6005",
+    "synopsis": "Requires end-of-life recycling of solar and photovoltaic energy generation facilities and structures.",
+    "status": "SUB",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "ENERGY"
+    ]
+  },
+  {
+    "id": "A6150",
+    "synopsis": "Establishes spill prevention and reporting requirements for certain facilities that handle plastic pellets.",
+    "status": "AEN",
+    "intro_date": "12/4/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "PUB SAFETY"
+    ]
+  },
+  {
+    "id": "A6179",
+    "synopsis": "Modifies provisions concerning licenses for persons who transport, broker, or process solid waste or soil and fill recyclable materials.",
+    "status": "SUB",
+    "intro_date": "12/8/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "ACR114",
+    "synopsis": "Urges DEP and EDA to establish plastics recycling marketplace.",
+    "status": "SEN",
+    "intro_date": "2/12/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE",
+      "STATE DEPTS"
+    ]
+  },
+  {
+    "id": "AR27",
+    "synopsis": "Urges Governor to make appointments to \"Advisory Council on Solid Waste Management\" and \"Recycling Market Development Council.\"",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "GOVERNOR",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S208",
+    "synopsis": "Requires producers of packaging products sold in New Jersey to adopt and implement packaging product stewardship plans.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S224",
+    "synopsis": "Prohibits sale, distribution, and import of certain products marketed as recyclable, unless DEP determines that products are widely recycled.",
+    "status": "2RS",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S239",
+    "synopsis": "Eliminates prohibition on paper bags, and allows packaging options, for certain grocery orders for three years; requires program for disposition of reusable bags; extends timeframe for use of certain bags by food banks and pantries.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S241",
+    "synopsis": "Establishes \"Electric Vehicle Battery Repurposing Fund\" to support repurposing, remanufacturing, and recycling of electric vehicle batteries; dedicates amounts based on certain sales of electric vehicles.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENERGY",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S243",
+    "synopsis": "Requires manufacturers of electric vehicles to establish and implement electric vehicle battery management plans.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "MOTOR VEHICL",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S255",
+    "synopsis": "Establishes conditions for net metering for authorized food waste recycling facilities.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FOOD",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S353",
+    "synopsis": "Eliminates prohibition on provision of single-use paper bags by grocery stores for delivery orders; requires certain retailers to repurpose cardboard boxes if feasible.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S964",
+    "synopsis": "Eliminates prohibition on provision of single-use paper and plastic carryout bags by grocery stores for delivery, pick-up or curbside pickup orders.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S1049",
+    "synopsis": "Directs DEP to adopt regulations concerning identification and testing of microplastics in drinking water.",
+    "status": "WAPP",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "S1441",
+    "synopsis": "Establishes School Plastics Upcycling Grant Program in DEP to provide proportional awards to eligible schools based on pro rata share of plastics collected, by each school, for upcycling purposes.*",
+    "status": "AED",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "SCH FACILITI",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S2690",
+    "synopsis": "Requires State entities to recycle certain materials and provide recycling bins in State buildings.",
+    "status": "SEN",
+    "intro_date": "2/12/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE",
+      "STATE GOVT"
+    ]
+  },
+  {
+    "id": "S2751",
+    "synopsis": "Directs DEP to develop guidelines concerning State and local government purchase of goods made from recycled material.",
+    "status": "2RS",
+    "intro_date": "2/15/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "LOC GOVT",
+      "SOLID WASTE",
+      "STATE GOVT"
+    ]
+  },
+  {
+    "id": "S3135",
+    "synopsis": "Requires producers of plastic packaging and certain other plastic products to reduce quantity of plastic sold; restricts additional substances under \"Toxic Packaging Reduction Act.\"",
+    "status": "SBA",
+    "intro_date": "4/15/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC"
+    ]
+  },
+  {
+    "id": "S3195",
+    "synopsis": "Prohibits food service business from providing single-use utensils and condiments to customers under certain circumstances and requires DEP to establish education campaign on benefits of reducing single-use utensils and condiments.**",
+    "status": "APP",
+    "intro_date": "5/6/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FOOD",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S3294",
+    "synopsis": "Repeals law that prohibits certain establishments from providing or selling various single-use products to customers.",
+    "status": "SEN",
+    "intro_date": "5/20/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S3398",
+    "synopsis": "\"Packaging and Paper Product Stewardship Act.\"*",
+    "status": "SBA",
+    "intro_date": "6/3/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3399",
+    "synopsis": "Requires end-of-life recycling of solar and photovoltaic energy generation facilities and structures.",
+    "status": "APP",
+    "intro_date": "6/3/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENERGY"
+    ]
+  },
+  {
+    "id": "S3413",
+    "synopsis": "Authorizes grocery stores to provide certain single-use paper carryout bags to customers.",
+    "status": "2RS",
+    "intro_date": "6/10/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3619",
+    "synopsis": "Requires filtration system to capture microfibers and microplastics on washing machines sold on or after January 1, 2030.",
+    "status": "SEN",
+    "intro_date": "9/19/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "CONSUMER AFF",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3711",
+    "synopsis": "Makes annual allocation of $500,000 from Clean Communities Program Fund for public outreach concerning single-use plastics reduction program permanent.",
+    "status": "APP",
+    "intro_date": "10/7/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3802",
+    "synopsis": "Requires certain State-funded construction projects to utilize plastic construction materials that contain certain amounts of postconsumer recycled content.",
+    "status": "APP",
+    "intro_date": "10/21/2024",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3815",
+    "synopsis": "Directs DEP to select consultant to perform Statewide needs assessment regarding recycling of packaging products; establishes \"Statewide Recycling Needs Assessment Advisory Council\" in DEP; appropriates $500,000.",
+    "status": "SBA",
+    "intro_date": "10/24/2024",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S4238",
+    "synopsis": "Repeals law prohibiting sale or distribution of single-use plastic carryout bags, single-use paper carryout bags, polystyrene foam food service products, and single-use plastic straws.",
+    "status": "SEN",
+    "intro_date": "3/3/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S4517",
+    "synopsis": "Exempts certain compostable plastic items from ban on single-use plastic carryout products.",
+    "status": "SEN",
+    "intro_date": "5/29/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "S4877",
+    "synopsis": "Modifies provisions concerning licenses for persons who transport, broker, or process solid waste or soil and fill recyclable materials.",
+    "status": "APP",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "SR79",
+    "synopsis": "Urges Governor to make appointments to \"Advisory Council on Solid Waste Management\" and \"Recycling Market Development Council.\"",
+    "status": "SEN",
+    "intro_date": "3/4/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "GOVERNOR",
+      "SOLID WASTE"
+    ]
+  },
+  {
+    "id": "SR99",
+    "synopsis": "Urges EPA to adopt drinking water standard for microplastics and nanoplastics.",
+    "status": "FSS",
+    "intro_date": "5/6/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HAZ SUBSTANC",
+      "WATER SUPPLY"
+    ]
+  }
+]

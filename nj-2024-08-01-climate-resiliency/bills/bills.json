@@ -1,0 +1,1076 @@
+[
+  {
+    "id": "A249",
+    "synopsis": "Amends Fiscal Year 2023 annual appropriations act to prohibit use of appropriated moneys for, or to support, certain State litigation related to climate change and greenhouse gas emissions.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "STATE BUDGT"
+    ]
+  },
+  {
+    "id": "A306",
+    "synopsis": "Establishes process to exempt municipality from certain fair share affordable housing obligations based on flood risk.",
+    "status": "AHO",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "MUNICIPALITI"
+    ]
+  },
+  {
+    "id": "A427",
+    "synopsis": "Requires DEP and owners of certain reservoirs to implement certain flood control measures; authorizes Office of Emergency Management to order lowering of reservoirs levels in response to severe weather events.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "A633",
+    "synopsis": "Requires electric public utilities to implement flood mitigation plans for certain electric distribution substations; prohibits rate increase pending implementation of flood mitigation plans.",
+    "status": "ATU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "PUBLIC UTIL"
+    ]
+  },
+  {
+    "id": "A765",
+    "synopsis": "\"The Reliability, Preparedness, and Storm Response Act of 2020\"; requires public utilities to file certain information concerning emergency preparedness with BPU and increases certain penalties.",
+    "status": "APS",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "EMERG MGMT",
+      "PUBLIC UTIL"
+    ]
+  },
+  {
+    "id": "A789",
+    "synopsis": "Requires insurers that sell flood insurance to provide certain policyholders with certain information.",
+    "status": "AFI",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "INSURANCE"
+    ]
+  },
+  {
+    "id": "A968",
+    "synopsis": "Authorizes municipal challenge to non-redevelopment housing projects ordered by COAH unless order is based on exclusionary zoning; excludes flood-prone land from affordable housing vacant land analysis; provides housing obligation cap.",
+    "status": "AHO",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "FLOOD",
+      "LAND USE",
+      "MUNICIPALITI"
+    ]
+  },
+  {
+    "id": "A1290",
+    "synopsis": "Requires electric public utility to reimburse residential or commercial customer for cost of certain spoiled items resulting from service outage more than 48 hours after end of storm.",
+    "status": "ATU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "PUBLIC UTIL"
+    ]
+  },
+  {
+    "id": "A1303",
+    "synopsis": "Requires DEP to evaluate cumulative impact of stormwater when reviewing applications associated with warehouse and other high-density development projects.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "LAND USE",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A1461",
+    "synopsis": "Establishes Climate Change Mitigation and Resilience Financing Program in NJ Infrastructure Bank; imposes per-kilowatt hour charge on electric energy consumption to finance climate change mitigation and resilience projects.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "BANKING"
+    ]
+  },
+  {
+    "id": "A1739",
+    "synopsis": "Establishes process for recovery of Superstorm Sandy aid overpayments and makes General Fund appropriation.",
+    "status": "AOF",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS",
+      "STATE AID"
+    ]
+  },
+  {
+    "id": "A1756",
+    "synopsis": "Continues tax exempt status of certain real property owned by disabled veterans during reconstruction of homes destroyed by flood, storm, or other act of God.",
+    "status": "AMV",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISABLED",
+      "DISASTERS",
+      "FLOOD",
+      "PROPERTY TAX",
+      "VETERANS"
+    ]
+  },
+  {
+    "id": "A1762",
+    "synopsis": "Directs DOT and NJT to study and report on transportation infrastructure needs in coastal counties.",
+    "status": "ATR",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AUTH - STATE",
+      "TRANS PLAN"
+    ]
+  },
+  {
+    "id": "A2103",
+    "synopsis": "Establishes \"Resiliency and Environmental System Investment Charge Program.\"",
+    "status": "WAPP",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ECONOMIC DEV",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A2104",
+    "synopsis": "Requires DEP to prioritize funding for certain projects for acquisition of lands for recreation and conservation purposes and certain environmental infrastructure projects that include, or allow for, flood mitigation projects.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "FLOOD",
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "A2282",
+    "synopsis": "Establishes Office of Resilience in DCF.",
+    "status": "ACF",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "CHILDREN",
+      "HUMAN SVCS",
+      "PUB ASSIST"
+    ]
+  },
+  {
+    "id": "A2324",
+    "synopsis": "Requires hazard mitigation plans to include climate change-related threat assessments and hazard prevention and mitigation strategies.",
+    "status": "WAPP",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS",
+      "EMERG MGMT",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A2339",
+    "synopsis": "Requires electric public utility to reimburse customers for cost of certain spoiled products resulting from service outage more than 72 hours after end of storm.",
+    "status": "ATU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "PUBLIC UTIL"
+    ]
+  },
+  {
+    "id": "A2601",
+    "synopsis": "Requires DOT to prioritize green stormwater infrastructure in design, construction, reconstruction, and repair of public highways.",
+    "status": "ATR",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HIGHWAYS",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A2724",
+    "synopsis": "Authorizes issuance of Operation Desert Storm license plates.",
+    "status": "AMV",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "MV REGULATIO",
+      "VETERANS"
+    ]
+  },
+  {
+    "id": "A2904",
+    "synopsis": "Adds to property tax levy cap exclusions increases in flood insurance premiums.",
+    "status": "ASL",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "PROPERTY TAX"
+    ]
+  },
+  {
+    "id": "A3056",
+    "synopsis": "Revises permitting thresholds for certain types of development requiring CAFRA permit from DEP.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "BEACHES"
+    ]
+  },
+  {
+    "id": "A3131",
+    "synopsis": "Permits business entities and nonprofit organizations to adopt certain responsibilities related to stormwater management basins; provides corporation business tax credit for adoption of stormwater management basins in certain watersheds.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "CHARITIES",
+      "CORPORATIONS",
+      "INCOME TAX",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A3456",
+    "synopsis": "Reduces allowed diversion of funds from stormwater, water, and sewer purposes to municipal and county budgets; requires municipalities and counties to notify Division of Local Government Services of diversions.",
+    "status": "ATU",
+    "intro_date": "2/5/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "LOCAL BUDGET",
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "A3784",
+    "synopsis": "Makes $100 million in federal funds available to DEP for grants to local governments for drinking water, wastewater, and stormwater infrastructure projects. ",
+    "status": "AEN",
+    "intro_date": "2/22/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "A3910",
+    "synopsis": "Requires home insurance companies to cover water damage caused by ground seepage, water or sewer pipe damage, or flooding.",
+    "status": "W",
+    "intro_date": "2/27/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "INSURANCE",
+      "PROPERTY"
+    ]
+  },
+  {
+    "id": "A3920",
+    "synopsis": "Establishes Office of School Climate in DOE and directs School Climate State Coordinator to develop central repository of resources for parents on harassment, intimidation, and bullying in schools.",
+    "status": "AED",
+    "intro_date": "3/4/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "SCH BOARDS"
+    ]
+  },
+  {
+    "id": "A3934",
+    "synopsis": "Revises requirements for school safety teams; requires creation of district school climate improvement plans.",
+    "status": "AED",
+    "intro_date": "3/4/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "EDUCATION",
+      "SCH BOARDS"
+    ]
+  },
+  {
+    "id": "A4145",
+    "synopsis": "Excludes environmentally sensitive and flood-prone land from designation as vacant or available for purposes of affordable housing construction.",
+    "status": "AHO",
+    "intro_date": "4/4/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A4189",
+    "synopsis": "Imposes penalties on driver who willfully disables and floods motor vehicle during storm-related flooding.",
+    "status": "APS",
+    "intro_date": "4/15/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "CRIMES",
+      "MOTOR VEHICL"
+    ]
+  },
+  {
+    "id": "A4288",
+    "synopsis": "Provides exemption from DEP permit fees to municipalities after natural disaster involving flooding.",
+    "status": "AEN",
+    "intro_date": "5/6/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS",
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "A4410",
+    "synopsis": "Requires green building standards and impact studies for carbon, traffic, storm water, and schools for certain affordable housing development.",
+    "status": "AHO",
+    "intro_date": "5/16/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "ENVIRONMENT",
+      "LOC GOVT"
+    ]
+  },
+  {
+    "id": "A4579",
+    "synopsis": "Requires DOH to establish Regional Hospital System Program for Emergency Preparedness and to annually survey preparedness and resiliency of State's hospital system in event of public emergency.",
+    "status": "AHE",
+    "intro_date": "6/13/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "HEALTH FAC"
+    ]
+  },
+  {
+    "id": "A4696",
+    "synopsis": "\"Climate Superfund Act\"; imposes liability on certain fossil fuel companies for certain damages caused by climate change and establishes program in DEP to collect and distribute compensatory payments.",
+    "status": "ACE",
+    "intro_date": "9/12/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "A4815",
+    "synopsis": "Permits certain local units and authorities to reduce water, sewer, and stormwater fees and other charges for low-income persons.*",
+    "status": "ASL",
+    "intro_date": "9/19/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "AUTH - LOCAL",
+      "PUB ASSIST",
+      "PUBLIC UTIL",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5115",
+    "synopsis": "\"Flood Zone Clarification Act\"; modifies procedure for delineation of State flood hazard areas.",
+    "status": "AEN",
+    "intro_date": "12/12/2024",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "A5124",
+    "synopsis": "Amends list of hazard mitigation and resilience projects approved for funding by NJ Infrastructure Bank under FY2025 Community Hazard Assistance Mitigation Program.",
+    "status": "SUB",
+    "intro_date": "12/9/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "BANKING",
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "A5191",
+    "synopsis": "Requires DOT to establish five-year highway litter mitigation pilot program and flood mitigation pilot program in certain cities; appropriates $1 million.",
+    "status": "ATR",
+    "intro_date": "1/16/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "AUTH - LOCAL",
+      "HIGHWAYS"
+    ]
+  },
+  {
+    "id": "A5201",
+    "synopsis": "Directs DEP to develop and implement water quality, flood control, and stream restoration pilot program.",
+    "status": "AEN",
+    "intro_date": "1/16/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5226",
+    "synopsis": "Establishes Municipal Flood Management Assistance Program in DEP.",
+    "status": "AEN",
+    "intro_date": "1/27/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "MUNICIPALITI"
+    ]
+  },
+  {
+    "id": "A5298",
+    "synopsis": "Requires DEP and New Jersey Infrastructure Bank to provide priority for principal forgiveness on environmental infrastructure project loans to municipalities in coastal areas.",
+    "status": "AEN",
+    "intro_date": "2/10/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "BEACHES",
+      "STATE BUDGT"
+    ]
+  },
+  {
+    "id": "A5859",
+    "synopsis": "Eliminates five percent down payment requirement for local bond ordinances involving hazard mitigation and resilience projects.",
+    "status": "SUB",
+    "intro_date": "6/19/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "LOC GOVT"
+    ]
+  },
+  {
+    "id": "A5991",
+    "synopsis": "Requires DEP to establish online flood, rainfall, river level, and sewer capacity dashboard.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5992",
+    "synopsis": "Establishes \"Smart Stormwater Sensor Pilot Program\" in DEP; appropriates $1 million.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5993",
+    "synopsis": "Requires State Office of Emergency Management to establish hyperlocal text alert system for flood and severe weather conditions.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "COMMUNICATIO",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5994",
+    "synopsis": "Requires DEP to establish program to map stormwater infrastructure.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A5996",
+    "synopsis": "Requires developer to submit stormwater impact study as part of application for planned development site plan approval.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A6018",
+    "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation, and Mitigation program with remaining funds for unmet recovery and rebuilding needs for Superstorm Sandy-impacted homeowners.",
+    "status": "AHO",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS"
+    ]
+  },
+  {
+    "id": "A6026",
+    "synopsis": "Establishes the \"South Jersey Community Resilience Center\"; appropriates $500,000.",
+    "status": "AHE",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "HUMAN SVCS"
+    ]
+  },
+  {
+    "id": "A6036",
+    "synopsis": "Directs DEP to establish artificial intelligence flood prediction and mapping tool.",
+    "status": "AST",
+    "intro_date": "11/17/2025",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "A6270",
+    "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation and Mitigation program with remaining funds for unmet recovery and rebuilding needs for Superstorm Sandy-impacted homeowners.",
+    "status": "SUB",
+    "intro_date": "12/15/2025",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS"
+    ]
+  },
+  {
+    "id": "ACR21",
+    "synopsis": "Urges parties to 1954 U.S. Supreme Court Decree to address ongoing risk of Delaware River Basin flooding.",
+    "status": "AEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FEDERAL REL",
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "ACR71",
+    "synopsis": "Urges Congress and the President of the United States to increase subsidies for federal flood insurance.",
+    "status": "AFI",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "INSURANCE",
+      "MEMORIALIZAT"
+    ]
+  },
+  {
+    "id": "ACR150",
+    "synopsis": "Determines that DEP rules and regulations known as \" New Jersey Protecting Against Climate Change - Resilient Environment and Landscapes\" are inconsistent with legislative intent.",
+    "status": "AEN",
+    "intro_date": "1/16/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "ACR154",
+    "synopsis": "Condemns President Trump's decision to withdraw U.S. from Paris Climate Accord.",
+    "status": "AOF",
+    "intro_date": "2/13/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "FEDERAL REL"
+    ]
+  },
+  {
+    "id": "AR43",
+    "synopsis": "Constitutes special committee of General Assembly entitled \"Assembly Select Committee on New Jersey Transit and the Bound Brook Flood.\"",
+    "status": "ATR",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "LEGISLATURE",
+      "PUBLIC TRANS"
+    ]
+  },
+  {
+    "id": "AR163",
+    "synopsis": "Urges lending institutions in State to stop financing projects that contribute to climate change.",
+    "status": "AFI",
+    "intro_date": "9/26/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "BANKING",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S286",
+    "synopsis": "Permits certain local units and authorities to reduce water, sewer, and stormwater fees and other charges for low-income persons.*",
+    "status": "ASL",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AUTH - LOCAL",
+      "PUB ASSIST",
+      "PUBLIC UTIL",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "S345",
+    "synopsis": "Establishes \"Resiliency and Environmental System Investment Charge Program.\"",
+    "status": "WAPP",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ECONOMIC DEV",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S368",
+    "synopsis": "\"Flood Control, Mitigation, and Prevention Bond Act\"; authorizes bonds for up to $2 billion and appropriates $5,000.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S376",
+    "synopsis": "Establishes home elevation fund and dedicates up to $5 million of realty transfer fee revenue annually for this purpose.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "HOUSING"
+    ]
+  },
+  {
+    "id": "S580",
+    "synopsis": "Appropriates $5 million to Cranford Township for flood control projects.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "SUPPL APPROP"
+    ]
+  },
+  {
+    "id": "S760",
+    "synopsis": "Requires electric public utility to reimburse customer for cost of spoiled food and prescription medicine resulting from service outage more than 48 hours after end of storm.",
+    "status": "SEG",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "PUBLIC UTIL"
+    ]
+  },
+  {
+    "id": "S1024",
+    "synopsis": "Requires DOT to prioritize green stormwater infrastructure in design, construction, reconstruction, and repair of public highways.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "HIGHWAYS",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "S1074",
+    "synopsis": "Requires DEP to evaluate cumulative impact of stormwater when reviewing applications associated with warehouse and other high-density development projects.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "LAND USE",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "S1189",
+    "synopsis": "Revises certain eligibility requirements under NJ Aspire Program; establishes net neutral benefits test for redevelopment projects that incur certain sustainability and resiliency costs.",
+    "status": "SCM",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ECONOMIC DEV"
+    ]
+  },
+  {
+    "id": "S1342",
+    "synopsis": "Revises permitting thresholds for certain types of development requiring CAFRA permit from DEP.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "BEACHES"
+    ]
+  },
+  {
+    "id": "S1454",
+    "synopsis": "Adds to property tax levy cap exclusions increases in flood insurance premiums.",
+    "status": "SCU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "PROPERTY TAX"
+    ]
+  },
+  {
+    "id": "S1474",
+    "synopsis": "Requires DEP to prioritize funding for certain projects for acquisition of lands for recreation and conservation purposes and certain environmental infrastructure projects that include, or allow for, flood mitigation projects.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "FLOOD",
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "S1623",
+    "synopsis": "Establishes Small Business Resiliency Project Loan Program in EDA for certain small businesses implementing certain resiliency projects.",
+    "status": "SEG",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ECONOMIC DEV"
+    ]
+  },
+  {
+    "id": "S2085",
+    "synopsis": "Authorizes municipal challenge to non-redevelopment housing projects ordered by COAH unless order is based on exclusionary zoning; excludes flood-prone land from affordable housing vacant land analysis; provides housing obligation cap.",
+    "status": "SCU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "FLOOD",
+      "LAND USE",
+      "MUNICIPALITI"
+    ]
+  },
+  {
+    "id": "S2107",
+    "synopsis": "Requires DEP and owners of certain reservoirs to implement certain flood control measures; authorizes Office of Emergency Management to order lowering of reservoirs levels in response to severe weather events.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S2220",
+    "synopsis": "Establishes \"Purple Ribbon Schools Program\" in DOE to recognize public and nonpublic schools with positive school climate.",
+    "status": "SED",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "ED HEALTH",
+      "EDUCATION"
+    ]
+  },
+  {
+    "id": "S2284",
+    "synopsis": "Establishes Office of Resilience in DCF.",
+    "status": "ACF",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "CHILDREN",
+      "HUMAN SVCS",
+      "PUB ASSIST"
+    ]
+  },
+  {
+    "id": "S2307",
+    "synopsis": "Reduces allowed diversion of funds from stormwater, water, and sewer purposes to municipal and county budgets; requires municipalities and counties to notify Division of Local Government Services of diversions.",
+    "status": "SEN",
+    "intro_date": "1/25/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "LOCAL BUDGET",
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "S2455",
+    "synopsis": "Makes $100 million in federal funds available to DEP for grants to local governments for drinking water, wastewater, and stormwater infrastructure projects. ",
+    "status": "SEN",
+    "intro_date": "2/5/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "WASTEWATER",
+      "WATER SUPPLY"
+    ]
+  },
+  {
+    "id": "S3065",
+    "synopsis": "Excludes environmentally sensitive and flood-prone land from designation as vacant or available for purposes of affordable housing construction.",
+    "status": "2RS",
+    "intro_date": "4/8/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3174",
+    "synopsis": "Provides exemption from DEP permit fees to municipalities after natural disaster involving flooding.",
+    "status": "SEN",
+    "intro_date": "5/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS",
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S3271",
+    "synopsis": "Requires green building standards and impact studies for carbon, traffic, storm water, and schools for certain affordable housing development.",
+    "status": "SCU",
+    "intro_date": "5/16/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "ENVIRONMENT",
+      "LOC GOVT"
+    ]
+  },
+  {
+    "id": "S3312",
+    "synopsis": "Establishes process to exempt municipality from certain fair share affordable housing obligations based on flood risk.",
+    "status": "SCU",
+    "intro_date": "6/3/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "AFFORD HOUS",
+      "MUNICIPALITI"
+    ]
+  },
+  {
+    "id": "S3480",
+    "synopsis": "Permits municipalities to adopt more stringent site improvement standards for storm water management related to residential developments.",
+    "status": "SCU",
+    "intro_date": "6/20/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "MUNICIPALITI",
+      "WASTEWATER"
+    ]
+  },
+  {
+    "id": "S3545",
+    "synopsis": "\"Polluters Pay to Make New Jersey More Affordable Act\"; imposes liability on certain fossil fuel companies for funds needed for climate change adaptation projects; establishes program in DEP to collect and distribute funds.*",
+    "status": "2RS",
+    "intro_date": "9/12/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S3880",
+    "synopsis": "Amends list of hazard mitigation and resilience projects approved for funding by NJ Infrastructure Bank under FY2025 Community Hazard Assistance Mitigation Program.",
+    "status": "APP",
+    "intro_date": "11/18/2024",
+    "sponsors": [],
+    "subjects": [
+      "BANKING",
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S3935",
+    "synopsis": "\"Flood Zone Clarification Act\"; modifies procedure for delineation of State flood hazard areas.",
+    "status": "SEN",
+    "intro_date": "12/9/2024 ",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S4091",
+    "synopsis": "Requires DEP and New Jersey Infrastructure Bank to provide priority for principal forgiveness on environmental infrastructure project loans to municipalities in coastal areas.",
+    "status": "SEN",
+    "intro_date": "2/3/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "BEACHES",
+      "STATE BUDGT"
+    ]
+  },
+  {
+    "id": "S4117",
+    "synopsis": "\"Climate Corporate Data Accountability Act\"; requires certain business entities to publicize annual greenhouse gas emissions data.",
+    "status": "SBA",
+    "intro_date": "2/3/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "S4395",
+    "synopsis": "\"Flood Zone Clarification Act\"; modifies procedure for delineation of State flood hazard areas.",
+    "status": "SEN",
+    "intro_date": "5/19/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD"
+    ]
+  },
+  {
+    "id": "S4472",
+    "synopsis": "Eliminates five percent down payment requirement for local bond ordinances involving hazard mitigation and resilience projects.",
+    "status": "APP",
+    "intro_date": "5/19/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "LOC GOVT"
+    ]
+  },
+  {
+    "id": "S4722",
+    "synopsis": "Creates Joint Blue Ribbon Task Force on Impacts of Climate Change on Property Insurance.",
+    "status": "2RS",
+    "intro_date": "10/20/2025",
+    "sponsors": [],
+    "subjects": [
+      "INSURANCE",
+      "PROPERTY"
+    ]
+  },
+  {
+    "id": "S4788",
+    "synopsis": "Requires four-year public institutions of higher education to require undergraduate students to complete course on climate change.",
+    "status": "SHI",
+    "intro_date": "10/27/2025",
+    "sponsors": [],
+    "subjects": [
+      "HIGHER ED"
+    ]
+  },
+  {
+    "id": "S4812",
+    "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation and Mitigation program with remaining funds for unmet recovery and rebuilding needs for Superstorm Sandy-impacted homeowners.",
+    "status": "APP",
+    "intro_date": "11/6/2025 ",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS"
+    ]
+  },
+  {
+    "id": "SCR20",
+    "synopsis": "Urges President and Congress to enact legislation forgiving community disaster loans issued after Superstorm Sandy.",
+    "status": "SCU",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "DISASTERS",
+      "MEMORIALIZAT"
+    ]
+  },
+  {
+    "id": "SCR21",
+    "synopsis": "Urges Congress to investigate claims that insurance companies have used revised engineering reports to deny flood claims from Superstorm Sandy.",
+    "status": "SCM",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "INSURANCE"
+    ]
+  },
+  {
+    "id": "SCR22",
+    "synopsis": "Urges U.S. Department of Justice to investigate certain claims handling practices related to Superstorm Sandy flood insurance claims.",
+    "status": "SCM",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "INSURANCE"
+    ]
+  },
+  {
+    "id": "SCR76",
+    "synopsis": "Urges Congress and the President of the United States to increase subsidies for federal flood insurance.",
+    "status": "SCM",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "FLOOD",
+      "INSURANCE",
+      "MEMORIALIZAT"
+    ]
+  },
+  {
+    "id": "SCR122",
+    "synopsis": "Determines that DEP rules and regulations known as \" New Jersey Protecting Against Climate Change - Resilient Environment and Landscapes\" are inconsistent with legislative intent.",
+    "status": "SEN",
+    "intro_date": "2/3/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT"
+    ]
+  },
+  {
+    "id": "SCR124",
+    "synopsis": "Condemns President Trump's decision to withdraw U.S. from Paris Climate Accord.",
+    "status": "2RS",
+    "intro_date": "2/3/2025 0",
+    "sponsors": [],
+    "subjects": [
+      "ENVIRONMENT",
+      "FEDERAL REL"
+    ]
+  },
+  {
+    "id": "SR15",
+    "synopsis": "Urges lending institutions in State to stop financing projects that contribute to climate change.",
+    "status": "SEN",
+    "intro_date": "1/9/2024 0",
+    "sponsors": [],
+    "subjects": [
+      "BANKING",
+      "ENVIRONMENT"
+    ]
+  }
+]

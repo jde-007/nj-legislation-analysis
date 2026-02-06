@@ -1,0 +1,57 @@
+"Code","Description","House","Group","Type","Aide","Phone","ModDate"
+"AAN","Agriculture and Food Security","A","D","Standing Reference","Andrew Edmonson, Adaline B. Kaser","(609)847-3855 or e-mail: OLSAideAAN@njleg.org",11/13/2025 0:00:00
+"AAP","Appropriations","A","B","Standing Reference","Scott A. Brodsky, Patrick J. Walsh, Estela M. Zampardi","(609)847-3835 or e-mail: OLSAideAAP@njleg.org",10/23/2025 0:00:00
+"ABD","Select Committee on Ballot Design","A",,"Special","Ryan Brinkerhoff, Mary Lawlor","(609)847-3890 or email: OLSAideABD@njleg.org",12/9/2024 0:00:00
+"ABPL","Bipartisan Leadership Committee",,,"Special","David J. Rosen","(609)847-3105",10/23/2024 0:00:00
+"ABU","Budget","A","D","Standing Reference","Scott A. Brodsky, Patrick J. Walsh, Estela M. Zampardi","(609)847-3835 or e-mail: OLSAideABU@njleg.org",10/23/2025 0:00:00
+"ACE","Commerce, Economic Development and Agriculture","A","B","Standing Reference","Carolina Guzman, Abigail Stoyer","(609)847-3875 or e-mail: OLSAideACE@njleg.org",8/5/2025 0:00:00
+"ACF","Children, Families and Food Security","A","C","Standing Reference","Michele Leblanc, Emely D. Ramirez","609-847-3860 or email: OLSAideACF@njleg.org",10/23/2024 0:00:00
+"ACO","Consumer Affairs","A","A","Standing Reference","Kathryn Meza, Jaime Velazquez","(609)847-3870 or e-mail: OLSAideACO@njleg.org",11/7/2025 0:00:00
+"ACW","Community Development and Women's Affairs","A","A","Standing Reference","Gabriella Ferri, Anuja Pande Joshi","(609)847-3865 or e-mail: OLSAideACW@njleg.org",10/11/2024 0:00:00
+"AED","Education","A","C","Standing Reference","Abigail G. Chambers, Lauren E. Ploucha","(609)847-3850 or e-mail: OLSAideAED@njleg.org",2/5/2025 0:00:00
+"AEN","Environment, Natural Resources, and Solid Waste","A","D","Standing Reference","Christina Denney","(609)847-3855 or e-mail: OLSAideAEN@njleg.org",2/14/2025 0:00:00
+"AFI","Financial Institutions and Insurance","A","A","Standing Reference","Elvin Perez","(609)847-3845 or e-mail: OLSAideAFI@njleg.org",3/5/2025 0:00:00
+"AHE","Health","A","A","Standing Reference","Anne Cappabianca, Richard Diaconu","(609)847-3860 or e-mail: OLSAideAHE@njleg.org",2/3/2025 0:00:00
+"AHI","Higher Education","A","A","Standing Reference","Jessica S. Rueb","(609)847-3850 or e-mail: OLSAideAHI@njleg.org",11/7/2025 0:00:00
+"AHO","Housing","A","B","Standing Reference","Chris Jewett","(609)847-3875 or e-mail: OLSAideAHO@njleg.org",11/7/2025 0:00:00
+"AHS","Homeland Security and State Preparedness","A","D","Standing Reference","Kristin Brunner Santos, Kathryn Meza","(609)847-3870 or e-mail: OLSAideAHS@njleg.org",10/23/2024 0:00:00
+"AHU","Aging and Human Services","A","D","Standing Reference","Manpreet Kaur, Michele Leblanc","(609)847-3860 or e-mail: OLSAideAHU@njleg.org",10/23/2024 0:00:00
+"AJU","Judiciary","A","C","Standing Reference","Michael Davila, William Lim","(609)847-3865 or e-mail: OLSAideAJU@njleg.org",11/7/2025 0:00:00
+"ALA","Labor","A","C","Standing Reference","Jamie E. Galemba, Jamie L. Jennings","(609)847-3845 or e-mail: OLSAideALA@njleg.org",11/7/2025 0:00:00
+"AMV","Military and Veterans' Affairs","A","C","Standing Reference","Anna Harris, Kaela Reyes","(609)847-3890 or e-mail: OLSAideAMV@njleg.org",1/17/2025 0:00:00
+"ANR","Special Committee on Infrastructure and Natural Resources","A","C","Special","Christina Denney, Carolina Guzman","(609)847-3855 or e-mail: OLSAideANR@njleg.org",1/16/2024 0:00:00
+"AOF","Oversight, Reform and Federal Relations","A","B","Standing Reference","Camryn Mathews, Zachary Ostrow","(609)847-3890 or e-mail: OLSAideAOF@njleg.org",11/7/2025 0:00:00
+"APS","Public Safety and Preparedness","A","B","Standing Reference","Kristin Brunner Santos, Ian Siracusa","(609)847-3870 or e-mail: OLSAideAPS@njleg.org",11/7/2025 0:00:00
+"ARP","Regulated Professions","A","B","Standing Reference","Liza Ackerman, Madeline L. Reeve","(609)847-3845 or e-mail: OLSAideARP@njleg.org",5/5/2025 0:00:00
+"ASE","Aging and Senior Services","A","B","Standing Reference","Emely Ramirez, Sarah M. Schmidt","(609)847-3860 or e-mail: OLSAideASE@njleg.org",9/9/2024 0:00:00
+"ASI","Select Committee on Investigation",,,"Special","Charles A. Buono, Jr.","(609)847-3840 or e-mail: OLSAideASI@njleg.org",4/14/2025 0:00:00
+"ASL","State and Local Government","A","D","Standing Reference","Adrian Crook, Local Government, Mary Lawlor, State Government","(609)847-3890(State Govt.), (609)847-3875(Local Govt.) or e-mail: OLSAideASL@njleg.org",4/23/2025 0:00:00
+"AST","Science, Innovation and Technology","A","D","Standing Reference","Andrew Edmonson, Steve Z. Weng","(609)847-3840 or e-mail: OLSAideAST@njleg.org",11/7/2025 0:00:00
+"ATG","Tourism, Gaming and the Arts","A","D","Standing Reference","Ryan Brinkerhoff, Zachary Ostrow","(609)847-3890 or e-mail OLSAideATG@njleg.org",11/7/2025 0:00:00
+"ATR","Transportation and Independent Authorities","A","C","Standing Reference","Miranda Crowley, Amanda DeMarco","(609)847-3840 or e-mail: OLSAideATR@njleg.org",11/7/2025 0:00:00
+"ATU","Telecommunications and Utilities","A","A","Standing Reference","Miranda Crowley, Steve Z. Weng","(609)847-3840 or e-mail: OLSAideATU@njleg.org",11/7/2025 0:00:00
+"SBA","Budget and Appropriations","S","2","Standing Reference","Sean G. Giblin, Joseph A. Pistritto","(609) 847-3835 or e-mail: OLSAideSBA@njleg.org",10/23/2025 0:00:00
+"SCEB","Select Commission on Emergency COVID-19 Borrowing",,,"Select",,"609-847-3835 or e-mail: OLSAideSCEB@njleg.org",10/23/2024 0:00:00
+"SCM","Commerce","S","3","Standing Reference","Liza Ackerman, Jamie E. Galemba","(609)847-3845 or e-mail: OLSAideSCM@njleg.org",5/5/2025 0:00:00
+"SCU","Community and Urban Affairs","S","1","Standing Reference","Grace Ahlin, Tara Howley","(609)847-3875 or e-mail: OLSAideSCU@njleg.org",10/1/2025 0:00:00
+"SED","Education","S","1","Standing Reference","Amanda Bastelica, Jacquelyn N. Corsentino","(609)847-3850 or e-mail: OLSAideSED@njleg.org",10/23/2024 0:00:00
+"SEG","Economic Growth","S","3","Standing Reference","Amanda DeMarco, Suzanne Miller","(609)847-3840 or e-mail: OLSAideSEG@njleg.org",10/7/2025 0:00:00
+"SEGS","Select Committee on Economic Growth  Strategies","S",,"Special","Patrick Brennan, Andrew Ward, Erin Clark","609-847-3840 or e-mail: OLSAideSEGS@njleg.org",10/23/2024 0:00:00
+"SEN","Environment and Energy","S","3","Standing Reference","Eric Hansen","(609)847-3855 or e-mail: OLSAideSEN@njleg.org",8/26/2025 0:00:00
+"SFF","Select Committee on School Funding Fairness","S",,"Special","Allen T. Dupree","(609)847-3850",10/23/2024 0:00:00
+"SHH","Health, Human Services and Senior Citizens","S","2","Standing Reference","Justin Lucero, Sarah M. Schmidt","(609)847-3860 or e-mail: OLSAideSHH@njleg.org",10/1/2024 0:00:00
+"SHI","Higher Education","S","3","Standing Reference","Humphrey N. Akujobi, Sarah Haimowitz","(609)847-3850 or e-mail: OLSAideSHI@njleg.org",10/29/2025 0:00:00
+"SJU","Judiciary","S","4","Standing Reference","David J. Lorette","(609)847-3901 or e-mail: OLSAideSJU@njleg.org",1/9/2026 0:00:00
+"SLA","Labor","S","1","Standing Reference","John Gaudioso, Nicole Siracusa","(609)847-3845 or e-mail: OLSAideSLA@njleg.org",5/5/2025 0:00:00
+"SLO","Legislative Oversight","S",,"Standing Administrative","Madelynn K. Correnti, Neha Mehta Patel","(609)847-3855 or e-mail: OLSAideSLO@njleg.org",10/30/2024 0:00:00
+"SLP","Law and Public Safety","S","4","Standing Reference","Amanda D. Holland, Thomas M. Kelly","(609)847-3870 or e-mail: OLSAideSLP@njleg.org",10/23/2024 0:00:00
+"SMV","Military and Veterans' Affairs","S","4","Standing Reference","Megan Grasso, Tracey F. Pino Murphy","(609)847-3890 or e-mail: OLSAideSMV@njleg.org",8/26/2025 0:00:00
+"SNJT","Select Committee on New Jersey Transit","S",,"Select","Patrick Brennan, Philip M. Mersinger","(609)847-3840 or e-mail: OLSAideSNJT@njleg.org",10/23/2024 0:00:00
+"SPDC","Legislative Panel on State Psychiatric Hospitals and Develop",,,"Special","Irene M. McCarthy","(609)847-3860",10/23/2024 0:00:00
+"SRC","Senate Fiscal Recovery Strategists",,,"Special",,,5/15/2020 0:00:00
+"SRUL","Rules and Order","S",,"Standing Administrative",,"(609)847-3901 or e-mail: OLSAideSRUL@njleg.org",10/23/2024 0:00:00
+"SSC","Select Committee","S",,"Special","Andrew Edmonson, Kelly E. Monahan","(609)847-3840 or email OLSAideSSC@njleg.org",3/20/2025 0:00:00
+"SSG","State Government, Wagering, Tourism & Historic Preservation","S","4","Standing Reference","Ryan Brinkerhoff, Mary Lawlor","(609)847-3890 or e-mail: OLSAideSSG@njleg.org",10/23/2024 0:00:00
+"SSI","Select Committee on Investigation",,,"Special","Maureen McMahon","(609)847-3840 or e-mail: OLSAideSSI@njleg.org",4/14/2025 0:00:00
+"SSOC","Select Oversight Committee",,,"Special",,,4/14/2025 0:00:00
+"STR","Transportation","S","1","Standing Reference","Kelly E. Monahan, Michael D. Walker","(609)847-3840 or e-mail: OLSAideSTR@njleg.org",2/19/2025 0:00:00

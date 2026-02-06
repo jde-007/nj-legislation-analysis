@@ -1,0 +1,228 @@
+{
+  "hearing": "Climate Resiliency (August 1, 2024)",
+  "total_bills": 98,
+  "themes": [
+    {
+      "id": "sea-level-projections",
+      "witness": "Dr. Anthony Broccoli",
+      "claim": "NJ sea level rise projections: 2.1 ft by 2050, 5.1 ft by 2100",
+      "recommendation": "Use science-based projections for planning",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "storm-surge-modeling",
+      "witness": "Dr. Ning Lin",
+      "claim": "Storm surge + sea level rise creates compound flood risk",
+      "recommendation": "Integrate storm surge models into planning",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "coastal-engineering",
+      "witness": "Dr. Thomas Herrington",
+      "claim": "Beach nourishment provides $1.3B in storm damage savings (Sandy)",
+      "recommendation": "Continue coastal protection investments",
+      "matching_bills": [
+        {
+          "bill_id": "A3056",
+          "synopsis": "Revises permitting thresholds for certain types of development requiring CAFRA permit from DEP.",
+          "status": "AEN",
+          "matched_keywords": [
+            "beach",
+            "coastal"
+          ]
+        },
+        {
+          "bill_id": "S4091",
+          "synopsis": "Requires DEP and New Jersey Infrastructure Bank to provide priority for principal forgiveness on env",
+          "status": "SEN",
+          "matched_keywords": [
+            "beach",
+            "coastal"
+          ]
+        },
+        {
+          "bill_id": "A5298",
+          "synopsis": "Requires DEP and New Jersey Infrastructure Bank to provide priority for principal forgiveness on env",
+          "status": "AEN",
+          "matched_keywords": [
+            "beach",
+            "coastal"
+          ]
+        },
+        {
+          "bill_id": "S1342",
+          "synopsis": "Revises permitting thresholds for certain types of development requiring CAFRA permit from DEP.",
+          "status": "SEN",
+          "matched_keywords": [
+            "beach",
+            "coastal"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    },
+    {
+      "id": "blue-acres",
+      "witness": "Multiple",
+      "claim": "Managed retreat/buyout programs successful post-Sandy",
+      "recommendation": "Expand Blue Acres program",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "flood-disclosure",
+      "witness": "Dr. Ning Lin",
+      "claim": "Property buyers need flood risk information",
+      "recommendation": "Require flood risk disclosure in real estate",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "infrastructure-resilience",
+      "witness": "Multiple",
+      "claim": "Infrastructure must be designed for future climate",
+      "recommendation": "Update building codes for climate resilience",
+      "matching_bills": [
+        {
+          "bill_id": "S1024",
+          "synopsis": "Requires DOT to prioritize green stormwater infrastructure in design, construction, reconstruction, ",
+          "status": "SEN",
+          "matched_keywords": [
+            "infrastructure",
+            "design"
+          ]
+        },
+        {
+          "bill_id": "A2601",
+          "synopsis": "Requires DOT to prioritize green stormwater infrastructure in design, construction, reconstruction, ",
+          "status": "ATR",
+          "matched_keywords": [
+            "infrastructure",
+            "design"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    },
+    {
+      "id": "climate-financing",
+      "witness": "Multiple",
+      "claim": "Climate adaptation requires dedicated funding",
+      "recommendation": "Create climate resilience financing programs",
+      "matching_bills": [
+        {
+          "bill_id": "S1474",
+          "synopsis": "Requires DEP to prioritize funding for certain projects for acquisition of lands for recreation and ",
+          "status": "SEN",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "S3545",
+          "synopsis": "\"Polluters Pay to Make New Jersey More Affordable Act\"; imposes liability on certain fossil fuel com",
+          "status": "2RS",
+          "matched_keywords": [
+            "fund",
+            "adaptation"
+          ]
+        },
+        {
+          "bill_id": "A6018",
+          "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation, and Mitigation program with remain",
+          "status": "AHO",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "A6270",
+          "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation and Mitigation program with remaini",
+          "status": "SUB",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "A1461",
+          "synopsis": "Establishes Climate Change Mitigation and Resilience Financing Program in NJ Infrastructure Bank; im",
+          "status": "AEN",
+          "matched_keywords": [
+            "financing",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "A2104",
+          "synopsis": "Requires DEP to prioritize funding for certain projects for acquisition of lands for recreation and ",
+          "status": "SEN",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "S4812",
+          "synopsis": "Requires DCA to resume Reconstruction, Rehabilitation, Elevation and Mitigation program with remaini",
+          "status": "APP",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "S3880",
+          "synopsis": "Amends list of hazard mitigation and resilience projects approved for funding by NJ Infrastructure B",
+          "status": "APP",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        },
+        {
+          "bill_id": "A5124",
+          "synopsis": "Amends list of hazard mitigation and resilience projects approved for funding by NJ Infrastructure B",
+          "status": "SUB",
+          "matched_keywords": [
+            "fund",
+            "mitigation"
+          ]
+        }
+      ],
+      "adopted": true,
+      "ignored": false
+    },
+    {
+      "id": "hazard-mitigation-plans",
+      "witness": "Multiple",
+      "claim": "Hazard mitigation plans need climate change integration",
+      "recommendation": "Require climate change in hazard mitigation plans",
+      "matching_bills": [
+        {
+          "bill_id": "A2324",
+          "synopsis": "Requires hazard mitigation plans to include climate change-related threat assessments and hazard pre",
+          "status": "WAPP",
+          "matched_keywords": [
+            "hazard mitigation",
+            "plan",
+            "climate change",
+            "assessment"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    }
+  ]
+}

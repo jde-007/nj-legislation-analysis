@@ -1,0 +1,1217 @@
+"CommHouse","Date","Time","Type","Location","Comments","RevDate","Status","ModDate"
+"A","1/12/2026","12:00 PM","Session","Assembly Chambers","Voting Session (Sine Die):",,"Scheduled",1/6/2026 15:23:00
+"A","1/13/2026","12:00 PM","Session","War Memorial","Reorganization of the Assembly for the 222nd Legislature",,"Scheduled",1/10/2026 11:34:00
+"A","1/14/2025","03:00 PM","Quorum","Assembly Chambers",,,"Scheduled",1/9/2025 12:41:00
+"A","1/16/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",1/10/2025 13:28:00
+"A","1/2/2026","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",12/30/2025 16:37:00
+"A","1/23/2025","01:00 PM","Quorum","Assembly Chambers","Immediately following quorum, Assemblywoman-select Melinda Kane and Assemblyman-select Alaa Abdelaziz will be sworn in as Members of the General Assembly.
+10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",1/21/2025 12:07:00
+"A","1/27/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",1/22/2025 16:56:00
+"A","1/29/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",1/24/2024 14:32:00
+"A","1/30/2025","01:00 PM","Session","Assembly Chambers","Assemblyman-select Balvir Singh will be sworn in as a Member of the General Assembly.
+Election of Speaker Pro Tempore of the General Assembly.
+Voting Session:",,"Scheduled",1/28/2025 10:39:00
+"A","1/5/2026","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",12/30/2025 16:51:00
+"A","1/8/2026","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",1/2/2026 17:16:00
+"A","1/9/2024","12:00 PM","Session","The War Memorial","Reorganization",,"Scheduled",1/3/2024 16:07:00
+"A","10/17/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",10/16/2024 13:10:00
+"A","10/21/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",10/16/2024 13:09:00
+"A","10/24/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",10/18/2024 14:20:00
+"A","10/28/2024","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",10/22/2024 13:07:00
+"A","11/13/2025","01:00 PM","Quorum","Assembly Chambers",,,"Scheduled",11/10/2025 10:32:00
+"A","11/14/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",11/8/2024 14:04:00
+"A","11/17/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",11/13/2025 9:09:00
+"A","11/24/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",11/20/2025 9:11:00
+"A","12/11/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",12/5/2025 15:08:00
+"A","12/12/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",12/6/2024 13:13:00
+"A","12/15/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",12/10/2025 14:31:00
+"A","12/16/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",12/11/2024 14:25:00
+"A","12/18/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",12/12/2025 14:31:00
+"A","12/19/2024","12:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",12/13/2024 15:35:00
+"A","12/22/2025","11:00 AM","Session","Assembly Chambers","Voting Session:",,"Scheduled",12/16/2025 15:45:00
+"A","12/4/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",11/26/2025 11:35:00
+"A","12/8/2025","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",12/2/2025 14:43:00
+"A","12/9/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",12/6/2024 10:33:00
+"A","2/1/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",1/26/2024 12:42:00
+"A","2/10/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",2/5/2025 13:00:00
+"A","2/12/2024","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",2/7/2024 9:26:00
+"A","2/13/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",2/7/2025 11:25:00
+"A","2/20/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",2/14/2025 16:53:00
+"A","2/22/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",2/16/2024 12:03:00
+"A","2/25/2025","03:00 PM","Quorum","Assembly Chambers",,,"Scheduled",2/20/2025 18:38:00
+"A","2/27/2024","02:00 PM","Quorum","Assembly Chambers",,,"Scheduled",2/21/2024 16:42:00
+"A","2/27/2025","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",2/21/2025 13:27:00
+"A","2/5/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",1/31/2024 16:35:00
+"A","2/8/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",2/2/2024 16:44:00
+"A","3/10/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",3/5/2025 11:08:00
+"A","3/11/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/6/2024 14:55:00
+"A","3/14/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/8/2024 13:08:00
+"A","3/17/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/12/2025 16:00:00
+"A","3/18/2024","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",3/12/2024 13:31:00
+"A","3/20/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/14/2025 12:52:00
+"A","3/24/2025","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",3/18/2025 16:09:00
+"A","3/4/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",2/28/2024 16:42:00
+"A","3/6/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",2/28/2025 13:04:00
+"A","3/7/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/4/2024 14:37:00
+"A","4/10/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",4/4/2025 13:18:00
+"A","4/11/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",4/5/2024 14:43:00
+"A","4/15/2024","11:00 AM","Session","Assembly Chambers","Voting Session:",,"Scheduled",4/9/2024 15:01:00
+"A","4/4/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",3/28/2024 14:28:00
+"A","4/8/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",4/3/2024 17:06:00
+"A","5/10/2024","12:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",5/7/2024 13:40:00
+"A","5/13/2024","02:00 PM","Session","Assembly Chambers","10:00 AM: Committee Groups (A) and (B) Scheduled to meet
+Voting Session:",,"Scheduled",5/10/2024 9:32:00
+"A","5/15/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",5/9/2025 14:30:00
+"A","5/16/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",5/10/2024 13:27:00
+"A","5/2/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",4/26/2024 16:52:00
+"A","5/20/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",5/15/2024 12:07:00
+"A","5/22/2025","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",5/16/2025 16:07:00
+"A","5/5/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",4/30/2025 14:32:00
+"A","5/6/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",5/1/2024 12:35:00
+"A","5/8/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",5/2/2025 13:05:00
+"A","6/12/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",6/6/2025 11:00:00
+"A","6/13/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/7/2024 12:03:00
+"A","6/16/2025","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",6/11/2025 13:57:00
+"A","6/17/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/12/2024 15:26:00
+"A","6/19/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/13/2025 14:32:00
+"A","6/20/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/14/2024 13:48:00
+"A","6/23/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/18/2025 16:05:00
+"A","6/24/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/20/2024 9:19:00
+"A","6/24/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/20/2025 14:36:00
+"A","6/25/2024","01:00 PM","Quorum","Assembly Chambers",,,"Scheduled",6/20/2024 15:48:00
+"A","6/25/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/23/2025 12:34:00
+"A","6/26/2024","02:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/25/2024 18:15:00
+"A","6/26/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/24/2025 12:55:00
+"A","6/27/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",6/25/2025 12:56:00
+"A","6/28/2024","12:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",6/26/2024 12:31:00
+"A","6/3/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",5/29/2024 16:52:00
+"A","6/30/2025","11:00 AM","Session","Assembly Chambers","Voting Session:",,"Scheduled",6/25/2025 18:14:00
+"A","6/6/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",5/31/2024 12:41:00
+"A","7/24/2025","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",7/18/2025 16:43:00
+"A","9/12/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (A) Scheduled to meet
+2:00 PM: Committee Group (B) Scheduled to meet",,"Scheduled",9/6/2024 13:04:00
+"A","9/19/2024","01:00 PM","Quorum","Assembly Chambers","10:00 AM: Committee Group (C) Scheduled to meet
+2:00 PM: Committee Group (D) Scheduled to meet",,"Scheduled",9/13/2024 11:42:00
+"A","9/23/2024","01:00 PM","Quorum","Assembly Chambers","Committees at the Call of the Speaker",,"Scheduled",9/18/2024 15:45:00
+"A","9/26/2024","01:00 PM","Session","Assembly Chambers","Voting Session:",,"Scheduled",9/20/2024 16:36:00
+"AAP","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:13:00
+"AAP","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:24:00
+"AAP","1/8/2026","11:30 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 1/6/26 - A1457 (2R), A4083 (2R), A4137, A4463 (1R), A4604/S3517, A4860/S2160 (1R), A5012 (1R)/S3906 (2R), A5042 (1R), A5308, A5371 (1R)/S4219 (3R), A5394 (1R)/S3802 (3R), A5636/S3751, A5638/S3754 (1R), A5758, A5870 (1R), A5886 (1R), A5935, A5936,",1/8/2026 0:00:00,"Scheduled",1/8/2026 12:15:00
+"AAP","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 11:00:00
+"AAP","10/24/2024","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 10/22/24 - A4544 and A4970 have been added.
+**Revised 10/23/24 - A4220 (ACS/1R), A4684 (1R), and A4751 have been added.
+***Revised 10/24/24 - A4999 has been added.",10/24/2024 0:00:00,"Scheduled",10/24/2024 12:17:00
+"AAP","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:50:00
+"AAP","12/11/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 14:58:00
+"AAP","12/16/2024","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/13/24 - A5116, A5117, A5118 (1R), A5119, A5120, A5121, A5122 (1R), A5123, A5124, A5150, and A5151 have been added.
+**Revised 12/16/24 - A4968, A5090, and A5152 have been added.",12/16/2024 0:00:00,"Scheduled",12/16/2024 12:54:00
+"AAP","12/18/2025","11:30 AM","Meeting",,"A6295 Karabinchak (pending intro and referral) - Creates regulatory scheme, in line with federal law, on sale of certain hemp-derived cannabinoid products; repeals law concerning intoxicating hemp. ***A2940 added by waiver 12/18/25.",12/17/2025 0:00:00,"Scheduled",12/19/2025 8:54:00
+"AAP","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/4/2024 13:56:00
+"AAP","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 13:32:00
+"AAP","2/20/2025","01:30 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 2/19/25 - A1185, A4175 (1R), A5304 and A5305 added.
+**Revised 2/20/25 - A5343 added.",2/20/2025 0:00:00,"Scheduled",2/20/2025 14:48:00
+"AAP","2/22/2024","12:00 AM","Meeting",,,,"Not Meeting",2/16/2024 12:42:00
+"AAP","2/8/2024","11:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","An individual interested in registering their position with the Committee may fill out the Registration Form located on the New Jersey Legislature Home Page under the applicable Committee heading.",2/6/2024 0:00:00,"Scheduled",2/7/2024 15:07:00
+"AAP","3/14/2024","12:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 3/11/2024 - A3946 has been added.
+**Revised 3/14/2024 - A3906 and A3939 have been added. A4045 has been removed.",3/14/2024 0:00:00,"Scheduled",3/14/2024 11:30:00
+"AAP","3/20/2025","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 3/18/25 - A1825 (ACS), A3732 (1R) and A4944 added. A5264 removed.
+**Revised 3/20/25 - A4981 (1R) added.",3/20/2025 0:00:00,"Scheduled",3/20/2025 10:49:00
+"AAP","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:19:00
+"AAP","4/11/2024","10:30 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",4/5/2024 14:51:00
+"AAP","5/10/2024","12:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/8/2024 10:20:00
+"AAP","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 12:07:00
+"AAP","5/15/2025","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/13/25 - A5356 (1R)/S3850 and A5378 added.
+**Revised 5/14/25 - A5170, A5264 and A5358 added.",5/14/2025 0:00:00,"Scheduled",5/14/2025 16:33:00
+"AAP","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:59:00
+"AAP","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:12:00
+"AAP","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",7/9/2025 10:38:00
+"AAP","6/19/2025","11:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/16/25 - A4875, A5000 (1R), A5075, A5153, A5546, A5687 (1R), A5717 (1R), A5795, A5827, A5847 and A5857 added.
+",6/17/2025 0:00:00,"Scheduled",6/17/2025 16:07:00
+"AAP","6/24/2024","12:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/20/24 - A2076 (1R), A4226 (1R), and S2788 have been added.",6/20/2024 0:00:00,"Scheduled",6/20/2024 16:40:00
+"AAP","7/24/2025","12:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","Canceled 7/24/25",,"Canceled",7/24/2025 11:55:00
+"AAP","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 14:07:00
+"AAP","9/23/2024","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton NJ","*Revised 9/20/2024 - A2378 (1R)/S3201 (1R) and A4811 have been added.  A1497 (1R) has been removed.",9/20/2024 0:00:00,"Scheduled",9/20/2024 16:12:00
+"ABD","10/29/2024","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ.","The select committee will have its organizational meeting.
+
+",,"Scheduled",10/25/2024 14:51:00
+"ABD","11/12/2024","06:00 PM","Meeting",,"The committee will take oral testimony from members of the public on the design of ballots to be used in primary and general elections in this State.",,"Scheduled",11/7/2024 16:04:00
+"ABD","11/18/2024","06:00 PM","Meeting","Atlantic County Institute of Technology, 5080 Atlantic Avenue, Mays Landing, NJ 08330","The committee will take oral testimony from members of the public on the design of ballots to be used in primary and general elections in this State.
+
+Registration to testify will be available on site.
+",,"Scheduled",11/18/2024 10:00:00
+"ABD","11/7/2024","10:00 AM","Meeting",,"Select November 7 on the calendar and click on Assembly Select Committee on Ballot Design for the registration link.  Please check the box ""Do you wish to testify?"" on the Registration Form and make sure your email address is correct.",,"Scheduled",11/6/2024 15:02:00
+"ABD","12/12/2024","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","*Revised 12/11/24 - A3226 and A4969 removed.  A5116 added.",12/11/2024 0:00:00,"Scheduled",12/11/2024 17:56:00
+"ABD","12/16/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.",,,"Scheduled",12/11/2024 18:09:00
+"ABD","12/2/2024","06:00 PM","Meeting",,"The Assembly Select Committee on Ballot Design will meet remotely via Zoom.  The committee will take oral testimony from members of the public, limited to three minutes.",,"Scheduled",12/2/2024 10:01:00
+"ABU","1/23/2025","12:00 AM","Meeting",,,,"Not Meeting",1/17/2025 13:33:00
+"ABU","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 11:54:00
+"ABU","12/12/2024","12:00 AM","Meeting",,,,"Not Meeting",12/6/2024 13:40:00
+"ABU","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:32:00
+"ABU","12/4/2025","12:00 AM","Meeting",,,,"Not Meeting",11/25/2025 14:32:00
+"ABU","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 15:07:00
+"ABU","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:35:00
+"ABU","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:07:00
+"ABU","3/4/2024","12:00 AM","Meeting",,,,"Not Meeting",2/28/2024 16:39:00
+"ABU","5/16/2024","12:00 AM","Meeting",,,,"Not Meeting",5/10/2024 14:15:00
+"ABU","6/16/2025","12:00 AM","Meeting",,,,"Not Meeting",6/11/2025 14:06:00
+"ABU","6/26/2024","04:30 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/26/24 - A1128, A1677, A2027, A2818 (ACS/1R), A2890, A3540 (ACS/1R)/S2344, A4029, A4425, A4426, A4448, A4461, A4570, A4572, A4581, A4597, A4654, A4700 A4701, A4702, A4703, A4704, A4705, A4706, A4707, A4708, A4709 & ACR139 have been added.
+",6/26/2024 0:00:00,"Scheduled",6/26/2024 21:16:00
+"ABU","6/26/2025","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, NJ","A5800 (Pintor Marin), A5807 (Pintor Marin), A5801 (Freiman), A5809 (Murphy), A5812 (Schaer) are all pending intro and referral.
+*Revised 6/25/25 - A5049 (1R), A5548, A5688, A5768, A5854, A5877 and A5878 added. **Revised 6/26/25 - A5153 and A5827 added.",6/26/2025 0:00:00,"Scheduled",6/26/2025 19:00:00
+"ABU","6/27/2025","08:00 PM","Meeting","Committee Room 11, 4th  Floor, State House Annex, Trenton, NJ","*Revised 6/27/25 - A2090, A4194 (1R)/S3041 (2R), A5768 (1R), A5810 and A5902 added.",6/27/2025 0:00:00,"Scheduled",6/27/2025 18:45:00
+"ABU","6/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/31/2024 13:20:00
+"ABU","9/19/2024","12:00 AM","Meeting",,,,"Not Meeting",9/13/2024 13:18:00
+"ABUB","3/11/2024","09:30 AM","Hearing","Committee Room 11, 4th Floor, State House Anex, Trenton, NJ","The Assembly Budget Committee will hold a Public Hearing on the FY 2025 State Budget.",,"Scheduled",2/28/2024 12:38:00
+"ABUB","3/19/2025","09:30 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The Assembly Budget Committee will hold a Public Hearing on the FY 2026 State Budget.",,"Scheduled",3/7/2025 16:48:00
+"ABUB","3/20/2024","09:30 AM","Hearing","Committee Room 11, 4th Floor. State House Annex, Trenton, NJ","The Assembly Budget Committee will hold a Public Hearing on the FY 2025 State Budget.",,"Scheduled",2/28/2024 12:39:00
+"ABUB","3/25/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget: Budget Overview and Revenue Forecast (Office of Legislative Services)",,"Scheduled",3/7/2024 17:15:00
+"ABUB","3/25/2024","11:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget: Budget Overview (State Treasurer)",,"Scheduled",3/7/2024 17:15:00
+"ABUB","3/25/2025","09:30 AM","Hearing","Committee Room 11, 4th Floor, State House Annex,Trenton, NJ","The Assembly Budget Committee will hold a Public Hearing on the FY 2026 State Budget.",,"Scheduled",3/7/2025 16:48:00
+"ABUB","4/10/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Military and Veterans' Affairs",,"Scheduled",4/10/2024 12:27:00
+"ABUB","4/10/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Education/Schools Development Authority",,"Scheduled",3/7/2024 17:18:00
+"ABUB","4/15/2024","12:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Transportation/New Jersey Transit/Motor Vehicle Commission
+",,"Scheduled",4/10/2024 12:28:00
+"ABUB","4/17/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Law and Public Safety",,"Scheduled",3/7/2024 17:20:00
+"ABUB","4/17/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.
+","Hearing on the FY 2025 Budget:  Department of Health",,"Scheduled",3/7/2024 17:19:00
+"ABUB","4/2/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Budget Overview and Revenue Forecast (Office of Legislative Services)",,"Scheduled",3/20/2025 14:16:00
+"ABUB","4/2/2025","11:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Budget Overview (State Treasurer)",,"Scheduled",3/20/2025 15:05:00
+"ABUB","4/21/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing o nthe FY 2026 Budget:  Department of Community Affairs",,"Scheduled",3/20/2025 14:18:00
+"ABUB","4/21/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Education/Schools Development Authority",,"Scheduled",3/20/2025 14:18:00
+"ABUB","4/22/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Labor and Workforce Development",,"Scheduled",3/7/2024 17:20:00
+"ABUB","4/22/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Children and Families",,"Scheduled",3/7/2024 17:20:00
+"ABUB","4/28/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Military and Veterans' Affairs",,"Scheduled",3/20/2025 14:19:00
+"ABUB","4/28/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Corrections/State Parole Board",,"Scheduled",3/20/2025 14:18:00
+"ABUB","4/30/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Children and Families",,"Scheduled",3/20/2025 14:19:00
+"ABUB","4/30/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Labor and Workforce Development",,"Scheduled",3/20/2025 14:19:00
+"ABUB","4/7/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  The Judiciary",,"Scheduled",3/20/2025 14:17:00
+"ABUB","4/7/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Health",,"Scheduled",3/20/2025 14:17:00
+"ABUB","4/8/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey","Hearing on the FY 2025 Budget: Department of State",,"Canceled",4/8/2024 16:55:00
+"ABUB","4/8/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  The Judiciary",,"Scheduled",3/7/2024 17:18:00
+"ABUB","4/9/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Banking and Insurance",,"Scheduled",3/20/2025 14:17:00
+"ABUB","4/9/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Environmental Protection/Department of Agriculture",,"Scheduled",3/20/2025 14:17:00
+"ABUB","5/12/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey","Hearing on the FY 2026 Budget:  Department of State",,"Scheduled",3/20/2025 14:21:00
+"ABUB","5/12/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey","Hearing on the FY 2026 Budget:  Higher Educational Services",,"Scheduled",3/20/2025 14:20:00
+"ABUB","5/14/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  New Jersey Economic Development Authority/New Jersey Board of Public Utilities/Office of the State Comptroller/Cannabis Regulatory Commission
+
+",,"Scheduled",3/20/2025 14:22:00
+"ABUB","5/14/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Revenue Update (Office of Legislative Services)",,"Scheduled",3/20/2025 14:21:00
+"ABUB","5/14/2025","11:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Revenue Update (State Treasurer)
+Department of the Treasury and Interdepartmental Accounts
+",,"Scheduled",3/20/2025 14:21:00
+"ABUB","5/15/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget: Revenue Update (Office of Legislative Services)",,"Scheduled",3/12/2025 14:37:00
+"ABUB","5/15/2024","11:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Revenue Update (State Treasurer)
+Department of the Treasury and Interdepartmental Accounts/New Jersey Economic Development Authority/New Jersey Board of Public Utilities/Cannabis Regulatory Commission
+",,"Scheduled",3/12/2025 14:38:00
+"ABUB","5/5/2025","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Law and Public Safety",,"Scheduled",3/20/2025 14:20:00
+"ABUB","5/5/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Transportation/New Jersey Transit/Motor Vehicle Commission",,"Scheduled",3/20/2025 14:20:00
+"ABUB","5/6/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Corrections/State Parole Board",,"Scheduled",3/12/2025 14:36:00
+"ABUB","5/6/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Environmental Protection/Department of Agriculture",,"Scheduled",3/7/2024 17:23:00
+"ABUB","5/7/2025","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget: Department of Human Services",,"Scheduled",3/20/2025 14:20:00
+"ABUB","5/8/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Banking and Insurance",,"Scheduled",3/7/2024 17:24:00
+"ABUB","5/8/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Community Affairs",,"Scheduled",3/12/2025 14:36:00
+"ABUB","5/9/2024","01:00 PM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Human Services",,"Scheduled",5/6/2024 11:54:00
+"ABUB","5/9/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Higher Educational Services",,"Scheduled",5/14/2025 9:22:00
+"ACE","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:14:00
+"ACE","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:13:00
+"ACE","1/5/2026","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 1/2/26 - A1233, A4432, A5758, A6081, A6278, A6283, A6306, and S3528 (2R) added.",1/2/2026 0:00:00,"Scheduled",1/2/2026 17:28:00
+"ACE","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 11:04:00
+"ACE","10/24/2024","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/18/2024 14:05:00
+"ACE","11/24/2025","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/19/2025 16:50:00
+"ACE","12/11/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 14:57:00
+"ACE","12/16/2024","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/11/2024 15:21:00
+"ACE","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/4/2024 14:09:00
+"ACE","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 14:16:00
+"ACE","2/22/2024","02:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/16/2024 15:05:00
+"ACE","3/20/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/14/2025 14:10:00
+"ACE","3/6/2025","02:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 3/4/25 - A5241 removed.
+**Revised 3/5/25 - A4051 (ACS) removed.",,"Scheduled",3/5/2025 16:57:00
+"ACE","5/13/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/13/24 - A4300 moved to consideration.",5/13/2024 0:00:00,"Scheduled",5/13/2024 8:57:00
+"ACE","5/15/2025","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/14/25 - Room change to Committee Room 16.",5/14/2025 0:00:00,"Scheduled",5/14/2025 16:08:00
+"ACE","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:30:00
+"ACE","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:11:00
+"ACE","6/12/2025","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The following bill is pending intro and referral: A5778 (Spearman) Directs Garden State Preservation Trust to perform audit of State's land preservation programs,",6/11/2025 0:00:00,"Scheduled",6/11/2025 18:38:00
+"ACE","6/3/2024","02:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/29/2024 15:26:00
+"ACE","9/12/2024","02:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/6/2024 15:16:00
+"ACF","1/23/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Revised 1/17/25 - Room change",1/17/2025 0:00:00,"Scheduled",1/17/2025 21:12:00
+"ACF","10/21/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton NJ",,,"Scheduled",10/16/2024 13:04:00
+"ACF","11/14/2024","11:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The committees will hear testimony from invited speakers concerning the condition of child care in New Jersey and how the State's child care industry can be sustained and expanded.",,"Scheduled",11/8/2024 15:22:00
+"ACF","12/12/2024","12:00 AM","Meeting",,,,"Not Meeting",12/6/2024 13:38:00
+"ACF","12/15/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/12/25 - Room change to Committee Room 16",12/12/2025 0:00:00,"Scheduled",12/12/2025 12:16:00
+"ACF","12/4/2025","12:00 AM","Meeting",,,,"Not Meeting",11/25/2025 14:21:00
+"ACF","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 14:57:00
+"ACF","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:31:00
+"ACF","3/10/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton NJ",,,"Scheduled",3/5/2025 14:26:00
+"ACF","3/4/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","The committee will hear from invited guests concerning food insecurity and its consequences on children's academic performance and mental well-being, the impact of food insecurity on household finances, and how food insecurity affects senior",,"Scheduled",2/28/2024 16:56:00
+"ACF","5/16/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/10/2024 15:01:00
+"ACF","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:23:00
+"ACF","5/8/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/2/2025 15:24:00
+"ACF","6/13/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/7/2024 15:20:00
+"ACF","6/16/2025","12:00 AM","Meeting",,,,"Not Meeting",6/11/2025 14:03:00
+"ACF","6/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/31/2024 12:58:00
+"ACF","9/19/2024","12:00 AM","Meeting",,,,"Not Meeting",9/13/2024 13:21:00
+"ACF","9/23/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/18/2024 15:18:00
+"ACO","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 15:36:00
+"ACO","1/27/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",1/22/2025 17:00:00
+"ACO","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:21:00
+"ACO","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 11:00:00
+"ACO","10/24/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",10/18/2024 14:29:00
+"ACO","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:58:00
+"ACO","12/11/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/10/25 - A3808 removed.",12/10/2025 0:00:00,"Scheduled",12/10/2025 14:47:00
+"ACO","12/9/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","Canceled 12/6/24.",,"Canceled",12/6/2024 13:19:00
+"ACO","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 13:39:00
+"ACO","2/22/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/16/2024 15:22:00
+"ACO","3/6/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2025 15:19:00
+"ACO","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 12:25:00
+"ACO","5/15/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","*Revised  5/14/25 - A3809 removed.",5/14/2025 0:00:00,"Scheduled",5/14/2025 16:23:00
+"ACO","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:34:00
+"ACO","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:12:00
+"ACO","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 12:10:00
+"ACO","6/3/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/29/2024 15:48:00
+"ACO","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:57:00
+"ACW","1/16/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/10/2025 13:23:00
+"ACW","1/29/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited speakers who represent the service, labor, and health care workforce in both the public and private sectors.",,"Scheduled",1/24/2024 16:34:00
+"ACW","10/17/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/11/2024 11:59:00
+"ACW","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:45:00
+"ACW","12/11/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 14:57:00
+"ACW","12/18/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/12/2025 13:08:00
+"ACW","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/4/2024 13:55:00
+"ACW","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 14:23:00
+"ACW","2/22/2024","12:00 AM","Meeting",,,,"Not Meeting",2/16/2024 12:55:00
+"ACW","3/14/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests from various municipalities regarding special improvement districts and downtown business improvement zones in New Jersey.",,"Scheduled",3/8/2024 12:50:00
+"ACW","3/20/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","*Revised 3/17/25-AJR217 added.",3/17/2025 0:00:00,"Scheduled",3/17/2025 15:05:00
+"ACW","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:16:00
+"ACW","5/13/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited speakers regarding the January 2024 New Jersey Disparity Study, which, in part, analyzed the underutilization of Minority and Woman-owned Business Enterprises (M/WBE) in awarding prime contracts and",,"Scheduled",5/8/2024 12:45:00
+"ACW","5/2/2024","10:00 AM","Meeting","Committee Room 12, 4th floor, State House Annex, Trenton, NJ","*Meeting canceled 4/29/2024",,"Canceled",4/29/2024 16:49:00
+"ACW","5/5/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",4/30/2025 14:56:00
+"ACW","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 11:56:00
+"ACW","6/23/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/23/2025 8:42:00
+"ACW","6/3/2024","12:00 AM","Meeting",,,,"Not Meeting",5/29/2024 13:57:00
+"ACW","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:49:00
+"ACW","9/23/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/18/2024 13:13:00
+"AED","1/23/2025","12:00 AM","Meeting",,,,"Not Meeting",1/17/2025 13:33:00
+"AED","10/21/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/16/2024 13:09:00
+"AED","11/14/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests regarding the New Jersey Educator Evaluation Review Task Force Report.",,"Scheduled",11/14/2024 13:15:00
+"AED","12/12/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/6/2024 16:14:00
+"AED","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:29:00
+"AED","12/18/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/12/2025 14:04:00
+"AED","12/4/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 15:25:00
+"AED","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 14:59:00
+"AED","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:37:00
+"AED","2/5/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate and Assembly Education Committees will take testimony from invited guests on virtual or remote instruction in grades kindergarten through 12.  The committees will also accept written testimony from members of the public.",,"Scheduled",1/31/2024 16:43:00
+"AED","3/10/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on potential partnerships between non-profit entities and public schools regarding water safety instruction.",,"Scheduled",3/5/2025 13:11:00
+"AED","3/11/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*A-2180 Moen (pending referral); *A-4048 Bagolie (pending intro and referral) Requires upcoming Educational Adequacy Report to include comprehensive review of certain components of school funding in consultation with certain stakeholders and experts  
+
+",,"Scheduled",4/4/2024 17:39:00
+"AED","3/4/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2024 16:49:00
+"AED","4/5/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*A4161 Freiman/Drulis/Lampitt (pending intro and referral)  Establishes Stabilized School Budget Aid Grant Program to restore certain portions of State school aid reductions for certain school districts; appropriates $71.4 million.
+",4/4/2024 0:00:00,"Scheduled",4/4/2024 17:29:00
+"AED","5/16/2024","12:00 AM","Meeting",,,,"Not Meeting",5/10/2024 14:10:00
+"AED","5/6/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/1/2024 15:02:00
+"AED","5/8/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/2/2025 13:29:00
+"AED","6/16/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","A5779 Reynolds-Jackson (pending intro and referral) - Establishes Chronic Absenteeism Task Force. A5780 Reynolds-Jackson (pending intro and referral) -Permits awarding of contracts for certain preschool education services by resolution of board of",,"Scheduled",6/11/2025 14:11:00
+"AED","6/6/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*A1675 (Lampitt/Bagolie/Stanley) (pending referral)
+",,"Scheduled",5/31/2024 14:54:00
+"AED","9/19/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised - 9/18/24 - AJR61 has been removed from the agenda.",,"Scheduled",9/18/2024 17:13:00
+"AEN","1/23/2025","12:00 AM","Meeting",,,,"Not Meeting",1/17/2025 13:33:00
+"AEN","1/27/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/22/2025 16:53:00
+"AEN","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 11:50:00
+"AEN","11/14/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/8/2024 14:24:00
+"AEN","12/12/2024","02:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Revised 12/11/24 - A5119, A5120, A5121, A5122, A5123, and A5124 added.
+",12/11/2024 0:00:00,"Scheduled",12/11/2024 14:12:00
+"AEN","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:32:00
+"AEN","12/4/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","A5976 Abdelaziz (pending intro and referral) -  Amends lists of projects eligible to receive loans for environmental infrastructure projects from NJ Infrastructure Bank for FY2026. A5977 Miller (pending intro and referral) -",,"Scheduled",11/25/2025 17:03:00
+"AEN","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 15:00:00
+"AEN","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:37:00
+"AEN","3/10/2025","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 3/6/25 - AR180 added.
+",3/6/2025 0:00:00,"Scheduled",3/10/2025 13:17:00
+"AEN","3/17/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Canceled 3/14/25",,"Canceled",3/14/2025 16:54:00
+"AEN","3/4/2024","02:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2024 16:50:00
+"AEN","4/22/2024","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Assembly Environment, Natural Resources, and Solid Waste Committee and the Senate Environment and Energy Committee will meet jointly on Monday, April 22, 2024 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",4/15/2024 17:12:00
+"AEN","4/23/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Assembly Environment, Natural Resources, and Solid Waste Committee and the Senate Environment and Energy Committee will meet jointly on Wednesday, April 23, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",4/16/2025 17:01:00
+"AEN","5/16/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/10/2024 15:02:00
+"AEN","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:40:00
+"AEN","5/8/2025","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/7/25 - Room change to Committee Room 11.",5/7/2025 0:00:00,"Scheduled",5/7/2025 13:39:00
+"AEN","6/16/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on the topic of prescribed burning and wildfire prevention in the State. The hearing will focus on the State's current approach, coordination with local fire services, and strategies to expand",,"Scheduled",6/13/2025 14:17:00
+"AEN","6/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/31/2024 13:01:00
+"AEN","8/1/2024","10:00 AM","Meeting","LMH Room, Toms River Municipal Complex, 33 Washington Street, Toms River, New Jersey","The Assembly Environment, Natural Resources, and Solid Waste Committee and the Senate Environment and Energy Committee will meet jointly on Thursday, August 1, 2024 at 10:00 AM in the LMH Room, Toms River Municipal Complex, 33 Washington Street, Toms",,"Scheduled",7/26/2024 13:06:00
+"AEN","8/14/2025","10:00 AM","Meeting","Municipal Court Room, Point Pleasant Borough Municipal Building, 2233 Bridge Avenue, Point Pleasant, New Jersey.","The Assembly Environment, Natural Resources, and Solid Waste Committee and the Senate Environment and Energy Committee will meet jointly on Thursday, August 14, 2025 at 10:00 AM in the *Municipal Court Room, Point Pleasant Borough Municipal Building, 2233",8/13/2025 0:00:00,"Scheduled",8/13/2025 13:06:00
+"AEN","9/19/2024","12:00 AM","Meeting",,,,"Not Meeting",9/13/2024 13:10:00
+"AEN","9/23/2024","02:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/18/2024 13:20:00
+"AFI","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:08:00
+"AFI","1/27/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/22/2025 16:56:00
+"AFI","1/29/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The Committee will take testimony from invited guests concerning the state of the banking and insurance industries.",,"Scheduled",1/24/2024 14:37:00
+"AFI","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 10:58:00
+"AFI","10/24/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/18/2024 14:08:00
+"AFI","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:49:00
+"AFI","12/11/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/5/2025 16:55:00
+"AFI","12/9/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/4/2024 13:57:00
+"AFI","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 13:42:00
+"AFI","2/22/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*A3495 added by waiver 2/22/24",,"Scheduled",2/22/2024 15:52:00
+"AFI","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:20:00
+"AFI","4/10/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The Committee will hear from invited guests concerning pharmacy benefit managers, their place within the broader health insurance system, and their impact on prescription drug prices.",,"Scheduled",4/7/2025 15:10:00
+"AFI","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 12:11:00
+"AFI","5/15/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning pharmacy benefit managers, their place within the broader health insurance system, and their impact on prescription drug prices.",,"Scheduled",5/9/2025 14:34:00
+"AFI","5/2/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","Canceled 4/29/24",,"Canceled",4/29/2024 16:47:00
+"AFI","5/20/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/15/2024 14:11:00
+"AFI","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:11:00
+"AFI","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 12:02:00
+"AFI","6/13/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/11/24 - A2619 added.",6/11/2024 0:00:00,"Scheduled",6/11/2024 13:03:00
+"AFI","6/19/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/13/2025 16:52:00
+"AFI","6/3/2024","12:00 AM","Meeting",,,,"Not Meeting",5/29/2024 13:54:00
+"AFI","9/12/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/6/2024 15:19:00
+"AHE","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:10:00
+"AHE","1/29/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","An individual interested in registering their position with the Committee may fill out the Registration Form located on the New Jersey Legislature Home Page under the applicable Committee heading.",,"Canceled",1/26/2024 13:33:00
+"AHE","1/5/2026","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 1/2/26 - A5796 removed.",1/2/2026 0:00:00,"Scheduled",1/2/2026 15:12:00
+"AHE","10/17/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 10/16/24 - A2032 removed",10/16/2024 0:00:00,"Scheduled",10/16/2024 17:19:00
+"AHE","11/24/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/19/2025 16:48:00
+"AHE","12/11/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/5/2025 16:34:00
+"AHE","12/16/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/11/2024 15:18:00
+"AHE","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/4/2024 13:56:00
+"AHE","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 13:59:00
+"AHE","2/22/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 2/20/24 - A3364 no longer ""FOR DISCUSSION ONLY"".  Now being considered by the committee.",2/20/2024 0:00:00,"Scheduled",2/20/2024 16:12:00
+"AHE","3/14/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",4/3/2024 10:55:00
+"AHE","3/20/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/14/2025 16:10:00
+"AHE","3/6/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2025 13:44:00
+"AHE","5/13/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/8/2024 13:53:00
+"AHE","5/2/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","Canceled 4/29/2024",4/29/2024 0:00:00,"Canceled",4/29/2024 16:45:00
+"AHE","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:09:00
+"AHE","5/6/2025","11:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on the impact of proposed federal policy changes in Medicaid and Medicare on New Jersey residents and the State's economy.",,"Scheduled",5/1/2025 10:46:00
+"AHE","6/12/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/11/25 - S4263 (1R) added.",6/11/2025 0:00:00,"Scheduled",6/11/2025 16:51:00
+"AHE","6/17/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/13/24 - A4461 added",6/13/2024 0:00:00,"Scheduled",6/13/2024 16:12:00
+"AHE","6/3/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/29/2024 16:20:00
+"AHE","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:49:00
+"AHE","9/23/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/18/2024 18:34:00
+"AHI","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:09:00
+"AHI","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 11:59:00
+"AHI","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 10:55:00
+"AHI","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:45:00
+"AHI","12/11/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Revised 12/10/25 - A6212 added.",12/10/2025 0:00:00,"Scheduled",12/10/2025 10:29:00
+"AHI","12/9/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/5/2024 13:40:00
+"AHI","2/10/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/5/2025 13:38:00
+"AHI","2/22/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/28/2024 15:15:00
+"AHI","3/10/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate and Assembly Higher Education Committees will hold a joint meeting to receive testimony from invited guests regarding the use of funding received from the United States Department of Education for higher education purposes.",,"Scheduled",3/3/2025 17:25:00
+"AHI","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 14:09:00
+"AHI","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 14:37:00
+"AHI","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:30:00
+"AHI","5/5/2025","10:00 AM","Meeting","Committee Room 9, 3rd floor, State House Annex, Trenton, NJ",,,"Scheduled",4/30/2025 14:20:00
+"AHI","6/10/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The Senate Higher Education Committee and the Assembly Higher Education Committee will receive testimony from invited guests on the findings of New Jersey City University's Fiscal & Governance Monitoring Report and Accountability Plan recently",,"Scheduled",6/3/2024 17:01:00
+"AHI","6/12/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","S4439 Lagana/Cryan (pending referral) - Establishes protections for student-athletes and certain institutions of higher education concerning name, image, or likeness compensation; repeals ""New Jersey Fair Play Act.""",,"Scheduled",6/6/2025 12:13:00
+"AHI","6/3/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","Revised 5/29/24 - Please note change in committee room.
+Revised 5/31/24 - A4220 was moved from discussion only to amendment only.
+",5/31/2024 0:00:00,"Scheduled",5/31/2024 12:03:00
+"AHI","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:51:00
+"AHI","9/23/2024","10:00 AM","Meeting","Committee Room 15,  4th Floor, State House Annex, Trenton, NJ","*Revised - 9/20/24 - A3807 was moved from consideration to discussion only.",9/20/2024 0:00:00,"Scheduled",9/20/2024 16:40:00
+"AHO","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:22:00
+"AHO","1/29/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","An individual interested in registering their position with the Committee may fill out the Registration Form located on the New Jersey Legislature Home Page under the applicable Committee heading.",,"Scheduled",1/26/2024 15:00:00
+"AHO","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 10:54:00
+"AHO","10/24/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/18/2024 14:18:00
+"AHO","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:46:00
+"AHO","12/11/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/5/2025 15:41:00
+"AHO","12/9/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/4/2024 13:55:00
+"AHO","2/10/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/5/2025 14:08:00
+"AHO","2/22/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/16/2024 14:13:00
+"AHO","3/20/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, New Jersey",,,"Scheduled",3/14/2025 14:05:00
+"AHO","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:14:00
+"AHO","5/13/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/8/2024 12:48:00
+"AHO","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:27:00
+"AHO","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:15:00
+"AHO","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 11:59:00
+"AHO","6/13/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/7/2024 14:11:00
+"AHO","6/19/2025","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ.","*Revised 6/13/25 - A3976, A5125 (1R), A5533 and S3944 (3R) added.",6/13/2025 0:00:00,"Scheduled",6/19/2025 10:30:00
+"AHO","6/3/2024","12:00 AM","Meeting",,,,"Not Meeting",5/29/2024 13:55:00
+"AHO","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:58:00
+"AHO","9/23/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests concerning the impact of rising rental housing costs throughout the State, the factors contributing to these increases, and strategies to help control rising costs.",,"Scheduled",9/18/2024 13:26:00
+"AHU","1/23/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/17/2025 13:37:00
+"AHU","1/5/2026","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","Canceled 1/2/26.",,"Canceled",1/2/2026 14:43:00
+"AHU","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 15:31:00
+"AHU","11/14/2024","11:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The committees will hear testimony from invited speakers concerning the condition of child care in New Jersey and how the State's child care industry can be sustained and expanded.
+
+",,"Scheduled",11/8/2024 15:20:00
+"AHU","12/12/2024","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/6/2024 14:15:00
+"AHU","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:44:00
+"AHU","12/4/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 15:28:00
+"AHU","2/1/2024","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests who will provide testimony on the state of the Medicaid program in New Jersey and its impact on healthcare.",1/29/2024 0:00:00,"Scheduled",1/29/2024 16:43:00
+"AHU","2/13/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton NJ","*Revised - 2/7/25 A4101 has been added.
+**Revised - 2/11/25 AJR170 has been added.",2/11/2025 0:00:00,"Scheduled",2/11/2025 17:05:00
+"AHU","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:08:00
+"AHU","3/14/2024","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/8/2024 13:18:00
+"AHU","3/17/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/12/2025 16:04:00
+"AHU","3/4/2024","12:00 AM","Meeting",,,,"Not Meeting",2/28/2024 16:44:00
+"AHU","5/16/2024","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","AR138 Peterpaul/Hall/Speight (pending intro and referral) Designates June 2024 as LGBTQIA+ Pride Month in New Jersey.
+",,"Scheduled",5/10/2024 15:00:00
+"AHU","5/6/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests on the State's guardianship program and the challenges faced by individuals receiving services through the program.",,"Scheduled",5/1/2024 15:50:00
+"AHU","5/8/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/7/25 - A1888, S1962 (1R) added.",5/7/2025 0:00:00,"Scheduled",5/7/2025 15:42:00
+"AHU","6/16/2025","12:00 AM","Meeting",,,,"Not Meeting",6/11/2025 14:06:00
+"AHU","6/24/2024","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/19/2024 17:10:00
+"AHU","6/6/2024","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/3/24 Committee Room changed from 16 to Committee Room 15.
+**Revised 6/6/24 Committee Room changed from 15 to Committee Room 12.",6/3/2024 0:00:00,"Scheduled",6/6/2024 13:40:00
+"AHU","9/19/2024","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests who will provide insights on the inequities faced by individuals who choose to give birth outside traditional hospital settings.",,"Scheduled",9/13/2024 14:58:00
+"AJU","1/23/2025","12:00 AM","Meeting",,,,"Not Meeting",1/17/2025 16:11:00
+"AJU","1/5/2026","01:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 1/2/26 - A4674, A6308, A6309, A6310, S3800, S4858 (1R) added.",1/2/2026 0:00:00,"Scheduled",1/5/2026 13:02:00
+"AJU","10/21/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/16/2024 13:05:00
+"AJU","12/12/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/6/2024 14:11:00
+"AJU","12/15/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/10/2025 16:38:00
+"AJU","12/4/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 15:24:00
+"AJU","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 14:58:00
+"AJU","2/13/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","A5303 (Park), (pending intro and referral)-Requires AG to review Statewide policy regarding investigation of human trafficking.
+",2/11/2025 0:00:00,"Scheduled",2/11/2025 16:57:00
+"AJU","2/20/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State Annex, Trenton, NJ","*Revised 2/18/25- A5345 and A5346 have been added.",2/18/2025 0:00:00,"Scheduled",2/18/2025 16:44:00
+"AJU","3/10/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/5/2025 13:12:00
+"AJU","3/4/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2024 16:51:00
+"AJU","5/16/2024","12:00 AM","Meeting",,,,"Not Meeting",5/10/2024 14:08:00
+"AJU","5/20/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/15/2024 14:14:00
+"AJU","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:21:00
+"AJU","5/8/2025","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/7/25 - AJR222 added.",5/7/2025 0:00:00,"Scheduled",5/7/2025 15:44:00
+"AJU","6/16/2025","12:00 AM","Meeting",,,,"Not Meeting",6/11/2025 14:10:00
+"AJU","6/6/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The Committee will hear testimony from human trafficking prevention experts and advocates on prevention efforts in New Jersey, particularly in preparation for the 2026 FIFA World Cup.",,"Scheduled",5/31/2024 13:11:00
+"AJU","9/19/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","*Revised 9/16/24 - A3802 and A4175 have been added.",9/16/2024 0:00:00,"Scheduled",9/16/2024 16:54:00
+"ALA","1/23/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/17/2025 13:34:00
+"ALA","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 11:54:00
+"ALA","10/24/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/18/2024 14:11:00
+"ALA","12/12/2024","12:00 AM","Meeting",,,,"Not Meeting",12/6/2024 13:35:00
+"ALA","12/15/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/10/2025 17:26:00
+"ALA","12/4/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 17:11:00
+"ALA","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 15:02:00
+"ALA","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:32:00
+"ALA","2/20/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/14/2025 16:58:00
+"ALA","2/5/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","An individual interested in registering their position with the Committee may fill out the Registration Form located on the New Jersey Legislature Home Page under the applicable Committee heading.",2/2/2024 0:00:00,"Scheduled",2/2/2024 17:04:00
+"ALA","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:08:00
+"ALA","3/11/2024","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","A4047 - Sampson/Verrelli - Revises unemployment compensation law. (pending intro and referral)",,"Scheduled",3/6/2024 15:36:00
+"ALA","3/4/2024","12:00 AM","Meeting",,,,"Not Meeting",2/28/2024 16:43:00
+"ALA","5/16/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*S2822 added by waiver 5/16/24",,"Scheduled",5/16/2024 16:10:00
+"ALA","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:25:00
+"ALA","5/8/2025","12:00 AM","Meeting",,,,"Not Meeting",5/2/2025 13:02:00
+"ALA","6/16/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/13/25 -- A4124 and A5792 (pending intro and referral) added.",6/13/2025 0:00:00,"Scheduled",6/13/2025 15:46:00
+"ALA","6/6/2024","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, New Jersey","*Revised- 6/5/24- room changed to Committee Room 9, 3rd Floor.",6/5/2024 0:00:00,"Scheduled",6/5/2024 16:08:00
+"ALA","9/19/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/13/2024 13:19:00
+"AMV","1/23/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/17/2025 13:55:00
+"AMV","10/21/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.","*Revised 10/18/24 - A4751 added",10/18/2024 0:00:00,"Scheduled",10/18/2024 13:26:00
+"AMV","12/12/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.","The committee will receive testimony about the evolving challenges of veteran homelessness.",,"Scheduled",12/6/2024 14:14:00
+"AMV","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:48:00
+"AMV","12/4/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 15:33:00
+"AMV","2/1/2024","10:00 AM","Meeting",,"For those individuals who wish to testify, please check the box ""Do you wish to testify?"" on the Registration Form.  The Registration Link will close at 3:00 PM, Wednesday, January 31, 2024.",,"Scheduled",1/31/2024 15:45:00
+"AMV","2/13/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, New Jersey.","A5306 - Park/Tucker. Extends affordable housing preference to certain allied South Korean veterans. (pending intro and referral)",,"Scheduled",2/7/2025 12:50:00
+"AMV","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:20:00
+"AMV","3/17/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.","The committee will receive testimony from invited guests concerning the issues facing women veterans.",3/13/2025 0:00:00,"Scheduled",3/13/2025 15:03:00
+"AMV","3/4/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.","The Committee will receive testimony from invited speakers to discuss the results of the January 2024 New Jersey Disparity Study with regard to women veterans and other issues of concern to women veterans.",,"Scheduled",2/28/2024 16:57:00
+"AMV","3/5/2024","10:00 AM","Meeting","Battleship New Jersey, 62 Battleship Place, Camden, NJ","The Assembly Military and Veterans' Affairs Committee and the Assembly Tourism, Gaming and the Arts Committee will meet jointly.",,"Scheduled",2/23/2024 16:22:00
+"AMV","5/16/2024","12:00 AM","Meeting",,,,"Not Meeting",5/10/2024 14:09:00
+"AMV","5/6/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/1/2024 15:31:00
+"AMV","5/8/2025","12:00 AM","Meeting",,,,"Not Meeting",5/2/2025 13:12:00
+"AMV","6/16/2025","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/11/2025 14:15:00
+"AMV","6/6/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",5/31/2024 14:07:00
+"AMV","9/19/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",9/13/2024 13:19:00
+"AOF","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:27:00
+"AOF","10/17/2024","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",10/11/2024 12:21:00
+"AOF","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:50:00
+"AOF","12/11/2025","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/10/25 - Time change to 1:00 PM.",12/10/2025 0:00:00,"Scheduled",12/10/2025 14:53:00
+"AOF","12/16/2024","01:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, New Jersey","The committee will receive testimony from invited speakers to discuss the potential economic impact of tariffs on Canadian products.",,"Scheduled",12/11/2024 15:33:00
+"AOF","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/6/2024 10:37:00
+"AOF","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 13:56:00
+"AOF","2/22/2024","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited speakers on the current state of the cannabis industry in New Jersey.",,"Scheduled",2/16/2024 15:02:00
+"AOF","3/20/2025","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/14/2025 14:14:00
+"AOF","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:25:00
+"AOF","3/7/2024","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ.","The committee will receive testimony from invited speakers to discuss the fraud, ethical misconduct, and corruption in the addiction rehabilitation industry.",,"Scheduled",3/4/2024 14:46:00
+"AOF","5/13/2024","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, New Jersey","A2198 (pending referral)",,"Scheduled",5/8/2024 12:52:00
+"AOF","5/15/2025","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning cannabis testing in New Jersey following reports of safety test failures and mislabeling.",,"Scheduled",5/9/2025 14:44:00
+"AOF","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:29:00
+"AOF","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:14:00
+"AOF","6/12/2025","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/12/2025 12:46:00
+"AOF","6/3/2024","12:00 AM","Meeting",,,,"Not Meeting",5/29/2024 14:12:00
+"AOF","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:55:00
+"AOF","9/23/2024","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, New Jersey","The committee will receive testimony from invited speakers to discuss the issue of 
+municipalities' implementation of New Jersey's state cannabis laws and regulations.",,"Scheduled",9/18/2024 13:29:00
+"APS","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 17:02:00
+"APS","1/27/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",1/22/2025 17:12:00
+"APS","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:30:00
+"APS","1/5/2026","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ.","*Revised 12/31/25 - A4463 added.  A2902 removed.",12/31/2025 0:00:00,"Scheduled",12/31/2025 15:18:00
+"APS","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 11:03:00
+"APS","11/14/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/8/2024 15:30:00
+"APS","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:48:00
+"APS","12/11/2025","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",12/10/2025 10:40:00
+"APS","12/16/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/11/2024 15:21:00
+"APS","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",12/4/2024 14:03:00
+"APS","2/10/2025","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey.","MEETING CANCELED-The committee will take testimony from invited guests concerning the public safety preparations being undertaken to host the month-long FIFA World Cup 2026 soccer tournament.",,"Canceled",2/5/2025 16:28:00
+"APS","2/20/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","Following the public portion of the meeting, the committee will convene in closed session to be briefed by Laurie Doran, Director of the New Jersey Office of Homeland Security and Preparedness, and members of the State Police concerning public safety",,"Scheduled",2/14/2025 17:02:00
+"APS","2/22/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ.","The committee will hear testimony from invited guests on the growing shortage of volunteer first responders in New Jersey and the findings of the Special Task Force on Volunteer Retention and Recruitment.",,"Scheduled",2/16/2024 15:13:00
+"APS","3/20/2025","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests concerning the public safety aspects of the proliferation of warehouses Statewide, including but not limited to the public safety response and allocation of public safety resources related to the",,"Scheduled",3/14/2025 14:27:00
+"APS","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 16:23:00
+"APS","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 12:23:00
+"APS","5/15/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","* Revised 5/14/25 - Room change to Committee Room 15.",5/14/2025 0:00:00,"Scheduled",5/14/2025 16:14:00
+"APS","5/2/2024","12:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Not Meeting",4/26/2024 14:47:00
+"APS","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:11:00
+"APS","6/12/2025","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 12:05:00
+"APS","6/17/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/12/2024 15:38:00
+"APS","6/19/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ.",,,"Scheduled",6/13/2025 15:31:00
+"APS","6/3/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The Committee will hear testimony from the Office of the Public Defender concerning its mission, current initiatives, including but not limited to expungement efforts, and any needed resources.",,"Scheduled",5/30/2024 11:26:00
+"APS","9/12/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/6/2024 15:08:00
+"ARP","1/16/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",6/6/2025 9:33:00
+"ARP","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:10:00
+"ARP","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 10:59:00
+"ARP","10/24/2024","02:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",10/18/2024 14:11:00
+"ARP","11/14/2024","02:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",11/8/2024 14:26:00
+"ARP","11/24/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/19/2025 16:47:00
+"ARP","12/11/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/11/2025 15:56:00
+"ARP","12/9/2024","12:00 AM","Meeting",,,,"Not Meeting",6/6/2025 9:33:00
+"ARP","2/10/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/6/2025 9:33:00
+"ARP","2/22/2024","02:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey","*Revised- 2/20/24- A2225 removed",2/20/2024 0:00:00,"Scheduled",2/20/2024 16:19:00
+"ARP","3/14/2024","01:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey","Revised 3/11/24-A920 added; Revised 3/14/24-A3940 - Discussion Only",3/14/2024 0:00:00,"Scheduled",3/14/2024 11:04:00
+"ARP","3/6/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning the organization of the State professional boards and the delays in the licensure process associated with these boards.",,"Scheduled",2/28/2025 13:41:00
+"ARP","4/10/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","A5572 - Stanley - (pending intro and referral) - Establishes quorum standards for professional licensing entities under certain circumstances.",,"Scheduled",4/4/2025 13:14:00
+"ARP","5/13/2024","10:00 AM","Meeting","Committee Room 14, Fourth Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/8/2024 12:47:00
+"ARP","5/15/2025","02:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Revised 5/14/25 - A3538 removed.",5/14/2025 0:00:00,"Scheduled",5/14/2025 15:34:00
+"ARP","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 14:02:00
+"ARP","5/5/2025","12:00 AM","Meeting",,,,"Not Meeting",4/30/2025 14:15:00
+"ARP","6/12/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/12/2025 13:09:00
+"ARP","6/24/2024","10:00 AM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey","*Revised 6/20/24 - A4151(1R) added",6/20/2024 0:00:00,"Scheduled",6/6/2025 9:33:00
+"ARP","6/3/2024","02:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",5/30/2024 11:23:00
+"ARP","9/12/2024","02:00 PM","Meeting","Committee Room 12, Fourth Floor, State House Annex, Trenton, New Jersey","Revised 9/11/24 A4271 removed; A4745 (DeAngelo) added (pending intro and referral) - Requires contractor subject to prevailing wage law to provide orientation meeting to new employee on prevailing wage project.",9/11/2024 0:00:00,"Scheduled",9/11/2024 16:23:00
+"ASL","1/23/2025","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/21/2025 17:02:00
+"ASL","1/5/2026","01:00 PM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ","*Revised 1/2/26 - Time change to 1:00 PM.
+**Revised 1/2/26 - A5591/S3993 (1R) added.",1/2/2026 0:00:00,"Scheduled",1/5/2026 12:22:00
+"ASL","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 12:40:00
+"ASL","11/14/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/8/2024 14:31:00
+"ASL","12/12/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey","Revised 12/11/24 - A4969, A5117 & A5118 have been added.
+Revised 12/12/24 - A4083 is no longer for amendment only.
+
+",12/12/2024 0:00:00,"Scheduled",12/12/2024 14:18:00
+"ASL","12/15/2025","01:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/12/25 - Time change to 1:00 PM.  Room change to Committee Room 15.
+**Revised 12/14/25 - A4206/S1636 (3R) added.
+",12/14/2025 0:00:00,"Scheduled",12/14/2025 17:35:00
+"ASL","12/4/2025","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 11/26/25 - A6107 added.
+**Revised 12/2/25 - A5507 removed.",12/2/2025 0:00:00,"Scheduled",12/2/2025 16:57:00
+"ASL","2/1/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey","An individual interested in registering their position with the Committee may fill out the Registration Form located on the New Jersey Legislature Home Page under the applicable Committee heading.",1/31/2024 0:00:00,"Scheduled",1/31/2024 18:39:00
+"ASL","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 12:47:00
+"ASL","2/20/2025","11:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 2/20/25 - A5343 removed",2/20/2025 0:00:00,"Scheduled",2/20/2025 11:01:00
+"ASL","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:23:00
+"ASL","3/11/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, New Jersey","A4044 (pending intro and referral) 
+
+AR122 (pending intro and referral)  Condemns Alabama Supreme Court ruling in LePage v.",,"Scheduled",3/11/2024 13:53:00
+"ASL","3/20/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","AJR215 Karabinchak/Stanley (pending referral) - Designates July 30 of each year as ""Brian Sicknick Day"" in New Jersey.",,"Scheduled",3/18/2025 11:34:00
+"ASL","3/4/2024","02:00 PM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",2/28/2024 16:58:00
+"ASL","4/10/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","A5358 Haider/McCoy/Kane (pending referral) - Adjusts qualification threshold for New Jersey Secure Choice Saving Program. 
+A5433 Reynolds-Jackson (pending referral) - Increases minimum wage for tipped workers.
+",4/9/2025 0:00:00,"Scheduled",4/9/2025 17:09:00
+"ASL","5/15/2025","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/14/25 - A3941 added. A5611 removed. Room change to Committee Room 16. **Revised 5/15/25 - A5437 and A5514 moved from considered to discussion only.",5/15/2025 0:00:00,"Scheduled",5/15/2025 10:01:00
+"ASL","5/16/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey","AR128 pending referral.",,"Scheduled",5/10/2024 16:11:00
+"ASL","5/8/2025","12:00 AM","Meeting",,,,"Not Meeting",5/2/2025 13:07:00
+"ASL","6/16/2025","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/13/25 - A4748/S3607 removed.",6/13/2025 0:00:00,"Scheduled",6/13/2025 17:41:00
+"ASL","6/24/2024","10:00 AM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey",,,"Scheduled",6/19/2024 17:28:00
+"ASL","6/6/2024","02:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, New Jersey","A4360 (pending referral)
+
+A4372 has been added.
+
+",6/5/2024 0:00:00,"Scheduled",6/6/2024 13:32:00
+"ASL","7/24/2025","11:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 7/24/25 - Room change to Committee Room 11.",7/24/2025 0:00:00,"Scheduled",7/24/2025 10:16:00
+"ASL","9/19/2024","02:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, New Jersey","*Revised 9/16/24 - A4295 and S3006/3204 (SCS) have been added.
+** Revised 9/17/24 - A4299 has been added.
+",9/17/2024 0:00:00,"Scheduled",9/17/2024 14:35:00
+"AST","1/23/2025","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/17/2025 15:30:00
+"AST","10/21/2024","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning the work of the New Jersey Commission on Science, Innovation and Technology, including the economic and labor impacts of investing in small businesses that operate in those subject areas.",,"Scheduled",10/16/2024 15:44:00
+"AST","12/12/2024","12:00 AM","Meeting",,,,"Not Meeting",12/6/2024 13:47:00
+"AST","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/10/2025 13:34:00
+"AST","12/4/2025","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/1/25 - A5991, A5992, A5993, A5994, A5995, and A6036 moved from considered to discussion only.",12/1/2025 0:00:00,"Scheduled",12/2/2025 11:23:00
+"AST","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 15:06:00
+"AST","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/7/2025 13:11:00
+"AST","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:08:00
+"AST","3/4/2024","01:00 PM","Meeting","Committee Room 16, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning deceptive audio or visual media, known as ""deepfakes.""",,"Scheduled",2/28/2024 16:54:00
+"AST","4/10/2025","01:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",4/4/2025 13:11:00
+"AST","5/16/2024","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning the use of artificial intelligence by New Jersey businesses and opportunities to support workforce development in the artificial intelligence technology field.",,"Scheduled",5/10/2024 15:21:00
+"AST","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:29:00
+"AST","5/8/2025","12:00 AM","Meeting",,,,"Not Meeting",5/2/2025 12:59:00
+"AST","6/16/2025","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/13/2025 16:45:00
+"AST","6/6/2024","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ","A4479 Tully (pending intro and referral) - Requires social media platforms to cooperate with nonprofit organization initiatives to remove nonconsensual intimate images or videos.
+
+",,"Scheduled",5/31/2024 14:56:00
+"AST","9/19/2024","02:00 PM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/13/2024 14:08:00
+"ATG","1/23/2025","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","Revised 1/22/25 - A5196 removed",1/22/2025 0:00:00,"Scheduled",1/22/2025 16:40:00
+"ATG","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/16/2024 15:34:00
+"ATG","10/24/2024","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Assembly Tourism, Gaming and the Arts Committee and the Senate State Government, Wagering, Tourism & Historic Preservation Committee will meet jointly.",,"Scheduled",10/18/2024 14:21:00
+"ATG","11/14/2024","10:00 AM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/8/2024 14:25:00
+"ATG","12/12/2024","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","A5086 Verrelli (pending intro and referral) - Revises penalty for underage gambling to be civil penalty; provides for all associated fines to be used for gambling addiction treatment.",,"Scheduled",12/6/2024 15:27:00
+"ATG","12/15/2025","01:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/12/25 - Time change to 1:00 PM.",12/12/2025 0:00:00,"Scheduled",12/12/2025 15:58:00
+"ATG","12/4/2025","12:00 AM","Meeting",,,,"Not Meeting",11/25/2025 15:01:00
+"ATG","2/1/2024","02:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited speakers on the current state of the tourism industry in New Jersey. 
+
+",,"Scheduled",2/1/2024 9:36:00
+"ATG","2/13/2025","01:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/7/2025 12:49:00
+"ATG","3/10/2025","12:00 AM","Meeting",,,,"Not Meeting",3/5/2025 13:12:00
+"ATG","3/18/2025","10:00 AM","Meeting","Monmouth Battlefield Visitor Center, 20 Business Route 33, Manalapan, NJ 07726
+
+","The committee will take testimony from invited guests on the upcoming semiquincentennial celebration of the United States' independence.",,"Scheduled",5/21/2025 10:42:00
+"ATG","3/4/2024","12:00 AM","Meeting",,,,"Not Meeting",2/28/2024 16:46:00
+"ATG","3/5/2024","10:00 AM","Meeting","Battleship New Jersey, 62 Battleship Place, Camden, NJ","The Assembly Tourism, Gaming and the Arts Committee and the Assembly Military and Veterans' Affairs Committee will meet jointly.",,"Scheduled",2/23/2024 16:21:00
+"ATG","5/16/2024","01:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/10/2024 14:53:00
+"ATG","5/29/2025","10:00 AM","Meeting","Cape May Winery and Vineyard, 711 Townbank Road, Cape May, NJ 08204","The committee will receive testimony from invited guests on the growth and development of New Jersey's viticulture industry.",,"Scheduled",5/23/2025 8:58:00
+"ATG","5/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/1/2024 11:32:00
+"ATG","5/8/2025","01:00 PM","Meeting","Committee Room 12, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/2/2025 15:29:00
+"ATG","6/10/2024","10:30 AM","Meeting","One MetLife Stadium Drive, East Rutherford, NJ 07073","The committee will take testimony from invited guests about the upcoming FIFA World Cup 26 event and its potential impact on New Jersey tourism.
+
+",,"Scheduled",5/31/2024 15:08:00
+"ATG","6/16/2025","12:00 AM","Meeting",,,,"Not Meeting",6/11/2025 14:08:00
+"ATG","6/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/31/2024 12:59:00
+"ATG","9/19/2024","12:00 AM","Meeting",,,,"Not Meeting",9/13/2024 13:08:00
+"ATR","1/23/2025","12:00 AM","Meeting",,,,"Not Meeting",1/17/2025 13:37:00
+"ATR","10/21/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/16/2024 13:03:00
+"ATR","11/14/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning ways to improve the New Jersey Transit Corporation ridership experience and methods to facilitate greater cooperation between Amtrak and the New Jersey Transit Corporation.",,"Scheduled",11/8/2024 14:22:00
+"ATR","12/12/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 12/12/24 - A4672 removed.",12/12/2024 0:00:00,"Scheduled",12/12/2024 10:27:00
+"ATR","12/15/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/10/2025 13:48:00
+"ATR","12/4/2025","12:00 AM","Meeting",,,,"Not Meeting",11/25/2025 14:22:00
+"ATR","2/1/2024","12:00 AM","Meeting",,,,"Not Meeting",1/26/2024 15:00:00
+"ATR","2/13/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/11/2025 15:26:00
+"ATR","3/10/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/5/2025 13:32:00
+"ATR","3/4/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/28/2024 16:59:00
+"ATR","3/7/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/5/2024 14:25:00
+"ATR","5/16/2024","12:00 AM","Meeting",,,,"Not Meeting",5/10/2024 14:09:00
+"ATR","5/6/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/2/24 - A4284 added for consideration. Note room change to Committee Room 15.
+**Revised 5/3/24 - A4192 added for consideration.",5/3/2024 0:00:00,"Scheduled",5/3/2024 15:10:00
+"ATR","5/8/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","A5623 Calabrese (pending intro and referral) - Authorizes NJ Infrastructure Bank to expend certain sums to make loans for transportation infrastructure projects for FY2026; makes appropriation.",,"Scheduled",5/2/2025 14:27:00
+"ATR","6/16/2025","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/13/2025 9:32:00
+"ATR","6/6/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","*Revised 6/5/24 - A1427 has been removed from consideration.",6/5/2024 0:00:00,"Scheduled",6/5/2024 12:34:00
+"ATR","9/19/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/13/2024 13:16:00
+"ATU","1/16/2025","12:00 AM","Meeting",,,,"Not Meeting",1/10/2025 12:20:00
+"ATU","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/24/2024 14:12:00
+"ATU","1/5/2026","10:00 AM","Meeting","Committee Room 13, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/31/2025 14:38:00
+"ATU","10/17/2024","12:00 AM","Meeting",,,,"Not Meeting",10/11/2024 10:53:00
+"ATU","10/2/2024","11:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning recent increases in electricity rates and the related cost burden on utility customers in certain service areas.",,"Scheduled",9/17/2024 16:36:00
+"ATU","11/24/2025","12:00 AM","Meeting",,,,"Not Meeting",11/19/2025 16:49:00
+"ATU","12/11/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/5/2025 16:10:00
+"ATU","12/9/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning energy storage in New Jersey, including the impacts of small- and large-scale energy storage on the reliability and cost of electricity, recent changes in State energy storage programs,",,"Scheduled",12/4/2024 16:46:00
+"ATU","2/10/2025","12:00 AM","Meeting",,,,"Not Meeting",2/5/2025 16:54:00
+"ATU","2/22/2024","12:00 AM","Meeting",,,,"Not Meeting",2/16/2024 12:44:00
+"ATU","3/11/2024","10:00 AM","Joint","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","The Assembly Telecommunications and Utilities Committee and the Senate Environment and Energy Committee will meet jointly on Monday, March 11, 2024 at 10:00 AM in Committee Room 6, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",3/20/2025 17:36:00
+"ATU","3/20/2025","10:00 AM","Meeting","Committee Room 9, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/14/2025 14:24:00
+"ATU","3/28/2025","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Assembly Telecommunications and Utilities Committee and the Senate Select Committee will meet jointly on Friday, March 28, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",3/21/2025 15:47:00
+"ATU","3/6/2025","12:00 AM","Meeting",,,,"Not Meeting",2/28/2025 13:35:00
+"ATU","4/25/2025","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Assembly Telecommunications and Utilities Committee and the Senate Select Committee will meet jointly on Friday, April 25, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",10/21/2025 14:17:00
+"ATU","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 12:13:00
+"ATU","5/2/2024","12:00 AM","Meeting",,,,"Not Meeting",4/26/2024 13:34:00
+"ATU","5/5/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/2/25 - A4844 added.",5/2/2025 0:00:00,"Scheduled",5/2/2025 11:54:00
+"ATU","6/12/2025","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests concerning property taxes paid by providers of telecommunications service.
+
+*Revised 6/9/25 - A1478, A5465, and A5768 added.",6/12/2025 0:00:00,"Scheduled",6/12/2025 11:05:00
+"ATU","6/3/2024","10:00 AM","Meeting","Committee Room 15, 4th Floor, State House Annex, Trenton, NJ","*Revised 5/31/24 - A3283 removed from consideration.",5/31/2024 0:00:00,"Scheduled",5/31/2024 12:01:00
+"ATU","9/12/2024","12:00 AM","Meeting",,,,"Not Meeting",9/6/2024 13:50:00
+"CIR","4/16/2024","10:00 AM","Hearing","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","Public Hearing on illegal firearms use and trends in New Jersey.",,"Scheduled",
+"J","1/13/2026","03:00 PM","Session","Assembly Chambers","State of the State Address",,"Scheduled",1/8/2026 15:24:00
+"J","1/14/2025","03:00 PM","Joint","Assembly Chambers","Governor's State of the State Address",,"Scheduled",1/9/2025 12:43:00
+"J","1/9/2024","03:30 PM","Joint","Assembly Chamber","State of the State Address",,"Scheduled",1/3/2024 15:43:00
+"J","2/25/2025","03:00 PM","Joint","Assembly Chambers","Governor's Budget Address",,"Scheduled",2/20/2025 16:40:00
+"J","2/27/2024","02:00 PM","Session","Assembly Chambers","Governor's Budget Address",,"Scheduled",2/21/2024 16:46:00
+"JBOC","9/24/2024","01:00 PM","Meeting",,"5. Thomas Edison State University - Library Construction Bond Act Grant Reallocation.",,"Scheduled",9/20/2024 16:16:00
+"JCES","2/18/2025","11:00 AM","Meeting","Committee Room 7, 2nd Floor, State House Annex, Trenton, NJ","The committee will meet to consider approval of minutes from September 17, 2024 meeting, consider complaints filed by Stephen Headley and Christine Livesay, staff report on October 29, 2024 request by Asw. Sumter to bid on State grant funding opportunity,",,"Scheduled",2/5/2025 16:52:00
+"JCES","2/27/2024","11:00 AM","Meeting","Committee Room 7, Second Floor, State House Annex, Trenton, New Jersey","The Committee will meet to organize and administer the oath of office to all Members; adopt meeting dates; adopt newspapers constituting the State House Press as the newspapers to receive notice of meetings; adopt Standard Operating Procedures; approval",,"Scheduled",2/21/2024 15:56:00
+"JCES","6/17/2025","11:00 AM","Meeting","Committee Room 7, 2nd Floor, State House Annex, Trenton, NJ","The committee will meet to consider approval of minutes from February 18, 2025 meeting, consider complaint filed by Joseph Blaettler, staff report on Legislator Financial Disclosure filings for Calendar Year 2024, staff reports regarding requests to bid",,"Scheduled",6/4/2025 11:37:00
+"JCES","9/17/2024","11:00 AM","Meeting","Committee Room 7, Second Floor, State House Annex, Trenton, New Jersey","The committe wil meet to approve minutes from February 27, 2024 meeting; consider complaint/abeyance of complaints filed by David Tucker and Russell Mollica; consider May 28, 2024 correspondence received from Assemblyman Bailey; Staff report on May 6,",9/13/2024 0:00:00,"Scheduled",9/13/2024 15:20:00
+"JEJ","5/21/2024","11:00 AM","Meeting","Committee Room 4, First Floor, State House Annex, Trenton, NJ","The committee will meet to organize.  The committee will take testimony from invited guests concerning the findings of the New Jersey Study on Disparity in State Procurement",,"Scheduled",5/14/2024 16:49:00
+"JEJ","6/20/2024","10:00 AM","Meeting","Committee Room 11, Fourth Floor, State House Annex, Trenton, New Jersey","The committee will take testimony from invited guests and members of the public concerning the findings of the New Jersey Study on Disparity in State Procurement and concerning the challenges of developing a modern workforce.",6/18/2024 0:00:00,"Canceled",6/18/2024 11:41:00
+"JLSU","1/8/2026","11:30 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","Notices of Proposed Leases of various State Departments: 4360, 0413, 4419, 4691, 4782, 4783, 4785, 4789, 4359, 4778, 4531, 4764, 3665, 4746, 4346, 4423, 4722, 4738, 4739, 4791.",,"Scheduled",1/7/2026 16:20:00
+"JLSU","11/18/2024","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","Notices of Proposed Leases of various State Departments: 4765, 4205, 3993, 4695, 3460, 4731, 4764, 4445, 4486, 4435, 4766, 4208.",,"Scheduled",11/15/2024 17:15:00
+"JPS","1/21/2025","10:00 AM","Meeting","Committee Room 16, State House Annex","The Joint Committee on the Public Schools will be meeting to hear testimony from invited guests regarding the use of funds received from the U.S. Department of Education",,"Scheduled",1/13/2025 10:18:00
+"JPS","1/7/2025","10:00 AM","Meeting","Committee Room 16, State House Annex","The Joint Committee on the Public Schools meeting has been CANCELLED",,"Canceled",1/3/2025 13:17:00
+"JPS","11/1/2024","10:00 AM","Meeting","Via Zoom","The Joint Committee on the Public Schools will meet to discuss school security and threat assessment teams.",,"Scheduled",10/17/2024 11:59:00
+"JPS","11/12/2025","10:00 AM","Meeting","State House Annex, Committee Room 16","The Joint Committee on the Public Schools will meet to discuss issues affecting New Jersey special education students in 18-21 transition programs as they relate to state and federal graduation rates.",,"Scheduled",10/27/2025 10:17:00
+"JPS","3/11/2025","11:30 AM","Meeting","Zoom meeting","The Joint Committee on the Public Schools will meet via Zoom to discuss students' mental health issues with specific focus on school avoidance.",,"Scheduled",2/27/2025 10:14:00
+"JPS","4/26/2024","10:00 AM","Meeting","Via Zoom","Update from the New Jersey Schools Development Authority",,"Scheduled",4/8/2024 12:41:00
+"JPS","6/14/2024","10:00 AM","Meeting","via ZOOM","Testimony on the importance of arts education on New Jersey students",,"Scheduled",6/5/2024 11:02:00
+"JPS","6/6/2025","10:00 AM","Meeting","Via ZOOM","The Joint Committee on the Public Schools will meet virtually to discuss the importance of Arts in Education",,"Scheduled",5/22/2025 15:47:00
+"LRC","1/15/2026","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",1/5/2026 12:13:00
+"LRC","1/16/2025","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",1/6/2025 14:45:00
+"LRC","10/16/2025","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org
+",,"Scheduled",10/6/2025 12:03:00
+"LRC","10/17/2024","10:30 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Laura C. Tharney in advance of the start time of the meeting, at: lct@njlrc.org",,"Scheduled",10/8/2024 14:44:00
+"LRC","11/20/2025","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",11/10/2025 10:10:00
+"LRC","11/21/2024","10:30 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Laura C. Tharney in advance of the start time of the meeting, at: lct@njlrc.org",,"Scheduled",11/12/2024 12:46:00
+"LRC","12/18/2025","04:30 PM","Meeting","Porzio, Bromberg, & Newman, P.C. 100 Southgate Parkway, Morristown, NJ 07962-1997","Members of the public who  wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",12/16/2025 13:32:00
+"LRC","12/19/2024","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",12/9/2024 13:21:00
+"LRC","2/15/2024","10:00 AM","Meeting","Commission Offices, 153 Halsey St., 7th Floor, Newark, NJ",,,"Scheduled",2/5/2024 13:15:00
+"LRC","2/20/2025","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",2/10/2025 14:40:00
+"LRC","3/20/2025","04:30 PM","Meeting","Porzio, Bromberg & Newman, 100 Southgate Parkway, Morristown, NJ 07962-1997","Members of the public who wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",3/10/2025 14:40:00
+"LRC","3/21/2024","10:00 AM","Meeting",,"The Commission meeting will be conducted remotely.  Members of the public who wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org",,"Scheduled",3/11/2024 17:31:00
+"LRC","4/17/2025","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org
+",,"Scheduled",4/8/2025 10:31:00
+"LRC","4/18/2024","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely.  Members of the public who wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org",,"Scheduled",4/8/2024 17:05:00
+"LRC","5/16/2024","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely.  Members of the public who wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org",,"Scheduled",5/6/2024 15:52:00
+"LRC","5/22/2025","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org
+",,"Scheduled",5/13/2025 14:16:00
+"LRC","6/12/2025","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org
+",,"Scheduled",6/2/2025 15:08:00
+"LRC","6/20/2024","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org 
+",,"Scheduled",6/10/2024 16:02:00
+"LRC","7/17/2025","04:30 PM","Meeting","Porzio, Bromberg & Newman, P.C., 100 Southgate Parkway, Morristown, NJ 07962-1997","Members of the public who wish to submit comments on any agenda item, or would like to participate, contact Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org",,"Scheduled",7/8/2025 9:19:00
+"LRC","7/18/2024","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org 
+",,"Scheduled",7/8/2024 11:44:00
+"LRC","9/17/2025","04:30 PM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact 
+Veronica V. Fernandes in advance of the start time of the meeting, at: vvf@njlrc.org
+",,"Scheduled",9/8/2025 15:09:00
+"LRC","9/26/2024","10:30 AM","Meeting",,"The Commission meeting will be conducted remotely. Members of the public who 
+wish to submit comments on any agenda item, or would like to participate, contact Laura C.Tharney in advance of the start time of the meeting, at: lct@njlrc.org 
+",,"Scheduled",9/16/2024 14:41:00
+"S","1/12/2026","12:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",1/9/2026 14:18:00
+"S","1/13/2026","12:00 PM","Session","Assembly Chambers","Reorganization of the Senate for the 222nd Legislature",,"Scheduled",1/10/2026 11:34:00
+"S","1/14/2025","01:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",1/9/2025 14:35:00
+"S","1/25/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",12/19/2023 11:15:00
+"S","1/29/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",12/19/2023 11:15:00
+"S","1/30/2025","01:00 PM","Session","Senate Chambers","Swearing in of Senator-select Benjie E. Wimberly.
+Voting Session:
+10:00 AM: Group (1) Committees scheduled to meet
+",,"Scheduled",1/27/2025 17:00:00
+"S","1/6/2026","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",9/30/2025 16:13:00
+"S","1/8/2026","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",9/30/2025 15:28:00
+"S","1/9/2024","12:00 PM","Session",,"Reorganization Governor's State of the State Address (Details to be announced)",,"Scheduled",9/27/2023 13:20:00
+"S","10/10/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","10/20/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",9/30/2025 14:50:00
+"S","10/21/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","10/24/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",10/21/2024 10:47:00
+"S","10/27/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",9/30/2025 15:23:00
+"S","10/28/2024","02:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",10/24/2024 9:22:00
+"S","10/7/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",8/27/2024 10:13:00
+"S","11/10/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",9/30/2025 16:09:00
+"S","11/13/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",9/30/2025 16:10:00
+"S","11/17/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",9/30/2025 16:11:00
+"S","11/18/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",11/15/2024 9:24:00
+"S","11/20/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",11/19/2025 16:10:00
+"S","11/24/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",11/19/2025 10:12:00
+"S","11/6/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",10/1/2025 16:09:00
+"S","12/1/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",9/30/2025 16:12:00
+"S","12/11/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",9/30/2025 16:12:00
+"S","12/12/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","12/15/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",9/30/2025 16:13:00
+"S","12/16/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","12/18/2025","01:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",12/16/2025 15:56:00
+"S","12/19/2024","02:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",12/16/2024 17:06:00
+"S","12/22/2025","01:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",12/18/2025 15:18:00
+"S","12/4/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",9/30/2025 16:12:00
+"S","12/5/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","12/8/2025","12:00 AM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",9/30/2025 16:12:00
+"S","12/9/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",8/27/2024 10:14:00
+"S","2/10/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",12/23/2024 11:20:00
+"S","2/12/2024","11:00 AM","Session","Senate Chambers","Voting Session:",,"Scheduled",2/7/2024 15:32:00
+"S","2/13/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",12/23/2024 11:21:00
+"S","2/15/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",12/19/2023 11:15:00
+"S","2/20/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",2/19/2025 10:11:00
+"S","2/22/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",12/19/2023 11:14:00
+"S","2/25/2025","01:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",2/21/2025 16:10:00
+"S","2/27/2024","01:00 PM","Session","Senate Chambers","Voting Session: Resolution to receive the Governor's Budget Address",,"Scheduled",2/21/2024 16:34:00
+"S","2/3/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",12/23/2024 11:20:00
+"S","2/5/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",12/19/2023 11:15:00
+"S","2/8/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",12/19/2023 11:15:00
+"S","3/11/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",3/5/2024 15:23:00
+"S","3/14/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",12/19/2023 11:14:00
+"S","3/17/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",12/23/2024 11:22:00
+"S","3/18/2024","11:00 AM","Session","Senate Chambers","Voting Session:",,"Scheduled",3/14/2024 15:35:00
+"S","3/24/2025","01:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",3/20/2025 14:18:00
+"S","3/3/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",12/23/2024 11:22:00
+"S","3/4/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM:  Group (3) Committees scheduled to meet",,"Scheduled",12/19/2023 11:14:00
+"S","3/7/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM:  Group (4) Committees scheduled to meet",,"Scheduled",12/19/2023 11:14:00
+"S","4/11/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",4/1/2024 11:33:00
+"S","4/15/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",4/11/2024 16:45:00
+"S","4/8/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",4/1/2024 11:33:00
+"S","5/12/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",4/1/2025 16:40:00
+"S","5/13/2024","11:00 AM","Session","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet
+Voting Session:",,"Scheduled",5/9/2024 17:37:00
+"S","5/16/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",4/4/2024 16:35:00
+"S","5/19/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",4/1/2025 16:41:00
+"S","5/20/2024","11:00 AM","Session","Senate Chambers","Voting Session:",,"Scheduled",5/16/2024 16:28:00
+"S","5/22/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",4/1/2025 16:41:00
+"S","5/29/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",4/1/2025 16:44:00
+"S","5/6/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",4/4/2024 16:35:00
+"S","5/9/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet
+",,"Scheduled",5/3/2024 11:01:00
+"S","6/10/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",4/4/2024 16:35:00
+"S","6/12/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (3) Committees scheduled to meet",,"Scheduled",4/1/2025 16:48:00
+"S","6/13/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",4/4/2024 16:34:00
+"S","6/17/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",4/4/2024 16:34:00
+"S","6/19/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (4) Committees scheduled to meet",,"Scheduled",4/1/2025 16:48:00
+"S","6/2/2025","11:00 AM","Session","Senate Chambers","Voting Session:",,"Scheduled",5/29/2025 17:08:00
+"S","6/20/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",4/4/2024 16:34:00
+"S","6/23/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Committees at the Call of the Senate President",,"Scheduled",4/1/2025 16:48:00
+"S","6/24/2024","12:00 PM","Quorum","Senate Chambers","Committees at the Call of the Senate President",,"Scheduled",6/19/2024 10:52:00
+"S","6/26/2024","12:00 PM","Quorum","Senate Chambers","Committees at the Call of the Senate President",,"Scheduled",6/25/2024 18:21:00
+"S","6/26/2025","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",6/25/2025 11:18:00
+"S","6/28/2024","02:00 PM","Session","Senate Chambers","Voting Session:",,"Scheduled",6/27/2024 15:10:00
+"S","6/3/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",4/4/2024 16:35:00
+"S","6/30/2025","11:00 AM","Session","Senate Chambers","Voting Session:",,"Scheduled",6/27/2025 9:32:00
+"S","6/5/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet",,"Scheduled",4/1/2025 16:47:00
+"S","6/6/2024","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",4/4/2024 16:43:00
+"S","6/9/2025","12:00 PM","Quorum","Senate Chambers","10:00 AM: Group (2) Committees scheduled to meet",,"Scheduled",4/1/2025 16:47:00
+"S","9/12/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",8/27/2024 10:11:00
+"S","9/19/2024","12:00 PM","Quorum","Senate Chambers",,,"Scheduled",9/12/2024 12:22:00
+"S","9/26/2024","12:00 PM","Quorum","Senate Chambers","1:00 PM: Judiciary Committee scheduled to meet",,"Scheduled",8/27/2024 10:28:00
+"S","9/30/2024","01:00 PM","Session","Senate Chambers","10:00 AM: Group (1) Committees scheduled to meet
+Voting Session:",,"Scheduled",9/27/2024 11:28:00
+"SBA","1/29/2024","12:00 AM","Meeting",,,,"Not Meeting",1/23/2024 15:44:00
+"SBA","1/8/2026","12:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 1/6/26 – S3329, S3862/A4984 (1R), S3998, S4153/A4664 (1R), S4664, S4713 (1R), S4716 (1R), S4875, S5014, S5018, S5020/A6276 (1R), S5025, S5031 and A4434 (1R) added. S3282 and S4676 removed.",1/8/2026 0:00:00,"Scheduled",1/8/2026 13:43:00
+"SBA","10/7/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 10/4/24 - S2015 (1R) has been removed and S2580 has been added.",10/4/2024 0:00:00,"Scheduled",10/4/2024 13:06:00
+"SBA","11/13/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 11/10/25 - S3389, S4493/A5598 (1R), S4668, S4833 and S4835 added.",11/10/2025 0:00:00,"Scheduled",11/10/2025 17:09:00
+"SBA","12/15/2025","12:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/12/25 - S1380, S1888, S2348, S4932, SXXXX, and A4175 (2R) added.
+",12/15/2025 0:00:00,"Scheduled",12/15/2025 12:13:00
+"SBA","12/8/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/3/2025 11:03:00
+"SBA","12/9/2024","02:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 12/6/24 - The time has been changed from 1:00pm to 2:00pm. S3493, S3496 and S3916 have been removed. S3921, S3922, S3936 and S3943 have been added.",12/6/2024 0:00:00,"Scheduled",12/6/2024 16:10:00
+"SBA","2/3/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 1/29/25 - S4027 has been added. S3819 (1R)/A4948 (1R) have been removed.",1/29/2025 0:00:00,"Scheduled",1/29/2025 16:07:00
+"SBA","3/11/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 3/8/24 - S787 and S2552 (1R) have been added.",3/8/2024 0:00:00,"Scheduled",3/8/2024 17:01:00
+"SBA","3/17/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 3/13/25 - S2688/A2813, S3506 (1R)/A4653 (1R), and S3507/A4652 added.",3/13/2025 0:00:00,"Scheduled",3/13/2025 15:03:00
+"SBA","4/11/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",4/9/2024 16:00:00
+"SBA","5/19/2025","12:00 AM","Meeting",,,,"Not Meeting",5/12/2025 16:59:00
+"SBA","5/9/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton NJ",,,"Scheduled",5/6/2024 16:08:00
+"SBA","6/24/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/21/2024 14:57:00
+"SBA","6/26/2024","04:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton NJ.","*Revised 6/26/24 - S1385 (1R), S1430 (1R), S1443 (1R)/A2294 (1R), S2024, S2025, S2949, S3439, S3512, S3513, S3515, S3516, and S3519 have been added.
+**Revised 6/26/2024 S2311 and S3235 (2R) have been added.",6/26/2024 0:00:00,"Scheduled",6/26/2024 16:46:00
+"SBA","6/26/2025","12:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","S2026 (Sarlo) and S4655 (Sarlo) are pending intro and referral. *Revised 6/25/25 - S2019 (1R), S3486 (1R), S4122 (1R), S4475, S4590, and S4618 added. S3446 (1R) removed.
+",6/25/2025 0:00:00,"Scheduled",6/26/2025 20:27:00
+"SBA","6/6/2024","12:00 AM","Meeting",,,,"Not Meeting",5/30/2024 16:38:00
+"SBA","6/9/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/6/2025 14:12:00
+"SBAB","3/19/2024","10:00 AM","Hearing","New Jersey Institute of Technology, Campus Center Atrium, 150 Bleeker Street, Newark, New Jersey 07102","The Senate Budget and Appropriations Committee will hold a Public Hearing on the FY 2025 State Budget.",,"Scheduled",3/11/2025 10:19:00
+"SBAB","3/26/2024","10:00 AM","Hearing",,"The hearing will be conducted remotely without the possibility of in-person attendance.",,"Scheduled",3/7/2025 11:50:00
+"SBAB","3/26/2025","10:00 AM","Hearing","New Jersey Institute of Technology, Campus Center Atrium, 150 Bleeker Street, Newark, NJ 07102","The Senate Budget and Appropriations Committee will hold a Public Hearing on the FY 2026 State Budget.",,"Scheduled",3/11/2025 12:05:00
+"SBAB","3/28/2024","11:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Budget Overview and Revenue Forecast (Office of Legislative Services)",,"Scheduled",3/11/2025 10:19:00
+"SBAB","3/28/2024","11:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Budget Overview (State Treasurer)",,"Scheduled",3/11/2025 10:20:00
+"SBAB","4/1/2025","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Budget Overview and Revenue Forecast (Office of Legislative Services)",,"Scheduled",3/17/2025 16:29:00
+"SBAB","4/1/2025","11:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Budget Overview (State Treasurer)",,"Scheduled",3/17/2025 16:29:00
+"SBAB","4/10/2025","10:00 AM","Hearing",,"The public may view the hearing through the State Legislature's homepage
+https://www.njleg.state.nj.us/.",,"Scheduled",3/11/2025 12:07:00
+"SBAB","4/11/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Transportation/New Jersey Transit/Motor Vehicle Commission",,"Scheduled",3/7/2024 17:03:00
+"SBAB","4/16/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  The Judiciary",,"Scheduled",3/7/2024 17:05:00
+"SBAB","4/16/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Education/Schools Development Authority",,"Scheduled",3/7/2024 17:05:00
+"SBAB","4/18/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Community Affairs",,"Scheduled",3/7/2024 17:06:00
+"SBAB","4/18/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Labor and Workforce Development",,"Scheduled",3/7/2024 17:05:00
+"SBAB","4/2/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Military and Veterans' Affairs",,"Scheduled",3/7/2024 17:02:00
+"SBAB","4/2/2024","02:30 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Banking and Insurance",,"Scheduled",3/7/2024 17:02:00
+"SBAB","4/2/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Health",,"Scheduled",3/11/2025 10:20:00
+"SBAB","4/22/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  The Judiciary",,"Scheduled",3/17/2025 16:31:00
+"SBAB","4/22/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Children and Families",,"Scheduled",3/17/2025 16:31:00
+"SBAB","4/29/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget: Department of Environmental Protection",,"Scheduled",4/29/2025 10:37:00
+"SBAB","4/29/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Community Affairs",,"Scheduled",3/17/2025 16:31:00
+"SBAB","4/3/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Health",,"Scheduled",3/17/2025 16:30:00
+"SBAB","4/3/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Law and Public Safety",,"Scheduled",3/17/2025 16:30:00
+"SBAB","4/9/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey","Hearing on the FY 2025 Budget: Department of State",,"Canceled",4/8/2024 16:52:00
+"SBAB","4/9/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Corrections/State Parole Board",,"Scheduled",3/7/2024 17:03:00
+"SBAB","5/1/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Banking and Insurance",,"Scheduled",3/17/2025 16:33:00
+"SBAB","5/1/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Higher Educational Services",,"Scheduled",3/17/2025 16:32:00
+"SBAB","5/13/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget: Department of Corrections/State Parole Board",,"Scheduled",3/17/2025 16:35:00
+"SBAB","5/13/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Education/Schools Development Authority",,"Scheduled",3/17/2025 16:35:00
+"SBAB","5/14/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of the Treasury and Interdepartmental Accounts/New Jersey Economic Development Authority/New Jersey Board of Public Utilities",,"Scheduled",3/12/2025 13:33:00
+"SBAB","5/14/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Revenue Update (Office of Legislative Services)",,"Scheduled",3/12/2025 13:32:00
+"SBAB","5/14/2024","11:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Revenue Update (State Treasurer)",,"Scheduled",3/7/2024 17:07:00
+"SBAB","5/15/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey","Hearing on the FY 2026 Budget:  New Jersey Economic Development Authority/New Jersey Board of Public Utilities",,"Canceled",5/29/2025 12:50:00
+"SBAB","5/15/2025","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Revenue Update (Office of Legislative Services)",,"Scheduled",3/17/2025 16:35:00
+"SBAB","5/15/2025","11:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget: Revenue Update (State Treasurer)
+Department of the Treasury and Interdepartmental Accounts
+",,"Scheduled",5/29/2025 12:50:00
+"SBAB","5/2/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Law and Public Safety",,"Canceled",6/19/2024 16:09:00
+"SBAB","5/6/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Labor and Workforce Development",,"Scheduled",3/17/2025 16:34:00
+"SBAB","5/6/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Human Services",,"Scheduled",3/17/2025 16:33:00
+"SBAB","5/7/2024","01:30 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Children and Families",,"Scheduled",3/7/2024 17:06:00
+"SBAB","5/7/2024","03:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Environmental Protection/Department of Agriculture",,"Scheduled",4/9/2024 16:58:00
+"SBAB","5/7/2024","10:30 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Department of Human Services",,"Scheduled",3/7/2024 17:06:00
+"SBAB","5/8/2025","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget:  Department of Military and Veterans' Affairs",,"Scheduled",3/17/2025 16:34:00
+"SBAB","5/8/2025","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2026 Budget: Department of Transportation/New Jersey Transit/Motor Vehicle Commission",,"Scheduled",3/17/2025 16:34:00
+"SBAB","5/9/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.","Hearing on the FY 2025 Budget:  Higher Educational Services",,"Scheduled",5/2/2024 11:15:00
+"SCM","10/10/2024","10:00 AM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, New Jersey","*Revised 10/9/24 - Location changed to Committee Room 1",10/9/2024 0:00:00,"Scheduled",10/9/2024 12:01:00
+"SCM","11/17/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/10/2025 18:13:00
+"SCM","12/11/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 17:06:00
+"SCM","12/12/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, New Jersey","Revised 12/10/24 - Time changed to 10:00 AM; S1138 & A3667 added",,"Scheduled",12/10/2024 16:37:00
+"SCM","2/10/2025","10:30 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/7/2025 17:11:00
+"SCM","2/5/2024","01:00 PM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, New Jersey","S1390 removed",2/1/2024 0:00:00,"Scheduled",2/1/2024 13:10:00
+"SCM","3/24/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/17/2025 17:05:00
+"SCM","3/4/2024","02:00 PM","Meeting",,,,"Not Meeting",2/27/2024 14:42:00
+"SCM","5/13/2024","01:00 PM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/7/2024 17:33:00
+"SCM","5/22/2025","10:30 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 5/20/25 - S4457 and S4499 added.  S2285 removed.",5/20/2025 0:00:00,"Scheduled",5/20/2025 16:10:00
+"SCM","6/10/2024","01:00 PM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ","Revised 6/5/24 - S3223 added for discussion only
+Revised 6/7/24 - SJR122 added",6/7/2024 0:00:00,"Scheduled",6/7/2024 13:46:00
+"SCM","6/12/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/9/2025 12:32:00
+"SCM","6/23/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on the current state of pharmacy benefits managers in New Jersey.",,"Scheduled",6/13/2025 12:35:00
+"SCU","1/25/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/18/2024 16:31:00
+"SCU","1/30/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 1/28/25 - S1408 and S3788 removed.",1/28/2025 0:00:00,"Scheduled",1/28/2025 15:59:00
+"SCU","11/10/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The following bill is pending intro and referral: S4832 (Scutari) Authorizes establishment of municipal homelessness trust funds and adoption of homeless housing plans by municipalities.",,"Scheduled",10/31/2025 17:04:00
+"SCU","12/4/2025","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/28/2025 17:00:00
+"SCU","12/5/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/26/2024 17:00:00
+"SCU","2/15/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/8/2024 16:32:00
+"SCU","3/17/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 3/11/25 - S3913/A4973 added.
+**Revised 3/13/25 - S3913/A4973 removed. S3481 added.",,"Scheduled",3/13/2025 16:09:00
+"SCU","5/12/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The following bills are pending intro & referral: S4378 (Singleton) Authorizes local governments to provide voluntary contributions to certain nonprofit veterans' organizations.;",,"Scheduled",5/6/2025 17:00:00
+"SCU","5/6/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, NJ","The following bill is pending intro and referral: S3155 (Greenstein) Authorizes HMFA to issue tax credits for certain purposes.
+*Revised 5/2/24 - S1414 removed, S2820 added.",5/2/2024 0:00:00,"Scheduled",5/2/2024 12:39:00
+"SCU","6/17/2024","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 6/11/24 - Time changed to 11:00AM.",6/11/2024 0:00:00,"Scheduled",6/11/2024 15:08:00
+"SCU","6/3/2024","12:00 AM","Meeting",,,,"Not Meeting",5/24/2024 10:30:00
+"SCU","6/5/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/29/2025 17:05:00
+"SCU","9/30/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",9/26/2024 17:14:00
+"SED","1/25/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/20/2024 12:01:00
+"SED","1/30/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests regarding chronic absenteeism in New Jersey schools.  The committee will also accept written testimony from members of the public.",1/29/2025 0:00:00,"Scheduled",1/29/2025 16:32:00
+"SED","11/10/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","S4809 (Ruiz) - (pending intro and referral) Revises certain membership requirements of Commission on Latino and Hispanic Heritage.
+*Revised 11/5/25 - S4678 added.",11/5/2025 0:00:00,"Scheduled",11/5/2025 17:02:00
+"SED","12/16/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited speakers regarding the Charter School Program Act of 1995.",,"Scheduled",12/10/2024 11:15:00
+"SED","12/4/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/2/25 - S4679 added.",12/2/2025 0:00:00,"Scheduled",12/2/2025 17:10:00
+"SED","12/5/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised - 12/2/24 - Please note time change.
+** Revised - 12/4/24 - S3695 was removed from discussion only and will now be considered.",12/4/2024 0:00:00,"Scheduled",12/4/2024 12:08:00
+"SED","2/15/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*S1559 For Discussion Only has been removed.",2/14/2024 0:00:00,"Scheduled",2/14/2024 17:03:00
+"SED","2/5/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate and Assembly Education Committees will take testimony from invited guests on virtual or remote instruction in grades kindergarten through 12.  The committees will also accept written testimony from members of the public.",,"Scheduled",1/31/2024 16:45:00
+"SED","3/14/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests regarding the school funding formula.  The committee will also accept written testimony from members of the public.",,"Scheduled",3/7/2024 16:06:00
+"SED","3/17/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","S-4223 (Lagana) - (pending referral)
+*S3118 was added to the agenda.",3/14/2025 0:00:00,"Scheduled",3/14/2025 15:29:00
+"SED","5/12/2025","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","S4375 Ruiz (pending intro and referral).
+*S4051 - removed.",5/8/2025 0:00:00,"Scheduled",5/8/2025 17:04:00
+"SED","5/6/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","S3156 (Gopal) - (pending intro and referral) Permits boards of education to lease certain school property to federally qualified health centers without bidding.
+A4059 (Lampitt/Stanley/Katz) - (pending referral).",,"Scheduled",4/29/2024 17:07:00
+"SED","6/20/2024","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/13/2024 16:06:00
+"SED","6/3/2024","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited speakers regarding preschool mixed-delivery systems.",,"Scheduled",5/24/2024 11:01:00
+"SED","6/5/2025","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/2/2025 17:01:00
+"SED","9/30/2024","09:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*A4148 (Lampitt/Conaway/Speight) (pending referral) was added to the agenda.",9/27/2024 0:00:00,"Scheduled",10/7/2024 14:06:00
+"SEG","10/10/2024","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/8/2024 15:44:00
+"SEG","11/17/2025","12:00 AM","Meeting",,,,"Not Meeting",11/10/2025 17:00:00
+"SEG","12/11/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/9/2025 11:15:00
+"SEG","12/12/2024","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/10/2024 9:38:00
+"SEG","2/10/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/3/2025 17:41:00
+"SEG","2/5/2024","12:00 AM","Meeting",,,,"Not Meeting",1/30/2024 13:23:00
+"SEG","3/4/2024","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Committee will first receive testimony from invited guests representing chambers of commerce within the State. Immediately following this testimony, the Committee will consider the bill(s) listed in this notice.",,"Scheduled",2/26/2024 16:20:00
+"SEG","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/8/2024 15:50:00
+"SEG","5/16/2024","10:30 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 5/10/24 - Note room change to Committee Room 6.",5/10/2024 0:00:00,"Scheduled",5/10/2024 12:04:00
+"SEG","5/22/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/15/2025 16:35:00
+"SEG","6/10/2024","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 6/5/24 - S3303/A4046 (1R) added for consideration. 
+
+",6/5/2024 0:00:00,"Scheduled",6/5/2024 17:29:00
+"SEG","6/12/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/10/2025 11:04:00
+"SEN","1/13/2025","11:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/8/2025 17:00:00
+"SEN","10/10/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 10/9/24 - Room changed to Committee Room 6",10/9/2024 0:00:00,"Scheduled",10/9/2024 12:07:00
+"SEN","11/17/2025","12:00 AM","Meeting",,,,"Not Meeting",11/10/2025 17:00:00
+"SEN","12/1/2025","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/24/2025 17:00:00
+"SEN","12/11/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/9/2025 11:00:00
+"SEN","12/12/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised - 12/11/24 Room change to Committee Room 1.",12/11/2024 0:00:00,"Scheduled",12/11/2024 14:54:00
+"SEN","2/10/2025","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/3/2025 17:01:00
+"SEN","2/5/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","Revised 2/1/24 - S245 and SCR43 removed
+ 
+
+	",2/1/2024 0:00:00,"Scheduled",2/1/2024 16:59:00
+"SEN","3/11/2024","10:00 AM","Joint","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","The Senate Environment and Energy Committee and the Assembly Telecommunications and Utilities Committee will meet jointly on Monday, March 11, 2024 at 10:00 AM in Committee Room 6, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",3/7/2024 16:05:00
+"SEN","3/14/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/12/2024 16:12:00
+"SEN","3/17/2025","01:00 PM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","*Revised- 3/12/25 S1991 has been added",3/12/2025 0:00:00,"Scheduled",3/12/2025 16:17:00
+"SEN","3/4/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/26/2024 16:21:00
+"SEN","3/7/2024","01:00 PM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","The committee will take testimony from invited speakers on the ways in which the insurance industry is adapting to account for increased risks associated with current and anticipated climate change impacts.",,"Scheduled",2/29/2024 16:34:00
+"SEN","4/22/2024","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate Environment and Energy Committee and the Assembly Environment, Natural Resources, and Solid Waste Committee will meet jointly on Monday, April 22, 2024 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",4/15/2024 17:17:00
+"SEN","4/23/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate Environment and Energy Committee and the Assembly Environment, Natural Resources, and Solid Waste Committee will meet jointly on Wednesday, April 23, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",4/16/2025 17:00:00
+"SEN","5/13/2024","02:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised - 5/9/24 S3065 added and room changed to CR4",5/9/2024 0:00:00,"Scheduled",5/9/2024 16:49:00
+"SEN","5/22/2025","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,5/20/2025 0:00:00,"Scheduled",5/20/2025 15:31:00
+"SEN","6/10/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 6/4/24 - Room changed to Committee Room 1.",6/4/2024 0:00:00,"Scheduled",6/4/2024 16:33:00
+"SEN","6/12/2025","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","The committee will receive testimony from the Commissioner of Environmental Protection concerning the Jones Road Fire.",,"Scheduled",6/10/2025 11:00:00
+"SEN","6/20/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/13/2024 16:01:00
+"SEN","8/1/2024","10:00 AM","Meeting","LMH Room, Toms River Municipal Complex, 33 Washington Street, Toms River, New Jersey","The Senate Environment and Energy Committee and the Assembly Environment, Natural Resources, and Solid Waste Committee will meet jointly on Thursday, August 1, 2024 at 10:00 AM in the LMH Room, Toms River Municipal Complex, 33 Washington Street, Toms",,"Scheduled",7/26/2024 13:06:00
+"SEN","8/14/2025","10:00 AM","Meeting","Municipal Court Room, Point Pleasant Borough Municipal Building, 2233 Bridge Avenue, Point Pleasant, New Jersey.","Public Utilities in exploring energy technologies.
+
+*Revised 8/13/25 - Location change to Municipal Court Room, Point Pleasant Borough Municipal Building, 2233 Bridge Avenue, Point Pleasant, New Jersey.",8/13/2025 0:00:00,"Scheduled",8/13/2025 13:03:00
+"SHH","1/29/2024","01:00 PM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ","The Senate Health, Human Services and Senior Citizens Committee will hear testimony from invited speakers only on Senate Bill, No. 1493.",,"Scheduled",1/24/2024 16:36:00
+"SHH","10/28/2024","11:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton NJ",,,"Scheduled",10/23/2024 17:16:00
+"SHH","10/7/2024","01:00 PM","Meeting","Committee Room 1, First floor, State House Annex, Trenton NJ","The committee will hear testimony from invited speakers on Senate Bill No. 3611 and concerning the mental health resources available to children and the service pathways used to access those resources.",10/4/2024 0:00:00,"Scheduled",10/4/2024 15:18:00
+"SHH","11/13/2025","10:00 AM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, NJ","*Revised 11/7/25 - Time change to 10:00 A.M.
+**Revised 11/12/25 - S2496 removed.",11/12/2025 0:00:00,"Scheduled",11/12/2025 17:03:00
+"SHH","12/19/2024","11:00 AM","Meeting","Committee Room 4, First floor, State House Annex, Trenton NJ","*Revised 12/18/24- Committee Room changed from 1 to Committee Room 4.",12/18/2024 0:00:00,"Scheduled",12/19/2024 9:12:00
+"SHH","12/8/2025","01:00 PM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, NJ",,,"Scheduled",12/3/2025 16:00:00
+"SHH","12/9/2024","01:00 PM","Meeting","Committee Room 1, First floor, State House Annex, Trenton NJ",,,"Scheduled",12/3/2024 15:02:00
+"SHH","2/22/2024","01:00 PM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/16/2024 15:24:00
+"SHH","2/3/2025","01:00 PM","Meeting","Committee Room 1, First floor, State House Annex, Trenton NJ","*Revised 2/3/25 A2804 added.
+
+",2/3/2025 0:00:00,"Scheduled",2/3/2025 12:53:00
+"SHH","3/14/2024","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 3/8/24 - S2192 removed
+*Revised 3/14/24 - Meeting moved to Committee Room 1",3/14/2024 0:00:00,"Scheduled",3/14/2024 12:58:00
+"SHH","3/3/2025","01:00 PM","Meeting","Committee Room 6 First Floor, State House Annex, Trenton NJ","SR126 Singleton (Pending intro and referral) Condemns U.S. House of Representatives for passage of budget resolution cutting $1.5 trillion from federal budget and urges U.S. Senate to reject House resolution.",3/3/2025 0:00:00,"Scheduled",3/3/2025 12:49:00
+"SHH","5/19/2025","10:00 AM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton NJ","*Revised 5/16/25 - S3538 added for discussion only.",5/16/2025 0:00:00,"Scheduled",5/16/2025 13:19:00
+"SHH","5/9/2024","12:30 PM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, NJ","*Revised 5/8/24 - S2330 removed",5/8/2024 0:00:00,"Scheduled",5/8/2024 11:46:00
+"SHH","6/20/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ.",,,"Scheduled",6/13/2024 16:00:00
+"SHH","6/6/2024","01:00 PM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/30/2024 16:31:00
+"SHH","6/9/2025","10:00 AM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton NJ",,,"Scheduled",6/2/2025 16:58:00
+"SHI","10/10/2024","01:00 PM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on degree-granting proprietary institutions and their role in the State's system of higher education. 
+
+",,"Scheduled",10/7/2024 16:48:00
+"SHI","11/17/2025","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests on how the State's institutions of higher education are meeting student needs.",11/14/2025 0:00:00,"Scheduled",11/14/2025 12:58:00
+"SHI","12/11/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 17:00:00
+"SHI","12/12/2024","12:00 AM","Meeting",,,,"Not Meeting",12/11/2024 12:02:00
+"SHI","12/15/2025","10:30 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The committee will meet to receive testimony from invited guests on the education of the nursing workforce in the State and the health care education partnership between Rowan University and Fairleigh Dickinson University.
+",12/11/2025 0:00:00,"Scheduled",12/11/2025 10:13:00
+"SHI","2/10/2025","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","* Revised 2/5/25 - Time changed from 10:00 AM to 1:00 PM. S780/A2801 (1R) has been added
+
+",2/5/2025 0:00:00,"Scheduled",2/5/2025 10:35:00
+"SHI","2/5/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The Senate Higher Education Committee will meet to receive testimony from invited guests on the recent merger of Bloomfield College with Montclair State University pursuant to the provisions of P.L.2023, c.65.
+
+",,"Scheduled",2/20/2024 11:55:00
+"SHI","3/10/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate and Assembly Higher Education Committees will hold a joint meeting to receive testimony from invited guests regarding the use of funding received from the United States Department of Education for higher education purposes.",,"Scheduled",3/3/2025 17:12:00
+"SHI","3/4/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The Senate Higher Education Committee will meet to receive testimony from invited guests on post-COVID-19 pandemic trends within the State's institutions of higher education.",,"Scheduled",5/21/2024 12:10:00
+"SHI","5/13/2024","12:00 AM","Meeting",,,,"Not Meeting",5/21/2024 12:09:00
+"SHI","5/22/2025","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests to discuss the issue of deferred maintenance at the State's public institutions of higher education and possible options to address the issue.
+*Revised 5/20/25 - A1715 (2R) and S4508 added.",5/20/2025 0:00:00,"Scheduled",5/20/2025 15:07:00
+"SHI","6/10/2024","10:00 AM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ","The Senate Higher Education Committee and the Assembly Higher Education Committee will receive testimony from invited guests on the findings of New Jersey City University's Fiscal & Governance Monitoring Report and Accountability Plan recently",,"Scheduled",6/3/2024 16:54:00
+"SHI","6/10/2024","12:00 PM","Meeting","Committee Room 11, 4th Floor, State House Annex, Trenton, NJ",,,"Scheduled",8/21/2024 11:50:00
+"SHI","6/12/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests on mergers and consolidations in the State's system of higher education.",,"Scheduled",6/6/2025 16:03:00
+"SJU","1/12/2026","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 1/10/2026 (Nominees added.) **Revised 1/11/2026  5:10 PM (Nominees added.) ***Revised 1/11/2026 8:00 PM (Nominees added.) ****Revised 1/12/2026 (Nominee added.)",1/10/2026 0:00:00,"Scheduled",1/12/2026 10:19:00
+"SJU","1/8/2026","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","Revised 1/7/2026 *Nominees added. **S5036, S5037, and S5038 added. 2nd Revision 1/7/2026 6:30 PM ***S4871 added.",1/7/2026 0:00:00,"Scheduled",1/7/2026 18:42:00
+"SJU","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/15/2024 16:56:00
+"SJU","10/24/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/18/2024 14:00:00
+"SJU","10/28/2024","11:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 10/25/2024 at 7:15 PM (Meeting start time changed from 10:00 AM to 11:30 AM)",10/25/2024 0:00:00,"Scheduled",10/25/2024 19:18:00
+"SJU","11/18/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/14/2024 16:05:00
+"SJU","12/1/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 11/28/2025. Nominees added.",11/28/2025 0:00:00,"Scheduled",11/28/2025 18:35:00
+"SJU","12/15/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/12/25 2PM 
+Nomination for John E. Mackay to be a member of the Hunterdon County Board of Taxation was removed.
+2nd Revised 12/12/25 5:30PM
+**Nominees added.  ***Nominees removed. ****S163 removed.
+",12/12/2025 0:00:00,"Scheduled",12/12/2025 17:34:00
+"SJU","12/16/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 12/13/2024 *Nominees added.  **Jeffrey Nash removed. 
+2nd Revised 12/13/24 7:00PM ***Nominee added. ****S3587 removed.",12/13/2024 0:00:00,"Scheduled",12/13/2024 19:03:00
+"SJU","12/18/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Please note: In addition to the Thursday meeting, the Senate Judiciary Committee will meet again on Monday, December 22, 2025.  The meeting location, time, and agenda items will be announced in a separate committee notice.",12/17/2025 0:00:00,"Scheduled",12/17/2025 17:02:00
+"SJU","12/22/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 12/20/25 
+*Nominees added.
+**Arlene Quinones Perez , to be a member of the Montclair State University Board of Trustees was removed.
+",12/20/2025 0:00:00,"Scheduled",12/21/2025 11:48:00
+"SJU","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/11/2025 9:52:00
+"SJU","2/20/2025","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*S4144 (Scutari) (pending intro and referral) Clarifies installation of ignition interlock devices for certain DWI offenses. 
+",2/18/2025 0:00:00,"Scheduled",2/18/2025 17:29:00
+"SJU","2/25/2025","11:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/21/2025 10:28:00
+"SJU","2/8/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 2/7/2024: *Nominees added **S2236 added.",2/7/2024 0:00:00,"Scheduled",2/7/2024 15:45:00
+"SJU","3/14/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","Revised 3/14/2024: Raphael Salermo replacement seat change.",3/14/2024 0:00:00,"Scheduled",3/14/2024 11:46:00
+"SJU","3/24/2025","11:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/21/2025 10:05:00
+"SJU","3/7/2024","10:00 AM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will take testimony from invited guests and members of the public on the implementation of the State's 2017 criminal justice reform measures, including successes, current challenges, and areas in need of improvement.",,"Scheduled",3/5/2024 8:25:00
+"SJU","3/7/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/5/2024 8:25:00
+"SJU","5/16/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 5/16/2024 *Nominee added.",5/16/2024 0:00:00,"Scheduled",5/16/2024 10:29:00
+"SJU","5/20/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/17/2024 17:10:00
+"SJU","5/29/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 5/28/25 3:50PM (Nominee added.  Marita Sciarrotta removed.)
+**2nd Revised 5/29/25  8:00 AM (Nominee added.)",5/28/2025 0:00:00,"Scheduled",5/29/2025 8:04:00
+"SJU","6/13/2024","01:00 PM","Hearing","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will take testimony from invited guests and members of the public on concerns related to youth involvement in certain crimes including auto theft and burglary, and what the State should be doing to address the issue.",,"Scheduled",6/10/2024 16:47:00
+"SJU","6/13/2024","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Please note that the committee meeting will be held first, starting at 10:00 AM.  The public hearing will begin no earlier than 1:00 PM, following the committee meeting.",6/13/2024 0:00:00,"Scheduled",6/13/2024 14:31:00
+"SJU","6/19/2025","12:00 AM","Meeting",,,,"Not Meeting",6/17/2025 18:05:00
+"SJU","6/26/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 6/24/2025 (Nominees added.  J. Christian Bollwage removed.) **2nd Revised (Nominees added.)",6/25/2025 0:00:00,"Scheduled",6/25/2025 16:13:00
+"SJU","6/28/2024","11:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Revised 6/28/2024 12:00 PM (S3190 for discussion only.  Debra Behnke's term was revised.)",6/28/2024 0:00:00,"Scheduled",6/28/2024 12:05:00
+"SJU","6/30/2025","10:30 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","** Revised 6/27/25 (Nominees added.)  ***2nd Revised 6/30/25 (Nominee added.)",6/27/2025 0:00:00,"Scheduled",6/30/2025 9:34:00
+"SJU","9/26/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","Please note that the committee meeting will begin at 1:00 PM.
+The nomination of John J. Hoffman will be considered at 2:00 PM.
+",,"Scheduled",9/23/2024 18:17:00
+"SLA","1/25/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/18/2024 16:32:00
+"SLA","1/30/2025","12:00 AM","Meeting",,,,"Not Meeting",1/23/2025 16:00:00
+"SLA","11/10/2025","10:00 AM","Meeting",,,,"Not Meeting",10/31/2025 17:00:00
+"SLA","12/1/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/1/25 - S4385 removed.
+**Revised 12/1/25 - Room change to Committee Room 4",12/1/2025 0:00:00,"Scheduled",12/1/2025 12:51:00
+"SLA","12/4/2025","12:00 AM","Meeting",,,,"Not Meeting",12/3/2025 11:09:00
+"SLA","12/5/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, New Jersey","Revised 12/4/24 - S3249 changed to Discussion Only",,"Scheduled",12/4/2024 11:58:00
+"SLA","2/15/2024","01:00 PM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ",,,"Not Meeting",2/16/2024 10:10:00
+"SLA","3/14/2024","10:00 AM","Meeting","Committee Room 1, First Floor, State House Annex, Trenton, New Jersey","*Revised 3/12/24 - S2890 added",3/12/2024 0:00:00,"Scheduled",3/12/2024 16:02:00
+"SLA","3/3/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/24/2025 17:02:00
+"SLA","5/12/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 5/9/25 - S2791 added",5/9/2025 0:00:00,"Scheduled",5/9/2025 16:08:00
+"SLA","5/6/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ","*S2015 added",5/2/2024 0:00:00,"Scheduled",5/2/2024 16:20:00
+"SLA","6/3/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/24/2024 11:01:00
+"SLA","6/5/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/29/2025 17:01:00
+"SLA","9/30/2024","10:00 AM","Meeting","Committee Room 6, First Floor, State House Annex, Trenton, NJ",,,"Canceled",9/30/2024 8:40:00
+"SLO","10/21/2024","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests to discuss how artificial intelligence is defined and the artificial intelligence landscape in New Jersey.",,"Scheduled",10/11/2024 10:26:00
+"SLO","11/17/2025","01:00 PM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests concerning the future of public broadcasting in New Jersey.",,"Scheduled",11/7/2025 17:00:00
+"SLO","3/3/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The committee will receive testimony from invited guests to discuss preparing New Jersey for the increasing energy demands of artificial intelligence.",,"Scheduled",2/24/2025 17:02:00
+"SLP","10/21/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",10/15/2024 10:31:00
+"SLP","12/1/2025","12:00 AM","Meeting",,,,"Not Meeting",11/25/2025 10:36:00
+"SLP","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 17:02:00
+"SLP","12/16/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","The committee will hear testimony from invited guests on cybersecurity issues affecting New Jersey, including, but not limited to, the implementation of P.L.2023, c.19, which requires certain cybersecurity incidents to be reported to the New Jersey Office",,"Scheduled",12/10/2024 16:43:00
+"SLP","12/4/2025","01:00 PM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/3/25 S3071 and S4360 added.
+**Revised 12/4/25 A3941 added.",12/4/2025 0:00:00,"Scheduled",12/4/2025 11:00:00
+"SLP","2/13/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised- 2/11/25 S3813 added. Note S4008 will now be considered, and room change.
+**Revised 2/13/25:  S3606/A4751 will now be considered and S3536 changed to Discussion Only.
+",2/13/2025 0:00:00,"Scheduled",2/13/2025 9:09:00
+"SLP","2/8/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/5/2024 12:35:00
+"SLP","3/20/2025","10:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Committee will receive testimony regarding the ability of county governments to provide housing and support services for juveniles taken into custody.",,"Scheduled",3/13/2025 16:04:00
+"SLP","3/3/2025","01:00 PM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","MEETING CANCELED - The Committee will receive testimony regarding the placement of juveniles in county juvenile detention centers.",,"Canceled",2/26/2025 14:19:00
+"SLP","3/7/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/29/2024 15:43:00
+"SLP","5/16/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/9/2024 17:03:00
+"SLP","5/29/2025","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/23/2025 15:00:00
+"SLP","6/13/2024","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/10/2024 16:27:00
+"SLP","6/19/2025","10:00 AM","Meeting","Committtee Room 4, 1st Floor, State House Annex, Trenton, NJ","*Revised 6/18/25 - A3920/A5076 moved from discussion only to considered.",6/18/2025 0:00:00,"Scheduled",6/18/2025 13:18:00
+"SMV","10/21/2024","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","*Revised 10/16/24 - S3631 removed",10/16/2024 0:00:00,"Scheduled",10/16/2024 15:02:00
+"SMV","12/1/2025","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 18:55:00
+"SMV","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 17:03:00
+"SMV","12/16/2024","11:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ.","The Committee will receive testimony from invited speakers from the YWCA Northern New Jersey to discuss their new women's veteran programming, ""Operation Sisterhood"".",,"Scheduled",12/10/2024 17:04:00
+"SMV","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/6/2025 15:08:00
+"SMV","2/8/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The Committee will receive testimony from invited speakers representing the Battleship New Jersey to discuss the dry-docking project.",,"Scheduled",2/5/2024 12:46:00
+"SMV","3/3/2025","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The Committee will receive testimony from invited speakers from the YWCA Northern New Jersey to discuss their new women's veteran programming, ""Operation Sisterhood"".",2/27/2025 0:00:00,"Scheduled",2/27/2025 15:05:00
+"SMV","3/7/2024","12:00 AM","Meeting",,,,"Not Meeting",2/29/2024 15:48:00
+"SMV","5/16/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ","The Committee will receive testimony from invited speakers representing the NJ SOS Veterans Stakeholder Group.",,"Scheduled",5/9/2024 16:57:00
+"SMV","5/29/2025","12:00 AM","Meeting",,,,"Not Meeting",5/14/2025 12:01:00
+"SMV","6/13/2024","10:00 AM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/10/2024 16:41:00
+"SMV","6/19/2025","01:00 PM","Meeting","Committee Room 1, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/17/2025 12:01:00
+"SSC","3/28/2025","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate Select Committee and the Assembly Telecommunications and Utilities Committee will meet jointly on Friday, March 28, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",3/20/2025 18:05:00
+"SSC","4/25/2025","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate Select Committee and the Assembly Telecommunications and Utilities Committee will meet jointly on Friday, April 25, 2025 at 10:00 AM in Committee Room 4, 1st Floor, State House Annex, Trenton, New Jersey.",,"Scheduled",10/21/2025 14:17:00
+"SSG","10/21/2024","12:00 AM","Meeting",,,,"Not Meeting",10/15/2024 11:33:00
+"SSG","10/24/2024","01:00 PM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","S3838 (pending intro and referral) added.",10/22/2024 0:00:00,"Scheduled",10/22/2024 13:28:00
+"SSG","10/24/2024","10:00 AM","Joint","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ","The Senate State Government, Wagering, Tourism & Historic Preservation Committee and the Assembly Tourism, Gaming and the Arts Committee will meet jointly.",,"Scheduled",10/18/2024 14:49:00
+"SSG","10/6/2025","11:00 AM","Meeting","Council Chambers at the Egg Harbor Township Municipal Building, 3515 Bargaintown Road, Egg Harbor Township, NJ 08234","The committee will receive testimony from invited speakers on the topics of agritourism and shore tourism.",,"Scheduled",9/29/2025 16:31:00
+"SSG","12/1/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/25/2025 19:29:00
+"SSG","12/15/2025","12:00 AM","Meeting",,,,"Not Meeting",12/5/2025 17:00:00
+"SSG","12/16/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/12/24 - S3825 and S3965 added.
+
+S3965 Scutari/Beach (pending intro and referral) - Reschedules June 2025 primary election date.",12/12/2024 0:00:00,"Scheduled",12/12/2024 15:36:00
+"SSG","12/19/2024","11:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 12/18/2024 - S3991 added.",12/18/2024 0:00:00,"Scheduled",12/18/2024 12:21:00
+"SSG","2/12/2024","09:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 2/6/24 - time change",2/6/2024 0:00:00,"Scheduled",2/16/2024 9:20:00
+"SSG","2/13/2025","12:00 AM","Meeting",,,,"Not Meeting",2/6/2025 15:11:00
+"SSG","2/25/2025","10:30 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 2/24/25 - Time change.  S1427 removed.",2/24/2025 0:00:00,"Scheduled",2/24/2025 15:01:00
+"SSG","2/8/2024","12:00 AM","Meeting",,,,"Not Meeting",2/5/2024 15:20:00
+"SSG","3/18/2024","09:00 AM","Meeting","Committee Room 4, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/14/2024 15:36:00
+"SSG","3/7/2024","12:00 AM","Meeting",,,,"Not Meeting",2/29/2024 15:41:00
+"SSG","5/16/2024","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","5/10/23 - Meeting Canceled",,"Canceled",5/10/2024 16:03:00
+"SSG","5/29/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ","*Revised 5/28/25 - A5606 added.",5/28/2025 0:00:00,"Scheduled",5/28/2025 14:49:00
+"SSG","6/13/2024","12:00 AM","Meeting",,,,"Not Meeting",6/7/2024 16:43:00
+"SSG","6/17/2024","09:00 AM","Meeting",,"Members of the public are encouraged to submit testimony electronically in lieu of oral testimony to:  OLSAideSSG@njleg.org.  Written testimony will be included in the Committee record and distributed to the Committee members.",,"Scheduled",6/20/2024 9:05:00
+"SSG","6/19/2025","10:00 AM","Meeting","Committee Room 6, 1st Floor, State House Annex, Trenton, NJ",,,"Scheduled",6/17/2025 12:01:00
+"SSG","6/20/2024","09:00 AM","Meeting",,"The Senate State Government, Wagering, Tourism & Historic Preservation Committee will meet remotely via Zoom.",,"Scheduled",6/20/2024 9:48:00
+"STR","1/25/2024","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",1/18/2024 17:07:00
+"STR","1/30/2025","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ
+
+","*Revised 1/28/25 - S3993 added.",1/28/2025 0:00:00,"Scheduled",1/28/2025 16:32:00
+"STR","11/10/2025","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","*Revised 11/6/25 - S4833 added. S3435 and A4618 (1R) removed.",11/6/2025 0:00:00,"Scheduled",11/6/2025 17:03:00
+"STR","12/4/2025","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",11/28/2025 17:12:00
+"STR","12/5/2024","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","*Revised 12/3/24 - S745 removed.
+**Revised 12/3/24 - A4948 added.",12/3/2024 0:00:00,"Scheduled",12/3/2024 14:04:00
+"STR","2/15/2024","10:30 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",2/8/2024 16:50:00
+"STR","3/17/2025","10:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",3/10/2025 16:29:00
+"STR","5/12/2025","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","S4377 Diegnan (pending intro and referral) - Authorizes NJ Infrastructure Bank to expend certain sums to make loans for transportation infrastructure projects for FY2026; makes appropriation.",5/9/2025 0:00:00,"Scheduled",5/9/2025 17:07:00
+"STR","5/6/2024","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ",,,"Scheduled",5/1/2024 16:07:00
+"STR","6/3/2024","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","S3367 Burzichelli (pending intro and referral) - Authorizes NJ Infrastructure Bank to expend certain sums to make loans for transportation infrastructure projects for FY2025; makes appropriation.",,"Scheduled",10/8/2024 13:37:00
+"STR","6/5/2025","12:00 AM","Meeting",,,,"Not Meeting",5/29/2025 17:02:00
+"STR","9/30/2024","11:00 AM","Meeting","Committee Room 10, 3rd Floor, State House Annex, Trenton, NJ","*Revised 9/27/24 - Note time change to 11:00 AM.",9/27/2024 0:00:00,"Scheduled",9/27/2024 10:16:00

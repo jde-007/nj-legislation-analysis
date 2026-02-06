@@ -1,0 +1,249 @@
+{
+  "hearing": "Plastic Pollution (April 22, 2024)",
+  "total_bills": 62,
+  "themes": [
+    {
+      "id": "microplastics-testing",
+      "witness": "Dr. Phoebe Stapleton",
+      "claim": "Microplastics found in drinking water, need testing standards",
+      "recommendation": "DEP should adopt regulations for microplastic identification and testing",
+      "matching_bills": [
+        {
+          "bill_id": "S1049",
+          "synopsis": "Directs DEP to adopt regulations concerning identification and testing of microplastics in drinking ",
+          "status": "WAPP",
+          "matched_keywords": [
+            "microplastic",
+            "drinking water",
+            "testing",
+            "identification"
+          ]
+        },
+        {
+          "bill_id": "SR99",
+          "synopsis": "Urges EPA to adopt drinking water standard for microplastics and nanoplastics.",
+          "status": "FSS",
+          "matched_keywords": [
+            "microplastic",
+            "drinking water"
+          ]
+        },
+        {
+          "bill_id": "A1481",
+          "synopsis": "Directs DEP to take certain actions concerning identification and testing of microplastics in drinki",
+          "status": "WAPP",
+          "matched_keywords": [
+            "microplastic",
+            "drinking water",
+            "testing",
+            "identification"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    },
+    {
+      "id": "nanoplastics-health",
+      "witness": "Dr. Phoebe Stapleton",
+      "claim": "Nanoplastics cross placental barrier, found in fetal tissues",
+      "recommendation": "Research funding for health impacts",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "phthalate-syndrome",
+      "witness": "Dr. Shanna Swan",
+      "claim": "Phthalate exposure causes reproductive harm (Phthalate Syndrome)",
+      "recommendation": "Restrict phthalates in consumer products",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "recycling-rates",
+      "witness": "Judith Enck",
+      "claim": "Only 5-6% of plastics actually recycled",
+      "recommendation": "Focus on reduction, not recycling",
+      "matching_bills": [
+        {
+          "bill_id": "A4776",
+          "synopsis": "Exempts sales of tangible personal property made from 100 percent post-recycled waste and recycled m",
+          "status": "AEN",
+          "matched_keywords": [
+            "recycl",
+            "percent"
+          ]
+        },
+        {
+          "bill_id": "A5745",
+          "synopsis": "Requires large organic waste generators to separate and recycle organic waste.",
+          "status": "AEN",
+          "matched_keywords": [
+            "recycl",
+            "rate"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    },
+    {
+      "id": "bottle-bill",
+      "witness": "Judith Enck",
+      "claim": "Bottle deposit systems achieve 5x higher recycling rates",
+      "recommendation": "Pass bottle deposit legislation",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "epr-packaging",
+      "witness": "Multiple",
+      "claim": "Extended Producer Responsibility shifts costs to manufacturers",
+      "recommendation": "Pass EPR legislation for packaging",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "chemical-recycling",
+      "witness": "Judith Enck",
+      "claim": "Chemical recycling has 1.3% yield, is mostly incineration",
+      "recommendation": "Do not treat chemical recycling as true recycling",
+      "matching_bills": [],
+      "adopted": false,
+      "ignored": true
+    },
+    {
+      "id": "single-use-reduction",
+      "witness": "Multiple",
+      "claim": "Single-use plastic bans are effective",
+      "recommendation": "Maintain and expand single-use plastic restrictions",
+      "matching_bills": [
+        {
+          "bill_id": "S353",
+          "synopsis": "Eliminates prohibition on provision of single-use paper bags by grocery stores for delivery orders; ",
+          "status": "SEN",
+          "matched_keywords": [
+            "single-use",
+            "prohibition"
+          ]
+        },
+        {
+          "bill_id": "S239",
+          "synopsis": "Eliminates prohibition on paper bags, and allows packaging options, for certain grocery orders for t",
+          "status": "SEN",
+          "matched_keywords": [
+            "ban",
+            "prohibition"
+          ]
+        },
+        {
+          "bill_id": "S4238",
+          "synopsis": "Repeals law prohibiting sale or distribution of single-use plastic carryout bags, single-use paper c",
+          "status": "SEN",
+          "matched_keywords": [
+            "single-use",
+            "carryout bag"
+          ]
+        },
+        {
+          "bill_id": "A4859",
+          "synopsis": "Eliminates prohibition on paper bags, and allows packaging options, for certain grocery orders for t",
+          "status": "AEN",
+          "matched_keywords": [
+            "ban",
+            "prohibition"
+          ]
+        },
+        {
+          "bill_id": "A1664",
+          "synopsis": "Eliminates prohibition on provision of single-use paper bags by grocery stores for delivery orders; ",
+          "status": "AEN",
+          "matched_keywords": [
+            "single-use",
+            "prohibition"
+          ]
+        },
+        {
+          "bill_id": "S4517",
+          "synopsis": "Exempts certain compostable plastic items from ban on single-use plastic carryout products.",
+          "status": "SEN",
+          "matched_keywords": [
+            "single-use",
+            "ban"
+          ]
+        },
+        {
+          "bill_id": "S964",
+          "synopsis": "Eliminates prohibition on provision of single-use paper and plastic carryout bags by grocery stores ",
+          "status": "SEN",
+          "matched_keywords": [
+            "single-use",
+            "prohibition",
+            "carryout bag"
+          ]
+        },
+        {
+          "bill_id": "A4549",
+          "synopsis": "Authorizes grocery stores to provide certain single-use paper carryout bags to customers.",
+          "status": "AEN",
+          "matched_keywords": [
+            "single-use",
+            "carryout bag"
+          ]
+        },
+        {
+          "bill_id": "A5338",
+          "synopsis": "Repeals law prohibiting sale or distribution of single-use plastic carryout bags, single-use paper c",
+          "status": "AEN",
+          "matched_keywords": [
+            "single-use",
+            "carryout bag"
+          ]
+        },
+        {
+          "bill_id": "S3413",
+          "synopsis": "Authorizes grocery stores to provide certain single-use paper carryout bags to customers.",
+          "status": "2RS",
+          "matched_keywords": [
+            "single-use",
+            "carryout bag"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    },
+    {
+      "id": "packaging-reduction",
+      "witness": "Judith Enck",
+      "claim": "Packaging needs reduction targets like fuel efficiency standards",
+      "recommendation": "Set mandatory packaging reduction standards",
+      "matching_bills": [
+        {
+          "bill_id": "S3135",
+          "synopsis": "Requires producers of plastic packaging and certain other plastic products to reduce quantity of pla",
+          "status": "SBA",
+          "matched_keywords": [
+            "packaging",
+            "reduction"
+          ]
+        },
+        {
+          "bill_id": "A4367",
+          "synopsis": "Requires producers of plastic packaging and certain other plastic products to reduce quantity of pla",
+          "status": "AEN",
+          "matched_keywords": [
+            "packaging",
+            "reduction"
+          ]
+        }
+      ],
+      "adopted": false,
+      "ignored": false
+    }
+  ]
+}
