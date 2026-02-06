@@ -1,0 +1,12 @@
+# Large PDF files - keep transcripts
+*.pdf
+
+# Python cache
+__pycache__/
+*.pyc
+
+# SQLite databases
+*.db
+
+# OS files
+.DS_Store

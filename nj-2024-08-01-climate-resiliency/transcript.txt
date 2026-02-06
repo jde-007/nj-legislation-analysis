@@ -1,0 +1,3845 @@
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+of 
+ 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+ASSEMBLY ENVIRONMENT, NATURAL RESOURCES, 
+ AND SOLID WASTE COMMITTEE 
+ 
+“The Committees will meet to take testimony from invited speakers on the topics of beach replenishment, climate 
+resiliency along the State’s coast, and the progress of the Department of Environmental Protection’s Protecting 
+Against Climate Threats (PACT) regulatory efforts” 
+ 
+LOCATION: 
+Toms River Municipal Complex 
+Toms River, NJ 
+DATE: 
+August 1, 2024 
+10:00 a.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice Chair 
+Senator John F. McKeon 
+Senator Latham Tiver 
+ 
+Assemblyman James J. Kennedy, Chair 
+Assemblywoman Alixon Collazos-Gill 
+Assemblyman Michael Inganamort 
+Assemblyman Gerry Scharfenberger 
+ 
+ALSO PRESENT: 
+ 
+Eric Hansen 
+Adaline Kaser  
+ 
+ 
+Celia Smits 
+ 
+ 
+Matthew Martins 
+Office of Legislative Services 
+ 
+Senate Majority  
+ 
+Senate Republican 
+Committee Aides  
+ 
+ 
+Committee Aide  
+ 
+Committee Aide 
+ 
+Elizabeth Theodore 
+ 
+ 
+Brett Philip 
+Assembly Majority 
+ 
+ 
+Assembly Republican 
+Committee Aide  
+ 
+ 
+Committee Aide 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+ 
+Nick Angarone 
+Chief Resilience Officer and Manager 
+Office of Climate Resilience 
+New Jersey Department of Environmental Protection (DEP) 
+3 
+ 
+Lieutenant Dinan Amin 
+State Hazard Mitigation Officer 
+State of New Jersey, and 
+Unit Head 
+New Jersey Office of Emergency Management (NJOEM) 
+New Jersey State Police 
+26 
+ 
+Anthony J. Broccoli, Ph.D. 
+Distinguished Professor of Atmospheric Science 
+Rutgers University 
+32 
+ 
+Ning Lin, Ph.D. 
+Professor 
+Civil and Environmental Engineering 
+Princeton University 
+39 
+ 
+Lisa Auermuller 
+Administrative Director 
+Megalopolitan Coastal Transformation Hub 
+Rutgers University  
+45 
+ 
+Kimberly McKenna 
+Interim Executive Director 
+Coastal Research Center 
+Stockton University 
+51 
+ 
+Thomas Herrington, Ph.D. 
+New York/New Jersey Vice President  
+American Shore and Beach Preservation Association 
+56 
+ 
+Tim Dillingham 
+Executive Director 
+American Littoral Society 
+59 
+ 
+ 
+ 
+ 
+ 
+TABLE OF CONTENTS (continued) 
+ 
+Peter Kasabach 
+Executive Director 
+New Jersey Future  
+73 
+ 
+Lindsey Sigmund-Massih 
+Manager 
+Mainstreaming Green Infrastructure Program 
+New Jersey Future 
+74 
+ 
+ 
+APPENDIX: 
+ 
+Testimony 
+submitted by 
+Anthony J. Broccoli, Ph.D. 
+1x 
+ 
+Testimony 
+submitted by 
+Lisa Auermuller 
+5x 
+ 
+Testimony 
+submitted by 
+Kimberly McKenna 
+9x 
+ 
+Testimony 
+submitted by 
+Tim Dillingham 
+17x 
+ 
+Testimony 
+submitted by 
+Raymond Cantor, Esq. 
+Deputy Chief Government Affairs Officer 
+New Jersey Business & Industry Association (NJBIA) 
+40x 
+ 
+Testimony 
+submitted by 
+Grace Hanlon 
+Executive Director 
+The Jersey Shore Partnership 
+43x 
+ 
+ 
+mej: 1-86
+ 
+ 
+ 
+1 
+ 
+ 
+SENATOR BOB SMITH (Chair):  Hello?  Is that audible? 
+ 
+ 
+It is.  The mics are working. 
+ 
+ 
+Assemblyman Jim Kennedy is about 10 minutes away, but he 
+called me and he said, “Why don’t you get started?” 
+ 
+ 
+So, let’s do that.  We do want to hear your information and have 
+time to think about it. 
+ 
+ 
+So, let me first introduce the members of the Senate 
+Environment Committee who are present. 
+ 
+ 
+We have Vice Chair, Senator Linda Greenstein; we have Senator 
+John McKeon from Essex County; and, we have Senator Latham Tiver -- and, 
+Senator Tiver, what county are you from? 
+ 
+ 
+SENATOR TIVER:  Burlington. 
+ 
+ 
+SENATOR SMITH:  Burlington County-- 
+ 
+ 
+SENATOR TIVER:  Burlington, but I have four towns in Atlantic 
+as well. 
+ 
+ 
+SENATOR SMITH:  OK.  You’re a shore guy -- I’m making a 
+note of that. 
+ 
+ 
+SENATOR TIVER:  (laughter) 
+ 
+ 
+SENATOR SMITH:  When Assemblyman Kennedy gets here, 
+he’ll introduce the Assembly members who are present at that time. 
+ 
+ 
+We have a pretty long list of witnesses today, and the thematic-
+-  The thematic that we’re talking about is what kind of trouble are we in; 
+what can we expect to be happening, hopefully -- not hopefully -- in the near 
+future; and, any ideas that people might have of things we should do to try 
+and not get wiped out as a species. 
+ 
+ 
+ 
+2 
+ 
+ 
+So, that’s the thematic.  And, I would just point out while you’re 
+sitting here today, California is burning down.  Last year, you had three weeks 
+where it was really difficult to breathe in New Jersey from Canadian wildfires.  
+We had hundreds of New Jersey citizens going to their local hospital because 
+they had breathing difficulties.  And, two years ago, we had 29 New Jersey 
+citizens die-- 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  Sorry. 
+ 
+ 
+UNIDENTIFIED SPEAKER:  Are you OK? 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  I’m so sorry. 
+ 
+ 
+SENATOR SMITH:  It’s OK; it’s called coming in with a-- 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  I was trying to-- 
+ 
+ 
+UNIDENTIFIED SPEAKER:  (indiscernible) 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  I was trying to be 
+discreet. 
+ 
+ 
+(laughter) 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  I’m so sorry; I 
+apologize. 
+ 
+ 
+SENATOR SMITH:  It’s OK, it breaks up some of the really 
+down things that I’m saying. 
+ 
+ 
+So, anyway, we had 29 citizens die because 9 inches of rain fell 
+in places in New Jersey where they’ve never had that kind of rainfall. 
+ 
+ 
+So, the question is, how bad is it going to be? When is it going 
+to happen?  And, what should we be doing about it? 
+ 
+ 
+Our first witness is from the DEP, Nick Angarone -- Nick, are 
+you here? 
+ 
+ 
+Nick, we need you up here. 
+ 
+ 
+ 
+3 
+ 
+ 
+And, in addition to telling the answers to all these questions, 
+you’ve got to tell us about the new PACT -- P-A-C-T -- rules, and what they 
+mean for New Jersey as well. 
+ 
+ 
+So, Nick--  Nick, by the way, is the Chief Resilience Officer and 
+Manager of the DEP’s Office of Climate Resilience. 
+N I C K   A N G A R O N E:  Good morning; everybody hear me? 
+ 
+ 
+SENATOR SMITH:  I don’t know.  Move the microphone close. 
+ 
+ 
+MR. ANGARONE:  How about now? 
+ 
+ 
+SENATOR SMITH:  I don’t know -- can -- are we all -- is the 
+microphone good for the-- 
+ 
+ 
+MR. ANGARONE:  Can you hear me? 
+ 
+ 
+SENATOR SMITH:  Have that real close and speak to it. 
+ 
+ 
+MR. ANGARONE:  Think we’re good here? 
+ 
+ 
+UNIDENTIFIED SPEAKER:  I can hear it. 
+ 
+ 
+MR. ANGARONE:  All right; excellent. 
+ 
+ 
+SENATOR SMITH:  OK-- 
+ 
+ 
+MR. ANGARONE:  Good morning; thank you for having me. 
+ 
+ 
+I’m Nick Angarone, New Jersey’s Chief Resilience Officer, 
+Manager of the Office of Climate Resilience, at the Department of 
+Environmental Protection, and New Jersey’s Coastal Manager. 
+ 
+ 
+Commissioner LaTourette couldn’t join us today, but he sends 
+his regards.  If he were here, he would remind us all to be clear-eyed about 
+what is happening right before us; that we can’t look away; that climate 
+change is real; it is here; it is now. 
+ 
+ 
+The Office of Climate Resilience at DEP works at the State and 
+local level to prepare our communities, infrastructure, and natural 
+ 
+ 
+ 
+4 
+environments, for the current and future impacts of climate change.  That 
+office encompasses the Blue Acres program; New Jersey’s Coastal 
+Management Program; and Resilient NJ, the State’s premier local planning 
+assistance program.  My office also staffs the New Jersey Interagency Council 
+on Climate Resilience, which, as New Jersey’s Chief Resilience Officer, I serve 
+as Vice Chair. 
+ 
+ 
+The Interagency Council is made up of 26 State agencies and 
+departments, with the goal of coordinating and promoting climate resilience 
+across State government.  In the last few years, the Interagency Council has 
+developed and released the Statewide Climate Change Resilience Strategy, 
+and, just a few weeks ago, an Extreme Heat Resilience Action Plan.  These 
+documents lay out specific strategies and actions, detailing State agency 
+action on climate resilience. 
+ 
+ 
+As the Senator was referring, the past few years have 
+demonstrated the critical need for this work.  So far, 2024 has been a year 
+marked by the world’s hottest day in recorded history; the first category 4 
+hurricane to ever form in the Atlantic during the month of June; and a 
+National Weather Service Prediction of 17 to 25 named storms this hurricane 
+season. 
+ 
+ 
+2023 was the hottest year on record since we began tracking in 
+1850, and 2024 is well on its way to surpassing that.  We just came through 
+the hottest June ever and have had 12 straight months of record high 
+temperatures.  The ocean has now broken temperature records for more than 
+a year.  This past December, and then again in January, rains deluged 
+communities in Northern New Jersey at the same time that we experienced a 
+continued year-over-year snow drought. 
+ 
+ 
+ 
+5 
+ 
+ 
+2022 brought us a drought watch for most of the year, and some 
+of the largest New Jersey wildfires in nearly a decade.  We had a 9-mile-long 
+harmful algal bloom that plagued the Millstone River, endangering a critical 
+drinking water supply serving 800,000 users in Central Jersey. 
+ 
+ 
+And, we cannot forget the devastation caused by the remnants 
+of Tropic Storm Ida in September in 2021, which decimated many inland 
+areas and took the lives of 30 of our neighbors. 
+ 
+ 
+These alarming conditions are precisely what climate scientists 
+have been projecting and warning policymakers about for years.  New Jersey’s 
+changing climate is forcing residents and businesses to grapple with a world 
+of worsening extremes.  Amid these climate realities, we would be wise to 
+reflect on the fact that, as of 2019, New Jersey ranked third in the nation in 
+claims paid by FEMA since 1978. 
+ 
+ 
+SENATOR SMITH:  Third in the nation in what? 
+ 
+ 
+MR. ANGARONE:  Third in the nation in claims paid by FEMA 
+since 1978, with $5.8 billion in total flood insurance claims. 
+ 
+ 
+However, flood risk extends beyond the boundaries mapped by 
+FEMA, with over 30% of claims from Ida originating outside of FEMA’s 
+designated flood plains. 
+ 
+ 
+We are not yet ready for this new world.  But, empowered by 
+sound science and a willingness to make informed, wise changes, we can help 
+our communities, residents, and businesses become more resilient to the 
+continuing climate changes that lie ahead.  We are on our way to such 
+changes in New Jersey, through multiple climate resilience efforts, including 
+regulatory reforms. 
+ 
+ 
+ 
+6 
+ 
+ 
+Last year, DEP adopted the Inland Flood Protection Rule, an 
+amendment to the State’s flood rules based on more recent analyses of New 
+Jersey-specific rainfall, confirming that annual and extreme precipitation is 
+increasing across the state, and will continue to increase throughout the end 
+of the century.  The inland flood protection rules ensures that these realities 
+are properly accounted for in building and stormwater design standards for 
+new development.  This approach not only makes New Jersey a clear leader 
+in climate resilience policy, but a safe bet for continued investment and 
+growth. 
+ 
+ 
+Where New Jersey leads, the nation follows.  We updated our 
+precipitation data, and now there’s a Federal move afoot to do the same.  
+And, we are continuing to lead, taking deliberate action to ensure the climate 
+risks are better understood and reduced, by updating environmental land-use 
+regulations in our coastal communities, under a reform known as Resilient 
+Environments and Landscapes -- or REAL -- a component of the New Jersey 
+Protecting Against Climate Threats -- NJ PACT -- initiative. 
+ 
+ 
+Like the Inland Flood Protection Rule, which corrected for 
+obsolete precipitation data in riverine areas, REAL will correct for the fact 
+that our coastal zone management rules do not account for sea-level rise.  
+Without these amendments, the reconstruction of storm-damaged buildings 
+and infrastructure, as well as new investments in private and public assets, 
+would be constructed to outdated standards that will only become more so 
+as flood risks continue to worsen.  This would leave New Jersey communities 
+vulnerable to harm and new investments subject to continued, repetitive loss. 
+ 
+ 
+And, like New Jersey’s increasing risk of extreme precipitation, 
+sea-levels are increasing at a greater rate in New Jersey than in most parts of 
+ 
+ 
+ 
+7 
+the world.  It is likely that sea-level rise will meet or exceed 2.1 feet by 2050, 
+as the Senator’s map shows us on the left-- 
+ 
+ 
+SENATOR SMITH:  Yes, by the way, that’s NOAA’s map-- 
+ 
+ 
+MR. ANGARONE:  NOAA’s map, on the left-- 
+ 
+ 
+SENATOR SMITH:  National Oceanographic Agency-- 
+ 
+ 
+MR. ANGARONE:  And, 5.1 feet by the end of the century. 
+ 
+ 
+Sunny-day flooding will occur more often across the entire 
+coastal zone, with a 50% chance that Atlantic City will experience flooding 
+almost every day by 2100. 
+ 
+ 
+By requiring that current and future flood risks are taken into 
+consideration in development and re-development projects going forward, the 
+REAL rule proposal will bring us one step closer to escaping the endless cycle 
+of disaster, rebuild, repeat. 
+ 
+ 
+SENATOR SMITH:  So, in a nutshell, what the REAL rules --
+the R-E-A-L rules -- what--  Can you do a 30-second summary on what it 
+does, what it says to people? 
+ 
+ 
+MR. ANGARONE:  The two primary aspects of the regs that I 
+will point out to you are that we are incorporating sea-level rise into the 
+elevations that buildings, development, and re-development must consider in 
+their permitting. 
+ 
+ 
+So, whereas in the past you have based that on the FEMA 1% 
+storm, we are now basing that on a climate-adjusted flood elevation, which is 
+the FEMA 1% storm on top of 5-feet sea-level rise.  It also-- 
+ 
+ 
+SENATOR SMITH:  On top of what? 
+ 
+ 
+MR. ANGARONE:  Five feet of sea-level rise. 
+ 
+ 
+SENATOR SMITH:  OK, so 5 feet is baked in? 
+ 
+ 
+ 
+8 
+ 
+ 
+MR. ANGARONE:  Five feet is baked in; that’s what we are--  
+That is the projection for--  That is the likely projection through the end of 
+2100. 
+ 
+ 
+SENATOR SMITH:  OK. 
+ 
+ 
+MR. ANGARONE:  The second piece that I will identify for you 
+is the inundation risk zone.  And, these are areas that will be inundated, 
+again, by 5 feet of sea-level rise by the end of the century, in and of 
+themselves, simply from sea-level rise.  And, in those cases, development and 
+re-development in those areas will be asked to do some additional level of 
+vulnerability and risk assessment, and recognize the forthcoming flooding.  
+Those are the two primary aspects that I-- 
+ 
+ 
+SENATOR SMITH:  So, one question on that. 
+ 
+ 
+God forbid we have another Sandy.  What stand--  Would people 
+be able to rebuild their homes, or, on the -- I’m sorry -- would they be able to 
+rebuild their homes, and would the new rules apply to the rebuild? 
+ 
+ 
+MR. ANGARONE:  There are new--  There are requirements for 
+re-development within the regs.  If they were--  But, yes, they will be able to 
+rebuild their homes. 
+ 
+ 
+SENATOR SMITH:  But, will the new rules apply such, for 
+example, that you have to raise it up 8 feet? 
+ 
+ 
+MR. ANGARONE:  To be frank, I am not the implementor of 
+the rules, and so-- 
+ 
+ 
+SENATOR SMITH:  So, you’re not sure-- 
+ 
+ 
+MR. ANGARONE:  --and, so, the details -- the many details of 
+those regs -- I couldn’t speak to you in detail about. 
+ 
+ 
+ 
+9 
+ 
+ 
+SENATOR SMITH:  And, just while you’re turning the page, 
+that is from the National Oceanographic Agency.  That’s their best guess on 
+what happens to Jersey if we have a 2-foot rise, which, Nick, I think you’re 
+saying is baked in by 2050. 
+ 
+ 
+MR. ANGARONE:  Right.  New Jersey State projections, based 
+out of science that’s coming out of Rutgers University, tells us that we should 
+-- are likely to see 2.1 feet of sea-level rise by 2050.  And, for all intents and 
+purposes, we are baked in to that amount because of past greenhouse gas 
+emissions. 
+ 
+ 
+SENATOR SMITH:  So, if you live down the shore, you want to 
+take a real close look at that exhibit. 
+ 
+ 
+Nick, I’m sorry I interrupted you. 
+ 
+ 
+MR. ANGARONE:  Thank you. 
+ 
+ 
+The Department has been working on these rules for four years, 
+and we appreciate the discussions with stakeholders that have informed 
+development of the proposal, and we look forward to receiving and evaluating 
+further input during the public comment period. 
+ 
+ 
+My office is all too familiar with the long and difficult road that 
+comes with disaster recovery and rebuilding.  Now three years out, our Blue 
+Acres staff continues to work with homeowners impacted by Ida.  Since the 
+storm, we’ve received over 630 applications from individual homeowners.  Of 
+those, we’ve been able to secure funding for over 230 properties and closed 
+on 59 homes this year. 
+ 
+ 
+SENATOR SMITH:  So, you’re talking about buyouts? 
+ 
+ 
+MR. ANGARONE:  Yes, buyouts; Blue Acres program. 
+ 
+ 
+ 
+10 
+ 
+ 
+SENATOR SMITH:  One question on the buyouts:  Are they 
+getting paid fair market value, or are they getting paid the value of a home 
+that’s in a major flood area? 
+ 
+ 
+MR. ANGARONE:  We now look at the value of the county 
+where they are located.  So, recognizing that the kind of market across the 
+state differs somewhat geographically.  We do look at the broader county 
+market, and, yes, they get fair market value starting at that scale. 
+ 
+ 
+SENATOR SMITH:  OK, thank you. 
+ 
+ 
+MR. ANGARONE:  So, Blue Acres is funded primarily by Federal 
+resources, and the lengthy Federal funds process draws out the buyout 
+timeline, and makes an already difficult decision even tougher for 
+homeowners. 
+ 
+ 
+Support for State-funded buyouts has allowed us to move much 
+more quickly on some of the most seriously damaged homes.  It is our hope 
+that the new law on flood-risk notification will reduce the number of 
+homeowners who are unknowingly in harm’s way. 
+ 
+ 
+SENATOR SMITH:  Right, and, just to stop there -- not 
+everybody may be aware of the legislation, even though you voted for it, 
+because it’s now the law in New Jersey. 
+ 
+ 
+But, when you are selling a house in New Jersey, you, as the 
+seller, have a legal obligation to reveal the flood history of the property, so 
+that the buyer knows what they’re getting.  And, DEP, I believe, is supposed 
+to put a website up where you, as the potential buyer, can go to that website 
+and evaluate what you think DEP’s risk assessment is for your area, correct? 
+ 
+ 
+MR. ANGARONE:  So, yes.  So, the Flood Disclosure Law 
+requires three State agencies to act.  DEP was required to provide an online 
+ 
+ 
+ 
+11 
+mapping tool where you can enter in your address and understand whether 
+you are in the FEMA-designated 100-year or 500-year flood plain.  That 
+website is up and operational, flooddisclosure.nj.gov.  Our Department of 
+Community Affairs and Division of Consumer Affairs have also updated their 
+forms that go into both the real property sale and rental processes.  So, all of 
+that information is up, and is available-- 
+ 
+ 
+SENATOR SMITH:  Yes, and I believe it also has to be on the 
+real estate contract as well. 
+ 
+ 
+MR. ANGARONE:  Yes.  Yes. 
+ 
+ 
+Unfortunately, as we are seeing today, flooding is not the only 
+climate impact we’re dealing with.  New Jersey is the third-fastest warming 
+state in the nation, making extreme heat a growing and imminent threat to 
+public health and safety. 
+ 
+ 
+Just a few weeks ago, on the tail of yet another heat wave this 
+summer, New Jersey’s Interagency Council on Climate Resilience released the 
+Extreme Heat Resilience Action Plan -- just the third of its kind in the nation.  
+The plan sets forth 135 specific actions that state agencies will take to 
+mitigate the impacts of extreme heat, and includes recommendations for 
+Legislative action related to cooling centers and worker safety. 
+ 
+ 
+As Vice Chair of the Interagency Council, I am extremely grateful 
+to my State agency partners who understand the urgency of the issue and 
+who are committed to facing it together.  But, we must acknowledge that 
+State-level action can only go so far; we need action at the local level, too, 
+and it’s our responsibility to support that work as best we can. 
+ 
+ 
+I often say that resilient communities will result in a resilient 
+state.  And, so, much of my office’s work is providing direct assistance to 
+ 
+ 
+ 
+12 
+municipalities; helping them use the best available climate science to assess 
+their vulnerabilities; develop and implement plans and projects to protect 
+them.  We do this primarily through our Resilient NJ Planning and Technical 
+Assistance Program, where we have worked with over 40 municipalities with 
+additional opportunities coming in 2025. 
+ 
+ 
+Those plans have directly resulted in over $23 million in 
+additional Federal funding benefiting participating communities so far.  
+These funding successes include, for example, a resilience hub in Newark 
+Ironbound; pump stations in multiple communities; a new resilience park; 
+and the resources for the design of additional projects identified through the 
+Resilient NJ Program.  We have found time and again that good planning 
+begets funding.  The success of Resilient NJ and resilient initiatives across are 
+supported by the Coastal Management Program; have been recognized at the 
+Federal level; and resulted in additional multiple awards that allow us to build 
+upon that work. 
+ 
+ 
+Just last week in Perth Amboy, the Coastal Management 
+Program was awarded over $72 million through NOAA’s Climate Resilience 
+Regional Challenge to launch Building a Climate-Ready NJ, the largest and 
+most transformative climate-resilience initiative we have undertaken to date.  
+Building a Climate-Ready NJ is a collaborative effort, with 15 New Jersey-
+based academic institutions and NGOs -- a few of them who are also testifying 
+today -- to implement a suite of projects that increase community and 
+ecological resilience; make climate-resilience planning accessible to a greater 
+number of communities; and support them move those plans to 
+implementation with comprehensive technical assistance, robust education, 
+outreach, and engagement. 
+ 
+ 
+ 
+13 
+ 
+ 
+We must also acknowledge that climate change is not limited to 
+the coast, even though many of our State-level funding sources for resilience 
+limit us to the coastal zone.  According to a recent New Jersey-specific report 
+by Rebuild by Design, called the Atlas of Disaster, every single county in New 
+Jersey has had at least five major climate disasters between 2011 and 2021.  
+Morris County had nine -- the most in the state.  And, I’ll remind you that 
+these are only Federally declared disasters, not the increasingly frequent 
+events that pummel our communities, that aren’t extensive enough to garner 
+a Federal declaration, but which result in major impacts all the same, such as 
+those that occurred in Passaic Basin this past December and January, and 
+those that repeatedly occur around the Rancocas Creek in Burlington 
+County. 
+ 
+ 
+And, while the Federal Government is making great investments 
+in climate resilience, their programs are typically competitive and require 
+significant resources to even apply, making it even more difficult for our 
+disadvantaged and over-burdened communities to access those funds.  And, 
+as the number of billion-dollar disasters continues to increase across the 
+nation, these funds are already stretched thin. 
+ 
+ 
+The good news is that New Jersey’s communities are ready to be 
+resilient, and ready to invest in their future.  Almost every week, I meet with 
+communities who are desperately searching for solutions to climate impacts 
+they are already experiencing.  We hear about their challenges and their 
+needs; we steer them towards potential resources such as Federal grants; but, 
+we know that, for some, even those opportunities are out of reach because of 
+a lack of local capacity.  Wherever we can, we offer technical assistance. 
+ 
+ 
+ 
+14 
+ 
+ 
+We are proud of what we have accomplished so far, and all of the 
+work we do to support New Jersey’s communities.  We have seen that it 
+makes those communities successful at earning limited Federal dollars; we 
+also know that there is much, much more work to be done if we are to help 
+our communities grow and thrive in this changing climate. 
+ 
+ 
+Thank you very much for the time today.  I look forward to 
+answering any questions. 
+ 
+ 
+SENATOR SMITH:  So, sit-- 
+ 
+ 
+MR. ANGARONE:  Yes, sir-- 
+ 
+ 
+SENATOR SMITH:  --and, the questions--  Assemblyman Jim 
+Kennedy, the Chairman of the Assembly Solid Waste and Environment 
+Committee is present. 
+ 
+ 
+And, I did not introduce your members, because only you know 
+them as well as you do. 
+ 
+ 
+ASSEMBLYMAN JAMES J. KENNEDY (Chair):  Let’s not bet 
+on that. 
+ 
+ 
+(laughter) 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  I think I’ll have them introduce 
+themselves. 
+ 
+ 
+SENATOR SMITH:  OK. 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  I am Alixon Collazos-
+Gill; I am from the 27th Legislative District, which includes Montclair and the 
+northern part of New Jersey. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  Hi, everybody, I’m 
+Gerry Scharfenberger; I am the Assemblyman from Legislative District 13, 
+ 
+ 
+ 
+15 
+which is all in Monmouth County, and has a big shore section.  So, there’s a 
+lot of relevant discussion here for my district. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you, Chairman. 
+ 
+ 
+Good morning, I am Assemblyman Mike Inganamort, from the 
+24th Legislative District, covering Morris, Sussex, and Warren counties. 
+ 
+ 
+We primarily swim in lakes, ponds, and rivers, but the shore, of 
+course, is important to all of us, so, privilege to be here. 
+ 
+ 
+Thank you. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  And, I am Jim Kennedy. 
+ 
+ 
+This is like Yogi Berra said, “Déjà vu all over again.” 
+ 
+ 
+In 1953, I was born and my parents moved from Norfolk, 
+Virginia, to a street called River Road -- aptly named -- with seven kids in 
+their family. 
+ 
+ 
+After -- I remember my father saying -- there was a guy who was 
+in the Navy for 23 years and saw a lot of water, a Pearl Harbor survivor.  And, 
+we used to get about 3 feet of water in our bedroom in the first floor on River 
+Road.  So, I can remember growing up, my father complaining about 
+overdevelopment on Route 22.  He said, “They paved all those damned 
+parking lots, and now it’s in our basement.” 
+ 
+ 
+And, so, I’m well aware of the issue, and looking forward to 
+hearing from everyone. 
+ 
+ 
+Thank you. 
+ 
+ 
+SENATOR SMITH:  Thank you, Chairman. 
+ 
+ 
+One thing for staff -- and, you know where Nick lives -- you said 
+that you have a report that has some Legislative ideas that we should be 
+ 
+ 
+ 
+16 
+looking at.  Maybe we can get that and share it with everybody, because 
+hopefully some of the members on the Assembly and Senate side will be 
+participating in that and hopefully getting some legislation that you need. 
+ 
+ 
+I’m going to open up to questions from anyone for Mr. Angarone, 
+but one question:  In your opinion and the Commissioner’s opinion -- because 
+it’s got to be the same opinion -- what’s the single best thing we should be 
+doing to try and mitigate global climate change in New Jersey? 
+ 
+ 
+MR. ANGARONE:  So, if we’re talking about kind of how we 
+address the impacts of climate change and climate resilience -- which is where 
+-- what I work on every day -- the short answer is it’s an all-of-the-above 
+approach. 
+ 
+ 
+SENATOR SMITH:  It’s the coward’s way out. 
+ 
+ 
+(laughter) 
+ 
+ 
+MR. ANGARONE:  But, what -- in my opinion -- what we need 
+to do is provide significant support to our 564 municipalities who are 
+desperately searching for the resources to help them take those actions.  We 
+have the tools, the guidance, the plans in place to help them take that action, 
+but we are all struggling to kind of compete over the limited Federal resources 
+that are currently available. 
+ 
+ 
+SENATOR SMITH:  So, I’m an interpreter in my side life.  What 
+you’re saying is we need to be devoting money so that we can take advantage 
+of other programs? 
+ 
+ 
+MR. ANGARONE:  Has anyone up here ever suggested -- told 
+you they didn’t need any more money? 
+ 
+ 
+SENATOR SMITH:  I’ve never heard that testimony before. 
+ 
+ 
+ 
+17 
+ 
+ 
+MR. ANGARONE:  Yes, I mean, look, unequivocally, there is a 
+significant need in the State for resources at multiple levels for multiple 
+purposes. 
+ 
+ 
+SENATOR SMITH:  So, even though I wasn’t supposed to have 
+the second question, it’s a request:  How about you and the Commissioner 
+send us a memo on what you think needs to be funded in what time frame, 
+so that we, as Legislators, can see if we can be helpful? 
+ 
+ 
+MR. ANGARONE:  I will certainly express that request to 
+(indiscernible) 
+ 
+ 
+SENATOR SMITH:  OK, Mr. Angarone is available for 
+questions. 
+ 
+ 
+Anybody have any questions? 
+ 
+ 
+Senator McKeon. 
+ 
+ 
+SENATOR McKEON:  Yes, sure; thank you. 
+ 
+ 
+And, interestingly enough, the issue -- the State of Vermont has 
+something similar to an NRD program, but related to holding the fossil fuel 
+companies responsible to the extent of funding resiliency projects. 
+ 
+ 
+So, it’s something I’m certainly interested in, and I hope you are, 
+Senator, along with the rest of the Committee as one particular source. 
+ 
+ 
+SENATOR SMITH:  I think you have a good bill, too, right?  
+And, I’ve already begged to be a co-prime sponsor. 
+ 
+ 
+(laughter) 
+ 
+ 
+SENATOR McKEON:  Together, so. 
+ 
+ 
+It’s the John and Bob show again. 
+ 
+ 
+But, on a serious note -- and, that was serious, as it relates to 
+funding.  All the projects you mentioned are amazing; the work that’s fostered 
+ 
+ 
+ 
+18 
+by you and your agency.  I look at the City of Hoboken and just marvel as it 
+relates to how well they’ve done over the last five, six years, in changing a 
+little rainstorm to puddles everywhere to doing the right things to improve 
+the quality of life of the people there. 
+ 
+ 
+But, from 30,000 feet, as the great Senator has referenced, and 
+often does -- and, you should hear him in caucus, when you call yourself 
+Cassandra.  I don’t want to be Cassandra, but just continuing to beat the 
+drum.  I mean, these statistics are just astounding, as it relates to what we’re 
+faced with.  And, other than a straight-out climate denier, I mean, we’re here. 
+ 
+ 
+But, the Governor -- because of the need to move immediately    
+-- the Governor in 2020 went forward with an Executive Order I think that 
+set forth maybe 22 different categories of challenge to DEP to put into play 
+to come in conformance with PACT.  I think today, in 2024, maybe eight of 
+them have been met. 
+ 
+ 
+So, as much as I respect the administration and their efforts 
+better than any like administration ever in New Jersey -- and probably when 
+measured against the rest of the country, leaders -- we have a long way to go. 
+ 
+ 
+MR. ANGARONE:  We absolutely do.  On -- Senator, I believe 
+you’re referring to Executive Order 100-- 
+ 
+ 
+SENATOR McKEON:  Yes-- 
+ 
+ 
+MR. ANGARONE:  --which directed DEP to develop and 
+implement regulations across both the greenhouse-gas mitigation side, as well 
+as the climate-resilience side.  The NJ PACT REAL rules are one of those 
+rules, and we look forward to seeing them formally proposed, and that 
+comment response period. 
+ 
+ 
+ 
+19 
+ 
+ 
+There again, it’s somewhat outside my purview; I’m kind of the 
+guy after the fact of-- 
+ 
+ 
+SENATOR McKEON:  I don’t mean to say that it was only 
+resiliency that you’d be responsible for, but 22 is 22, and 8 is 8.  So, our 
+batting average isn’t great. 
+ 
+ 
+MR. ANGARONE:  Well, so, and I say that there are a significant 
+number of the greenhouse-gas-emission-type regs that have moved forward.  
+But, yes, we all have a lot more work to do. 
+ 
+ 
+SENATOR McKEON:  All right. 
+ 
+ 
+Thank you, Senator. 
+ 
+ 
+SENATOR SMITH:  Any other -- yes, sir, Assemblyman. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  Thank you. 
+ 
+ 
+How are you doing, Nick? 
+ 
+ 
+MR. ANGARONE:  I’m good. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  Been a while, huh? 
+ 
+ 
+MR. ANGARONE:  Yes, sir. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  So, I just have a 
+question. 
+ 
+ 
+And, all of this--  Nobody can disagree that we need to harden 
+the infrastructures, we used to say. 
+ 
+ 
+But, in New Jersey, you always have to be concerned about 
+property value.  So, I know in addition to houses being elevated, there will 
+be a deed notice that a property could flood -- or will flood -- required on 
+deeds. 
+ 
+ 
+MR. ANGARONE:  Are you referring to the flood-disclosure 
+law? 
+ 
+ 
+ 
+20 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  Yes. 
+ 
+ 
+MR. ANGARONE:  So, the flood-disclosure law requires when 
+you are selling your property, you disclose whether you are within a 
+vulnerable area based on the mapping, or whether you have experienced 
+flooding in the past.  And, the same goes for rental.  So, that’s part of the 
+contract. 
+ 
+ 
+I’m not aware of whether it needs to go into the deed, but that’s 
+also kind of beyond my certain bubble of activity. 
+ 
+ 
+ASSEMBLYMAN 
+SCHARFENBERGER: 
+ 
+OK, 
+because, 
+anything that would have an impact on property taxes, certainly residents 
+would be concerned about.  And, it does have a ripple effect, too, if an 
+individual property tax -- property value -- is devalued, on municipal budgets, 
+on Board of Education budgets. 
+ 
+ 
+Has all of this been taken into consideration, or any sort of 
+analysis, then, on what this would mean in these affected areas? 
+ 
+ 
+MR. ANGARONE:  So, again, I’m not sure if you’re referring to 
+the flood-disclosure law, or you’re referring to the NJ PACT REAL goals, 
+which will be proposed. 
+ 
+ 
+As for the rules, there is a very comprehensive analysis -- 
+economic analysis, housing analysis, smart-growth analysis, environmental 
+analysis -- that go into it, and I believe the answers to your questions can be 
+found in that document. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  OK, thanks. 
+ 
+ 
+SENATOR SMITH:  Yes, sir. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you very much, 
+Chairman -- Chairmen. 
+ 
+ 
+ 
+21 
+ 
+ 
+And, thank you very much for being here; that was very 
+interesting information that you shared. 
+ 
+ 
+I wondered if you could help me understand some of the 
+numbers here, and I’m truly asking you to just correct my understanding -- 
+what I think I heard. 
+ 
+ 
+I think you made reference to a 2.1-foot sea-level rise.  Was that 
+by 2050? 
+ 
+ 
+MR. ANGARONE: Yes.  It is likely we will see 2.1 feet by 2050. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Two-point-one feet by 
+2050.  And, then, just to continue this through a little bit further into the 
+future -- a combined or total 5-foot sea-level rise by 2100? 
+ 
+ 
+MR. ANGARONE:  Correct. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Got it; OK. 
+ 
+ 
+So, my comment and question to you would be, if we are 
+considering laws to mitigate what you project to happen -- which will have 
+significant impact on land-use regulations and economic-development ideas 
+and so forth, I have to ask the question:  What level of certainty do you have 
+-- what level of probability, from a statistical sense -- in these projections? 
+ 
+ 
+MR. ANGARONE:  So, I will actually suggest that is a question 
+for some of your other witnesses who can speak to the detailed science of it. 
+ 
+ 
+How we read the scientific reports that they’ve provided us is 
+that, kind of within the likely range of using a moderate emissions scenario -
+- we’re not even talking about a kind of high-emissions scenario in this case -
+- there’s a range of options, and within that likely range, we are looking at 
+the upper end of that likely range.  There have been multiple questions and 
+ 
+ 
+ 
+22 
+conversations and suggestions about, shouldn’t we just use kind of the 50% 
+chance? 
+ 
+ 
+And, the way I interpret that means we would be basing the 
+health and safety decisions -- our development decisions -- on the same 
+likelihood of a coin flip.  To me, that doesn’t make good policy; doesn’t make 
+good state -- public policy. 
+ 
+ 
+And, so, we’ve chosen what we feel is a projection that is 
+supported by science, but protective of communities throughout the state. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you, I really 
+appreciate that. 
+ 
+ 
+And, I will ask that question again to whichever witness is best 
+suited to answer that.  Because if I read the materials correctly, it sounded 
+like the probability was significantly under the 50%.  I could have read it 
+incorrectly, and look forward to being corrected on that. 
+ 
+ 
+Thank you. 
+ 
+ 
+SENATOR SMITH:  Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  Just one more 
+question. 
+ 
+ 
+You mentioned that funding, that obviously funding needs to be 
+up, according to this project.  What kind of funding, and what would this 
+funding be -- for what kinds of specific projects are we speaking about that 
+are needed?  Like, just give me some sort of--  Because we do have very 
+individual, as you made clear, but we have local municipalities. 
+ 
+ 
+So, I’m wondering, where do you think the resources should go, 
+and what kind of projects do you think we should be targeting? 
+ 
+ 
+MR. ANGARONE:  Sure. 
+ 
+ 
+ 
+23 
+ 
+ 
+So, I think--  So, there’s, again, there’s a very wide range of the 
+types of activities that are needed.  We kind of based that, again, on 
+legislation that you’ve all provided.  We’ve been assisting local governments, 
+understand how they can kind of develop stormwater utility, and we’re 
+providing support to do that. 
+ 
+ 
+We are--  There’s, I think, a significant need for kind of, I’ll say   
+-- call it neighborhood-level stormwater green infrastructure to help kind of -
+- not the massive Sandy- and Ida-type events, but the kind of repeated events 
+that are getting worse and that we’re seeing over and over.  That green 
+infrastructure, by the way, also has the added benefit of helping decrease 
+urban heat-island impact, and neighborhood beautification. 
+ 
+ 
+We could spend significant resources on kind of restoring a lot 
+of our hardened shore to a more natural state.  There’s an increasing need for 
+shore protection.  We saw significant erosion from winter storms on our 
+beaches and dunes this year, and it is becoming -- that what used to be kind 
+of nuisance erosion is becoming more of an issue that we need to deal with 
+more frequently and in-between kind of the periodic times that Army Corps 
+comes back and helps us. 
+ 
+ 
+I’m a planner, so I think every municipality in the State and 
+every multi-municipal region in the state needs to have comprehensive risk-
+informed land-use planning.  We, again, we do that a lot through our 
+Resilient NJ Program.  We’ve used Federal funds, both competitive funds, 
+and our annual funding from NOAA, to work with over 40 municipalities -- 
+that’s a small number, considering there’s 564 in the state.  
+ 
+ 
+And, so, if we look at kind of New Jersey’s applications to Federal 
+awards, and perhaps the State Hazard Mitigation Officer can talk about 
+ 
+ 
+ 
+24 
+FEMA’s BRIC program.  We’ve had--  There’s multiple millions of dollars 
+beyond what is able to be awarded.  So, there is no -- there is no lack of 
+projects and activities and plans and needs from, again, from the planning to 
+the kind of the green and natural infrastructure, to the hardened 
+infrastructure and, again, that suite of all of the above. 
+ 
+ 
+SENATOR SMITH:  So, I’m going to also add a little bit to your 
+answer. 
+ 
+ 
+The law in New Jersey now is that when a municipality updates 
+its master plan, and you’re required by law -- because of a law done, I think, 
+by Senator McKeon, to do that every 10 years -- sustainability, resilience, 
+now have to be elements in the master plan.  So, the 567 towns are in that 
+process--  Every year, we get more and more towns into that planning process.  
+And, some are doing it without waiting for the 10 years, because it’s such an 
+important issue. 
+ 
+ 
+And, then, secondly, a tool that all municipalities in the state 
+have, but as I understand it, we’ve only had one take advantage of it, is a 
+stormwater utility.  They’re legal in New Jersey.  DEP has provided guidelines 
+for what -- how the stormwater utility should be set up.  Not new government; 
+your existing sewer utility program or water utility program.  But, what it 
+does is it collects a small, a vig -- which is the right term down here in South 
+Jersey -- it collects a vig from large -- from property owners who have large, 
+impervious surfaces.  And, that money is put together to start dealing with 
+your stormwater problems.  Because we know how tight money is for 
+municipalities. 
+ 
+ 
+But, they have a tool, and if they’re not using it -- and, if you 
+need -- whatever town you’re in, you should call the Mayor’s office and ask, 
+ 
+ 
+ 
+25 
+“Do we have a stormwater utility in X?”  And, if they don’t, somebody should 
+go to a town council meeting and say, “We have a tool that we can use to 
+help minimize these impacts, stormwater utilities.”  There are only 1,500 of 
+them around the country.  Only one in New Jersey, so. 
+ 
+ 
+Any other -- last call for questions? 
+ 
+ 
+OK, Senator Tiver. 
+ 
+ 
+SENATOR TIVER:  So, we’re talking 2050 and 2100, so to 
+speak. 
+ 
+ 
+And, if we’re going to make these -- some of these properties 
+undevelopable now, isn’t that going to hurt municipal and county budgets, 
+because we’re taking them off of the tax revenues, so to speak? 
+ 
+ 
+You spoke about Blue Acres.  In my town, we have the river going 
+through, and a lot of the residents are selling to Blue Acres, and they’re 
+demoing the houses, and they come off the tax rolls, and all that.  That’s 
+putting a huge hole in the budget. 
+ 
+ 
+So, I guess my comment would be, wouldn’t it make sense to try 
+to do this incrementally, going up to 2050, instead of trying to do like, a hard 
+now? 
+ 
+ 
+MR. ANGARONE:  So, I say that the regulations--  There’s no 
+no-build zone that stems from the regulations.  If I’m going to vastly 
+oversimplify, you have to build higher and you have to recognize that you’re 
+vulnerable.  So, that’s, again, my vast oversimplification of 1,000-plus pages 
+on regulations.  
+ 
+ 
+As for Blue Acres--  Blue Acres, I think, is, it’s fair to say, the 
+most successful buyout program nationally.  It is recognized as a national best 
+practice.  But, I think we can’t--  We should also not over-rely on that 
+ 
+ 
+ 
+26 
+program.  That program has been in place since 1995, and it has purchased 
+1,100 properties.  The number of properties in vulnerable areas that have 
+been developed since that time is astronomically higher. 
+ 
+ 
+So, again, all of the above.  Blue Acres is a part of those answers.  
+The number of -- I can’t speak to any certain -- certainly can’t speak to any 
+municipality’s individual budget, but, across the state, there are not a number 
+-- a significant number -- enough buyouts -- that are having a significant net 
+statewide impact on budget.  But, again, not speaking for individual local 
+government. 
+ 
+ 
+SENATOR SMITH:  So, Mr. Angarone, we appreciate you being 
+a witness here today. 
+ 
+ 
+And, tell the Commissioner, from us, you did a good job, OK. 
+ 
+ 
+MR. ANGARONE:  I appreciate that; thank you. 
+ 
+ 
+SENATOR SMITH:  Our next witness is-- 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Lieutenant Dinan Amin-- 
+L I E U T E N A N T   D I N A N   A M I N:  Yes-- 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  State Hazard Mitigation Officer. 
+ 
+ 
+SENATOR SMITH:  OK, so, what is it that you do? 
+ 
+ 
+And, tell us what we should be doing. 
+ 
+ 
+LT. AMIN:  Certainly. 
+ 
+ 
+Well, good morning; thank you for having me, ladies and 
+gentlemen. 
+ 
+ 
+My name is Lieutenant Dinan Amin; I am the State Hazard 
+Mitigation Officer for New Jersey, and also the Unit Head of the Mitigation 
+Unit, which resides within the New Jersey Office of Emergency Management 
+within the New Jersey State Police.  
+ 
+ 
+ 
+27 
+ 
+ 
+The Mitigation Unit within the New Jersey Office of Emergency 
+Management -- NJOEM -- facilitates funding from the Federal Emergency 
+Management Agency, in support of local and state mitigation efforts, with 
+the primary objective of protecting life and property. 
+ 
+ 
+Local state hazard mitigation plans enable FEMA grant funds by 
+outlining the strategies and actions jurisdictions will take to reduce the risks 
+from natural hazards.  The Hazard Mitigation Planning Process is a critical 
+tool for communities seeking to reduce disaster risks and access FEMA grant 
+funds.  It provides a structured approach to identifying hazards, assessing 
+risks, and prioritizing mitigation actions -- ensuring that resources are 
+allocated effectively to enhance resiliency and protect lives and property. 
+ 
+ 
+Over the last decade, New Jersey has experienced an increased 
+risk due to climate change’s amplification of natural hazards.  Recently, New 
+Jersey’s experienced uncommon hazards such as a 1,000-year, six-hour 
+rainfall total, and an Enhanced Fujita Scale EF3 tornado.  Weather extremes 
+are becoming more frequent in New Jersey, and NJOEM is actively working 
+with our state partners, local community, educational institutions, and 
+contracted support staff, to develop hazard mitigation guidance and tools and 
+the capacity and capability at the local level to address these hazards. 
+ 
+ 
+Climate change is amplifying the threat of natural hazards.  
+Through planning and project implementation, NJOEM continues to reduce 
+the risk of those hazards by identifying them in the State Hazard Mitigation 
+Plan, and scoping projects to mitigate them.  New Jersey faces some hard 
+financial choices ahead in maintaining its coastal community that’s being 
+increasingly impacted by the effects of climate change.  Communities are and 
+will continue to face resource and capacity constraints.  New Jersey’s coastal 
+ 
+ 
+ 
+28 
+economy generates over $60 billion per year, thus being a key driver of New 
+Jersey’s diverse economy. 
+ 
+ 
+Unfortunately, these coastal areas face a variety of challenges in 
+the world where storms are more powerful; sea levels are rising; and continued 
+climate impacts are inevitable.  Optimizing the resources we use to address 
+these challenges is a key priority for NJOEM, and something that we take to 
+heart.  New Jersey Department of Environmental Protection’s new regulatory 
+approach is a great example of a natural compliment to NJOEM’s efforts, 
+whereby it reduces vulnerability in developed environment by anticipating 
+the increased impacts of tomorrow’s storms and events. 
+ 
+ 
+Our efforts should future-proof today’s mitigation efforts against 
+tomorrow’s conditions.  NJDEP’s rule intersects with NJOEM by requiring 
+an increased elevation or flood proofing for coastal structures that will 
+increase the level of protection for life and property, thus reducing the strain 
+on the local community officials to respond to disasters.  Encouraging nature-
+based solutions to protect communities from flooding -- which aligns with 
+FEMA’s goals, and thus creates a greater likelihood of projects selected for 
+funding.  Improving the State’s alignment with FEMA, which allows for 
+continual FEMA grant funding through the Flood Mitigation Assistance 
+Grant Program, which has brought in $80 million of Federal funding to assist 
+with flooding within the last decade.  And, improving DEP’s permitting 
+process, which better assists NJOEM in eliminating duplication of Federal 
+benefits, and ensuring structures are built to withstand future hazards. 
+ 
+ 
+SENATOR SMITH:  So, let me interrupt you for a second. 
+ 
+ 
+ 
+29 
+ 
+ 
+What’s the number?  How much money do we need in New 
+Jersey to make a significant dent in our flood exposure or any other type of 
+global climate-change exposure? 
+ 
+ 
+LT. AMIN:  So, Senator, that’s a great question, and across the 
+nation, the amount of applications that are being applied for for FEMA grant 
+funding, and the amount of hazards that are proposed, are more than the 
+available funding that’s available. 
+ 
+ 
+So, our best approach in New Jersey, as we’re working through 
+these local and state hazard-mitigation plans, is to continue identifying these 
+risks and provide as much grant funding as possible-- 
+ 
+ 
+SENATOR SMITH:  Yes, but stop on the grant funding. 
+ 
+ 
+The Federal Government is broke.  We have trillions of dollars 
+in debt.  And, New Jersey doesn’t want to be -- I think -- waiting in a long 
+line hoping to get a grant. 
+ 
+ 
+Maybe what we should do is a bond issue, specifically for flood-
+mitigation sustainability projects that could be used all over the state.  But, 
+in order to do something like that, we need a number.  How much money 
+does your office believe is needed to give New Jersey municipalities a chance? 
+ 
+ 
+LT. AMIN:  So, our office works in line with DEP and DCA -- 
+the Division of Community Affairs.  So, in regards to that, the State Hazard 
+Mitigation Team is the one that kind of develops the actual priorities list for 
+funding. 
+ 
+ 
+SENATOR SMITH:  Is there a priorities list? 
+ 
+ 
+LT. AMIN:  There is, and it’s based within the State Hazard 
+Mitigation Plan. 
+ 
+ 
+ 
+30 
+ 
+ 
+So, what I can do is I can get back to you in talking with DEP, 
+DCA, and the Governor’s Office, and we can look at, perhaps, getting you-- 
+ 
+ 
+SENATOR SMITH:  Well, in line with Senator Tiver’s comment 
+about trying to do incremental improvements to protect our citizens, tell us 
+what we need to do; tell us the price tag; and maybe we put a bond issue to 
+at least start the process.  But, we need information -- one of the reasons we’re 
+having this hearing. 
+ 
+ 
+So, I’m going to ask Celia to send one of her intense 
+communications to you and your office, and maybe -- tell her who else -- say, 
+“Give us the list.  Give us the priorities list.  What will be a reasonable number 
+for New Jersey to start to invest in this infrastructure?”  And, then let people 
+decide. 
+ 
+ 
+At the end of the day, the citizens of New Jersey are going to be 
+really angry at us because we didn’t do enough to help them.  Don’t start 
+now. 
+ 
+ 
+And, Senator Tiver -- I think -- is implying we’re not going to get 
+much done.  So, we need information, OK. 
+ 
+ 
+LT. AMIN:  I can definitely get the number back to you. 
+ 
+ 
+SENATOR SMITH:  All right; sorry to interrupt. 
+ 
+ 
+LT. AMIN:  Not a problem, Senator. 
+ 
+ 
+The Mitigation Unit has obtained more than $1.1 billion in 
+Federal funding since Hurricane Sandy through FEMA grants, such as the 
+Hazard Mitigation Grant Program; the Building Resilience in Infrastructure 
+and Communities Program; the Flood Mitigation Assistance Program; and 
+the Congressionally Pre-Disaster Mitigations Program -- along with the 
+Safeguarding Moral Revolving Loan Fund, and the High-Hazard Potential 
+ 
+ 
+ 
+31 
+Dam Grant Program.  Through these grant funds, we’ve been able to assist 
+the local community in their mitigation efforts, as identified in their Hazard 
+Mitigation Plans.  NJOEM is a leading funder of NJ DEP’s Blue Acres 
+Program. 
+ 
+ 
+In the coastal counties of Atlantic, Cape May, Cumberland, 
+Middlesex, Monmouth, Ocean, and Salem, approximately $112 million has 
+been invested to increase the resilience of critical infrastructure; $57 million 
+to elevate structures; $37 million to protect the shoreline; and $30 million to 
+complete power redundancy work.  Further inland, $146 million has been 
+invested to acquire flood-prone properties. 
+ 
+ 
+A few larger coastal community grant examples are Cape May 
+County’s BRIC Award, for their floodwall project to harden their Municipal 
+Utilities Authority’s wastewater-treatment facility from flooding, and an 
+FMA award for seawall repair and replacement, which increases the 
+floodwater protection to the community; Highland Borough’s BRIC Award 
+for stormwater management, which increases the capacity of stormwater 
+while improving pump stations that aid in reducing flooding within the 
+community that negatively impact critical facilities; and Monmouth County’s 
+HMGP award, to replace sewer pump stations within the Two Rivers’ Water 
+Reclamation Authority, thus protecting the sewer service for more than 
+75,000 homeowners. 
+ 
+ 
+Through the Two Rivers Grant, NJOEM was able to leverage a 
+partnership that allowed their local contribution to this project to offset the 
+local match for the remainder of all State projects submitted under this 
+disaster, including many underserved communities. 
+ 
+ 
+ 
+32 
+ 
+ 
+Working with our state partners, academic collaborators, and 
+local county officials, NJOEM will continue to seek innovative approaches to 
+mitigate the risk from natural hazards. 
+ 
+ 
+I thank you for your time, and that concludes my testimony, 
+barring any questions-- 
+ 
+ 
+SENATOR SMITH:  We thank you for your testimony. 
+ 
+ 
+Are there any questions for Lieutenant Amin?  (no response) 
+ 
+ 
+Thank you for appearing today; we appreciate it. 
+ 
+ 
+LT. AMIN:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Our next witness is Professor Anthony 
+Broccoli, distinguished Professor of Atmospheric Science at Rutgers 
+University. 
+ 
+ 
+So, Professor, how much trouble are we in? 
+A N T H O N Y   B R O C C O L I, Ph.D.:  OK, well, I’ll try to give you 
+my perspective on that. 
+ 
+ 
+Thanks for the invitation to come here today and talk a little bit 
+about climate change. 
+ 
+ 
+I am also Faculty Advisor for the New Jersey Climate Change 
+Resource Center, and they recently released their State of the Climate report 
+for 2023.  I am going to briefly review some of the findings of that report, 
+starting with a global perspective, and then eventually drilling down to the 
+local level. 
+ 
+ 
+Global temperature has risen approximately 2 degrees Fahrenheit 
+since the late 19th century, rising more rapidly in recent decades.  As you’ve 
+already heard from Nick Angarone, 2023 was the warmest year on record, 
+and the 10-year period from 2014 to 2023 was the warmest, going back to 
+ 
+ 
+ 
+33 
+1880.  And, based on what’s been happening this year so far, it’s entirely 
+possible that the global temperature record will be broken again. 
+ 
+ 
+Rising temperatures have caused global sea level to increase.  Sea 
+level has risen by about 7 inches over the course of the 20th century.  That 
+happens for two reasons:  As the ocean warms, the water expands and that 
+increases the volume of the ocean, and, during the past several decades, the 
+second reason has come into play, which is the great ice sheets that cover 
+Greenland and Antarctica shrinking, and the water from those ice sheets 
+being added to the ocean.  As a result, sea-level rise is accelerating, and when 
+we look at just the past 10 years, the global rate of sea-level rise has doubled 
+to about 1.8 inches per decade. 
+ 
+ 
+If we turn our attention to climate in New Jersey, average annual 
+temperatures have risen by about 4 degrees Fahrenheit since the late 19th 
+century -- so, roughly twice as fast as the global average.  We’ve had warming 
+in all four seasons, although the most rapid warming has been happening in 
+winter.  Much of this warming has taken place since 1970, and, over that 
+time, the temperature has risen about two thirds of a degree Fahrenheit per 
+decade. 
+ 
+ 
+Of the 20 warmest years since 1895, when records began, 15 of 
+them have occurred since 2020, including 2023 -- which, for New Jersey, was 
+the third-warmest year on record.  As you might expect, given a warming 
+world, in New Jersey we’ve experienced more warm extremes and fewer cold 
+extremes.  If we look at monthly extremes and define an unusually warm 
+month as one that’s among the five warmest for that time of year, and an 
+unusually cold month, one that’s among the five coldest for that time of year, 
+ 
+ 
+ 
+34 
+unusually warm months have been much more prevalent than unusually cold 
+months -- outnumbering them 48 to 0 since 1990. 
+ 
+ 
+In addition, the 12 warmest summers in New Jersey have all 
+occurred in the past 25 years.  Our state has also received more rain in recent 
+years.  Annual precipitation in New Jersey has increased by just under 10% 
+since statewide records began in 1895.  Although that trend is relatively small 
+compared to the year-to-year variability of precipitation, there have been 
+large increases in the amount of precipitation falling in heavy rain events. 
+ 
+ 
+In the northeastern United States, including New Jersey, the 
+number of days on which precipitation of 2 inches or more occurs has 
+increased by 49% since 1958.  And, that trend is expected to continue as 
+heavy precipitation events are anticipated to become more intense and more 
+frequent as temperature increases.  And, that has implications for the 
+frequency of inland flooding along New Jersey’s rivers and streams, and Nick 
+mentioned, of course, the very unfortunate flooding impacts that happened 
+with the remnants of Hurricane Ida. 
+ 
+ 
+There are other important effects of climate change that will 
+impact residents of New Jersey, including greater vulnerability to heat-related 
+illness; increases in the ranges of insect pests; changes in coastal ecosystems, 
+including abundances of fish species in the ocean; and increased chances of 
+wildfires and wildfire smoke.  But, here at the Jersey Shore, the greatest 
+potential impact of climate change is sea-level rise. 
+ 
+ 
+In New Jersey, sea-level rise has been happening more rapidly 
+than the global average because at the same time water levels are rising, the 
+land is subsiding or sinking.  In Atlantic City, sea-levels have risen by more 
+than 18 inches since records began in 1911.  Although the effects of the rise 
+ 
+ 
+ 
+35 
+in water levels is noticed in many ways, probably the most noticeable impact 
+on the short-term is an increase in sunny-day flooding.  And, Nick Angarone 
+referred to this, and, I’ll give you some statistics. 
+ 
+ 
+During the 1950s, that kind of sunny-day flooding in Atlantic 
+City averaged less than one day per year, but that rate had increased to about 
+eight days per year in the decade ending in 2016.  As the ocean continues to 
+warm and glaciers and ice sheets continue to melt, sea-level rise is expected 
+to accelerate.  According to the most recent Rutgers-led report of the 
+Scientific and Technical Advisory Panel, by 2030 sea-level is expected to rise 
+between 0.5 and 1.1 feet relative to the 1991 to 2009 baseline, and 0.9 to 
+2.1 feet by 2050.  The panel uses ranges to represent the outcomes that have 
+a two-in-three chance of occurring.  Smaller or larger increases are possible, 
+but unlikely. 
+ 
+ 
+Beyond 2050, the amount of sea-level rise will depend on future 
+emissions of heat-trapping greenhouse gases.  In a moderate emissions 
+scenario, the likely range of sea-level rise in 2100 is expected to be 2.0 to 5.1 
+feet.  Higher emissions would lead to greater sea-level rise, and lower 
+emissions to smaller amounts of sea-level rise.  Rising seas will dramatically 
+increase the threat of coastal flooding, not only along our oceanfront beaches, 
+but also along Delaware Bay, coastal back bays, and the estuaries of rivers 
+such as the Delaware, Raritan, Passaic, Hackensack, Mullica, Morris River, 
+to name just a few.  By 2050, sunny-day or nuisance flooding in Atlantic City 
+is projected to occur at least 85 times per year, even with moderate 
+greenhouse gas emissions. 
+ 
+ 
+But, the most severe impacts will occur when coastal storms drive 
+water towards the coast.  These storm-surge events can raise water level 
+ 
+ 
+ 
+36 
+several feet, and their effects will be added to the effects of rising seas.  
+Hurricane Sandy was an extreme example, producing 5-9 feet of storm surge 
+along much of the New Jersey coast.  But even a strong winter storm can 
+produce 2-3 feet of surge. 
+ 
+ 
+How will climate change affect coastal storms?  This is an 
+important but challenging question that is the subject of ongoing research.  
+There is good evidence that a warming climate will make hurricanes stronger 
+and wetter; whether they will change in frequency remains uncertain.  A more 
+common occurrence along the Jersey Shore are winter storms -- often called 
+Nor’easters -- which typically bring the threat of some coastal flooding several 
+times every year.  The relationship between warming and the intensity of 
+winter storms is not as straightforward as it is for hurricanes, and continued 
+research will be required to anticipate how those storms will change in the 
+future. 
+ 
+ 
+Despite the uncertainties that I’ve just mentioned, we can say 
+something about the bottom line for coastal communities.  There is high 
+confidence that coastal flooding from future storms will be more frequent and 
+more severe as rising sea levels raise the baseline for such flooding events.  For 
+example, some of my colleagues at Rutgers have estimated that the rise in sea 
+level since 1880 caused about 38,000 more people in New Jersey to be 
+affected by Hurricane Sandy’s floodwaters.  The future rise in sea level will, 
+likewise, increase the areas at risk of coastal flooding. 
+ 
+ 
+Many of our traditional strategies for planning for future weather 
+and climate events assume that they will look a lot like the events that we’ve 
+experienced in the past.  Climate change invalidates this assumption.  
+Instead, we must prepare for and adapt to conditions that will likely be quite 
+ 
+ 
+ 
+37 
+different from what we have seen in the past, because the primary driver of 
+future climate change is the emission of carbon dioxide and other greenhouse 
+gases into the atmosphere.  There is the potential to reduce the impacts of 
+future climate change through the development of alternate sources of energy 
+and policies to discourage carbon dioxide emissions.  But, regardless of what 
+policy direction we ultimately follow, we already are experiencing changes in 
+climate, and there is no realistic scenario in which future changes can be 
+completely avoided. 
+ 
+ 
+With that sobering fact in mind, it will be necessary to adapt to 
+the changes in climate that are already in the pipeline -- even if policies are 
+implemented to reduce carbon emissions worldwide.  Adapting to a changing 
+climate is a process that must be informed by the best available science.  We 
+can’t adequately prepare if we don’t know what impacts are coming.  
+Fortunately, the tools we use to make projections of future climate are 
+steadily improving.  Furthermore, climate resiliency efforts here in New Jersey 
+are well under way, as you have heard and will hear from some of the other 
+witnesses at this hearing.  Such efforts are crucial if we are to meet the 
+challenges posed to our communities by climate change -- which is arguably 
+the most important environmental issue of the 21st century. 
+ 
+ 
+To the Committee chairs and members, thank you again for the 
+chance to talk to you today and provide you with an overview of this critical 
+issue. 
+ 
+ 
+SENATOR SMITH:  Thank you, Professor, for your 
+contribution to the hearing. 
+ 
+ 
+Are there any questions for Dr. Broccoli? 
+ 
+ 
+Senator Greenstein. 
+ 
+ 
+ 
+38 
+ 
+ 
+SENATOR LINDA R. GREENSTEIN (Vice Chair):  Thank 
+you. 
+ 
+ 
+Thank you very much.  I mean, the statistics are great, and 
+they’re also sobering. 
+ 
+ 
+I was just wondering if you could give us a couple of your 
+thoughts on what we can do on a practical level at this point.  For example, 
+do you believe we should start small, or are we at a point where we need to 
+start big?  Obviously, money is always a problem, but what are some of the 
+steps you think we need to take, both big and small, to move forward at a 
+time like this with so many problems? 
+ 
+ 
+DR. BROCCOLI:  Well, addressing the root cause of climate 
+change involves reducing greenhouse-gas emissions.  And, New Jersey has 
+made progress in that area, but, of course, we need to have that progress 
+happen globally -- not just locally. 
+ 
+ 
+And, it’s a daunting challenge, because, in order to stabilize the 
+climate, greenhouse-gas emissions have to essentially be reduced to almost 
+zero.  So, that’s a big task, and that’s why I say that there is more climate 
+change in the pipeline, and so the other most important thing we have to do 
+is develop strategies to adapt to the changes in climate that, at this point, we 
+can’t avoid.  So, that means preparing so that the impacts of the changes in 
+climate don’t harm our communities, don’t harm society as much as they 
+would without adaptation. 
+ 
+ 
+SENATOR GREENSTEIN:  I guess, in terms of the shore and 
+what might happen here, I heard somebody speak a couple of years ago, 
+suggesting that people shouldn’t move to the shore; they should be very 
+careful about that.  He was taking a pretty extreme position, I think. 
+ 
+ 
+ 
+39 
+ 
+ 
+But, what are some of your thoughts, specifically about the shore, 
+practically?  What should happen here?  Should there be any changes in what 
+people do? 
+ 
+ 
+DR. BROCCOLI:  I think that’s a very tough question, and I’m 
+not going to duck it, but it is a tough question. 
+ 
+ 
+I’ve been spending time at the Jersey Shore since my childhood 
+-- like a lot of other people have -- and it means a lot to be able to come to 
+the Jersey Shore. 
+ 
+ 
+I think it’s impractical, at this point, to imagine that the Jersey 
+Shore is going to be abandoned.  But, if we have large sea-level rise, it’s 
+obviously going to be very difficult to maintain the status quo. 
+ 
+ 
+So, changes to make people who live at the shore less vulnerable 
+so that their homes aren’t flooded as frequently when storm events occur, so 
+that we can do a better job of getting people out of harm’s way, so that we’re 
+prepared for that -- I think those are the things that are going to be required 
+in order for us to live at the Jersey Shore, visit the Jersey Shore, in a changing 
+climate. 
+ 
+ 
+SENATOR GREENSTEIN:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Any other questions? 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  I have no questions, Senator. 
+ 
+ 
+The next witness is Professor Ning Lin, Civil Engineering at 
+Princeton University. 
+N I N G   L I N, Ph.D.:  Hello, everyone. 
+ 
+ 
+Thank you for having me.  It is my great pleasure here to talk 
+about my research at Princeton University. 
+ 
+ 
+ 
+40 
+ 
+ 
+SENATOR SMITH:  Would you pull the microphone a little bit 
+closer?  Pull the microphone a little bit closer to you, so you can be heard by 
+everyone. 
+ 
+ 
+DR. LIN:  Can you hear me better? OK, sure; thank you. 
+ 
+ 
+So, before I get into my talk, I want to--  First, I have to note that 
+the views expressed in this testimony are my own, and I am not speaking as 
+an official representative of Princeton University.  I am talking about my own 
+research perspective and my thoughts on hurricanes and climate change. 
+ 
+ 
+So, given my background in civil engineering, I’ve been always 
+concerned about reliability of buildings and the infrastructure to 
+environmental loads, including earthquakes and hurricanes, and I have been 
+concerned about climate change; if climate change would make hurricanes 
+stronger or more frequent; would our infrastructure system still be reliable as 
+much as they were designed to be? 
+ 
+ 
+So, back in 2010, when I was doing my Ph.D. at Princeton, I 
+searched literature about hurricane storm surge and the effect of climate 
+change.  I found that most research were focused on the Gulf of Mexico and 
+the Florida areas, and with very limited research on storm-surge risk at higher 
+latitude, including the New Jersey and New York regions.  So, I decided to 
+work on this area, and I pursued a NOAA Climate Change Post-Doctoral 
+Fellowship, to work with Kerry Emanuel at MIT, the leading expert on 
+hurricane signs, on storm-surge risk for this region.  And, we published a 
+paper in the February of 2012 on nature climate change, suggesting that this 
+region will have significant storm-surge risk, and storm-climatology change 
+and sea-level rise would make the storm-surge flooding risk for this region, 
+specifically New York City, 100-year flood level to occur every three to 20 
+ 
+ 
+ 
+41 
+years, by the end of the century, and a 500-year flood level to occur every 25 
+to 240 years by the end of the century. 
+ 
+ 
+So, this paper got a lot of attention and, also, I got to move back 
+to Princeton to join the faculty.  Just a few months later, in late October, we 
+had Hurricane Sandy.  And, a week over--  After Hurricane Sandy, there was 
+a Time Magazine special issue featuring the Presidential election and 
+Hurricane Sandy citing our paper.  So, people start to say that we predicted 
+Hurricane Sandy.  But we said, “No, we didn’t predict Hurricane Sandy, we 
+just predicted or estimated the projected -- the likelihood or probability of -- 
+extreme events like Sandy, or some other storms, to occur in this region.  And, 
+that is precisely the information we actually need for our long-term planning 
+and the investment in decision-making for coastal resilience.  
+ 
+ 
+So, for coastal resilience -- as talked about -- sea-level rise is the 
+biggest factor in terms of changing coastal flooding risk.  But, another 
+important factor is trending storm climatology -- or activity -- and which it 
+has been often neglected.  So, the challenge here is that global climate models 
+cannot (indiscernible) of hurricanes, given their relatively limited resolutions.  
+So, in order to understand the hurricane risk at a particular region, we would 
+have to perform so-called “climate model downscaling.” 
+So, over the past few years, my group has developed Princeton 
+Environmental Dependent Probabilistic Tropical Cyclone model -- we call 
+PepC -- to be able to generate synthetic storms under climate conditions for 
+any given location.  So, we have applied this model to generate tens of 
+thousands of possible -- or, synthetically possible but physically possible -- 
+storms for New Jersey/New York region.  And, we found that for the New 
+Jersey/New York region, in order to capture the impact of storms, we have to 
+ 
+ 
+ 
+42 
+capture not only the frequency and intensity of the storm, but also the futures 
+of storm tracks.  For example, Hurricane Sandy’s track -- which was 
+perpendicular to the New Jersey coast and the counterclockwise wind -- 
+pushed water right into New Jersey and New York.  So, we found that most 
+downscaling models cannot capture those features of the tracks.  So, we made 
+specific efforts to adjust the model to capture – well, capture those tracks in 
+the current climate condition.  And, we are currently investigating if such 
+tracks would happen more frequently in the future climate, given climate 
+change. 
+ 
+ 
+Once we have generated the storms, we can use hydrodynamic 
+models to model coastal flooding.  Given high-resolution data of the 
+symmetry and the topography, those hydrodynamic models can give us a 
+quite accurate estimation of a storm surge along the coastline.  But, as also 
+mentioned, that when we look at the inland areas, hurricanes bring heavy 
+rainfall and rainfall flooding.  And, in between inland and coastal regions, we 
+have compound flooding, which contributed from storm surge and rainfall.   
+ 
+ 
+So, our current modeling framework for flooding is to be able to 
+account for all these flood drivers to be able to map the compound flooding 
+from coastline inland -- towards inland regions.  In this framework, we would 
+have to model the wind storm surge and rainfall from tropical cyclones or 
+hurricanes consistently.  And, we need to use high-resolution climate models 
+to generate those storms and use higher-resolution inundation models to take 
+the input from storm surge, rainfall, (indiscernible), astronomical tide, 
+riverine flow, to estimate the total flooding or compound of flooding.  And, 
+based on the large number of synthetic storm simulations, we’ll be able to 
+ 
+ 
+ 
+43 
+generate a statistical estimation of the extreme flood levels for any given 
+location. 
+ 
+ 
+So, we’re currently applying this approach to quantify compound 
+flood hazards for selected cities in Philadelphia and New York as part of an 
+NSF mock project that Lisa is going to talk about.  And, we are going to apply 
+this approach to quantify the compound flood hazards for all 16 New Jersey 
+coastal counties for the DEP Climate Resilience Project just awarded by 
+NOAA. 
+ 
+ 
+A final perspective I want to talk about is that, as mentioned, 
+coastal regions may face not only increasing flooding, but also increasing heat 
+waves.  How about if they come together?  
+ 
+ 
+So, back to my background in engineering--  I am concerned 
+about the power system, the infrastructure’s resilience to the hurricanes.  As 
+we know that nine out of 10 largest blackouts in the United States -- caused 
+by hurricanes.  What happens if we have heat waves when we lost the power 
+and air conditioning?  So, this so-called “hurricane blackout heatwave 
+compound hazards” are emerging.  So, they are very real in the history 
+anywhere in the world, but they’ve been happening in the United States in 
+recent years. 
+ 
+ 
+For example, we had Hurricane Laura in 2020, and Hurricane 
+Ida in 2021 in Louisiana, and then Hurricane Beryl in July this year in Texas.  
+They all generated large-scale power failures that required multiple weeks to 
+fully recover -- during heatwaves.  And, in the future, on the climate change, 
+as hurricanes become stronger and heat waves get stronger, we may see more 
+such compound events.  Also, we are going to have larger scale integration of 
+ 
+ 
+ 
+44 
+renewables, which rely on the environment, and they may, in fact -- will 
+increase uncertainty in the power modeling, power supply demand balance. 
+ 
+ 
+So, another part of the (indiscernible) project, we are currently 
+modeling the impact of hurricanes on the power system in the New 
+Jersey/New York/Pennsylvania region and investigating the possibility of heat 
+wave compounding on the climate change. 
+ 
+ 
+So, that’s my basic introduction.  I’d be happy to take your 
+questions. 
+ 
+ 
+SENATOR SMITH:  So, have--  First of all, you’re doing great 
+research.  It could be very helpful in deciding what infrastructure needs to be 
+built where; where we should be spending our money; and our resources. 
+ 
+ 
+But, let me ask:  Are you working with the New Jersey Office of 
+Emergency Management and the DEP?  Are they aware of the information 
+and the models that you have?  For example, in the case of the OEM -- Office 
+of Emergency Management -- they’re making predictions.  We’re trying to 
+tell towns, “You’re in the target; you have a big problem.”  Are you sharing 
+that information with the state agencies? 
+ 
+ 
+DR. LIN:  Yes.  So, we are working with DEP, actually.  We’re a 
+part of the NOAA grants just awarded to DEP’s Climate Resilience Project.  
+So, my team will be responsible towards generating the compound flooding 
+for the 16 coastal counties in New Jersey to support their-- 
+ 
+ 
+SENATOR SMITH:  If you don’t mind, also, CC the Office of 
+Emergency Management.  I don’t know if DEP -- I never know who talks to 
+who in State Government, but it would be good if they were also CC’ed, 
+whatever you’re doing, because they’re also projecting onto municipalities 
+what your risk level is.  And, your models will help determine that. 
+ 
+ 
+ 
+45 
+ 
+ 
+DR. LIN:  Of course. 
+ 
+ 
+SENATOR SMITH:  So, you guys should exchange cards -- if 
+you’re not already talking to each other-- 
+ 
+ 
+DR. LIN:  Sure-- 
+ 
+ 
+SENATOR SMITH:  OK. 
+ 
+ 
+Questions for Professor Lin?  (no response) 
+ 
+ 
+Thank you very much, Professor, for participating today.  The 
+information was very helpful. 
+ 
+ 
+DR. LIN:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Our next witness is Lisa Auermuller, 
+Administrative Director of the Rutgers University Metropolitan (sic) Coastal 
+Transformation Hub -- not transportation, transformation hub. 
+ 
+ 
+Lisa. 
+L I S A   A U E R M U L L E R:  Thank you. 
+ 
+ 
+Thank you for the honor of being here today, and for the 
+opportunity to share how Rutgers University has been at the forefront of 
+making applied research usable and useful to decision-makers like you. 
+ 
+ 
+The roles I have at the University allow me to act as a bridge 
+between research -- like you just heard from Tony and Ning -- and 
+professionals working along the coast of New Jersey, who may not have a 
+science-based background, but who are seeking information to inform their 
+thinking. 
+ 
+ 
+I have been at the University for over 20 years now, and I have 
+always had the benefit of working at the coast.  Currently, I serve as the 
+administrative director for the Megalopolitan Coastal Transformation Hub   
+ 
+ 
+ 
+46 
+-- but, we’ll just say MACH, to make it easier -- and I am a member of the 
+leadership team for the Rutgers New Jersey-led Climate Resource Center. 
+ 
+ 
+In addition to my professional titles, I am a resident of a small 
+coastal community in southern Ocean County.  It is not uncommon for me 
+to receive texts from the school district alerting our family that bus routes 
+would be altered due to flooded roadways -- even on sunny days.  Further, 
+my daily commute out to work at the Rutgers University Marine Field Station 
+reminds me daily how precious our coast is and how very exposed and already 
+impacted we are by climate change. 
+ 
+ 
+As Rutgers staff embedded at the coast, we are considered trusted 
+sources of science-based information, and anchors in the community.  It is 
+through this shared experience that I have with community members and 
+decades of relationship building with coastal decision-makers that we, as 
+Rutgers staff and scientists, are able to continue to provide useful and used 
+information to help coastal communities become more resilient. 
+ 
+ 
+Today, I am going to cover the following topics with you:  How 
+the Climate Change Resource Center is key to improving New Jersey’s 
+climate resilience and adaptation; ways in which the MACH consortium 
+builds on our success in New Jersey and expands it to other large urban mega 
+regions in the states surrounding New Jersey; and, then, finally, I am going 
+to wrap it up by letting you know how we’re training the next generation of 
+coastal professions to tackle these multi-faceted challenges.   
+ 
+ 
+Before I dive in, I think it’s important that you know when I use 
+the word coast, I mean any area that’s influenced by the tide -- just like your 
+map is showing.  I am not just talking about the shore and the beaches. 
+ 
+ 
+ 
+47 
+ 
+ 
+I also want to thank all of you for your ongoing commitment to 
+our work at the Climate Change Resource Center in New Jersey.  The 
+Resource Center will continue to provide applied research tools, technical 
+guidance, and training to professionals across the coast.  We draw upon the 
+expertise of all of New Jersey’s world-renowned scientists to design and 
+develop products and services that meet the needs of our users. 
+ 
+ 
+Some of the flagship Resource Center products include the NJ 
+FloodMapper, the Municipal Climate Snapshots, and NJ Health Adapt.  
+These tools are all hosted under the umbrella of a website known as the NJ 
+ADAPT platform.  Our NJ FloodMapper tool alone has about 60,000 users 
+annually.  And, with all due respect, I would love to see a NJ FloodMapper 
+map up, and I can work on making sure we can get that to you. 
+ 
+ 
+SENATOR SMITH:  We accept exhibits at any time. 
+ 
+ 
+MS. AUERMULLER:  Great, I will make sure we get that to you. 
+ 
+ 
+I do want to acknowledge that we know tools alone are not going 
+to be sufficient.  They’re one set of approaches that the Climate Change 
+Resource Center utilizes to make meaning out of climate science data.  We 
+pair tools with things like technical assistance, guided questions, and learning 
+modules, and ensure that the data provided connect to what decision-makers 
+value and already know, so that our new knowledge we’re providing is 
+additive to their lived experiences and their local knowledge. 
+ 
+ 
+One example of how we take data like sea-level rise and turn it 
+into meaningful knowledge can be demonstrated in an analysis of what 5 
+additional feet of inundation would mean to the coast.  This example is 
+particularly relevant, as we’ve already heard this morning, because 5 feet is 
+the amount of sea-level rise proposed through the New Jersey PACT REAL 
+ 
+ 
+ 
+48 
+rules.  Using the NJ ADAPT platform, a local construction code official could 
+map what 5 feet of local inundation looks like against other local datasets, 
+such as roads, schools, police stations, fire stations, nursing homes, and other 
+critical local assets.  Zooming out at a statewide level, State flood plain 
+programs could learn what 5 feet of permanent inundation would mean, 
+which, based on our analysis, is more than 123,000 residential properties and 
+about $27 billion in property value.  These data can be particularly useful for 
+municipalities 
+as 
+they 
+develop 
+the 
+climate-change-related 
+Hazard 
+Vulnerability Assessment that you’ve talked about earlier today. 
+ 
+ 
+Switching hats -- the hat I wear through the MACH Consortium 
+-- we expand our view from New Jersey out regionally to include also New 
+York City and Philadelphia.  We are working directly with city and county 
+decision-makers to co-design new research based on their adaptation 
+questions.  With initial funding from the National Science Foundation, the 
+Consortium brings in expertise from 12 institutions, including Rutgers, 
+Princeton, and Montclair, all right here in New Jersey.  Both Tony and Ning 
+are team members of our research team -- and, you’ve heard from them today 
+-- and several of the other people providing testimony today are members of 
+our advisory panel. 
+ 
+ 
+Our researchers are examining coastal hazards such as current 
+and future sea-level rise, hurricanes, nor’easters, and the compound reality, 
+as you just heard from Ning, of what a future hurricane, paired with a power 
+outage and a heatwave, might mean.  We actually just saw this in Texas with 
+Hurricane Beryl, as Ning mentioned before.  We look at how all those hazards 
+are going to interact with things like the housing market, the insurance 
+market, and mortgages, with municipal finances and how people -- 
+ 
+ 
+ 
+49 
+particularly the low-income residents -- make decisions about this risk.  We 
+also have a major focus on equity, or the inequity, of climate impacts and 
+adaptation decision-making. 
+ 
+ 
+As I move to my third point, a key goal of the MACH 
+Consortium and several of our other programs at Rutgers is training for the 
+next generation of coastal climate adaptation professionals.  Coastal resilience 
+is not one topic or one skill challenge.  Increasing resilience in adaptation 
+along the coast of New Jersey is going to take an all-hands-on-deck approach, 
+with collaboration across disciplines and sectors.  Rutgers Coastal Climate 
+Resilience graduate students are trained to think about how their own 
+disciplinary knowledge compliments the knowledge of their peers, and work 
+in teams across disciplines to solve problems of climate adaptation.  They also 
+learn the skills needed to participate and use-inspired research, and to lead 
+science translation efforts with stakeholders, ensuring that their science helps 
+to inform real-world questions. 
+ 
+ 
+Science communication, translation, active listening, and the 
+appreciation of diverse perspectives are all focal areas of our graduate student 
+training.  Alumni are finding great success as early career professionals, 
+working at jobs in the nonprofit, State, Federal, and academic sectors -- in 
+fact, one of our students is providing some testimony for you today, which is 
+another example of the success of this program.  Through the Climate Change 
+Resource Center, Rutgers and Princeton students are putting their training 
+to work as members of the Climate Corps, working with staff mentors to get 
+experience with hands-on application of their knowledge.  To date, we’ve 
+mentored and trained about 40 Climate Corps students, who have provided 
+ 
+ 
+ 
+50 
+direct assistance on a range of climate topics such as urban resilience, health, 
+lifelines, flood-hazard analysis, and vulnerability assessment. 
+ 
+ 
+Additionally, looking at the K-12 student community, the 
+Resource Center has been working in partnership with teachers and educators 
+to develop lessons to meet the requirement of the new climate standards in 
+education and integrating our data and tools in their lessons. 
+ 
+ 
+In closing, I want to share a final thought, and this is the same 
+lesson that I try to instill in the graduate students I teach.  Resilience means 
+something different to each person.  For mayors, it may mean retaining their 
+tax base and municipal services as we’ve heard earlier.  For natural area 
+managers, it may mean allowing natural processes to determine the path 
+forward and the timeline.  For families who have been coming to the shore 
+for generation after generation, it may be the ability for future generations to 
+build the same memories.  Sometimes, these various versions of the vision of 
+resilience are going to conflict with one another.  Data alone is not going to 
+ensure resilience. 
+ 
+ 
+Data is the head -- the science part of our work -- but we also 
+need to lean in to the heart part.  We all need to hone skills like collaboration, 
+listening, learning, and flexibility.  The coast is part of who we are as New 
+Jerseyans.  To effectively adapt to the changing coast, we need to connect the 
+knowledge we are building and developing about the future to what people 
+care the most deeply about.  This is the “heart” part of our work, and it is the 
+hardest part of our work. 
+ 
+ 
+Thank you for the honor of being with you today, and for 
+allowing me to share what we do and how we do it. 
+ 
+ 
+SENATOR SMITH:  Any questions?  (no response) 
+ 
+ 
+ 
+51 
+ 
+ 
+Thank you very much. 
+ 
+ 
+MS. AUERMULLER:  You’re welcome. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Next, we have Kimberly 
+McKenna from Stockton University. 
+K I M B E R L Y   M c K E N N A:  Good morning.  It is still morning, OK. 
+ 
+ 
+I am Kimberly McKenna; I am the Interim Executive Director at 
+the Coastal Research Center at Stockton University. 
+ 
+ 
+Today, I will be focusing my comments on beach nourishment 
+and the benefits to the New Jersey coastline over a period of study where 
+we’ve been studying the coast. 
+ 
+ 
+In 1981, the Coastal Research Center -- and, I’m going to refer 
+to us as the CRC -- was founded by a marine science professor who started 
+working with the local governments because they were having issues with 
+coastal erosion and storms.  And, there really wasn’t enough information to 
+really understand how to manage their shorelines.  So, we started from the 
+municipalities, and since then we have been working with Federal and State 
+agencies, non-governmental organizations, and then our continuation with 
+the municipalities on these coastal-management issues. 
+ 
+ 
+In 1986, following the passage of Hurricane Gloria, which caused 
+extensive structural damage and beach volume losses along the New Jersey 
+shore, the DEP and the CRC established the New Jersey Beach Profile 
+Network – NJBPN.  I’ll refer to that over and over again.  And, this was for 
+the purpose of monitoring the beaches, dunes, and shoreline conditions.  
+Today, there are 171 sites that the CRC measures twice a year.  The New 
+Jersey Beach Profile Network dataset of the state’s beaches and dunes has 
+been invaluable in determining long-term shoreline and beach profile volume 
+ 
+ 
+ 
+52 
+trends; impacts from storms; and the influence of beach nourishment in 
+protecting coastal communities and infrastructure.  This dataset represents a 
+consistent assessment of the entire New Jersey coastline -- and, I’m referring 
+mostly to the Atlantic Ocean shoreline -- that is routinely cited as the best 
+basis for interpretation of coastal changes in the nation. 
+ 
+ 
+The two elements of climate change that are expected to increase 
+and impact the Jersey coast are sea-level rise and increased storms.  From the 
+tide-gauge records at Sandy Hook and Atlantic City, relative sea level has 
+risen about a half a foot since we started collecting data in 1986.  And, the 
+New Jersey Coast has experienced some significant damaging storms -- some 
+Presidential declaration-type storms; the Halloween 1991 storm; several 
+nor’easters from ’92 through 2016; Mother’s Day storm 2018; Veteran’s Day 
+in 2009.  But, the storm of record -- Hurricane Sandy, which occurred in 
+2012.  Except for coastal erosion hotspots, the use of beach nourishment 
+appears to hold off the rising seas and storms over this time period. 
+ 
+ 
+Referring to our storm of record, Hurricane Sandy, Hurricane 
+Sandy’s losses at the New Jersey Beach Profile Network locations were 
+significant.  We saw what we call “above datum,” above 0 and AVD 88.  We 
+saw losses of 14 million cubic yards of sediment just at our sites that we had 
+monitored.  Even with the sand losses, we found that the beaches with 
+Federally designed coastal risk-reduction projects -- those are the beach 
+nourishment that have the engineered dunes -- these were extremely effective 
+in protecting infrastructure and homes, mostly due to the wide beaches and 
+the high dunes that were created in excess of 20 feet.  Structures adjacent to 
+narrow beach widths and low dunes suffered greater damages. 
+ 
+ 
+ 
+53 
+ 
+ 
+Post-Sandy, beach nourishment was funded by Congress -- U.S. 
+Congress -- via public law 113-2, the Hurricane Sandy Relief Bill.  This 
+allowed the U.S. Army Corps of Engineers to fund placement of over 39 
+million cubic yards of sand along 113 miles of authorized project shorelines 
+between 2013 and 2019.  Continued maintenance of these projects occurs at 
+intervals of four to seven years, and that depends on the project specifications 
+for that particular project.  And, the State and local governments are cost-
+share partners with the Federal government. 
+ 
+ 
+As a result of these beach fills -- the maintenance fills -- between 
+1986 and 2021, sand volumes increased and the shoreline position moved 
+seaward from the baseline conditions from 1986 at all NJBPN locations that 
+are located within these Federal projects.  I want to note that the Wildwoods 
+are not, at present, located within a Federal project.  However, Federal 
+funding for these projects is not always guaranteed -- it depends on the will 
+of Congress, and these must be appropriated -- the funds must be 
+appropriated by Congress.  In addition, permitted offshore sediment 
+resources are being depleted offshore New Jersey, and securing new borrow 
+areas further offshore will take years and will increase costs for moving sand 
+from those areas onto the shorelines. 
+ 
+ 
+From our observations, the natural beaches and dunes within 
+State and Federal parks have had varied dune elevations and beach widths 
+over this time period.  Recovery of these areas following the storms relies on 
+the amount of sand in the littoral system, as well as the cross-shore processes 
+to move this sand to the beaches -- that’s the waves, and how the waves move 
+the sand onto the beaches.  The real rules proposed by the DEP -- the changes 
+-- appear to support the use of nature-based solutions such as beach 
+ 
+ 
+ 
+54 
+nourishment for coastal storm risk reduction.  We find that large Federal-
+level beach nourishment projects can help maintain New Jersey’s shorelines 
+and protect landward structures.  The New Jersey -- the State of New Jersey 
+should prepare for rising costs in obtaining new sand sources and placement 
+activities to maintain present-day shoreline positions. 
+ 
+ 
+Thank you for the opportunity to speak. 
+ 
+ 
+I have submitted some background information, if you want to 
+review it that supports my testimony. 
+ 
+ 
+SENATOR SMITH:  So, Ms. McKenna, has Stockton put 
+together a priority list in terms of what beach-replenishment programs would 
+have the greatest positive impact on mitigating global climate change? 
+ 
+ 
+MS. McKENNA:  We--  We produce annual reports that, since 
+the New Jersey DEP funds our research every year, we produce reports for 
+them.  And, in that, it goes over the whole--  It looks at county-wide changes 
+and the trends over time. 
+ 
+ 
+But, we have--  As far as, this beach has more priority over 
+another, we don’t do that.  That’s--  I mean, we’re there to really try to get 
+an understanding of how the shorelines are changing both long-term and then 
+seasonal effects, too. 
+ 
+ 
+SENATOR SMITH:  Thank you. 
+ 
+ 
+Any questions for Ms. McKenna? 
+ 
+ 
+Assemblyman. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you very much. 
+ 
+ 
+I am very interested about the engineered dunes, and the success 
+of that. 
+ 
+ 
+ 
+55 
+ 
+ 
+Let me -- a little background:  When I was Mayor in Middletown 
+after Sandy, we got hit really bad, but the one area of town that didn’t get 
+hit nearly as bad as the rest of it were the ones that had the dunes in place.  
+And, they got dinged up a little bit, but they really stopped the flooding.  
+And, we had gotten some money from the Feds to replace and expand the 
+dunes with beach grass, and all that.   
+ 
+ 
+Do you have any data on the success rate of where that’s been, 
+where there’s been no further flooding once that’s been put into place?  
+Because that would help justify, I think, for us State officials, to lobby for 
+Federal funds coming in to point to success stories like that. 
+ 
+ 
+MS. McKENNA:  We did an assessment immediately after 
+Sandy, and the supplemental materials that I provided -- we produced some 
+published reports on that, peer-reviewed reports. 
+ 
+ 
+We found that those areas -- because when you have substantial 
+amounts of volume in the dunes, when waves hit the dune, it tends to widen 
+the beaches and protect the beach, too.  So, it feeds the shoreline at the same 
+time. 
+ 
+ 
+From those reports, we have seen the positive impacts of having 
+those engineered dunes, but as far as looking at vegetation and changes, we 
+look at that only annually, and those are in those annual reports. 
+ 
+ 
+ASSEMBLYMAN SCHARFENBERGER:  Great; thank you. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Thank you. 
+ 
+ 
+SENATOR SMITH:  So, following up on that, if there’s--  If you 
+would, please, we would appreciate an email copy of the reports.  Send it to 
+Celia Smits and any Assembly person or Senator who wants it, she’ll transmit 
+it to you. 
+ 
+ 
+ 
+56 
+ 
+ 
+MS. McKENNA:  They’re all on our website, so I’ll be happy to 
+share the website information with you. 
+ 
+ 
+SENATOR SMITH:  Great. 
+ 
+ 
+Any questions for Ms. McKenna?  (no response) 
+ 
+ 
+MS. McKENNA:  Thank you very much. 
+ 
+ 
+SENATOR SMITH:  All right, our next witness is Tom 
+Herrington from the New York/New Jersey American Shore and Beach 
+Preservation Association.  Mr. Herrington is Vice President of that group. 
+ 
+ 
+Mr. Herrington. 
+T H O M A S   H E R R I N G T O N, Ph.D:  Thank you, Chairman, 
+Committee members, for inviting me here today. 
+ 
+ 
+I think most of you probably know me better as the Associate 
+Director of the Urban Coast Institute of Monmouth University, but I’m very 
+happy you’ve asked me to come here today to speak on behalf of the 
+American Shore and Beach Preservation Association -- or ASBPA like we like 
+to shorten it -- shorthand -- for comments. 
+ 
+ 
+So, the ASBPA is dedicated to preserving, protecting, and 
+enhancing our coasts for healthy and sustainable coastal communities, 
+ecosystems, and economies.  As a Board Member of ASBPA for over 17 years, 
+and the Vice President of the Northeast Chapter for five years, I can 
+unequivocally say that ASBPA considers New Jersey a national model for 
+shoreline management and investments. 
+ 
+ 
+New Jersey has a long history of investing in its coast for 
+protection of its coastal communities.  The benefits of that investment have 
+been significant, and I think when you look at the discussions we’re having 
+here today about what do we need to invest for resilience in the state overall, 
+ 
+ 
+ 
+57 
+I think looking at what has been so successful since 1992 is important, and 
+maybe will guide your thinking a little bit as you deliberate over this. 
+ 
+ 
+With the passage of the landmark Shore Protection Fund Bill in 
+1992, the New Jersey Legislature ushered in an era of sustained investment 
+and restoring the coast and protecting the New Jersey coastal communities 
+and economies.  The creation of the Shore Protection Fund allowed New 
+Jersey to leverage significant Federal dollars provided by Congress to the 
+Army Corps of Engineers to build the large-scale dune and beach systems that 
+Ms. McKenna just spoke about. 
+ 
+ 
+The projects were tested during Hurricane Sandy, as we just 
+heard, and where the projects were in place there were significant reductions 
+in damage behind those projects.  As a matter of fact, the U.S. Army Corps 
+determined that beach nourishment projects in New York and New Jersey 
+saved an estimated $1.3 billion in avoided damages.  So, that investment 
+really paid off.  After Sandy, the fund has played an important role in 
+ensuring our coastal communities now have coastal storm-damage protection 
+projects, along almost the entire oceanfront of New Jersey.   
+ 
+ 
+More projects and increasing maintenance costs, however, are 
+straining the ability of the fund to match current Federal investments, as 
+evidenced by the inclusion of the additional $25 million in the State budget 
+over the last couple years.  ASBPA supports the Jersey Shore Partnership’s 
+call to increase the fund to $50 million a year to cover the real cost of those 
+projects. 
+ 
+ 
+In addition to providing community protection, healthy beaches 
+and dunes provide economic and recreational benefits to all New Jerseyans, 
+our visitors, and the nation.  Traveling tourism is the largest U.S. employer, 
+ 
+ 
+ 
+58 
+providing 15.8 million jobs in the United States, which is 10% of all jobs 
+nationwide.  Beaches are the leading tourist destination in the United States, 
+with over 50% of Americans saying it’s their favorite vacation destination.  
+So, New Jersey has known that for a long time.  Annually, beach tourism in 
+New Jersey -- in the U.S. -- generates $520 billion in economic output; $240 
+billion in direct spending; and $36 billion in taxes to Federal, State, and local 
+governments.  According to the New Jersey Division of Travel and Tourism, 
+tourism in New Jersey generates over $49 billion in revenue annually, and 
+$29 billion is attributed to the coastal counties.  That’s 12% of the national 
+spending on beach visitation.  That’s pretty good for a small state. 
+ 
+ 
+Healthy beaches and dunes also provide critical habitat and 
+ecosystem benefits for threatened and endangered species like piping plovers, 
+seabeach amaranth, as well as nesting habitat for sea turtles and many coastal 
+bird species.  Restored beaches provide sediments back to our tidal marshes, 
+which is critical for their ability to keep up with the rate of sea-level rise. 
+ 
+ 
+One lesson from Sandy that we need to heed is that we need to 
+think of our coastal lands as a single system consisting of ocean beaches, 
+inlets, bays, and marshes.  Although restored beaches mitigated oceanfront 
+damage during Sandy, significant damage was incurred in the low-lying 
+bayshore communities.  ASBPA advocates for holistic coastal management 
+approaches that work to ensure that each part of the coastal system is 
+maintained and managed in a way that enhances our entire coastal 
+environment for our coastal communities, our resilience to storm events, and 
+the coastal economy. 
+ 
+ 
+Under the leadership of Commissioner LaTourette and Chief 
+Resilience Officer Angarone, New Jersey is again at the forefront of holistic 
+ 
+ 
+ 
+59 
+coastal-community resilience planning, leveraging strong partnerships -- as we 
+heard the Chief Resilience Officer testify earlier today.  They have been able 
+to collaborate with practitioners and experts and stakeholders to successfully 
+keep (indiscernible) for significant resources that were made available 
+through the Bipartisan Infrastructure Act and the Inflation Reduction Act, 
+including the recently announced $72 million award for NOAA for regional 
+coastal planning to build a climate-ready New Jersey.  They were the second-
+biggest award provided by NOAA.  When I tell you that, it’s a real testament 
+to what New Jersey has been able to do. 
+ 
+ 
+ASBPA commends New Jersey for their leadership and coastal 
+climate resilience.  We look forward to working with you to amplify your 
+successes, and to transfer the knowledge you are creating here to benefit all 
+coastal communities across the nation. 
+ 
+ 
+In closing, I’d like to thank you again for the opportunity to 
+testify here today on behalf of ASBPA. 
+ 
+ 
+I’ve submitted electronic copy of my comments, and I’m happy 
+to answer any questions. 
+ 
+ 
+SENATOR SMITH:  Any questions for Mr. Herrington?  (no 
+response) 
+ 
+ 
+Thank you very much, sir. 
+ 
+ 
+DR. HERRINGTON:  Thank you. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Next, we have Tim Dillingham, 
+Executive Director of the American Littoral Society. 
+T I M   D I L L I N G H A M:  Good morning, still, I guess. 
+ 
+ 
+Mr. Chairman, Chairman Smith, thanks for having me before 
+you on this really important question. 
+ 
+ 
+ 
+60 
+ 
+ 
+First of all, I just want to recognize you for your leadership about 
+this issue. 
+ 
+ 
+I mean, this--  I listened to Dr. Broccoli:  nice; calm; science; facts; 
+statistics.  But, the world is basically burning up.  I mean, it is.  That is not 
+hyperbole.  The ocean is changing; the chemistry of the ocean is changing; 
+the mechanics of how circulation happens in the ocean is changing.  And, 
+obviously, we are all going to be the recipients of all the consequences of that 
+climate change that is going on. 
+ 
+ 
+So, I appreciate the fact that you all are stepping up, dealing with 
+this, because there really is no choice.  There’s nowhere else to go.  We have 
+to approach this.  Hopefully, we will minimize the impacts that we’ve created, 
+but, I think you should self-congratulate yourselves, or congratulate 
+yourselves. 
+ 
+ 
+Being in the camp of people who have recognized the reality of 
+climate change and its impacts and the need to deal with it, that is--  That’s 
+leadership, which unfortunately is all too often not present.  So, we’re lucky 
+to have you all. 
+ 
+ 
+The American Littoral Society--  Littoral means “of or along the 
+coastline.”  We were founded in 1961; our headquarters are on Sandy Hook.  
+We are dedicated to promoting the conservation and study of marine life and 
+its habitats.  We work to defend the coast from harm, and we try to empower 
+others to do the same.  So, we do a lot of work in communities. 
+ 
+ 
+Lisa’s metaphor about the science community being the head--  I 
+would guess that would make us the hands of the body, because we are out 
+in the sand, in the water, in the mud of marshes all the time, both trying to 
+ 
+ 
+ 
+61 
+protect and restore their productivity and all the values that they provide to 
+us. 
+ 
+ 
+I distributed sort of a photo log, inventory, of the work that we’ve 
+done over the last 10 years.  I apologize for the cover sheet.  I pulled it 
+together the first time for Chairman Kennedy last year.  I added a couple new 
+projects in there, just so you can see them.  But, you’ll see that they run the 
+range of fairly large projects to protect natural features from erosion, to very 
+fairly small-scale fish passages. 
+ 
+ 
+We do this work because we believe that the coastal system -- as 
+Dr. Herrington just described it -- is front and middle.  It underpins not just 
+our natural systems, but also our local economies.  Think about fisheries; 
+think about the supply chain that relates to both recreational and commercial 
+fisheries to the tourism that people come to the shore for. 
+ 
+ 
+We often don’t reflect that role that marshes, dunes, beaches, 
+bays, play in our policy.  So, as we approach this question of resiliency and 
+risk reduction, we need to think about and really put into rules, put into our 
+programs, the need and value of linking ecological restoration with hazard 
+management, hazard reduction. 
+ 
+ 
+The use of nature-based approaches -- when you look at those 
+pictures, you’ll see that we’re building marshes, we’re building oyster reefs.  
+We’re putting sand back on the beach.  Those projects on Delaware Bay not 
+only are providing some resiliency benefit to the poorest county in the State 
+of New Jersey -- Cumberland County -- but they are restoring the habitat for 
+horseshoe crabs, and, by extension, helping in the recovery of the endangered 
+migratory shorebirds like the red knot.  We actually have some very 
+interesting science that shows that the beaches that we’ve rebuilt are more 
+ 
+ 
+ 
+62 
+productive, ecologically, than the ones that have been neglected or left to the 
+natural state. 
+ 
+ 
+Using nature-based approaches allows us to avoid the negative 
+environmental impacts of hard structures.  You build a hard structure on the 
+edge of the water, the energy of waves and everything else get reflected back 
+into the shoreline.  So, I think you’ll see in places, until very recently, like in 
+the Wildwoods, long ago in Sea Bright and Monmouth Beach.  And, when 
+we didn’t pay attention to maintaining the shoreline, we had water right up 
+to those walls.  And, so, the habitats that are there -- the opportunity to use 
+that for recreation -- all that was lost.  So, nature-based approaches, we think, 
+are really priorities; ought to be more prominent.  And, just as a sort of 
+foreshadowing to later climates, we’re very happy to see that the PACT, the 
+REAL rules, really make an effort to facilitate the use of habitat restoration 
+and nature-based approaches to risk reduction and try to reduce the 
+regulatory burden there. 
+ 
+ 
+I’ve been an environmentalist, but for the last 20 years, I’ve been 
+sort of on the other end of the permitting process.  So, I have a little sympathy 
+for folks who have to go through that, and I appreciate the fact that 
+Commissioner LaTourette and Nick recognized the need to really amplify the 
+use of these approaches, and to get some unneeded regulation out of the way. 
+ 
+ 
+We do that work in partnership all the time -- always 
+municipalities -- when we start a project, we ask folks to volunteer to be on a 
+committee, a Leadership Committee, a Steering Committee.  We talk about 
+the project all the way through.  We hope to help define things that the 
+community wants out of it.  And, they’re involved with us as we go.  The 
+same thing for the DEP -- usually the Division of Fish and Wildlife -- and, 
+ 
+ 
+ 
+63 
+we’ve had really great partners in the U.S. Fish and Wildlife Service who 
+provide a lot of the funding for it. 
+ 
+ 
+These projects really need a stable source of funding.  Senator 
+Smith has been a leader since I’ve known him -- we’ve talked about stable 
+sources of funding; the creation of the Garden State Preservation Trust; the 
+dedication of the corporate business taxes. 
+ 
+ 
+The projects -- whether you’re planting a marsh or rebuilding a 
+beach or funding fundamentally construction projects -- you’re bringing 
+materials in; experts to build it.  They need money, and, it’s something that 
+we ought to be dedicating and expanding the shore-protection fund to put 
+more of an emphasis on these nature-based approaches -- more emphasis on 
+projects in the back bays where we experience all the flooding now.  Those 
+are things that are left out because of the dominance of beach nourishment 
+on the Atlantic side, often driven by the Federal opportunities.  But, even as 
+Ms. McKenna noted, that’s often sporadic -- comes and goes -- and is 
+probably not as tied to a well-thought-out risk-based assessment as it should 
+be. 
+ 
+ 
+The State adopted a shore master plan in 1981 that did some of 
+the things you asked about, Senator:  identified critical spots; identified 
+where the erosional hotspots are; estimated the needs of projects.  That was 
+1981, and it hasn’t been updated since then, and I don’t know how much 
+that plan guides the decisions.  When Sandy flooding and post-Sandy 
+flooding allowed the State to do the whole oceanfront, but that’s not going 
+to be the future. 
+ 
+ 
+Just to talk about beach nourishment for a couple minutes, it is 
+a complex and very controversial approach to trying to reduce risk to 
+ 
+ 
+ 
+64 
+development that’s in the wrong place.  We have a long history -- I laughed 
+at Assemblyman Kennedy’s story about his father, talking about paving over 
+the parking lots.  Well, our coastal-development policy has not been very 
+good.  We put a lot of development, and people and their lives, into harm’s 
+way by allowing the level of development that we do, in areas that we know 
+-- we have always known -- are high risk and have consequences to building 
+in them. 
+ 
+ 
+The advent of more storms, higher tides, higher sea levels, are 
+just going to exacerbate that vulnerability.  I didn’t hear anybody earlier -- I 
+may have missed it -- but, there are a whole number of vulnerability 
+assessments which have been done, which, unfortunately, put New Jersey up 
+there with Louisiana, Florida, places that really get kicked around by 
+hurricanes probably a little more often than we do.  So, (indiscernible) as Dr. 
+Herrington talked about, it’s effective in re-establishing beaches that have 
+eroded over time.  It helps protect coastal development.  It is a replacement 
+for recreational areas, and, in certain areas, it does provide an enhanced 
+habitat for beach-nesting shore birds. 
+ 
+ 
+On the downside, it’s extremely expensive; it’s a temporary 
+solution.  At best, you get five years out of it.  As we’ve seen lately, particularly 
+in Monmouth County and in the Wildwoods, sometimes that timeframe is 
+much shorter, so you incur those expenses repeatedly.  As folks who are 
+concerned about fish, we are concerned about the impact of the dredging of 
+the sand on fisheries habitat and on fish and their health.  Ms. McKenna said 
+that now we’re having to go further offshore to find sand.  And, where the 
+Army Corps of Engineers sees sand for beach replenishment, I see fish habitat.  
+ 
+ 
+ 
+65 
+Those mounds, the ridges -- those areas are what help make our fisheries as 
+productive as they are, but also need to be protected. 
+ 
+ 
+Taxpayers pay the largest portion -- or, all of it, I guess, in one 
+way or another -- of the cost of beach-nourishment projects, so, the general 
+public often doesn’t have meaningful access to those beaches.  Inadequate 
+parking; no restroom facilities available to them.  In some towns, you can’t 
+bring food onto the beach, so, unless you live nearby, that becomes a 
+restriction.  And, you can see that in the patterns of use in the summertime.   
+My family has a house in Belmar; very crowded, very diverse.  Folks take the 
+train down from North Jersey, from New York.  Right next door, in Spring 
+Lake, there’s a lot more open sand, and mostly people who live there -- from 
+just my casual observations. 
+ 
+ 
+So, we have a long way to go.  Senator Smith sponsored the 
+Public Trust Act several years ago, which was supposed to require the 
+Department to assess public access each time they spent Federal money on 
+those kinds of projects.  I don’t think those assessments have been done; I 
+think that we have not met the need of sort of supporting infrastructure. 
+ 
+ 
+I get an alert on my phone every time Island Beach State Park 
+closes, and every time Sandy Hook closes.  And, on beautiful summer days, 
+it happens multiple times a day.  So, if you don’t have the capacity in those 
+two, big, long, barrier island beaches to support all the people who want to 
+be there, then we’re not providing adequate access to the shore to people --
+for those projects that are paid for with public money. 
+ 
+ 
+There are a fair amount of design problems with them.  The 
+surfers often complain about the sharpness of the design.  But, that’s a little 
+more easy to correct.  I think the largest problem is that it continues to 
+ 
+ 
+ 
+66 
+support the over-development of the shoreline itself.  We feel safe behind 
+those beaches -- and, we are, to a certain extent.  But, if we know there are 
+hazardous areas, and we know the hazards are getting worse, maybe it’s time 
+to stop digging the hole and over-building the coastline  as intensely as it has 
+become developed since Sandy. 
+ 
+ 
+If you look at the demographics of that, the generational folks 
+who had small homes were massively priced out of rebuilding after the storm.  
+And, that’s a whole other unfortunate -- sorry -- tale.  But, that, partly, is 
+brought about by the confidence that we feel being behind the nourished 
+beaches. 
+ 
+ 
+So, I would just recommend that the use of a (indiscernible) as 
+the primary long-term shoreline-management strategy is likely to be 
+financially unsustainable in the long run.  Senator Smith mentioned sort of 
+the back and forth at the Federal level, support for this -- diminishing 
+resources there, and that we should look to alternatives.  I don’t say that there 
+won’t be a need and an appropriate place for nourishment to happen, but 
+there are opportunities to make the system -- the beach system -- function 
+more naturally and, therefore, retain more sand into it. 
+ 
+ 
+We are right up against those engineered dunes.  In fact, some of 
+the buildings are in the dune, on the backside of it.  There’s no room -- the 
+engineered dunes don’t act like natural dunes, but we don’t leave room for 
+that system to function, and that’s something we ought to change as we go 
+forward. 
+ 
+ 
+So, I think the equity issue -- Who pays for their nourishment?  
+Who gets the benefits? -- really needs to be looked at.  And, this is like, 
+completely anecdotal, my observations of being a beach bum for a while.  But, 
+ 
+ 
+ 
+67 
+I always notice that after the time that the lifeguards go home and the beach 
+fees are not being charged anymore, there are families of color who come onto 
+the beach in a higher proportion than during the daytime.  So, the fees -- the 
+beach fees themselves, which absolutely have to be used to manage the beach 
+-- but are getting to a level now that I think they’re posing yet another barrier 
+to access, and I think that’s something that should be looked into very, very 
+-- very hard. 
+ 
+ 
+Lastly, just on the PACT rules -- my summer reading -- I’m not 
+through with all thousand pages of the thing yet, but I think, generally, it is-
+-  It takes important steps.  There are several long-time loopholes that have 
+kept the State from regulating development appropriately that are being 
+fixed.  The stormwater changes are really going to foster responsible 
+development.  It will deal with the--  It will help to deal with the flooding.  
+The tools of expanding the flood zones, having the inundation risk 
+assessments -- those are all good tools.  Requiring the resiliency planning as 
+part of the stormwater element, and from the water quality perspective, tying 
+in major developments into what are called TMDLs -- total maximum daily 
+loads -- that’s an attempt to set a pollution budget, in essence, for waters that 
+are polluted and need to brought back to where they’re clean that we can use 
+them again. 
+ 
+ 
+So, I think, broadly, Senator Smith, you sort of asked what can 
+we do -- and, we need to stop developing highly vulnerable areas.  Now, we 
+can build -- we can elevate another 5 feet in certain places.  I think that’s 
+going to--  We’re still going to get problems that are going to be remaining, 
+but there are highly vulnerable areas that we still allow development to 
+ 
+ 
+ 
+68 
+happen in, and we ought to take steps to keep those people out of harm’s 
+way. 
+ 
+ 
+I am not an attorney, but somebody told me about the attorney 
+rule, “moral hazard.”  We set our laws up and our zoning to encourage people 
+to make their lives in places that are dangerous.  I don’t think that’s an 
+appropriate action for government -- at any level. 
+ 
+ 
+We need to restore the natural features.  We have filled, over 
+time, more than 50% of the natural base of tidal wetlands that existed when 
+Europeans first got here.  I heard a lot of discussion about the value of those 
+wetlands, the role they can play.  We’re working now with the Army Corps 
+of  Engineers and others and folks who are working not directly with us but 
+in parallel to tide the dredging of our channels together with marsh 
+restoration; with beach nourishment; to beneficially reuse those sands and 
+those sediments. 
+ 
+ 
+And, I think that that leads me to we need more planning, more 
+risk-based plans.  The plans that Nick’s effort has pulled together under the 
+Resilient NJ program are really good, and they’re built by the communities.  
+They’re building lots of community participation, they reflect their priorities, 
+but they really get to that place where you were asking, Senator, where is it 
+we should be acting?  Where should we be invested?  And, you really can’t 
+get to that except through that type of planning.  And, that planning needs 
+lots of support. 
+ 
+ 
+And, then, lastly, I would hope that we would look back at a tool 
+that we created 15 years ago.  It was a State program for the transfer of 
+development rights.  I understand the equity issues in terms of property -- in 
+terms of the impacts of property taxes.  That tool, which has worked very 
+ 
+ 
+ 
+69 
+well in the Pinelands, was meant to help preserve some of that equity to the 
+land owner when the ability to develop the land was restricted.  And, I think 
+that’s a tool that we’re going to have to use on the shoreline as the ocean 
+inexorably advances forward.  You don’t want people to lose all that value, 
+but have it, rather, used and invested in the right places. 
+ 
+ 
+So, I very much appreciate your efforts.  I am more than happy 
+to answer any questions you might have.  I invite you out to build an oyster 
+reef with me, if you like to come out and get wet and muddy, or come see 
+horseshoe crabs in the springtime. 
+ 
+ 
+SENATOR SMITH:  Are there any questions for Mr. 
+Dillingham? 
+ 
+ 
+Yes, sir.  Assemblyman. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you very much, 
+Chairman. 
+ 
+ 
+Thank you, Tim, for that perspective. That was really 
+compelling; I learned a lot. 
+ 
+ 
+And, I don’t want to put you on the spot, but I want to delve a 
+little deeper into some of the things you said about development over 
+buildings, some of the sensitive areas, etc.  And, I think any fulsome 
+conversation on protecting the ecosystem of the shore really needs to include 
+this issue of development. 
+ 
+ 
+MR. DILLINGHAM:  Absolutely. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  You know, in the State of 
+New Jersey, under the fourth round of affordable housing obligations, the 
+obligation to develop in Ocean County alone is 6,799 new units.  Six 
+ 
+ 
+ 
+70 
+thousand seven hundred ninety-nine new units in Ocean County, where we 
+are today.  Not Monmouth, Atlantic, Cape May, etc. 
+ 
+ 
+Earlier this year, the Legislature passed A4, Assembly Bill 4, that 
+would actually increase that obligation -- increase the development obligation 
+along the Jersey Shore.  In Ocean County, it would rise to 7,711 units. 
+ 
+ 
+I’m not going to ask you to react to the wisdom of that -- though 
+you’re free to share -- I have my own perspective on it, particularly as a 
+lawmaker who comes from the Highlands region.  We’re facing similar 
+development obligations in an area where two-thirds of New Jerseyans get 
+their drinking water. 
+ 
+ 
+Setting that aside for a second, are there strategies you would 
+recommend to ensure that the 7,711 new housing units coming to Ocean 
+County -- and, the thousands coming to the other counties along the shore -
+- is brought into this community and this ecosystem in a responsible way?  
+How do we make it fit? 
+ 
+ 
+MR. DILLINGHAM:  Well, I think that--  First, I would send 
+you to my friends at New Jersey Future, and Peter Kasabach.  I don’t--  And, 
+I am not a planner, I am not an urban developer, but, I have always been 
+perplexed by the idea that we could not bring those units into center-based 
+development.  (indiscernible) the State plan, where it’s supported by 
+infrastructure, where we’re recreating walkable communities. 
+ 
+ 
+I don’t know what 7,000 units spread out across Ocean County 
+looks like, in terms of changing the landscape.  It sounds like a large number 
+when you have municipal governments, which have an obligation to provide 
+it, obviously.  But, as an absolute overall number, it seems to me not 
+unreasonable to think you could be accommodating.  Except that the 
+ 
+ 
+ 
+71 
+approach -- and, that’ll be way out of my wheelhouse -- but the approach 
+seems to be to not bring affordable housing units into the community, except 
+in rare circumstances.  There was a proposal at one point to put affordable 
+housing out on Sandy Hook; to re-utilize the park there for that kind of thing. 
+ 
+ 
+I think there are equity issues involved.  I think there are 
+probably historic questions about the diversity of our communities that 
+people are trying to avoid.  But, my sense of the talents and the thinking that 
+people have put into smart growth is available to us.  We have a lot of smart 
+people at Rutgers on the science side; we have a lot of smart people about 
+how to build communities that are oriented around transit; that bring in the 
+density that we need to have day-to-day communication with folks to build 
+that social sense of community. 
+ 
+ 
+And, I think if we can do that effectively--  So, it is, in a certain 
+way, like the climate-change issue, in that it’s tough to face up to it.  And, 
+spend--  My observation is we spend a lot of time trying to avoid figuring out 
+how to make it work rather than tackling it and putting it to -- putting our 
+skills to practice. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Yes, I really appreciate 
+that. 
+ 
+ 
+Again, I don’t want to put you on the spot.  You’re not a planner; 
+I’m not a planner, but, I do think that a development mandate along the 
+shore needs to be part of this conversation. 
+ 
+ 
+I actually want to correct myself.  When I say 7,700 units in 
+Ocean County, it’s potentially four times that amount.  You know how 
+affordable housing works:  It’s typically four market-rate units to the one 
+ 
+ 
+ 
+72 
+affordable unit.  So, we’re looking at, potentially, an enormous amount of 
+development along the shore. 
+ 
+ 
+And, I just offer that perspective in a respectful way.  I hope to 
+strengthen the conversation; I sincerely want to be part of the solution here, 
+and I think we need to keep that top of mind. 
+ 
+ 
+So, Tim, thank you very much; I really appreciate it. 
+ 
+ 
+MR. DILLINGHAM:  You’re welcome; thank you. 
+ 
+ 
+SENATOR SMITH:  Any other questions for Tim? 
+ 
+ 
+SENATOR McKEON:  I have a quick question for Tim. 
+ 
+ 
+SENATOR SMITH:  Sir. 
+ 
+ 
+SENATOR McKEON:  Well, the work that Senator Smith and I 
+and the members of the Committee have done many years ago now, regarding 
+the protecting the horseshoe crabs.  Is Division of Gaming and Wildlife doing 
+what they’re supposed to do?  I mean, I know there’s a lot of ballyhoo now 
+about a chemical way to produce the very vital blood that the horseshoe crabs 
+have for medical testing, but what’s going on? 
+ 
+ 
+MR. DILLINGHAM:  Well, I think--  The legislation that you 
+all authored with the Secretary of Agriculture was landmark, and it has been 
+very effective on the New Jersey side of the bay.  We have a moratorium on 
+the taking of crabs for bait; there are record numbers of crabs in this curve 
+that’s going up. 
+ 
+ 
+So, I think that it’s been effective that way.  The biomedical take 
+is still coastwide, almost a million crabs a year.  The shorebirds, 
+unfortunately, are still fluctuating the populations.  The eggs on the beach 
+themselves, the densities are still not where they should be if you benchmark 
+it back against the 1980s. 
+ 
+ 
+ 
+73 
+ 
+ 
+So, the legislation was key; we’re still trying to push the Atlantic 
+City’s Marine Fisheries Commission to not expand the harvest to female 
+crabs.  They need the eggs; the females lay the eggs.  It just seems 
+counterintuitive to us to expand that harvest.  So, I think the habitats also 
+need to be restored as one of the elements in that. 
+ 
+ 
+SENATOR McKEON:  You mentioned that in your testimony 
+before, and it made me think of it. 
+ 
+ 
+Thank you, Senator. 
+ 
+ 
+SENATOR SMITH:  Thank you, Senator. 
+ 
+ 
+And, our last two witnesses of the day.  They’re coming up 
+together; they both are with New Jersey Future. 
+ 
+ 
+Peter Kasabach, the Executive Director of New Jersey Future, 
+and Lindsey Sigmund-Massih, who is Mainstreaming Green Infrastructure 
+Program Manager at New Jersey Future. 
+ 
+ 
+Take it away. 
+P E T E R   K A S A B A C H:  All right, thank you very much. 
+ 
+ 
+And, we get to say good afternoon, and we’re very happy to have 
+this and to be here. 
+ 
+ 
+And, actually, very happy to follow Tim; always happy to follow 
+Tim, who is a much better smart growth spokesman than he gives himself 
+credit for.  I think his answers were excellent.  (laughter) 
+ 
+ 
+So, I am the Executive--  I am Pete Kasabach, the Executive 
+Director of New Jersey Future.  Many of you know New Jersey Future is a 
+smart growth and sustainable development organization; we focus on policy 
+and practice.  We’ve been involved in climate change adaptation for over a 
+dozen years now, at multiple levels, whether it’s local or State level. 
+ 
+ 
+ 
+74 
+ 
+ 
+Really appreciate you guys having this hearing, and I’ll echo that 
+your leadership is imperative, and there’s some great examples of it, and I’m 
+glad that you actually recognize some of the great things that you’ve already 
+done, where you’ve talked about stormwater utilities -- being able to 
+authorize those, even though we’re a little slow in this state to pick them up.  
+The flood-disclosure law that you were able to get passed last year now means 
+that tens of thousands of people who are going to be renting and buying 
+homes now know the kind of risks that they’re going to be facing.  And, the 
+requirement to have towns do the vulnerability assessments.  All of these 
+elements build up, and they build us towards planning better for the future.  
+So, thank you very much for that. 
+ 
+ 
+What we’re going to talk about today--  We were asked to talk 
+about the New Jersey REAL rules.  And, my colleague, Lindsey, will talk about 
+that.  And, then, we’re going to talk about just a couple of considerations that 
+we think we should be really paying attention to as we go forward, which I 
+think will start to answer some of the questions about, “What do we do 
+next?” 
+ 
+ 
+So, Lindsey. 
+L I N D S E Y   S I G M U N D - M A S S I H:  Great; thank you. 
+ 
+ 
+Good afternoon. 
+ 
+ 
+I am Lindsey Sigmund-Massih; I work with Pete at New Jersey 
+Future, and I work on our stormwater policy and our climate-adaptation 
+work. 
+ 
+ 
+I’m really happy to be here today, especially in my hometown of 
+Toms River.  It’s very fitting that we’re talking about flooding and other 
+ 
+ 
+ 
+75 
+climate-change-related issues that coastal communities -- especially Toms 
+River -- are no stranger to. 
+ 
+ 
+So, like Pete said, I’m mainly going to talk about DEP’s pending 
+rule proposal, REAL -- Resilient Environment and Landscapes -- which falls 
+under the NJ PACT rulemaking initiative, New Jersey Protecting Against 
+Climate Threats. 
+ 
+ 
+As a smart-growth organization, we’ve been closely following 
+DEP’s rule changes to update their land-use requirements to incorporate the 
+latest climate science to ensure that our new assets and our newly built and 
+re-built infrastructure; our homes; and roadways are resilient to a changing 
+climate. 
+ 
+ 
+So, this is -- as you heard a couple times -- this is a 1,000-page 
+rule proposal, and mainly includes changes to our -- changes to how we 
+develop in the coastal zone.  It changes how we manage stormwater statewide 
+and there are changes to wetlands requirements, and some other things you 
+heard about that would better enable nature-based solutions like living 
+shorelines. 
+ 
+ 
+So, like I said, REAL mainly impacts our coastal areas.  And, you 
+already heard a bit about REAL, but I want to highlight a few things that 
+really rose to the top as we started to delve into this rule proposal. 
+ 
+ 
+So, REAL adjusts the extent of flood zones in New Jersey to 
+account for rising sea levels and storm surge.  So, it extends our flood-prone 
+areas further inland to account for other areas in the state that are vulnerable 
+to flooding, which will require higher first-floor elevations or flood proofing 
+for buildings, and will require higher roadways.  So, new homes that are built 
+in the flood zone will be required to be -- the first floor to be 5 feet higher 
+ 
+ 
+ 
+76 
+compared to today’s standards.  It also creates an inundation risk zone -- 
+which you heard a bit about -- which applies to areas at risk of permanent or 
+daily flooding in the future, and requires this risk assessment to be submitted 
+to the department through their regular permitting process -- again, to 
+acknowledge the risk of building in these vulnerable areas. 
+ 
+ 
+REAL 
+also 
+strengthens 
+our 
+stormwater-management 
+requirements statewide.  This does not just apply to the coast.  So, in our 
+highly developed state, as you know, we have large areas of legacy impervious 
+cover and existing development that were built long before we had today’s 
+strong stormwater-management requirements that require things like green 
+infrastructure to manage stormwater; to improve water quality; and mitigate 
+localized flooding.  What REAL does is it requires water -- the same water-
+quality benefits for redeveloping sites as vacant or undeveloped sites.  So, 
+when a site that’s already developed will be redesigned and redeveloped and 
+impervious cover is replaced, those projects have to meet the same water-
+quality requirements as if it were a vacant site. 
+ 
+ 
+This is something that New Jersey Future and other 
+organizations that are in this room today have been advocating for for years, 
+so that was a really positive change that we saw make its way into REAL.  The 
+other requirements and clarifying language for developments to work with 
+nature to protect our communities and natural resources -- so these changes 
+will better enable living shorelines and other innovative restoration projects, 
+which, today, sometimes take a long time to get approved, so REAL will help 
+streamline the permitting process so we could see more innovative nature-
+based solutions like living shorelines. 
+ 
+ 
+ 
+77 
+ 
+ 
+We mention this -- we heard a bit about this today already -- but 
+REAL represents a paradigm shift in how we think about development in 
+flood-prone areas.  You’ve heard that this proposal does not create a no-build 
+zone, but the rules do, in a way, inform where we should be potentially 
+incentivizing or disincentivizing development.  For example, building in the 
+coastal zone will now require additional engineering and could increase 
+project costs, which could potentially disincentivize development in our most 
+vulnerable areas. 
+ 
+ 
+Something we’ve heard from the development community over 
+the years -- not just as it applies to REAL -- but the need for consistent 
+development requirements.  Something that groups have been advocating for 
+for a long time is a consistent statewide sea-level rise standard.  So, when 
+you’re going to develop in a flood-prone area, there are consistent standards.  
+And, that’s something that REAL accomplishes. 
+ 
+ 
+Overall, these are very significant changes, but we see them as 
+positive changes.  But, REAL is just one piece of New Jersey’s climate-
+adaptation strategy.  What about all of our existing development and 
+vulnerabilities?  Despite the rule change, we’re still allowing homes and other 
+assets to be constructed in areas that are susceptible to flooding and that are 
+at risk of future permanent or daily flooding in the future. 
+ 
+ 
+So, there are still some questions remaining, and some issues that 
+need to be addressed, so we’re going to highlight a few that rose to the top 
+for us. 
+ 
+ 
+One is the citing of affordable housing, which we were just 
+talking about earlier.  There are municipalities, especially in our coastal zone, 
+that still need to meet their affordable-housing obligations, and now, as a 
+ 
+ 
+ 
+78 
+result of climate change and as a result of the REAL proposal, there may be 
+fewer buildable locations that are safe from flooding.  We don’t want to put 
+affordable housing in harm’s way.  And, there are areas identified in need of 
+redevelopment, especially in urbanized areas, that are flood prone.  So, what 
+we need to do is get creative with how we redevelop non-flood-prone areas to 
+meet our growing needs like affordable housing. 
+ 
+ 
+I’m a planner, so I’m going to talk a little bit about planning.  So, 
+today’s infrastructure, as we know, is not built to withstand tomorrow’s 
+storms.  So, to ensure longevity and safety of our most at-risk communities, 
+we need to put climate-change models at the forefront of our local planning 
+as well.  Municipalities still need funding for their local climate-resilience 
+planning.  Although there’s been a lot of work done to date, communities still 
+need to inventory their assets like roadways, hospitals, and other critical 
+facilities in relation to climate hazards.  Raising homes -- like new homes, like 
+REAL requires -- protects that one privately owned asset, but there is still the 
+larger issue of existing low-lying roadways.  What good is a raised home 
+without protected adjacent infrastructure? 
+ 
+ 
+Something else that REAL requires related to planning:  Climate 
+resilience must now be incorporated in local stormwater-management plans 
+to look at how rainfall; sea-level rise; other climate hazards will impact their 
+stormwater infrastructure.  So, now the State is requiring both climate-change 
+vulnerability assessments with the land-use element that you mentioned 
+earlier, Senator.  But, now, there’s currently no requirement to connect the 
+two:  the stormwater-management plans and the land-use element.  So, this 
+is a future opportunity to require those plans to be coordinated. 
+ 
+ 
+ 
+79 
+ 
+ 
+So, municipalities need more guidance and funding to ensure 
+that these plans are well informed and complementary.  We were excited to 
+see DEP’s recent announcement of a $72 million grant from NOAA, which 
+will fund local climate-resilience planning, just underscoring that we should 
+continue to identify funding to ensure that every municipality has the 
+resources to complete this work. 
+ 
+ 
+I mentioned roadways a couple times in my testimony so far; I 
+wanted to highlight something that REAL proposes.  REAL includes 
+exceptions for public transportation entities like NJDOT -- Department of 
+Transportation.  Our roadways contribute, as we know, significantly to 
+flooding, but in REAL there are exceptions allowing relaxed stormwater 
+management for transportation projects, which demonstrates a need for more 
+coordination between state agencies like DEP and DOT.  Agencies need to 
+engage 
+in 
+complementary 
+climate-resilience 
+planning 
+and 
+project 
+implementation. 
+ 
+ 
+We need to use every tool available to formulate a robust 
+statewide climate-adaptation strategy.  We should be exploring the creation 
+of climate-adaptation tools that support managed retreat.  Managed retreat 
+is a controversial term that’s being used more and more across our country’s 
+coastal communities.  Broadly-- And, I want to explain a little bit more what 
+I mean about managed retreat.  Broadly, it means moving people, structure, 
+and infrastructure out of harm’s way before flooding and other disasters 
+occur.  But, we already do this in New Jersey -- as you heard earlier about 
+New Jersey’s Blue Acres Program.  Blue Acres is a managed-retreat tool.  The 
+State buys out flood-prone properties and transforms them into open spaces.  
+It’s my understanding that most buyouts to date are for properties along our 
+ 
+ 
+ 
+80 
+rivers and streams, rather than our coastal areas, which are arguably more at 
+risk; that’s where sea-level rise meets increased rainfall meets storm surge. 
+ 
+ 
+So, some ideas are to increase State funding for this program.  
+We could also fund local managed-retreat studies for high-risk coastal areas.  
+The solution likely isn’t a statewide one-size-fits-all managed-retreat strategy; 
+it’s most likely a hyper-local solution that includes solutions that 
+acknowledge the communities and community ties that have been built in 
+vulnerable areas.  So, as we move forward with solidifying our climate-
+adaptation strategy, we must prioritize cooperation between state agencies, 
+municipalities, and the private sector so that we may continue developing 
+equitable solutions to the climate crisis. 
+ 
+ 
+SENATOR SMITH:  So, I have to stop you-- 
+ 
+ 
+MS. SIGMUND-MASSIH:  Yes-- 
+ 
+ 
+SENATOR SMITH:  --just following up on the Assemblyman’s 
+comment.  He said we need creativity to deal with the Constitutional 
+obligation to provide an opportunity for low- and moderate-income housing 
+in all the towns of our state, and we’re going to have new numbers -- I think 
+DCA is working on that now, so, new numbers are coming out. 
+ 
+ 
+What’s the creativity?  It sounds like we have a rock and a hard 
+place here.  If you’re saying building in many coastal communities is putting 
+low- and moderate-income people at risk, maybe we should think about 
+another strategy that would mean higher numbers in other towns or in other 
+areas that weren’t vulnerable.  I’ve got to believe the political implications of 
+that are huge. 
+ 
+ 
+Give me an idea of where the creativity is going -- if you have it.  
+If you don’t, please send it to us, because we want to hear what it is. 
+ 
+ 
+ 
+81 
+ 
+ 
+MR. KASABACH:  Well, I think where we can start with the 
+creativity is starting with planning.  What’s happening with a lot of the 
+municipalities is they’re getting their numbers and then they’re being 
+reactive, and they’re not thinking about how do these affordable-housing 
+units fit into the fabric of the community.  How do we create walkable, 
+bikeable places while we’re redeveloping and developing? 
+ 
+ 
+So, we need to do better planning, first of all.  And, then, 
+secondly, the issue of recognizing that there are some places that are going to 
+be higher risk, and that’s just not where we should be putting the affordable 
+housing.  The issue that you said--  There were some municipalities that may 
+be largely at risk, and so how do we deal with those?  We’re not going to deal 
+with those through an affordable-housing structure.  We’re going to have to 
+deal with those through a planning structure that says there are certain towns 
+that may be better off merging with each other so that we do end up having 
+this-- 
+ 
+ 
+SENATOR SMITH:  That’s going to be easy. 
+ 
+ 
+(laughter) 
+ 
+ 
+MR. KASABACH:  None of these answers are easy.  If you want 
+the easy answers, you can go next door, I guess. 
+ 
+ 
+But, no, there are no easy answers, but-- 
+ 
+ 
+SENATOR SMITH:  But, when you have any answers, please 
+forward them to us, because we would like to hear them. 
+ 
+ 
+MR. KASABACH:  Sure. 
+ 
+ 
+SENATOR SMITH:  And, I didn’t mean to interrupt your 
+testimony. 
+ 
+ 
+MR. KASABACH:  No, that’s fine. 
+ 
+ 
+ 
+82 
+ 
+ 
+SENATOR SMITH:  Senator McKeon. 
+ 
+ 
+SENATOR McKEON:  I’m so sorry to interrupt you even 
+further, but we have at least one alternative, and you were good enough to 
+put it on our agenda and get it out of community, or out of this Committee.  
+And, quite frankly, that’s to remove flood-prone areas out of the calculation 
+for most communities.  And, some that are housing advocates say, “Well, a 
+town like Mantoloking, that means they don’t have any obligation.”  Well, if 
+that’s it, so be it, because there’s many other--  At the end of the day, unless 
+something is strictly prohibited, you can rest assured there’s going to be 
+premises that are going to end up being built in flood -- at-risk areas -- and 
+guess who, then, is going to be the unfortunate recipient of consequences of 
+that. 
+ 
+ 
+MR. KASABACH:  I agree; I think the challenge is still not to 
+keep doing this piecemeal, but rather to look at it more holistically. 
+ 
+ 
+So, look at, in the example of Mantoloking.  If Mantoloking--  If 
+we’re going to stop developing in Mantoloking period, then maybe there is 
+an argument to be made for not doing affordable housing there.  But, if there 
+is going to continue to be development, redevelopment, we’re going to keep 
+investing there, then there’s an equity issue. 
+ 
+ 
+So, it’s just not an easy one, but-- 
+ 
+ 
+SENATOR McKEON:  We just have to be more broadminded 
+to think, “Oh, you’re against affordable housing if you’re looking in that 
+way.”  It’s just the opposite -- very much committed to it, but we have to be 
+practical. 
+ 
+ 
+MR. KASABACH:  And, we really can’t be pitting the two 
+against each other; agreed. 
+ 
+ 
+ 
+83 
+ 
+ 
+I wanted to just hit a couple of specific recommendations or 
+things-- 
+ 
+ 
+SENATOR SMITH:  Please-- 
+ 
+ 
+MR. KASABACH:  --for the Committee to consider. 
+ 
+ 
+The first is, New Jersey does not have climate-change adaptation 
+measures or targets.  So, when we talk about greenhouse-gas reduction, we 
+set targets; we build our policies and our programs to getting to those targets.  
+We don’t have those for climate-change adaptation.  We need to develop a 
+set of climate-change adaptation targets, and then we can align our policies 
+and investments behind those. 
+ 
+ 
+Secondly, and, this is something that this Committee, the 
+Committees, have seen before, is a water center -- water-infrastructure center 
+-- that is based in an academic institution that would allow us to start to dig 
+deep or look at these different issues-- 
+ 
+ 
+SENATOR SMITH:  Senator Greenstein’s bill. 
+ 
+ 
+MR. KASABACH:  Senator Greenstein’s bill, exactly. 
+ 
+ 
+So, we would love to see that move forward.  That would make 
+a big difference. 
+ 
+ 
+These next two relate back to the managed-retreat issue, which 
+is we continue to put infrastructure in places that we know are going to be at 
+risk in the future.  We need to align our departments better with their 
+infrastructure investments, behind these rules, behind these plans, so that 
+we’re putting investments in places where they will be effective and efficient 
+over the long term. 
+ 
+ 
+The fourth item is about abandoning obsolete infrastructure.  So, 
+if you have a town and half the buildings get wiped out along a certain street, 
+ 
+ 
+ 
+84 
+and we recognize this street is going to be more and more at-risk over time, 
+municipalities -- even if they wanted to retreat -- don’t have the legal ability 
+to abandon that infrastructure.  So, combining our Blue Acres acquisition 
+program with the legal ability to abandon infrastructure, strategically, is 
+something that is going to require a law to do. 
+ 
+ 
+SENATOR SMITH:  And, just FYI, in past years we’ve looked at 
+legislation where we would give the State condemnation authority -- 
+especially to acquire property that protects water supplies.  Politically, a 
+firestorm.  The people of New Jersey -- at least so far -- have not been willing 
+to give the State of New Jersey carte blanche on condemnation. 
+ 
+ 
+MR. KASABACH:  In this case, it’s not even giving it to the State 
+-- it’s actually giving the municipalities the authority to do it so that it’s a 
+local decision.  But, they don’t even have the authority to do it right now, so. 
+ 
+ 
+This fifth one is what Tim has mentioned also, which is the need 
+for funding.  We’ve all been sort of lucky here over the last few years with 
+this big infusion of Federal money.  It’s been very helpful; it’s been able to go 
+to lots of different places.  That spigot, as you’ve noticed, is being turned off.  
+(laughter) 
+ 
+ 
+SENATOR SMITH:  Not forever. 
+ 
+ 
+MR. KASABACH:  And, so, we’re going to need to come up with 
+a New Jersey-dedicated source of funding for funding these kinds of projects, 
+whether it’s a bond; whether it’s an insurance surcharge; whatever it may end 
+up looking like, it’s something that we now need to seriously consider going 
+forward. 
+ 
+ 
+And, the last point is just keeping equity front and center as we 
+create our policies and our implementations.  Because there can be lots of 
+ 
+ 
+ 
+85 
+unintended consequences for these things for underserved communities, and 
+our policies and practices should not make those situations worse and, in fact, 
+should try and correct former harms. 
+ 
+ 
+SENATOR SMITH:  Great. 
+ 
+ 
+So, before I ask if there’s any questions -- this is, in fact, our last 
+set of witnesses -- a whole bunch of very, very reputable and informative 
+groups asked to be on the agenda today, and we had to respond back, “There 
+ain’t enough time.” 
+ 
+ 
+So, any of the groups who wanted to get on the agenda, we’re 
+going to keep the record on this hearing open for two weeks.  Send in your 
+cards and letters.  I’m going to ask Celia that anything that we get in from 
+any of the speakers -- from any witnesses or groups that were not on the 
+agenda today -- that they could share with both Committees so you get a 
+chance to read what the point of views were, including BIA -- I see Ray in the 
+back -- and New Jersey Power, which I think is Dave Pringle; the Shore 
+Partnership; and, the list goes on.  We’d be happy to hear what you say.  The 
+clock runs out at some point. 
+ 
+ 
+So, that being said, are there any questions for either Peter or 
+Lindsey?  (no response) 
+ 
+ 
+Then, let me thank everybody for coming today.  You gave us a 
+lot of really great ideas, and I think that’s helpful. 
+ 
+ 
+Chairman, do you want to say anything? 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  No, I think you pretty much 
+wrapped it up and everybody looks like they want to go home. 
+ 
+ 
+(laughter) 
+ 
+ 
+SENATOR SMITH:  Have a great day, and a great weekend. 
+ 
+ 
+ 
+86 
+ 
+ 
+MR. KASABACH:  Thank you. 
+ 
+ 
+MS. SIGMUND-MASSIH: Thank you. 
+ 
+ 
+(applause) 
+(MEETING CONCLUDED) 
+ 
