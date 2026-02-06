@@ -1,0 +1,4926 @@
+=== Page 1 ===
+  
+ASSEMBLY, No. 1461  
+ 
+STATE OF NEW JERSEY 
+221st LEGISLATURE 
+   
+PRE-FILED FOR INTRODUCTION IN THE 2024 SESSION 
+ 
+ 
+Sponsored by: 
+Assemblyman  ROBERT J. KARABINCHAK 
+District 18 (Middlesex) 
+Assemblyman  JAMES J. KENNEDY 
+District 22 (Somerset and Union) 
+Assemblyman  STERLEY S. STANLEY 
+District 18 (Middlesex) 
+ 
+ 
+ 
+ 
+SYNOPSIS 
+ 
+Establishes Climate Change Mitigation and Resilience Financing Program in 
+NJ Infrastructure Bank; imposes per-kilowatt hour charge on electric energy 
+consumption to finance climate change mitigation and resilience projects.  
+ 
+CURRENT VERSION OF TEXT  
+ 
+Introduced Pending Technical Review by Legislative Counsel. 
+    
+
+
+=== Page 2 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+2 
+ 
+ EXPLANATION – Matter enclosed in bold-faced brackets [thus] in the above bill is 
+not enacted and is intended to be omitted in the law. 
+ 
+ Matter underlined thus is new matter. 
+ 
+AN ACT concerning the financing of climate change mitigation and 
+1 
+resilience projects, amending and supplementing P.L.1985, c.334, 
+2 
+and supplementing Title 48 of the Revised Statutes.   
+3 
+ 
+4 
+ 
+BE IT ENACTED by the Senate and General Assembly of the State 
+5 
+of New Jersey: 
+6 
+ 
+7 
+ 
+1. Section 2 of P.L.1985, c.334 (C.58:11B-2) is amended to read 
+8 
+as follows: 
+9 
+ 
+2. a.  The Legislature finds that the steady deterioration of older 
+10 
+sewage and sewer systems and wastewater treatment plants 
+11 
+endangers the availability and quality of uncontaminated water 
+12 
+resources of the State, thereby posing a grave danger to the health, 
+13 
+safety and welfare of the residents of the concerned communities and 
+14 
+the State; that the construction, rehabilitation, operation, and 
+15 
+maintenance of modern and efficient sewer systems and wastewater 
+16 
+treatment plants are essential to protecting and improving the State's 
+17 
+water quality; that in addition to protecting and improving water 
+18 
+quality, adequate wastewater treatment systems are essential to 
+19 
+economic growth and development; that many of the wastewater 
+20 
+treatment systems in New Jersey must be replaced or upgraded if an 
+21 
+inexorable decline in water quality is to be avoided during the coming 
+22 
+decades; that the United States Congress in recognition of the crucial 
+23 
+role wastewater treatment systems and plants play in maintaining and 
+24 
+improving water quality, and with an understanding that the cost of 
+25 
+financing and constructing these systems must be borne by local 
+26 
+governments and authorities with limited sources of revenues, 
+27 
+established in the “Federal Water Pollution Control Act Amendments 
+28 
+of 1972,” Pub.L.92-500 (33 U.S.C. s.1251 et al.) a program to 
+29 
+provide local governments with grants for constructing these 
+30 
+systems; that during the last several years the amount of federal grant 
+31 
+money available to states and local governments for assistance in 
+32 
+constructing and improving wastewater treatment systems has 
+33 
+sharply diminished; that the current level of federal grant funding is 
+34 
+inadequate to meet the cost of upgrading the State's wastewater 
+35 
+treatment capacity to comply with State water quality standards; that 
+36 
+the collective needs of the State and local governments for capital 
+37 
+financing of wastewater treatment systems far exceed the sums of 
+38 
+money presently available through revenue initiatives and State and 
+39 
+federal aid programs; and that it is fitting and proper for the State to 
+40 
+encourage local governments to undertake wastewater treatment 
+41 
+projects through the establishment of a State mechanism to provide 
+42 
+loans at the lowest reasonable interest rates and to guarantee or insure 
+43 
+local capital improvement bonds. 
+44 
+ 
+b. The Legislature finds that stormwater runoff and combined 
+45 
+sewer overflows are among the major sources of ocean pollution, 
+46 
+
+
+=== Page 3 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+3 
+ 
+ 
+contributing to beach closings; that combined sewer systems 
+1 
+discharge untreated wastewater and stormwater into rivers, streams 
+2 
+and coastal waters during wet weather, resulting in water pollution; 
+3 
+that some combined sewer systems have deteriorated to the point that 
+4 
+overflows occur regularly, even during dry weather; that many sewer 
+5 
+systems are on inadequate repair and replacement programs, which 
+6 
+may cause disturbances at sewage treatment plants; that many 
+7 
+municipalities are under building moratoriums due to the inadequacy 
+8 
+of their sewage and stormwater collection systems, which severely 
+9 
+affect municipal budgets; and that large unmet capital expenses exist 
+10 
+for combined sewer system separation and abatement projects. 
+11 
+ 
+The Legislature further finds that funding at the federal level for 
+12 
+wastewater treatment, stormwater management and combined sewer 
+13 
+system rehabilitation projects is insufficient; that State funds 
+14 
+available for these projects are inadequate to meet current needs; that 
+15 
+local revenues are insufficient to meet these expenses; and that 
+16 
+additional funding at the State level is necessary to meet this financial 
+17 
+obligation. 
+18 
+ 
+c. 
+The Legislature finds that construction, rehabilitation, 
+19 
+operation and maintenance of modern and efficient water supply 
+20 
+facilities are essential to protecting and improving the State's water 
+21 
+quality; that the citizens of this State, in recognition of the crucial 
+22 
+role the construction of new and the upgrading of existing water 
+23 
+supply facilities play in maintaining and augmenting the natural 
+24 
+water resources of the State, and with an understanding that the cost 
+25 
+of financing and constructing these systems is beyond the limited 
+26 
+financial resource capabilities of local governments and authorities 
+27 
+and must be subsidized by the State and repaid through a system of 
+28 
+water supply user charges, approved the enactment of the “Water 
+29 
+Supply Bond Act of 1981” (P.L.1981, c.261); that the water supply 
+30 
+needs of the State are so great that the funds allocated for this purpose 
+31 
+from the “Water Supply Fund” established by that 1981 bond act 
+32 
+should be augmented and maximized, to the extent practicable, 
+33 
+through the use of alternative methods of State financing to offset the 
+34 
+costs of water supply projects and for the construction of new or the 
+35 
+rehabilitation of antiquated or inadequate existing water supply 
+36 
+facilities; that the United States Congress in recognition of the 
+37 
+essential role that safe drinking water plays in protecting the public 
+38 
+health, and with an understanding that financing, constructing and 
+39 
+maintaining water systems that meet the requirements of the “Safe 
+40 
+Drinking Water Act,” 42 U.S.C. s.300f et seq. exceed the financial 
+41 
+and technical capacity of the operators of some water systems, has 
+42 
+established in the “Safe Drinking Water Act Amendments of 1996,” 
+43 
+P.L.104-182, a program to provide public water systems with 
+44 
+financial assistance to meet national primary drinking water 
+45 
+regulations or to otherwise further the health protection objectives of 
+46 
+the federal law and that the State must, in order to make use of the 
+47 
+federal funds, provide State funds for the program; and therefore, 
+48 
+
+
+=== Page 4 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+4 
+ 
+ 
+State funding for the program is necessary to meet this financial 
+1 
+obligation. 
+2 
+ 
+d. The Legislature finds that the transportation infrastructure of 
+3 
+the State is among the most heavily used in the nation and has 
+4 
+deteriorated in recent years, with parts of the highway system 
+5 
+reaching the end of their useful lives. 
+6 
+ 
+e. 
+The Legislature finds that capital projects for roadways and 
+7 
+bridges are essential to protecting and improving the State's 
+8 
+transportation system; that construction of new and the upgrading of 
+9 
+existing roadways and bridges play a critical role in the transportation 
+10 
+needs of the State, and with an understanding that the cost of 
+11 
+financing and constructing these systems is beyond the limited 
+12 
+financial resource capabilities of local governments and authorities 
+13 
+and must be subsidized by the State and Federal government; that the 
+14 
+United States Congress has established “State Infrastructure Bank” 
+15 
+programs 
+to 
+provide 
+funding 
+for 
+transportation 
+systems  
+16 
+(23 U.S.C. s.610) and that the State must, in order to make use of the 
+17 
+federal funds, provide State funds for the program; and therefore, 
+18 
+State funding for the program is necessary to meet this financial 
+19 
+obligation. 
+20 
+ 
+f. 
+The Legislature finds that there is universal scientific 
+21 
+consensus that human activity is the primary cause of climate change 
+22 
+over the past century; that climate change is causing sea levels to rise 
+23 
+and more frequent droughts, hurricanes, and other extreme weather 
+24 
+events that threaten public health, safety, the environment, and 
+25 
+critical infrastructure in the State; that, in order to mitigate the effects 
+26 
+of climate change, New Jersey must drastically reduce its fossil fuel 
+27 
+consumption and greenhouse gas emissions, which, in turn, requires 
+28 
+the State to increase the pace and amount of investment in clean 
+29 
+energy, energy efficiency, and other climate change mitigation 
+30 
+projects; that the State must simultaneously take measures to protect 
+31 
+its residents, the environment, and critical infrastructure from the 
+32 
+adverse effects of climate change; that providing low-interest 
+33 
+financing for climate change mitigation and resilience projects will 
+34 
+improve the standard of living for New Jersey residents by delivering 
+35 
+clean energy more efficiently and at lower cost, and creating long-
+36 
+term, high paying jobs; and that such financing will also ease the 
+37 
+economic effects of transitioning from a carbon-based economy to a 
+38 
+clean energy economy.  
+39 
+ 
+g.  The Legislature therefore determines that it is in the public 
+40 
+interest to establish a State authority authorized to issue bonds, notes 
+41 
+and other obligations and to establish any reserve funds necessary 
+42 
+therefor, and to make loans to and guarantee debt incurred by local 
+43 
+government units for environmental and transportation infrastructure 
+44 
+projects , and to provide loans and other financial assistance for 
+45 
+climate change mitigation and resilience projects. 
+46 
+(cf: P.L.2016, c.56, s.11) 
+47 
+
+
+=== Page 5 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+5 
+ 
+ 
+ 
+2. Section 3 of P.L.1985, c.334 (C.58:11B-3) is amended to read 
+1 
+as follows: 
+2 
+ 
+3. As used in sections 1 through 27 of P.L.1985, c.334 
+3 
+(C.58:11B-1 through C.58:11B-27), sections 23 through 27 of 
+4 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [and] sections 22 and 34 
+5 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+6 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) 
+7 
+, and sections 6 and 9 through 14 of P.L.    , c.   , (C.          ) (pending 
+8 
+before the Legislature as this bill): 
+9 
+ 
+“Bonds” means bonds issued by the trust pursuant to P.L.1985, 
+10 
+c.334 (C.58:11B-1 et seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.); 
+11 
+ 
+“Class I renewable energy” and “Class II renewable energy” mean 
+12 
+the same as those terms are defined in section 3 of P.L.1999, c.23 
+13 
+(C.48:3-51).  
+14 
+ 
+“Climate change mitigation project” means a project whose 
+15 
+primary purpose is the construction, development, or production of 
+16 
+energy sources, infrastructure, land management techniques, or 
+17 
+technologies that eliminate, reduce, or sequester anthropogenic 
+18 
+greenhouse gas emissions in the State.  “Climate change mitigation 
+19 
+project” shall include, but is not limited to, a Class I renewable 
+20 
+energy or Class II renewable energy source, community solar project, 
+21 
+energy efficiency improvement, energy storage, zero-emission 
+22 
+vehicle infrastructure, zero-emission public transportation project, 
+23 
+carbon capture and sequestration technology, reforestation of 
+24 
+degraded land, or wetlands preservation or restoration.    
+25 
+ 
+“Climate Change Mitigation and Resilience Financing Program” 
+26 
+means the financing program to fund climate change mitigation 
+27 
+projects and climate change resilience projects pursuant to P.L.    ,  
+28 
+c.   (C.        )(pending before the Legislature as this bill).   
+29 
+ 
+“Climate change resilience project” means an infrastructure 
+30 
+project whose primary purpose is to protect human health and safety, 
+31 
+the environment, and public infrastructure from the adverse effects 
+32 
+of climate change, including drought, sea level rise, extreme weather 
+33 
+events, and harmful algal blooms.  “Climate change resilience 
+34 
+project” shall include, but is not limited to, a sea barrier or other flood 
+35 
+protection project; a water storage system; the removal, relocation, 
+36 
+or redesign of public infrastructure; or a project to mitigate harmful 
+37 
+algal blooms.   “Climate change resilience project” shall not include 
+38 
+a project whose sole focus is research, data collection, or the 
+39 
+acquisition of land.  
+40 
+ 
+“Combined sewer overflow” means the discharge of untreated or 
+41 
+partially treated stormwater runoff and wastewater from a combined 
+42 
+sewer system into a body of water; 
+43 
+ 
+“Combined sewer system” means a sewer system designed to 
+44 
+carry sanitary wastewater at all times, which is also designed to 
+45 
+collect and transport stormwater runoff from streets and other 
+46 
+sources, thereby serving a combined purpose; 
+47 
+
+
+=== Page 6 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+6 
+ 
+ 
+ 
+“Commissioner” means the Commissioner of the Department of 
+1 
+Environmental Protection; 
+2 
+ 
+“Community solar project” means a solar energy project 
+3 
+undertaken pursuant to the “Community Solar Energy Pilot Program” 
+4 
+or its permanent successor program, established pursuant to section 
+5 
+5 of P.L.2018, c.17 (C.48:3-87.11).   
+6 
+ 
+“Cost” means the cost of all labor, materials, machinery and 
+7 
+equipment, lands, property, rights and easements, financing charges, 
+8 
+interest on bonds, notes or other obligations, plans and specifications, 
+9 
+surveys or estimates of costs and revenues, engineering and legal 
+10 
+services, and all other expenses necessary or incident to all or part of 
+11 
+an environmental infrastructure project; 
+12 
+ 
+“Department” 
+means 
+the 
+Department 
+of 
+Environmental 
+13 
+Protection; 
+14 
+ 
+“Energy efficiency improvement” means a modification or 
+15 
+improvement to a building or other property that is designed to 
+16 
+reduce energy consumption and energy costs.  “Energy efficiency 
+17 
+improvement” includes, but is not limited to, any combination of: 
+18 
+insulation; storm windows or doors; caulking, weather-stripping, or 
+19 
+other window and door modifications or improvements that reduce 
+20 
+energy consumption; automated or computerized energy control 
+21 
+systems; energy efficient heating, ventilation or air conditioning 
+22 
+systems; energy efficient lighting systems; energy-recovery systems; 
+23 
+cogeneration or combined heat and power systems; and other 
+24 
+modifications or improvements as may be deemed appropriate by the 
+25 
+Board of Public Utilities.   
+26 
+ 
+“Environmental infrastructure project” means the acquisition, 
+27 
+construction, improvement, repair or reconstruction of all or part of 
+28 
+any structure, facility or equipment, or real or personal property 
+29 
+necessary for or ancillary to any: (1) wastewater treatment system 
+30 
+project, including any stormwater management or combined sewer 
+31 
+overflow abatement projects; or (2) water supply project, as 
+32 
+authorized pursuant to P.L.1985, c.334 (C.58:11B-1 et seq.) or 
+33 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), including any water resources 
+34 
+project, as authorized pursuant to P.L.2003, c.162; 
+35 
+ 
+“Federal infrastructure bank program” means the United States 
+36 
+Department of Transportation State Infrastructure Bank Program 
+37 
+provided for in section 350 of Pub.L.104-59 and Pub.L.102-240 as 
+38 
+amended or superseded; 
+39 
+ 
+[“Planning, design, and construction loan” means a short-term or 
+40 
+temporary loan for eligible costs incurred in project planning, 
+41 
+engineering design, or construction issued before or during the 
+42 
+planning stage of a project;] 
+43 
+ 
+“Local government unit” means (1) a State authority, county, 
+44 
+municipality, municipal, county or regional sewerage or utility 
+45 
+authority, municipal sewerage district, joint meeting, improvement 
+46 
+authority, or any other political subdivision of the State authorized to 
+47 
+construct, operate, and maintain wastewater treatment systems; (2) a 
+48 
+
+
+=== Page 7 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+7 
+ 
+ 
+State authority, district water supply commission, county, 
+1 
+municipality, municipal, county or regional utilities authority, 
+2 
+municipal water district, joint meeting, or any other political 
+3 
+subdivision of the State authorized pursuant to law to operate or 
+4 
+maintain a public water supply system or to construct, rehabilitate, 
+5 
+operate, or maintain water supply facilities or otherwise provide 
+6 
+water for human consumption; or (3) a county, municipality, 
+7 
+municipal, county or regional transportation authority, or any other 
+8 
+political subdivision of the State authorized to construct, operate, and 
+9 
+maintain public highways or transportation projects as defined 
+10 
+pursuant to this section; 
+11 
+ 
+“New Jersey Environmental Infrastructure Financing Program” 
+12 
+means the financing program to fund environmental infrastructure 
+13 
+projects; 
+14 
+ 
+“New Jersey Transportation Infrastructure Financing Program” 
+15 
+means the financing program to fund transportation infrastructure 
+16 
+projects; 
+17 
+ 
+“Notes” means notes issued by the trust pursuant to P.L.1985, 
+18 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+19 
+or sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+20 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+21 
+C.58:11B-22.4) , and P.L.    , c.   (C.        )(pending before the 
+22 
+Legislature as this bill); 
+23 
+ 
+“Onsite septic system ordinance or regulation” means an 
+24 
+ordinance adopted by a municipality or county or regulation adopted 
+25 
+by a regional planning agency establishing the requirements for 
+26 
+construction, maintenance and repair of onsite wastewater treatment 
+27 
+and disposal systems; 
+28 
+ 
+“Onsite wastewater treatment and disposal system” means an on-
+29 
+site system designed to treat and dispose of domestic sewage; 
+30 
+  “Other assistance” means forms of financial assistance, in addition 
+31 
+to loans, authorized by the New Jersey Infrastructure Bank from the 
+32 
+State Transportation Infrastructure Bank Fund, including, but not 
+33 
+limited to, use of funds to: provide credit enhancements; serve as a 
+34 
+capital reserve for bond or other debt instrument financing; subsidize 
+35 
+interest rates; ensure the issuance of letters of credit and credit 
+36 
+instruments; finance purchase and lease agreements with respect to 
+37 
+transit projects; and provide bond or other debt financing instrument 
+38 
+security; 
+39 
+ 
+“Planning, design, and construction loan” means a short-term or 
+40 
+temporary loan for eligible costs incurred in project planning, 
+41 
+engineering design, or construction issued before or during the 
+42 
+planning stage of a project; 
+43 
+ 
+“Private entity” means any private individual, corporation, 
+44 
+company, partnership, firm, association, owner, operator, non-profit 
+45 
+organization, or community-based group;  
+46 
+ 
+“Project” means the acquisition, construction, improvement, 
+47 
+repair or reconstruction of all or part of any structure, facility, or 
+48 
+
+
+=== Page 8 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+8 
+ 
+ 
+equipment, or real or personal property necessary for or ancillary to 
+1 
+any:  (1) wastewater treatment system project, including any 
+2 
+stormwater management or combined sewer overflow abatement 
+3 
+projects; (2) water supply project, as authorized pursuant to 
+4 
+P.L.1985, c.334 (C.58:11B-1 et seq.) or P.L.1997, c.224  
+5 
+(C.58:11B-10.1 et al.), including any water resources project, as 
+6 
+authorized pursuant to P.L.2003, c.162; [or] (3) transportation 
+7 
+project authorized pursuant to sections 22 and 34 through 38 of 
+8 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+9 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) ; or (4) climate 
+10 
+change mitigation project or climate change resilience project 
+11 
+authorized pursuant to P.L.    , c.    (C.      ) (pending before the 
+12 
+Legislature as this bill); 
+13 
+ 
+“Public highway” means public roads, streets, expressways, 
+14 
+freeways, parkways, motorways and boulevards, including bridges, 
+15 
+tunnels, overpasses, underpasses, interchanges, express bus 
+16 
+roadways, bus pullouts and turnarounds, park-ride facilities, traffic 
+17 
+circles, grade separations, traffic control devices, the elimination or 
+18 
+improvement of crossings of railroads and highways, whether at-
+19 
+grade or not at-grade, bicycle and pedestrian pathways and pedestrian 
+20 
+and bicycle bridges, and any property, rights of way, easements and 
+21 
+interests therein needed for the construction, improvement, and 
+22 
+maintenance of highways; 
+23 
+ 
+“Public water utility” means any investor-owned water company 
+24 
+or small water company; 
+25 
+ 
+“Small water company” means any company, purveyor or entity, 
+26 
+other than a governmental agency, that provides water for human 
+27 
+consumption and which regularly serves less than 1,000 customer 
+28 
+connections, including nonprofit, noncommunity water systems 
+29 
+owned or operated by a nonprofit group or organization; 
+30 
+ 
+“State entity” means a department, agency, or office of State 
+31 
+government, including a State university or college, or an authority 
+32 
+created by the State.   
+33 
+ 
+“Stormwater management system” means any equipment, plants, 
+34 
+structures, machinery, apparatus, management practices, or land, or 
+35 
+any combination thereof, acquired, used, constructed, implemented 
+36 
+or operated to prevent nonpoint source pollution, abate improper 
+37 
+cross-connections and interconnections between stormwater and 
+38 
+sewer systems, minimize stormwater runoff, reduce soil erosion, or 
+39 
+induce groundwater recharge, or any combination thereof; 
+40 
+ 
+“Transportation project” means capital projects for public 
+41 
+highways, approach roadways and other necessary land-side 
+42 
+improvements, ramps, signal systems, roadbeds, transit lanes or 
+43 
+rights of way, pedestrian walkways and bridges connecting to 
+44 
+passenger stations and servicing facilities, bridges, and grade 
+45 
+crossings; 
+46 
+ 
+“Trust” means the New Jersey Infrastructure Bank created 
+47 
+pursuant to section 4 of P.L.1985, c.334 (C.58:11B-4); 
+48 
+
+
+=== Page 9 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+9 
+ 
+ 
+ 
+“Wastewater” means residential, commercial, industrial, or 
+1 
+agricultural liquid waste, sewage, septage, stormwater runoff, or any 
+2 
+combination thereof, or other liquid residue discharged or collected 
+3 
+into a sewer system or stormwater management system, or any 
+4 
+combination thereof; 
+5 
+ 
+“Wastewater treatment system” means any equipment, plants, 
+6 
+structures, machinery, apparatus, or land, or any combination thereof, 
+7 
+acquired, used, constructed or operated by, or on behalf of, a local 
+8 
+government unit for the storage, collection, reduction, recycling, 
+9 
+reclamation, disposal, separation, or other treatment of wastewater or 
+10 
+sewage sludge, or for the collection or treatment, or both, of 
+11 
+stormwater runoff and wastewater, or for the final disposal of 
+12 
+residues resulting from the treatment of wastewater, including, but 
+13 
+not limited to, pumping and ventilating stations, treatment plants and 
+14 
+works, connections, outfall sewers, interceptors, trunk lines, 
+15 
+stormwater management systems, and other personal property and 
+16 
+appurtenances necessary for their use or operation; “wastewater 
+17 
+treatment system” shall include a stormwater management system or 
+18 
+a combined sewer system; 
+19 
+ 
+“Wastewater treatment system project” means any work relating 
+20 
+to 
+the 
+acquisition, 
+construction, 
+improvement, 
+repair 
+or 
+21 
+reconstruction of all or part of any structure, facility or equipment, or 
+22 
+real or personal property necessary for or ancillary to any wastewater 
+23 
+treatment system that meets the requirements set forth in sections 20, 
+24 
+21, and 22 of P.L.1985, c.334 (C.58:11B-20, C.58:11B-21, and 
+25 
+C.58:11B-22); or any work relating to any of the stormwater 
+26 
+management or combined sewer overflow abatement projects 
+27 
+identified in the stormwater management and combined sewer 
+28 
+overflow abatement project priority list adopted by the commissioner 
+29 
+pursuant to section 28 of P.L.1989, c.181; or any work relating to the 
+30 
+purposes set forth in section 6 of P.L.2003, c.162; or any work 
+31 
+relating to any other project eligible for financing under the “Federal 
+32 
+Water 
+Pollution 
+Control 
+Act 
+Amendments 
+of 
+1972”  
+33 
+(33 U.S.C. s.1251 et seq.), or any amendatory or supplementary acts 
+34 
+thereto; 
+35 
+ 
+“Water resources project” means any work related to transferring 
+36 
+water between public water systems during a state of water 
+37 
+emergency, to avert a drought emergency in all or any part of the 
+38 
+State, to plan, design or construct interconnections of existing water 
+39 
+supplies, or to extend water supplies to areas with contaminated 
+40 
+ground water supplies; 
+41 
+ 
+“Water supply facilities” means and refers to the real property and 
+42 
+the plants, structures, interconnections between existing water supply 
+43 
+facilities, machinery and equipment and other property, real, personal 
+44 
+and mixed, acquired, constructed or operated, or to be acquired, 
+45 
+constructed or operated, in whole or in part, by or on behalf of a 
+46 
+public water utility, or by or on behalf of the State or a local 
+47 
+government unit, for the purpose of augmenting the natural water 
+48 
+
+
+=== Page 10 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+10 
+ 
+ 
+resources of the State and making available an increased supply of 
+1 
+water for all uses, or of conserving existing water resources, and any 
+2 
+and all appurtenances necessary, useful or convenient for the 
+3 
+collecting, impounding, storing, improving, treating, filtering, 
+4 
+conserving or transmitting of water, and for the preservation and 
+5 
+protection of these resources and facilities, whether in public or 
+6 
+private ownership, and providing for the conservation and 
+7 
+development of future water supply resources, and facilitating 
+8 
+incidental recreational uses thereof; 
+9 
+ 
+“Water supply project” means any work relating to the acquisition, 
+10 
+construction, improvement, repair or reconstruction of all or part of 
+11 
+any structure, facility or equipment, or real or personal property 
+12 
+necessary for or ancillary to water supply facilities that meets the 
+13 
+requirements set forth in sections 24, 25, and 26 of P.L.1997, c.224 
+14 
+(C.58:11B-20.1, C.58:11B-21.1, and C.58:11B-22.1); or any work 
+15 
+relating to the purposes set forth in section 4 of P.L.1981, c.261; or 
+16 
+any work relating to the purposes set forth in section 6 of P.L.2003, 
+17 
+c.162; or any work relating to any other project eligible for funding 
+18 
+pursuant to the federal “Safe Drinking Water Act Amendments of 
+19 
+1996,” Pub.L.104-182, and any amendatory and supplementary acts 
+20 
+thereto. 
+21 
+(cf: P.L.2019, c.516, s.1) 
+22 
+ 
+23 
+ 
+3.  Section 4 of P.L.1985, c.334 (C.58:11B-4) is amended to read 
+24 
+as follows: 
+25 
+ 
+4.  a.  There is established in, but not of, the Department of the 
+26 
+Treasury a body corporate and politic, with corporate succession, to 
+27 
+be known as the “New Jersey Infrastructure Bank.”  The trust is 
+28 
+constituted as an instrumentality of the State exercising public and 
+29 
+essential governmental functions, no part of whose revenues shall 
+30 
+accrue to the benefit of any individual, and the exercise by the trust 
+31 
+of the powers conferred by the provisions of P.L.1985, c.334 
+32 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+33 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+34 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+35 
+C.58:11B-22.4), or the provisions of P.L.    , c.   (C.      ) (pending 
+36 
+before the Legislature as this bill) shall be deemed and held to be an 
+37 
+essential governmental function of the State. 
+38 
+ 
+b. The trust shall consist of [a 10] an 11 member board of 
+39 
+directors composed of :  the State Treasurer, the Commissioner of the 
+40 
+Department of Community Affairs, the Commissioner of the 
+41 
+Department of Transportation, [and] the Commissioner of the 
+42 
+Department of Environmental Protection, and the President of the 
+43 
+Board of Public Utilities, who shall be members ex officio; two 
+44 
+people appointed by the Governor upon the recommendation of the 
+45 
+President of the Senate, and two people appointed by the Governor 
+46 
+upon the recommendation of the Speaker of the General Assembly, 
+47 
+who shall serve during the two-year legislative term in which they 
+48 
+
+
+=== Page 11 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+11 
+ 
+ 
+are appointed; and two residents of the State appointed by the 
+1 
+Governor with the advice and consent of the Senate, who shall serve 
+2 
+for terms of four years, except that the first two appointed shall serve 
+3 
+terms of two and three years respectively.  Each appointed director 
+4 
+shall serve until that director's successor has been appointed and 
+5 
+qualified.  A director is eligible for reappointment.  Any vacancy 
+6 
+shall be filled in the same manner as the original appointment, but 
+7 
+for the unexpired term only. 
+8 
+ 
+With respect to those public members first appointed by the 
+9 
+Governor, the appointment of each of the two members upon the 
+10 
+advice and consent of the Senate shall become effective 30 days after 
+11 
+their nomination by the Governor if the Senate has not given advice 
+12 
+and consent on those nominations within that time period; the 
+13 
+President of the Senate and the Speaker of the General Assembly 
+14 
+each shall recommend to the Governor a public member for 
+15 
+appointment within 20 days following the effective date of P.L.1985, 
+16 
+c.334 (C.58:11B-1 et seq.) and a public member for appointment 
+17 
+within 20 days following the effective date of P.L.2016, c.56 and a 
+18 
+recommendation made in this manner shall become effective if the 
+19 
+Governor makes the appointment in accordance with the 
+20 
+recommendation, in writing, within 10 days of the Governor's receipt 
+21 
+thereof.  In each instance where the Governor fails to make the 
+22 
+appointment, the President of the Senate and the Speaker of the 
+23 
+General Assembly shall make new recommendations subject to 
+24 
+appointment by the Governor as determined in this section. 
+25 
+ 
+c. 
+Each appointed director may be removed from office by the 
+26 
+Governor for cause, upon the Governor's consideration of the 
+27 
+findings and recommendations of an administrative law judge after a 
+28 
+public hearing before the judge, and may be suspended by the 
+29 
+Governor pending the completion of the hearing.  Each director, 
+30 
+before entering upon the director's duties, shall take and subscribe an 
+31 
+oath to perform the duties of the director's office faithfully, 
+32 
+impartially and justly to the best of the director's ability.  A record of 
+33 
+oaths shall be filed in the office of the Secretary of State. 
+34 
+ 
+d. The Governor shall designate one of the appointed members 
+35 
+to be the chairperson and chief executive officer of the trust and the 
+36 
+directors shall biannually elect a vice-chairperson from among the 
+37 
+appointed directors.  The chairperson shall serve as such for a term 
+38 
+of two years and until a successor has been designated.  A chairperson 
+39 
+shall be eligible for one additional two-year term as chairperson.  The 
+40 
+directors shall elect a secretary and treasurer, who need not be 
+41 
+directors, and the same person may be elected to serve as both 
+42 
+secretary and treasurer. 
+43 
+ 
+The powers of the trust are vested in the directors in office from 
+44 
+time to time and six directors shall constitute a quorum at any 
+45 
+meeting.  Action may be taken and motions and resolutions adopted 
+46 
+by the trust by the affirmative majority vote of those directors 
+47 
+present, but in no event shall any action be taken or motions or 
+48 
+
+
+=== Page 12 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+12 
+ 
+ 
+resolutions adopted without the affirmative vote of at least six 
+1 
+directors.  No vacancy on the board of directors of the trust shall 
+2 
+impair the right of a quorum of the directors to exercise the powers 
+3 
+and perform the duties of the trust. 
+4 
+ 
+e. 
+Each director and the treasurer of the trust shall execute a 
+5 
+bond to be conditioned upon the faithful performance of the duties of 
+6 
+the director or treasurer in a form and amount as may be prescribed 
+7 
+by the State Treasurer.  Bonds shall be filed in the office of the 
+8 
+Secretary of State.  At all times thereafter, the directors and treasurer 
+9 
+shall maintain these bonds in full effect.  All costs of the bonds shall 
+10 
+be borne by the trust. 
+11 
+ 
+f. 
+The directors of the trust shall serve without compensation, 
+12 
+but the trust shall reimburse the directors for actual and necessary 
+13 
+expenses 
+incurred 
+in 
+the 
+performance 
+of 
+their 
+duties.  
+14 
+Notwithstanding the provisions of any other law to the contrary, no 
+15 
+officer or employee of the State shall be deemed to have forfeited or 
+16 
+shall forfeit the officer's or employee's office or employment or any 
+17 
+benefits or emoluments thereof by reason of the officer's or 
+18 
+employee's acceptance of the office of ex officio director of the trust 
+19 
+or the ex officio director's services thereon. 
+20 
+ 
+g. Each ex officio director may designate an officer of the ex 
+21 
+officio director's department to represent the ex officio director at 
+22 
+meetings of the trust.  Each designee may lawfully vote and otherwise 
+23 
+act on behalf of the director for whom the person constitutes the 
+24 
+designee.  The designation shall be delivered in writing to the trust 
+25 
+and shall continue in effect until revoked or amended in writing and 
+26 
+delivered to the trust. 
+27 
+ 
+h. The trust may be dissolved by law; provided the trust has no 
+28 
+debts or obligations outstanding or that provision has been made for 
+29 
+the payment or retirement of these debts or obligations.  The trust 
+30 
+shall continue in existence until dissolved by act of the Legislature.  
+31 
+Upon any dissolution of the trust, all property, funds and assets of the 
+32 
+trust shall be vested in the State. 
+33 
+ 
+i. 
+A true copy of the minutes of every meeting of the trust shall 
+34 
+be forthwith delivered by and under the certification of the secretary 
+35 
+thereof to the Governor and at the same time to the Senate and 
+36 
+General Assembly.  The time and act of this delivery shall be duly 
+37 
+recorded on a delivery receipt.  No action taken or motion or 
+38 
+resolution adopted at a meeting by the trust shall have effect until 10 
+39 
+days, exclusive of Saturdays, Sundays and public holidays, after a 
+40 
+copy of the minutes has been delivered to the Governor, unless during 
+41 
+the 10-day period the Governor shall approve all or part of the actions 
+42 
+taken or motions or resolutions adopted, in which case the action or 
+43 
+motion or resolution shall become effective upon the approval. 
+44 
+ 
+If, in the 10-day period, the Governor returns the copy of the 
+45 
+minutes with a veto of any action taken by the trust or any member 
+46 
+thereof at that meeting, the action shall be of no effect.  The Senate 
+47 
+or General Assembly shall have the right to provide written 
+48 
+
+
+=== Page 13 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+13 
+ 
+ 
+comments concerning the minutes to the Governor within the 10-day 
+1 
+period, which comments shall be returned to the trust by the 
+2 
+Governor with the Governor's approval or veto of the minutes. 
+3 
+ 
+The powers conferred in this subsection upon the Governor shall 
+4 
+be exercised with due regard for the rights of the holders of bonds, 
+5 
+notes and other obligations of the trust at any time outstanding, and 
+6 
+nothing in, or done pursuant to, this subsection shall in any way limit, 
+7 
+restrict or alter the obligation or powers of the trust or any 
+8 
+representative or officer of the trust to carry out and perform each 
+9 
+covenant, agreement, or contract made or entered into by or on behalf 
+10 
+of the trust with respect to its bonds, notes, or other obligations or for 
+11 
+the benefit, protection or security of the holders thereof. 
+12 
+ 
+j. 
+No resolution or other action of the trust providing for the 
+13 
+issuance of bonds, refunding bonds, notes or other obligations shall 
+14 
+be adopted or otherwise made effective by the trust without the prior 
+15 
+approval in writing of the Governor and the State Treasurer.  The 
+16 
+trust shall provide the Senate and General Assembly with written 
+17 
+notice of any request for approval of the Governor and State 
+18 
+Treasurer at the time the request is made, and shall also provide the 
+19 
+Senate and General Assembly written notice of the response of the 
+20 
+Governor and State Treasurer at the time that the response is received 
+21 
+by the trust. 
+22 
+(cf: P.L.2016, c.56, s.13) 
+23 
+ 
+24 
+ 
+4. Section 5 of P.L.1985, c.334 (C.58:11B-5) is amended to read 
+25 
+as follows: 
+26 
+ 
+5. Except as otherwise limited by the provisions of P.L.1985, 
+27 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+28 
+[or] sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+29 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+30 
+C.58:11B-22.4), or the provisions of P.L.    , c.   (C.      ) (pending 
+31 
+before the Legislature as this bill), the trust may: 
+32 
+ 
+a. 
+Make and alter bylaws for its organization and internal 
+33 
+management and, subject to agreements with holders of its bonds, 
+34 
+notes or other obligations, make rules and regulations with respect to 
+35 
+its operations, properties and facilities; 
+36 
+ 
+b. Adopt an official seal and alter it; 
+37 
+ 
+c. 
+Sue and be sued; 
+38 
+ 
+d. Make and enter into all contracts, leases and agreements 
+39 
+necessary or incidental to the performance of its duties and the 
+40 
+exercise of its powers under the provisions of P.L.1985, c.334 
+41 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+42 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+43 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+44 
+C.58:11B-22.4), or the provisions of P.L.    , c.   (C.      ) (pending 
+45 
+before the Legislature as this bill), and subject to any agreement with 
+46 
+the holders of the trust's bonds, notes or other obligations, consent to 
+47 
+
+
+=== Page 14 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+14 
+ 
+ 
+any modification, amendment or revision of any contract, lease or 
+1 
+agreement to which the trust is a party; 
+2 
+ 
+e. 
+Enter into agreements or other transactions with and accept, 
+3 
+subject to the provisions of section 23 of P.L.1985, c.334  
+4 
+(C.58:11B-23), grants, appropriations and the cooperation of the 
+5 
+State, or any State agency, in furtherance of the purposes of P.L.1985, 
+6 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+7 
+[or] sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+8 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+9 
+C.58:11B-22.4), or P.L.    , c.   (C.      ) (pending before the Legislature 
+10 
+as this bill), and do anything necessary in order to avail itself of that 
+11 
+aid and cooperation; 
+12 
+ 
+f. 
+Receive and accept aid or contributions from any source of 
+13 
+money, property, labor or other things of value, to be held, used and 
+14 
+applied to carry out the purposes of P.L.1985, c.334 (C.58:11B-1 et 
+15 
+seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 
+16 
+34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 through  
+17 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+18 
+or P.L.    , c.   (C.      ) (pending before the Legislature as this bill), 
+19 
+subject to the conditions upon which that aid and those contributions 
+20 
+may be made, including, but not limited to, gifts or grants from any 
+21 
+department or agency of the State, or any State agency, for any 
+22 
+purpose consistent with the provisions of P.L.1985, c.334  
+23 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+24 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+25 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+26 
+C.58:11B-22.4), or P.L.    , c.   (C.      ) (pending before the Legislature 
+27 
+as this bill), subject to the provisions of section 23 of P.L.1985, c.334 
+28 
+(C.58:11B-23); 
+29 
+ 
+g. Acquire, own, hold, construct, improve, rehabilitate, 
+30 
+renovate, operate, maintain, sell, assign, exchange, lease, mortgage 
+31 
+or otherwise dispose of real and personal property, or any interest 
+32 
+therein, in the exercise of its powers and the performance of its duties 
+33 
+under the provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), 
+34 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+35 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+36 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+37 
+or the provisions of P.L.    , c.   (C.      ) (pending before the Legislature 
+38 
+as this bill) ; 
+39 
+ 
+h. Appoint and employ an executive director and any other 
+40 
+officers or employees as it may require for the performance of its 
+41 
+duties, without regard to the provisions of Title 11A of the New 
+42 
+Jersey Statutes; 
+43 
+ 
+i. 
+Borrow money and issue bonds, notes and other obligations, 
+44 
+and secure the same, and provide for the rights of the holders thereof 
+45 
+as provided in the provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), 
+46 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+47 
+
+
+=== Page 15 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+15 
+ 
+ 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+1 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and 1 + , or the 
+2 
+provisions of P.L.    , c.   (C.      ) (pending before the Legislature as 
+3 
+this bill) ; 
+4 
+ 
+j. 
+Subject to any agreement with holders of its bonds, notes or 
+5 
+other obligations, invest moneys of the trust not required for 
+6 
+immediate use, including proceeds from the sale of any bonds, notes 
+7 
+or other obligations, in any obligations, securities and other 
+8 
+investments in accordance with the rules and regulations of the State 
+9 
+Investment Council or as may otherwise be approved by the Director 
+10 
+of the Division of Investment in the Department of the Treasury upon 
+11 
+a finding that such investments are consistent with the corporate 
+12 
+purposes of the trust; 
+13 
+ 
+k. Procure insurance to secure the payment of its bonds, notes or 
+14 
+other obligations or the payment of any guarantees or loans made by 
+15 
+it in accordance with the provisions of P.L.1985, c.334 (C.58:11B-1 
+16 
+et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 
+17 
+34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 through  
+18 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+19 
+or the provisions of P.L.    , c.   (C.      ) (pending before the Legislature 
+20 
+as this bill), or against any loss in connection with its property and 
+21 
+other assets and operations, in any amounts and from any insurers as 
+22 
+it deems desirable; 
+23 
+ 
+l. 
+Engage the services of attorneys, accountants, engineers, and 
+24 
+financial experts and any other advisors, consultants, experts and 
+25 
+agents as may be necessary in its judgment and fix their 
+26 
+compensation; 
+27 
+ 
+m.  (1) Make and contract to make loans to local government units, 
+28 
+or to a local government unit on behalf of another local government 
+29 
+unit, to finance the cost of wastewater treatment system projects or 
+30 
+water supply projects and acquire and contract to acquire notes, 
+31 
+bonds or other obligations issued or to be issued by any local 
+32 
+government units to evidence the loans, all in accordance with the 
+33 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.) or P.L.1997, 
+34 
+c.224 (C.58:11B-10.1 et al.); 
+35 
+ 
+(2) Make and contract to make loans to public water utilities, or 
+36 
+to any other person or local government unit on behalf of a public 
+37 
+water utility, to finance the cost of water supply projects in 
+38 
+accordance with the provisions of P.L.1985, c.334 (C.58:11B-1 et 
+39 
+seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.); 
+40 
+ 
+(3) Make and contract to make loans to private persons other than 
+41 
+local government units, or to any other person or local government 
+42 
+unit on behalf of a private person, to finance the cost of onsite 
+43 
+wastewater treatment and disposal systems or stormwater 
+44 
+management systems in accordance with the provisions of P.L.1985, 
+45 
+c.334 (C.58:11B-1 et seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.); 
+46 
+ 
+(4) Make and contract to make loans and provide other assistance 
+47 
+to one or more local government units or consortia thereof to finance 
+48 
+
+
+=== Page 16 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+16 
+ 
+ 
+the cost of transportation projects in accordance with the provisions 
+1 
+of the federal infrastructure bank program and pursuant to sections 
+2 
+22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 through 
+3 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4); 
+4 
+ 
+(5) Make and contract to make loans and provide other assistance 
+5 
+to State entities, local government units, and private entities to 
+6 
+finance the cost of climate change mitigation projects and climate 
+7 
+change resilience projects in accordance the provisions of P.L.    , 
+8 
+c.   (C.      ) (pending before the Legislature as this bill); 
+9 
+ 
+n. Subject to any agreement with holders of its bonds, notes or 
+10 
+other obligations, purchase bonds, notes and other obligations of the 
+11 
+trust and hold the same for resale or provide for the cancellation 
+12 
+thereof, all in accordance with the provisions of P.L.1985, c.334 
+13 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+14 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+15 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+16 
+C.58:11B-22.4) , or the provisions of P.L.    , c.   (C.      ) (pending 
+17 
+before the Legislature as this bill); 
+18 
+ 
+o. (1) Charge to and collect from local government units, private 
+19 
+persons or public water utilities any fees and charges in connection 
+20 
+with the trust's loans, guarantees or other services, including, but not 
+21 
+limited to, fees and charges sufficient to reimburse the trust for all 
+22 
+reasonable costs necessarily incurred by it in connection with its 
+23 
+financings and the establishment and maintenance of reserve or other 
+24 
+funds, as the trust may determine to be reasonable.  The fees and 
+25 
+charges shall be in accordance with a uniform schedule published by 
+26 
+the trust for the purpose of providing actual cost reimbursement for 
+27 
+the services rendered; 
+28 
+ 
+(2) Any fees and charges collected by the trust pursuant to this 
+29 
+subsection may be deposited and maintained in a special fund 
+30 
+separate from any other funds held by the trust pursuant to section 10 
+31 
+of P.L.1985, c.334 (C.58:11B-10) or section 23 of P.L.1997, c.224 
+32 
+(C.58:11B-10.1), and shall be available for any corporate purposes 
+33 
+of the trust; 
+34 
+ 
+p. Subject to any agreement with holders of its bonds, notes or 
+35 
+other obligations, obtain as security or to provide liquidity for 
+36 
+payment of all or any part of the principal of and interest and 
+37 
+premium on the bonds, notes and other obligations of the trust or for 
+38 
+the purchase upon tender or otherwise of the bonds, notes or other 
+39 
+obligations, lines of credit, letters of credit and other security 
+40 
+agreements or instruments in any amounts and upon any terms as the 
+41 
+trust may determine, and pay any fees and expenses required in 
+42 
+connection therewith; 
+43 
+ 
+q. Provide to local government units and State entities any 
+44 
+financial and credit advice as these local government units and State 
+45 
+entities may request; 
+46 
+
+
+=== Page 17 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+17 
+ 
+ 
+ 
+r. 
+Make payments to the State from any moneys of the trust 
+1 
+available therefor as may be required pursuant to any agreement with 
+2 
+the State or act appropriating moneys to the trust; and 
+3 
+ 
+s. 
+Take any action necessary or convenient to the exercise of the 
+4 
+foregoing powers or reasonably implied therefrom. 
+5 
+(cf: P.L.2017, c.144, s.2) 
+6 
+ 
+7 
+ 
+5. Section 6 of P.L.1985, c.334 (C.58:11B-6) is amended to read 
+8 
+as follows: 
+9 
+ 
+6. a.  Except as may be otherwise expressly provided in the 
+10 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 
+11 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+12 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+13 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), or the 
+14 
+provisions of P.L.    , c.    (C.      ) (pending before the Legislature as 
+15 
+this bill), the trust may from time to time issue its bonds, notes, or 
+16 
+other obligations in any principal amounts as in the judgment of the 
+17 
+trust shall be necessary to provide sufficient funds for any of its 
+18 
+corporate purposes, including the payment, funding, or refunding of 
+19 
+the principal of, or interest or redemption premiums on, any bonds, 
+20 
+notes, or other obligations issued by it, whether the bonds, notes, or 
+21 
+other obligations or the interest or redemption premiums thereon to 
+22 
+be funded or refunded have or have not become due, the 
+23 
+establishment or increase of reserves or other funds to secure or to 
+24 
+pay the bonds, notes, or other obligations or interest thereon and all 
+25 
+other costs or expenses of the trust incident to and necessary to carry 
+26 
+out its corporate purposes and powers.   
+27 
+ 
+b. Whether or not the bonds, notes or other obligations of the 
+28 
+trust are of a form and character as to be negotiable instruments under 
+29 
+the terms of Title 12A of the New Jersey Statutes, the bonds, notes 
+30 
+and other obligations are made negotiable instruments within the 
+31 
+meaning of and for the purposes of Title 12A of the New Jersey 
+32 
+Statutes, subject only to the provisions of the bonds, notes and other 
+33 
+obligations for registration. 
+34 
+ 
+c. 
+Bonds, notes or other obligations of the trust shall be 
+35 
+authorized by a resolution or resolutions of the trust and may be 
+36 
+issued in one or more series and shall bear any date or dates, mature 
+37 
+at any time or times, bear interest at any rate or rates of interest per 
+38 
+annum, be in any denomination or denominations, be in any form, 
+39 
+either coupon, registered or book entry, carry any conversion or 
+40 
+registration privileges, have any rank or priority, be executed in any 
+41 
+manner, be payable in any coin or currency of the United States 
+42 
+which at the time of payment is legal tender for the payment of public 
+43 
+and private debts, at any place or places within or without the State, 
+44 
+and be subject to any terms of redemption by the trust or the holders 
+45 
+thereof, with or without premium, as the resolution or resolutions 
+46 
+may provide.  A resolution of the trust authorizing the issuance of 
+47 
+bonds, notes or other obligations may provide that the bonds, notes 
+48 
+
+
+=== Page 18 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+18 
+ 
+ 
+or other obligations be secured by a trust indenture between the trust 
+1 
+and a trustee, vesting in the trustee any property, rights, powers and 
+2 
+duties in trust consistent with the provisions of P.L.1985, c.334 
+3 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+4 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+5 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+6 
+C.58:11B-22.4) , or the provisions of P.L.    , c.    (C.      )(pending 
+7 
+before the Legislature as this bill), as the trust may determine. 
+8 
+ 
+d. Bonds, notes or other obligations of the trust may be sold at 
+9 
+any price or prices and in any manner as the trust may determine.  
+10 
+Notwithstanding any provisions of the “Local Bond Law,” 
+11 
+N.J.S.40A:2-1 et seq., to the contrary, each bond, note or other 
+12 
+obligation shall mature and be paid not later than 30 years for 
+13 
+environmental infrastructure projects, 45 years for combined sewer 
+14 
+overflow projects, [and] 31 years for transportation projects, and 25 
+15 
+years for climate change mitigation projects and climate change 
+16 
+resilience projects, from the effective date thereof, or the certified 
+17 
+useful life of the project or projects to be financed by the bonds, 
+18 
+whichever is less, or a shorter period of time as may be applicable to 
+19 
+any companion loan issued pursuant to federal law or regulation. 
+20 
+ 
+[All] Except as provided in section 6 of P.L.    , 
+21 
+c.   (C.        )(pending before the Legislature as this bill), all bonds of 
+22 
+the trust shall be sold at the price or prices and in the manner as the 
+23 
+trust shall determine, after notice of sale, a summary of which shall 
+24 
+be published at least once in at least three newspapers published in 
+25 
+the State of New Jersey and at least once in a publication carrying 
+26 
+municipal bond notices and devoted primarily to financial news 
+27 
+published in New Jersey or the city of New York, the first summary 
+28 
+notice to be at least five days prior to the day of bidding.  The notice 
+29 
+of sale may contain a provision to the effect that any or all bids made 
+30 
+in pursuance thereof may be rejected.  In the event of such rejection 
+31 
+or of failure to receive any acceptable bid, the trust, at any time within 
+32 
+60 days from the date of such advertised sale, may sell such bonds at 
+33 
+private sale upon terms not less favorable to the State than the terms 
+34 
+offered by any rejected bid.  The trust may sell all or part of the bonds 
+35 
+of any series as issued to any State fund or to the federal government 
+36 
+or any agency thereof, at private sale, without advertisement. 
+37 
+ 
+e. 
+Bonds, notes or other obligations of the trust may be issued 
+38 
+under the provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), 
+39 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+40 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+41 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) 
+42 
+, or the provisions of P.L.    , c.    (C.      ) (pending before the 
+43 
+Legislature as this bill) without obtaining the consent of any 
+44 
+department, division, board, bureau or agency of the State, and 
+45 
+without any other proceedings or the happening of any other 
+46 
+conditions or things, other than those consents, proceedings, 
+47 
+conditions or things which are specifically required by P.L.1985, 
+48 
+
+
+=== Page 19 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+19 
+ 
+ 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+1 
+[or] sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+2 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+3 
+C.58:11B-22.4) , or P.L.    , c.    (C.      ) (pending before the 
+4 
+Legislature as this bill).  
+5 
+ 
+f. 
+Bonds, notes or other obligations of the trust issued under the 
+6 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 
+7 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+8 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+9 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or the 
+10 
+provisions of P.L.    , c.    (C.      ) (pending before the Legislature as 
+11 
+this bill) shall not be a debt or liability of the State or of any political 
+12 
+subdivision thereof other than the trust and shall not create or 
+13 
+constitute any indebtedness, liability or obligation of the State or any 
+14 
+political subdivision, but all these bonds, notes and other obligations, 
+15 
+unless funded or refunded by bonds, notes or other obligations, shall 
+16 
+be payable solely from revenues or funds pledged or available for 
+17 
+their payment as authorized in P.L.1985, c.334 (C.58:11B-1 et seq.), 
+18 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+19 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+20 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+21 
+or P.L.    , c.    (C.      ) (pending before the Legislature as this bill).  
+22 
+Each bond, note and obligation shall contain on its face a statement 
+23 
+to the effect that the trust is obligated to pay the principal thereof or 
+24 
+the interest thereon only from its revenues, receipts or funds pledged 
+25 
+or available for their payment as authorized in P.L.1985, c.334 
+26 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] 
+27 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+28 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+29 
+C.58:11B-22.4), or P.L.    , c.    (C.      ) (pending before the 
+30 
+Legislature as this bill), and that neither the State, nor any political 
+31 
+subdivision thereof, is obligated to pay the principal or interest and 
+32 
+that neither the faith and credit nor the taxing power of the State, or 
+33 
+any political subdivision thereof, is pledged to the payment of the 
+34 
+principal of or the interest on the bonds, notes or other obligations. 
+35 
+ 
+g. The aggregate principal amount of bonds, notes or other 
+36 
+obligations, including subordinated indebtedness of the trust, shall 
+37 
+not exceed (1) $5,000,000,000 with respect to bonds, notes, or other 
+38 
+obligations issued to finance the Disaster Relief Emergency 
+39 
+Financing Program established pursuant to section 1 of P.L.2013, 
+40 
+c.93 (C.58:11B-9.5), and (2) $3,800,000,000 with respect to bonds, 
+41 
+notes, or other obligations issued for all other purposes of the trust. 
+42 
+In computing the foregoing limitations there shall be excluded all the 
+43 
+bonds, 
+notes 
+or 
+other 
+obligations, 
+including 
+subordinated 
+44 
+indebtedness of the trust, which shall be issued for refunding 
+45 
+purposes, whenever the refunding shall be determined to result in a 
+46 
+savings. 
+47 
+
+
+=== Page 20 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+20 
+ 
+ 
+ 
+(1) Upon the decision by the trust to issue refunding bonds, 
+1 
+except for current refunding, and prior to the sale of those bonds, the 
+2 
+trust shall transmit to the Joint Budget Oversight Committee, or its 
+3 
+successor, a report that a decision has been made, reciting the basis 
+4 
+on which the decision was made, including an estimate of the debt 
+5 
+service savings to be achieved and the calculations upon which the 
+6 
+trust relied when making the decision to issue refunding bonds.  The 
+7 
+report shall also disclose the intent of the trust to issue and sell the 
+8 
+refunding bonds at public or private sale and the reasons therefor. 
+9 
+ 
+(2) The Joint Budget Oversight Committee or its successor shall 
+10 
+have the authority to approve or disapprove the sales of refunding 
+11 
+bonds as included in each report submitted in accordance with 
+12 
+paragraph (1) of this subsection.  The committee shall notify the trust 
+13 
+in writing of the approval or disapproval within 30 days of receipt of 
+14 
+the report.  Should the committee not act within 30 days of receipt of 
+15 
+the report, the trust may proceed with the sale of the refunding bonds, 
+16 
+provided that the sale of refunding bonds shall realize not less than 
+17 
+three percent net present value debt service savings. 
+18 
+ 
+(3) No refunding bonds shall be issued unless the report has been 
+19 
+submitted to and approved by the Joint Budget Oversight Committee 
+20 
+or its successor as set forth in paragraphs (1) and (2) of this 
+21 
+subsection. 
+22 
+ 
+(4) Within 30 days after the sale of the refunding bonds, the trust 
+23 
+shall notify the committee of the result of that sale, including the 
+24 
+prices and terms, conditions and regulations concerning the 
+25 
+refunding bonds, the actual amount of debt service savings to be 
+26 
+realized as a result of the sale of refunding bonds, and the intended 
+27 
+use of the proceeds from the sale of those bonds. 
+28 
+ 
+(5) The committee shall review all information and reports 
+29 
+submitted in accordance with this subsection and may, on its own 
+30 
+initiative, make observations to the trust, or to the Legislature, or 
+31 
+both, as it deems appropriate. 
+32 
+ 
+h. Each issue of bonds, notes, or other obligations of the trust 
+33 
+may, if it is determined by the trust, be general obligations thereof 
+34 
+payable out of any revenues, receipts or funds of the trust, or special 
+35 
+obligations thereof payable out of particular revenues, receipts or 
+36 
+funds, subject only to any agreements with the holders of bonds, 
+37 
+notes or other obligations, and may be secured by one or more of the 
+38 
+following: 
+39 
+ 
+(1) Pledge of revenues and other receipts to be derived from the 
+40 
+payment of the interest on and principal of notes, bonds or other 
+41 
+obligations issued to the trust by one or more local government units, 
+42 
+or State entities, as applicable, and any other payment made to the 
+43 
+trust pursuant to agreements with any local government units, or 
+44 
+State entities, as applicable, or a pledge or assignment of any notes, 
+45 
+bonds, or other obligations of any local government unit , or State 
+46 
+entity, as applicable, and the rights and interest of the trust therein; 
+47 
+
+
+=== Page 21 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+21 
+ 
+ 
+ 
+(2) Pledge of rentals, receipts and other revenues to be derived 
+1 
+from leases or other contractual arrangements with any person or 
+2 
+entity, public or private, including one or more local government 
+3 
+units, or State entities, as applicable, or a pledge or assignment of 
+4 
+those leases or other contractual arrangements and the rights and 
+5 
+interest of the trust therein; 
+6 
+ 
+(3) Pledge of all moneys, funds, accounts, securities and other 
+7 
+funds, including the proceeds of the bonds, notes or other obligations; 
+8 
+ 
+(4) Pledge of the receipts to be derived from the payments of 
+9 
+State aid, payable to the trust pursuant to section 12 of P.L.1985, 
+10 
+c.334 (C.58:11B-12); 
+11 
+ 
+(5) A mortgage on all or any part of the property, real or personal, 
+12 
+of the trust then owned or thereafter to be acquired, or a pledge or 
+13 
+assignment of mortgages made to the trust by any person or entity, 
+14 
+public or private, including one or more local government units , or 
+15 
+State entities, as applicable, and the rights and interest of the trust 
+16 
+therein. 
+17 
+ 
+i. 
+The trust shall not issue any bonds, notes or other obligations, 
+18 
+or otherwise incur any additional indebtedness, on or after June 30, 
+19 
+2033. 
+20 
+ 
+j. 
+(Deleted by amendment, P.L.1996, c.88). 
+21 
+(cf: P.L.2018, c.75, s.2) 
+22 
+ 
+23 
+ 
+6. (New section)  The trust shall issue one or more separate 
+24 
+series of bonds, notes, or other obligations for the purpose of 
+25 
+financing climate change mitigation projects and climate change 
+26 
+resilience projects, which bonds, notes, or other obligations shall be 
+27 
+known as “New Jersey Climate Bonds.”  Proceeds from the sale of 
+28 
+New Jersey Climate Bonds shall be deposited into the State Climate 
+29 
+Change Mitigation and Resilience Bank Fund, and any other accounts 
+30 
+or subaccounts established pursuant to P.L.    , c.   (C.        )(pending 
+31 
+before the Legislature as this bill) to be used solely to finance climate 
+32 
+change mitigation and climate change resilience projects and for 
+33 
+other costs associated with the New Jersey Climate Change 
+34 
+Mitigation and Resilience Financing Program.  New Jersey Climate 
+35 
+Bonds shall be subject to the provisions of section 6 of P.L.1985, 
+36 
+c.334 (C.58:11B-6), except that the trust shall, to the greatest extent 
+37 
+practicable, make New Jersey Climate Bonds available for sale to 
+38 
+individual investors, rather than institutional investors, and in 
+39 
+denominations suitable for such sales, as determined by the trust.  
+40 
+The trust shall develop mechanisms and procedures for the 
+41 
+advertisement and public sale of New Jersey Climate Bonds to 
+42 
+individual investors.   
+43 
+ 
+44 
+ 
+7. Section 7 of P.L.1985, c.334 (C.58:11B-7) is amended to read 
+45 
+as follows: 
+46 
+ 
+7. In any resolution of the trust authorizing or relating to the 
+47 
+issuance of any of its bonds, notes or other obligations, the trust, in 
+48 
+
+
+=== Page 22 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+22 
+ 
+ 
+order to secure the payment of the bonds, notes or other obligations 
+1 
+and in addition to its other powers, may by provisions therein which 
+2 
+shall constitute covenants by the trust and contracts with the holders 
+3 
+of the bonds, notes or other obligations: 
+4 
+ 
+a. 
+Secure the bonds, notes or other obligations as provided in 
+5 
+section 6 of P.L.1985, c.334 (C.58:11B-6); 
+6 
+ 
+b. Covenant against pledging all or part of its revenues or 
+7 
+receipts; 
+8 
+ 
+c. 
+Covenant with respect to limitations on any right to sell, 
+9 
+mortgage, lease or otherwise dispose of any notes, bonds or other 
+10 
+obligations of local government units, or State entities, as applicable, 
+11 
+or any part thereof, or any property of any kind; 
+12 
+ 
+d. Covenant as to any bonds, notes or other obligations to be 
+13 
+issued by the trust, and the limitations thereon, and the terms and 
+14 
+conditions thereof, and as to the custody, application, investment and 
+15 
+disposition of the proceeds thereof; 
+16 
+ 
+e. 
+Covenant as to the issuance of additional bonds, notes or other 
+17 
+obligations of the trust or as to limitations on the issuance of 
+18 
+additional bonds, notes or other obligations and on the incurring of 
+19 
+other debts by it; 
+20 
+ 
+f. 
+Covenant as to the payment of the principal of or interest on 
+21 
+bonds, notes or other obligations of the trust, as to the sources and 
+22 
+methods of payment, as to the rank or priority of the bonds, notes or 
+23 
+other obligations with respect to any lien or security or as to the 
+24 
+acceleration of the maturity of the bonds, notes or other obligations; 
+25 
+ 
+g. Provide for the replacement of lost, stolen, destroyed or 
+26 
+mutilated bonds, notes or other obligations of the trust; 
+27 
+ 
+h. Covenant against extending the time for the payment of 
+28 
+bonds, notes or other obligations of the trust or interest thereon; 
+29 
+ 
+i. 
+Covenant as to the redemption of bonds, notes and other 
+30 
+obligations by the trust or the holders thereof and privileges of 
+31 
+exchange thereof for other bonds, notes or other obligations of the 
+32 
+trust; 
+33 
+ 
+j. 
+Covenant to create or authorize the creation of special funds 
+34 
+or accounts to be held in trust or otherwise for the benefit of holders 
+35 
+of bonds, notes and other obligations of the trust, or reserves for other 
+36 
+purposes and as to the use, investment, and disposition of moneys 
+37 
+held in those funds, accounts or reserves; 
+38 
+ 
+k. Provide for the rights and liabilities, powers and duties arising 
+39 
+upon the breach of any covenant, condition or obligation and 
+40 
+prescribe the events of default and terms and conditions upon which 
+41 
+any or all of the bonds, notes or other obligations of the trust shall 
+42 
+become or may be declared due and payable before maturity and the 
+43 
+terms and conditions upon which the declaration and its 
+44 
+consequences may be waived; 
+45 
+ 
+l. 
+Vest in a trustee or trustees within or without the State any 
+46 
+property, rights, powers and duties in trust as the trust may determine, 
+47 
+which may include any or all of the rights, powers and duties of any 
+48 
+
+
+=== Page 23 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+23 
+ 
+ 
+trustee appointed by the holders of any bonds, notes or other 
+1 
+obligations of the trust pursuant to section 18 of P.L.1985, c.334 
+2 
+(C.58:11B-18), including rights with respect to the sale or other 
+3 
+disposition of notes, bonds or other obligations of local government 
+4 
+units , or State entities, as applicable, pledged pursuant to a resolution 
+5 
+or trust indenture for the benefit of the holders of bonds, notes or 
+6 
+other obligations of the trust and the right by suit or action to 
+7 
+foreclose any mortgage pledged pursuant to the resolution or trust 
+8 
+indenture for the benefit of the holders of the bonds, notes or other 
+9 
+obligations, and to limit or abrogate the right of the holders of any 
+10 
+bonds, notes or other obligations of the trust to appoint a trustee under 
+11 
+the provisions of P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, 
+12 
+c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+13 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+14 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), or the 
+15 
+provisions of P.L.    , C.   (C.       ) (pending before the Legislature as 
+16 
+this bill), and to limit the rights, duties and powers of the trustee; 
+17 
+ 
+m. Pay the costs or expenses incident to the enforcement of the 
+18 
+bonds, notes or other obligations of the trust or of the provisions of 
+19 
+the resolution authorizing the issuance of those bonds, notes or other 
+20 
+obligations or of any covenant or agreement of the trust with the 
+21 
+holders of the bonds, notes or other obligations; 
+22 
+ 
+n. Limit the rights of the holders of any bonds, notes or other 
+23 
+obligations of the trust to enforce any pledge or covenant securing 
+24 
+the bonds, notes or other obligations; and 
+25 
+ 
+o. Make covenants other than or in addition to the covenants 
+26 
+authorized by P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 
+27 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+28 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+29 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or P.L.    , c.   
+30 
+(C.       ) (pending before the Legislature as this bill) of like or 
+31 
+different character, and make covenants to do or refrain from doing 
+32 
+any acts and things as may be necessary, or convenient and desirable, 
+33 
+in order to better secure the bonds, notes or other obligations of the 
+34 
+trust, or which, in the absolute discretion of the trust, would make the 
+35 
+bonds, notes or other obligations more marketable, notwithstanding 
+36 
+that the covenants, acts or things may not be enumerated herein. 
+37 
+(cf: P.L.2016, c.56, s.16) 
+38 
+ 
+39 
+ 
+8. Section 9 of P.L.1985, c.334 (C.58:11B-9) is amended to read 
+40 
+as follows: 
+41 
+ 
+9. a.  (1)  The trust may make and contract to make loans to local 
+42 
+government units, or to a local government unit on behalf of another 
+43 
+local government unit, in accordance with and subject to the 
+44 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.) or P.L.1997, 
+45 
+c.224 (C.58:11B-10.1 et al.) to finance the cost of any wastewater 
+46 
+treatment system project or water supply project, which the local 
+47 
+
+
+=== Page 24 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+24 
+ 
+ 
+government unit may lawfully undertake or acquire and for which the 
+1 
+local government unit is authorized by law to borrow money. 
+2 
+ 
+(2) The trust may make and contract to make loans to public water 
+3 
+utilities, or to any other person or local government unit on behalf of 
+4 
+a public water utility, in accordance with and subject to the 
+5 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.) or P.L.1997, 
+6 
+c.224 (C.58:11B-10.1 et al.) to finance the cost of any water supply 
+7 
+project, which the public water utility may lawfully undertake or 
+8 
+acquire. 
+9 
+ 
+(3) The trust may make and contract to make loans to private 
+10 
+persons other than local government units, or to any other person or 
+11 
+local government unit on behalf of a private person, in accordance 
+12 
+with and subject to the provisions of P.L.1985, c.334 (C.58:11B-1 et 
+13 
+seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.) to finance the cost of 
+14 
+stormwater management systems. 
+15 
+ 
+(4) The trust may make and contract to make loans and provide 
+16 
+other assistance to a local government unit or consortia thereof to 
+17 
+finance the cost of transportation projects pursuant to sections 22 and 
+18 
+34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 through  
+19 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+20 
+and provided that the federally-funded subaccount is operated in 
+21 
+accordance with the provisions of the federal infrastructure bank 
+22 
+program. 
+23 
+ 
+(5) The trust may make and contract to make loans and provide 
+24 
+other assistance to a State entity, local government unit, or private 
+25 
+entity, or consortia thereof, to finance the cost of climate change 
+26 
+mitigation projects and climate change resilience projects pursuant to 
+27 
+the provisions of P.L.    , c.  (C.     ) (pending before the Legislature 
+28 
+as this bill).  
+29 
+ 
+The loans may be made subject to those terms and conditions as 
+30 
+the trust shall determine to be consistent with the purposes thereof. 
+31 
+Each loan by the trust and the terms and conditions thereof shall be 
+32 
+subject to approval by the State Treasurer, and the trust shall make 
+33 
+available to the State Treasurer all information, statistical data and 
+34 
+reports of independent consultants or experts as the State Treasurer 
+35 
+shall deem necessary in order to evaluate the loan.  Each loan to a 
+36 
+local government unit, public water utility , State entity, or any other 
+37 
+person shall be evidenced by notes, bonds or other obligations thereof 
+38 
+issued to the trust.  In the case of each local government unit, notes 
+39 
+and bonds to be issued to the trust and, if applicable, the State, acting 
+40 
+by and through the Department of Environmental Protection, by the 
+41 
+local government unit (1) shall be authorized and issued as provided 
+42 
+by law for the issuance of notes and bonds by the local government 
+43 
+unit, (2) notwithstanding any provisions of the “Local Authorities 
+44 
+Fiscal Control Law,” P.L.1983, c.313 (C.40A:5A-1 et seq.) to the 
+45 
+contrary, shall be approved by the Director of the Division of Local 
+46 
+
+
+=== Page 25 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+25 
+ 
+ 
+Government Services in the Department of Community Affairs, and 
+1 
+(3) 
+notwithstanding 
+the 
+provisions 
+of 
+N.J.S.40A:2-27,  
+2 
+N.J.S.40A:2-28 and N.J.S.40A:2-29 or any other provisions of law to 
+3 
+the contrary, may be sold at private sale to the trust or the State, as 
+4 
+the case may be, at any price, whether or not less than par value, and 
+5 
+shall be subject to redemption prior to maturity at any times and at 
+6 
+any prices as the trust or the State, as the case may be, and local 
+7 
+government units may agree.  Each loan to a local government unit, 
+8 
+public water utility , State entity, or any other person and the notes, 
+9 
+bonds or other obligations thereby issued shall bear interest at a rate 
+10 
+or rates per annum as the trust or the State, as the case may be, and 
+11 
+the local government unit, public water utility , State entity, or any 
+12 
+other person, as the case may be, may agree. 
+13 
+ 
+b. The trust is authorized to guarantee or contract to guarantee 
+14 
+the payment of all or any portion of the principal and interest on 
+15 
+bonds, notes or other obligations issued by a local government unit 
+16 
+or State entity to finance the cost of any wastewater treatment system 
+17 
+project, water supply project, [or] transportation project , climate 
+18 
+change mitigation project, or climate change resilience project which 
+19 
+the local government unit or State entity, as applicable, may lawfully 
+20 
+undertake or acquire and for which the local government unit or State 
+21 
+entity, as applicable, is authorized by law to borrow money, and the 
+22 
+guarantee shall constitute an obligation of the trust for the purposes 
+23 
+of P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, c.224  
+24 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+25 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+26 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or P.L.    ,  
+27 
+c.  (C.     ) (pending before the Legislature as this bill) .  Each 
+28 
+guarantee by the trust and the terms and conditions thereof shall be 
+29 
+subject to approval by the State Treasurer, and the trust shall make 
+30 
+available to the State Treasurer all information, statistical data and 
+31 
+reports of independent consultants or experts as the State Treasurer 
+32 
+shall deem necessary in order to evaluate the guarantee. 
+33 
+ 
+c. 
+The trust shall not make or contract to make any loans or 
+34 
+guarantees to local government units, public water utilities , State 
+35 
+entities, or any other person, or otherwise incur any additional 
+36 
+indebtedness, on or after June 30, 2033. 
+37 
+ 
+d. Notwithstanding 
+any 
+provision 
+of 
+P.L.1985, 
+c.334  
+38 
+(C.58:11B-1 et seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.) to the 
+39 
+contrary, the trust may receive funds from any source including, 
+40 
+without limitation, any funds drawn by the trust from a revolving line 
+41 
+of credit or other similar financial vehicle that may be procured by 
+42 
+the trust, either through a competitive or negotiated process, pursuant 
+43 
+to section 5 of P.L.1985, c.334 (C.58:11B-5), for deposit into the 
+44 
+Interim Environmental Financing Program Fund or the trust may 
+45 
+issue its bonds, notes or other obligations, including commercial 
+46 
+paper issued through a competitive or negotiated process, in any 
+47 
+principal amounts, in either case, as in the judgment of the trust shall 
+48 
+
+
+=== Page 26 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+26 
+ 
+ 
+be necessary to provide sufficient funds to finance or refinance short-
+1 
+term or temporary loans to local government units, public water 
+2 
+utilities or private persons for any wastewater treatment system 
+3 
+projects included on the Department of Environmental Protection 
+4 
+project priority list and eligible for approval pursuant to section 20 
+5 
+of P.L.1985, c.334 (C.58:11B-20) or water supply projects included 
+6 
+on the Department of Environmental Protection project priority list 
+7 
+and eligible for approval pursuant to section 24 of P.L.1997, c.224 
+8 
+(C.58:11B-20.1), as applicable, without regard to any other 
+9 
+provisions of P.L.1985, c.334 (C.58:11B-1 et seq.) or P.L.1997, 
+10 
+c.224 (C.58:11B-10.1 et al.), including, without limitation, any 
+11 
+administrative or legislative approvals. 
+12 
+ 
+The trust shall create and establish a special fund to be known as 
+13 
+the “Interim Environmental Financing Program Fund” for the short-
+14 
+term or temporary loan financing or refinancing program to be known 
+15 
+as the “Interim Environmental Financing Program.”  The monies in 
+16 
+the fund shall be used for short-term or temporary loans for clean 
+17 
+water and drinking water projects pursuant to the New Jersey 
+18 
+Environmental Infrastructure Financing Program. 
+19 
+ 
+Except as provided in section 1 of P.L.2013, c.93 (C.58:11B-9.5), 
+20 
+any short-term or temporary loans made by the trust pursuant to this 
+21 
+subsection may only be made in advance of the anticipated loans the 
+22 
+trust may make and contract to make under the provisions of 
+23 
+subsection a. of this section from any source of funds anticipated to 
+24 
+be received by the trust.  Any such short-term or temporary loan made 
+25 
+pursuant to the Interim Environmental Financing Program shall 
+26 
+mature no later than the last day of the third succeeding fiscal year 
+27 
+following the closing date on which the short-term or temporary loan 
+28 
+was made by the trust to the project sponsor; except a planning, 
+29 
+design, and construction loan shall mature no later than the last day 
+30 
+of the fifth succeeding fiscal year following the closing date of the 
+31 
+planning, design, and construction loan or the last day of the third 
+32 
+succeeding fiscal year following the date of construction certification 
+33 
+following the closing date of the planning, design, and construction 
+34 
+loan, whichever is sooner, provided that, in either case, project 
+35 
+planning or engineering design activities shall not exceed two years 
+36 
+from the closing date of the planning, design, and construction loan; 
+37 
+and except a short-term or temporary loan made pursuant to this 
+38 
+subsection for environmental planning and engineering design costs 
+39 
+associated with long-term control plans for combined sewer overflow 
+40 
+projects shall mature no later than the last day of the 10th succeeding 
+41 
+fiscal year following the closing date on which the short-term or 
+42 
+temporary loan was made by the trust to the project sponsor.  With 
+43 
+respect to any short-term or temporary loan or planning, design, and 
+44 
+construction loan made by the trust pursuant to this subsection, the 
+45 
+trust may authorize one short-term supplemental loan for residual 
+46 
+project expenses thereof upon receipt by the trust from the 
+47 
+Department of Environmental Protection of a certification that states 
+48 
+
+
+=== Page 27 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+27 
+ 
+ 
+that the time required by the project sponsor to complete construction 
+1 
+of the project exceeds the maximum maturity date of the project 
+2 
+sponsor's outstanding short-term or temporary loan or planning, 
+3 
+design, and construction loan.  Any such short-term supplemental 
+4 
+loan shall not exceed in duration the last day of the third succeeding 
+5 
+fiscal year following the loan closing of the supplemental loan.  The 
+6 
+trust may make short-term or temporary loans pursuant to the Interim 
+7 
+Environmental Financing Program to any one or more of the project 
+8 
+sponsors, for the respective projects thereof, identified in the interim 
+9 
+financing project priority list to be known as the “Interim 
+10 
+Environmental Financing Program Project Priority List” in the form 
+11 
+provided to the Legislature by the Commissioner of Environmental 
+12 
+Protection. 
+13 
+ 
+The Interim Environmental Financing Program Project Priority 
+14 
+List, including any revision thereof or supplement thereto, shall be 
+15 
+submitted to the Legislature pursuant to section 2 of P.L.1991, c.164 
+16 
+(C.52:14-19.1) at least once in each fiscal year as provided in section 
+17 
+20 of P.L.1985, c.334 (C.58:11B-20) and section 24 of P.L.1997, 
+18 
+c.224 (C.58:11B-20.1).  The Secretary and the Clerk shall cause the 
+19 
+date of submission to be entered upon the Senate Journal and the 
+20 
+Minutes of the General Assembly, respectively.  The trust may revise 
+21 
+or supplement the Interim Environmental Financing Program Project 
+22 
+Priority List no more than four times during the fiscal year and shall 
+23 
+submit the revised list to the Legislature when the revisions are made.  
+24 
+Any environmental infrastructure project or the project sponsor 
+25 
+thereof not identified in the Interim Environmental Financing 
+26 
+Program Project Priority List shall not be eligible for a short-term or 
+27 
+temporary loan from the Interim Environmental Financing Program 
+28 
+Fund.  The trust may issue short-term or temporary loans pursuant to 
+29 
+this subsection only if a project is listed on an Interim Environmental 
+30 
+Financing Program Project Priority List that has been submitted to 
+31 
+the Legislature.  No funds may be disbursed pursuant to this section 
+32 
+for project activities prior to a determination and certification, in 
+33 
+writing, from the Department of Environmental Protection, that the 
+34 
+project activities satisfy the provisions of P.L.1985, c.334 
+35 
+(C.58:11B-1 et seq.). 
+36 
+ 
+e. 
+Notwithstanding any provisions of the “Local Bond Law” 
+37 
+(N.J.S.40A:2-1 et seq.), the “sewerage authorities law,” P.L.1946, 
+38 
+c.138 (C.40:14A-1 et seq.), or the “municipal and county utilities 
+39 
+authorities law,” P.L.1957, c.183 (C.40:14B-1 et seq.) to the 
+40 
+contrary, short-term or temporary loans made by the trust pursuant to 
+41 
+section 9 of P.L.1985, c.334 (C.58:11B-9) or section 1 of P.L.2013, 
+42 
+c.93 (C.58:11B-9.5), and the obligations issued by project sponsors 
+43 
+to evidence such loans, may, at the discretion of the trust and upon 
+44 
+application by the project sponsor, bear interest at a variable rate 
+45 
+determined pursuant to a methodology as may be established by the 
+46 
+trust from time to time.  
+47 
+
+
+=== Page 28 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+28 
+ 
+ 
+ 
+Further, notwithstanding any provisions of the “Local Bond Law” 
+1 
+(N.J.S.40A:2-1 et seq.), the “sewerage authorities law,” P.L.1946, 
+2 
+c.138 (C.40:14A-1 et seq.), or the “municipal and county utilities 
+3 
+authorities law,” P.L.1957, c.183 (C.40:14B-1 et seq.) to the 
+4 
+contrary, any short-term or temporary loans made by the trust 
+5 
+pursuant to section 9 of P.L.1985, c.334 (C.58:11B-9) or section 1 of 
+6 
+P.L.2013, c.93 (C.58:11B-9.5), and any notes or other obligations 
+7 
+issued by project sponsors to evidence such short-term or temporary 
+8 
+loans, as such loans, notes, or other obligations may be refinanced or 
+9 
+extended, as provided in subsections d. and g. of this section and 
+10 
+section 1 of P.L.2013, c.93 (C.58:11B-9.5), except for loans for 
+11 
+environmental planning and engineering design costs associated with 
+12 
+long-term control plans for combined sewer overflow projects as 
+13 
+provided in subsection d. of this section, shall mature no later than 
+14 
+the maturity date as established pursuant to subsections d. and g. of 
+15 
+this section and section 1 of P.L.2013, c.93 (C.58:11B-9.5), without 
+16 
+payment by project sponsors of any portion of the principal thereof 
+17 
+prior to maturity.  
+18 
+ 
+f. 
+Any balances remaining in the Emergency Loan Fund 
+19 
+established pursuant to section 4 of P.L.2007, c.138 (C.58:11B-9.1), 
+20 
+the Planning and Design Fund established pursuant to section 1 of 
+21 
+P.L.2009, c.59 (C.58:11B-9.2), the Onsite Wastewater Disposal Loan 
+22 
+Fund established pursuant to section 5 of P.L.2009, c.103  
+23 
+(C.58:11B-9.3), the Supplemental Loan Fund established pursuant to 
+24 
+section 2 of P.L.2011, c.94 (C.58:11B-9.4), and the Equipment Loan 
+25 
+Fund established pursuant to section 1 of P.L.2014, c.28  
+26 
+(C.58:11B-9.6) after the date of enactment of P.L.2016, c.30 shall be 
+27 
+transferred to the Interim Environmental Financing Program Fund, 
+28 
+and any loan repayments to the trust of principal and interest or 
+29 
+premium on loans made from those funds shall be credited to the 
+30 
+Interim Environmental Financing Program Fund. 
+31 
+ 
+g. The trust shall create and establish a special fund to be known 
+32 
+as the “Interim Transportation Financing Program Fund” for the 
+33 
+short-term or temporary loan financing or refinancing program to be 
+34 
+known as the “Interim Transportation Financing Program.” 
+35 
+ 
+Notwithstanding any provision of P.L.1985, c.334 (C.58:11B-1 et 
+36 
+seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.) to the contrary, the 
+37 
+trust may receive funds from any source including, without 
+38 
+limitation, any funds drawn by the trust from a revolving line of 
+39 
+credit or other similar financial vehicle that may be procured by the 
+40 
+trust, either through a competitive or negotiated process, pursuant to 
+41 
+section 5 of P.L.1985, c.334 (C.58:11B-5), for deposit into the 
+42 
+Interim Transportation Financing Program Fund or the trust may 
+43 
+issue its bonds, notes , or other obligations in any principal amounts, 
+44 
+in either case, as in the judgment of the trust shall be necessary to 
+45 
+provide sufficient funds to finance or refinance short-term or 
+46 
+temporary loans to local government units or private persons for any 
+47 
+transportation project included on the Department of Transportation 
+48 
+
+
+=== Page 29 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+29 
+ 
+ 
+Interim Transportation Financing Program Project Priority List for 
+1 
+the ensuing fiscal year and eligible for approval pursuant to sections 
+2 
+22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 through 
+3 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+4 
+without regard to any other provisions of P.L.1985, c.334  
+5 
+(C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), or 
+6 
+sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+7 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+8 
+C.58:11B-22.4), including, without limitation, any administrative or 
+9 
+legislative approvals. 
+10 
+ 
+Any short-term or temporary loans made by the trust pursuant to 
+11 
+this subsection may only be made in advance of the anticipated loans 
+12 
+the trust may make and contract to make under the provisions of 
+13 
+subsection a. of this section from any source of funds anticipated to 
+14 
+be received by the trust.  Any such short-term or temporary loan made 
+15 
+pursuant to the Interim Transportation Financing Program shall 
+16 
+mature no later than the last day of the third succeeding fiscal year 
+17 
+following the closing date on which the short-term or temporary loan 
+18 
+was made by the trust to the project sponsor; except a planning, 
+19 
+design, and construction loan shall mature no later than the last day 
+20 
+of the fifth succeeding fiscal year following the closing date of the 
+21 
+planning, design, and construction loan or the last day of the third 
+22 
+succeeding fiscal year following the date of construction certification 
+23 
+following the closing date of the planning, design, and construction 
+24 
+loan, whichever is sooner, provided that, in either case, project 
+25 
+planning or engineering design activities shall not exceed two years 
+26 
+from the closing date of the planning, design, and construction loan.  
+27 
+With respect to any short-term or temporary loan or planning, design, 
+28 
+and construction loan made by the trust pursuant to this subsection, 
+29 
+the trust may authorize one short-term supplemental loan for residual 
+30 
+expenses thereof upon receipt by the trust from the Department of 
+31 
+Transportation of a certification that states that the time required by 
+32 
+the project sponsor to complete construction of the project exceeds 
+33 
+the maximum maturity date of the short-term or temporary loan or 
+34 
+planning, design, and construction loan.  Any such short-term 
+35 
+supplemental loan shall not exceed in duration the last day of the 
+36 
+third succeeding fiscal year following the loan closing of the short-
+37 
+term supplemental loan.  The trust may make short-term or temporary 
+38 
+loans pursuant to the Interim Transportation Financing Program to 
+39 
+any one or more of the project sponsors, for the respective projects 
+40 
+thereof, only if a project is identified in the Department of 
+41 
+Transportation Interim Transportation Financing Program Project 
+42 
+Priority List to be known as the “Interim Transportation Financing 
+43 
+Program Project Priority List” in the form provided to the Legislature 
+44 
+by the Commissioner of Transportation. 
+45 
+ 
+The Interim Transportation Financing Program Project Priority 
+46 
+List, including any revision thereof or supplement thereto, shall be 
+47 
+submitted to the Secretary of the Senate and the Clerk of the General 
+48 
+
+
+=== Page 30 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+30 
+ 
+ 
+Assembly on or before July 1 of each year.  The Interim 
+1 
+Transportation Financing Program Project Priority List shall be 
+2 
+submitted to the Legislature pursuant to section 2 of P.L.1991, c.164 
+3 
+(C.52:14-19.1) at least once in each fiscal year.  The Secretary and 
+4 
+the Clerk shall cause the date of submission to be entered upon the 
+5 
+Senate Journal and the Minutes of the General Assembly, 
+6 
+respectively.  Any transportation infrastructure project or the project 
+7 
+sponsor thereof not identified in the Interim Transportation 
+8 
+Financing Program Project Priority List shall not be eligible for a 
+9 
+short-term or temporary loan from the Interim Transportation 
+10 
+Financing Program Fund.  The trust may revise or supplement the 
+11 
+Interim Transportation Financing Program Project Priority List no 
+12 
+more than four times during the fiscal year, and shall submit the 
+13 
+revised list to the Legislature when the revisions are made. 
+14 
+ 
+No funds may be disbursed pursuant to this subsection for project 
+15 
+activities prior to written notification of award concurrence from the 
+16 
+Department of Transportation and certification in writing, from the 
+17 
+trust, that the project activities satisfy the provisions of P.L.1985, 
+18 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+19 
+or sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+20 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+21 
+C.58:11B-22.4). 
+22 
+ 
+h.  The trust shall create and establish a special fund to be known 
+23 
+as the “Interim Climate Change Mitigation and Resilience Financing 
+24 
+Program Fund” for the short-term or temporary loan financing or 
+25 
+refinancing program to be known as the “Interim Climate Change 
+26 
+Mitigation and Resilience Financing Program.” The monies in the 
+27 
+fund shall be used for short-term or temporary loans for climate 
+28 
+change mitigation projects and climate change resilience projects 
+29 
+pursuant to the New Jersey Environmental Infrastructure Financing 
+30 
+Program. 
+31 
+ 
+Notwithstanding any provision of P.L.1985, c.334 (C.58:11B-1 et 
+32 
+seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.) to the contrary, the 
+33 
+trust may receive funds from any source including, without 
+34 
+limitation, any funds drawn by the trust from a revolving line of 
+35 
+credit or other similar financial vehicle that may be procured by the 
+36 
+trust, either through a competitive or negotiated process, pursuant to 
+37 
+section 5 of P.L.1985, c.334 (C.58:11B-5), for deposit into the 
+38 
+Interim Climate Change Mitigation and Resilience Financing 
+39 
+Program Fund, or the trust may issue its bonds, notes, or other 
+40 
+obligations in any principal amounts, in either case, as in the 
+41 
+judgment of the trust shall be necessary to provide sufficient funds to 
+42 
+finance or refinance short-term or temporary loans to State entities, 
+43 
+local government units, and private entities for any climate change 
+44 
+mitigation project or climate change resilience project included on 
+45 
+the Interim Climate Change Mitigation and Resilience Financing 
+46 
+Program Project Priority List for the ensuing fiscal year and eligible 
+47 
+for approval pursuant to P.L.    , c.   (C.       ) (pending before the 
+48 
+
+
+=== Page 31 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+31 
+ 
+ 
+Legislature as this bill), without regard to any other provisions of 
+1 
+P.L.1985, 
+c.334 
+(C.58:11B-1 
+et 
+seq.), 
+P.L.1997, 
+c.224  
+2 
+(C.58:11B-10.1 et al.), or sections 22 and 34 through 38 of P.L.2016, 
+3 
+c.56 (C.58:11B-10.3 through C.58:11B-10.5, C.58:11B-20.2, 
+4 
+C.58:11B-22.3, and C.58:11B-22.4), including, without limitation, 
+5 
+any administrative or legislative approvals. 
+6 
+ 
+Any short-term or temporary loans made by the trust pursuant to 
+7 
+this subsection may only be made in advance of the anticipated loans 
+8 
+the trust may make and contract to make under the provisions of 
+9 
+subsection a. of this section from any source of funds anticipated to 
+10 
+be received by the trust.  Any such short-term or temporary loan made 
+11 
+pursuant to the Interim Climate Change Mitigation and Resilience 
+12 
+Financing Program shall mature no later than the last day of the third 
+13 
+succeeding fiscal year following the closing date on which the short-
+14 
+term or temporary loan was made by the trust to the project sponsor; 
+15 
+except a planning, design, and construction loan shall mature no later 
+16 
+than the last day of the fifth succeeding fiscal year following the 
+17 
+closing date of the planning, design, and construction loan or the last 
+18 
+day of the third succeeding fiscal year following the date of 
+19 
+construction certification following the closing date of the planning, 
+20 
+design, and construction loan, whichever is sooner, provided that, in 
+21 
+either case, project planning or engineering design activities shall not 
+22 
+exceed two years from the closing date of the planning, design, and 
+23 
+construction loan.  The trust may make short-term or temporary loans 
+24 
+pursuant to the Interim Climate Change Mitigation and Resilience 
+25 
+Financing Program to any one or more of the project sponsors, for 
+26 
+the respective projects thereof, only if a project is identified on the 
+27 
+list to be known as the “Interim Climate Change Mitigation and 
+28 
+Resilience Financing Program Project Priority List” in the form 
+29 
+provided to the Legislature by the trust. 
+30 
+ 
+The Interim Climate Change Mitigation and Resilience Financing 
+31 
+Program Project Priority List, including any revision thereof or 
+32 
+supplement thereto, shall be submitted to the Secretary of the Senate 
+33 
+and the Clerk of the General Assembly on or before July 1 of each 
+34 
+year.  The Interim Climate Change Mitigation and Resilience 
+35 
+Financing Program Project Priority List shall be submitted to the 
+36 
+Legislature pursuant to section 2 of P.L.1991, c.164 (C.52:14-19.1) 
+37 
+at least once in each fiscal year.  The Secretary and the Clerk shall 
+38 
+cause the date of submission to be entered upon the Senate Journal 
+39 
+and the Minutes of the General Assembly, respectively.  A climate 
+40 
+change mitigation project or climate change resilience project, or the 
+41 
+project sponsor thereof, not identified in the Interim Climate Change 
+42 
+Mitigation and Resilience Financing Program Project Priority List 
+43 
+shall not be eligible for a short-term or temporary loan from the 
+44 
+Interim Climate Change Mitigation and Resilience Financing 
+45 
+Program Fund.  The trust may revise or supplement the Interim 
+46 
+Climate Change Mitigation and Resilience Financing Program 
+47 
+Project Priority List no more than four times during the fiscal year, 
+48 
+
+
+=== Page 32 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+32 
+ 
+ 
+and shall submit the revised list to the Legislature when the revisions 
+1 
+are made. 
+2 
+ 
+No funds may be disbursed pursuant to this subsection for project 
+3 
+activities prior to written notification of award certification in writing 
+4 
+from the trust that the project activities satisfy the provisions of 
+5 
+P.L.1985, 
+c.334 
+(C.58:11B-1 
+et 
+seq.), 
+P.L.1997, 
+c.224  
+6 
+(C.58:11B-10.1 et al.), and P.L.    , c.     (C.     ) (pending before the 
+7 
+Legislature as this bill). 
+8 
+(cf: P.L.2019, c.516, s.2) 
+9 
+ 
+10 
+ 
+9. (New section)  a.  There is established in the New Jersey 
+11 
+Infrastructure Bank the New Jersey Climate Change Mitigation and 
+12 
+Resilience Financing Program.  The purpose of the program shall be 
+13 
+to provide low interest loans and other forms of financial assistance, 
+14 
+as the trust deems appropriate, to State entities, local government 
+15 
+units, and private entities to develop and finance climate change 
+16 
+mitigation projects and climate change resilience projects approved 
+17 
+by the department and the board pursuant to P.L.     c.     (C.       ) 
+18 
+(pending before the Legislature as this bill).  The trust, the 
+19 
+Department of Environmental Protection, and the Board of Public 
+20 
+Utilities shall develop criteria for participation in the New Jersey 
+21 
+Climate Change Mitigation and Resilience Financing Program, and 
+22 
+for the approval and disapproval of applications for financial 
+23 
+assistance.   
+24 
+ 
+25 
+ 
+10. (New Section)  a.  There is established in the New Jersey 
+26 
+Infrastructure Bank a special fund to be known as the Climate Change 
+27 
+Mitigation and Resilience Loan Origination Fee Fund.  The Climate 
+28 
+Change Mitigation and Resilience Loan Origination Fee Fund shall 
+29 
+be credited with: 
+30 
+ 
+(1) monies deposited into the fund as loan origination fees 
+31 
+received by the trust and paid by loan applicants for climate change 
+32 
+mitigation projects and climate change resilience projects financed 
+33 
+under the New Jersey Climate Change Mitigation and Resilience 
+34 
+Financing Program; and 
+35 
+ 
+(2) any interest paid on the amounts of the climate change 
+36 
+mitigation and resilience loan origination fees. 
+37 
+ 
+b.  Monies in the Climate Change Mitigation and Resilience Loan 
+38 
+Origination Fee Fund shall be drawn and used by the trust to 
+39 
+reimburse the trust for administrative and operating expenses 
+40 
+incurred in administering the New Jersey Climate Change Mitigation 
+41 
+and Resilience Financing Program, except that the total amount 
+42 
+expended by the trust for administrative and operating expenses in 
+43 
+any fiscal year shall not exceed $5,000,000.  The monies in the 
+44 
+Climate Change Mitigation and Resilience Loan Origination Fee 
+45 
+Fund shall also be available for application and disbursement by the 
+46 
+trust for loans to State entities or local government units for the cost 
+47 
+of climate change mitigation projects and climate change resilience 
+48 
+
+
+=== Page 33 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+33 
+ 
+ 
+projects.  Amounts in excess of the funds drawn by the trust from the 
+1 
+Climate Change Mitigation and Resilience Loan Origination Fee 
+2 
+Fund during any given fiscal year shall be carried forward into the 
+3 
+following fiscal year and held on deposit in the fund.  
+4 
+ 
+c.  As used in this section, “climate change mitigation and 
+5 
+resilience loan origination fee” means the fee charged by the trust in 
+6 
+connection with engineering and other services provided by the trust 
+7 
+to a project sponsor in connection with the project sponsor’s 
+8 
+participation in the New Jersey Climate Change Mitigation and 
+9 
+Resilience Financing Program.  A project sponsor may finance any 
+10 
+portion of the climate change mitigation and resilience loan 
+11 
+origination fee through a project loan to pay a portion of the costs 
+12 
+incurred by the trust in the implementation of the New Jersey Climate 
+13 
+Change Mitigation and Resilience Financing Program. 
+14 
+ 
+15 
+ 
+11. (New section)  a.  The trust shall create and establish a special 
+16 
+fund to be known as the State Climate Change Mitigation and 
+17 
+Resilience Bank Fund.  The monies in the State Climate Change 
+18 
+Mitigation and Resilience Bank Fund shall be used to provide loans 
+19 
+and other financial assistance to climate change mitigation projects 
+20 
+and climate change resilience projects funded by the New Jersey 
+21 
+Climate Change Mitigation and Resilience Financing Program, and 
+22 
+for other corporate purposes of the trust’s administration and 
+23 
+management of the New Jersey Climate Change Mitigation and 
+24 
+Resilience Financing Program, subject to agreements with the 
+25 
+holders of bonds, notes or other obligations of the trust.  The State 
+26 
+Climate Change Mitigation and Resilience Bank Fund shall be 
+27 
+credited with:  
+28 
+ 
+(1) State and federal funds appropriated to the State Climate 
+29 
+Change Mitigation and Resilience Bank Fund;  
+30 
+ 
+(2) monies received as repayment of the principal of, and the 
+31 
+interest or premium on loans made from the State Climate Change 
+32 
+Mitigation and Resilience Bank Fund; 
+33 
+ 
+(3) any interest earnings received on the monies in the State 
+34 
+Climate Change Mitigation and Resilience Bank Fund; and  
+35 
+ 
+(4) any other monies the Legislature may appropriate to the trust 
+36 
+for deposit into the State Climate Change Mitigation and Resilience 
+37 
+Bank Fund to finance or refinance loans for climate change 
+38 
+mitigation projects and climate change resilience projects issued 
+39 
+from the State Climate Change Mitigation and Resilience Bank Fund, 
+40 
+including moneys received by the State Treasurer from the non-
+41 
+bypassable charge imposed on electric public utility customers 
+42 
+pursuant to section 24 of P.L.    , c.   (C.        )(pending before the 
+43 
+Legislature as this bill). 
+44 
+ 
+b.  Notwithstanding any provisions of P.L.     c.    (C.        ) (pending 
+45 
+before the Legislature as this bill) to the contrary, all monies placed 
+46 
+into the State Climate Change Mitigation and Resilience Bank Fund 
+47 
+shall be held separate from other funds of the trust, and no funds used 
+48 
+
+
+=== Page 34 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+34 
+ 
+ 
+to finance climate change mitigation projects and climate change 
+1 
+resilience projects shall be combined or comingled with any funds 
+2 
+that finance (1) wastewater treatment system projects, (2) water 
+3 
+supply projects, (3) other environmental infrastructure projects, or 
+4 
+(4) transportation, transit, marine or aviation projects, which are not 
+5 
+climate change mitigation projects or climate change resilience 
+6 
+projects.  
+7 
+ 
+c.  The trust may establish or direct the establishment of federal 
+8 
+and State accounts or subaccounts as may be necessary to meet any 
+9 
+applicable federal law requirements or desirable for the efficient 
+10 
+administration of the trust.  
+11 
+ 
+12 
+ 
+12. (New section)  a.  The Commissioner of Environmental 
+13 
+Protection, in consultation with the Board of Public Utilities and the 
+14 
+trust, shall, for each fiscal year, develop a priority system, ranking 
+15 
+criteria, and funding policies for climate change mitigation projects 
+16 
+and climate change resilience projects.  The commissioner shall 
+17 
+prioritize projects that have the largest impact on protecting human 
+18 
+health, safety, the environment, or critical infrastructure, from the 
+19 
+adverse effects of climate change; reducing the State’s greenhouse 
+20 
+gas emissions; and meeting the State’s clean energy goals.   The 
+21 
+Commissioner Environmental Protection shall set forth a Climate 
+22 
+Change Mitigation and Resilience Financing Program Project 
+23 
+Priority List, hereinafter referred to as the "climate change mitigation 
+24 
+and resilience project priority list," for funding by the trust for each 
+25 
+fiscal year and shall include the aggregate amount of funds of the 
+26 
+trust to be authorized for these purposes.  The climate change 
+27 
+mitigation and resilience project priority list shall include a 
+28 
+description of each climate change mitigation project and climate 
+29 
+change resilience project and an explanation of the manner in which 
+30 
+projects are ranked.  
+31 
+ 
+The climate change mitigation and resilience project priority list 
+32 
+for the ensuing fiscal year shall be submitted to the Legislature on or 
+33 
+before January 15 of each year.  The Secretary and the Clerk shall 
+34 
+cause the date of submission to be entered upon the Senate Journal 
+35 
+and the Minutes of the General Assembly, respectively.  Incremental 
+36 
+revisions or supplements to the climate change mitigation and 
+37 
+resilience project priority list may be submitted to the Legislature as 
+38 
+provided in subsection g. of section 9 of P.L.1985, c.334  
+39 
+(C.58:11B-9).  A climate change mitigation project or climate change 
+40 
+resilience project shall be eligible for funding pursuant to this section 
+41 
+only if it is identified on a climate change mitigation and resilience 
+42 
+project priority list.  
+43 
+ 
+b. The 
+Commissioner 
+of 
+Environmental 
+Protection, 
+in 
+44 
+consultation with the President of the Board of Public Utilities, shall 
+45 
+set forth a Climate Change Mitigation and Resilience Financing 
+46 
+Program Project Eligibility List for long-term funding by the trust 
+47 
+and shall include the aggregate amount of funds to be authorized for 
+48 
+
+
+=== Page 35 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+35 
+ 
+ 
+these purposes.  The Climate Change Mitigation and Resilience 
+1 
+Financing Program Project Eligibility List shall consist of Climate 
+2 
+Change Mitigation and Resilience Financing Program Project 
+3 
+Priority List projects certified by the Department of Environmental 
+4 
+Protection and the Board of Public Utilities that have commenced 
+5 
+construction and demonstrated to the department a high likelihood of 
+6 
+construction completion within three years of the date of funding.   
+7 
+ 
+On or before May 15 of each year, the trust shall submit the 
+8 
+Climate Change Mitigation and Resilience Financing Program 
+9 
+Project Eligibility List for the ensuing fiscal year including any 
+10 
+amendatory or supplementary provisions thereto, which shall include 
+11 
+the authorization of an aggregate amount of funds of the trust to be 
+12 
+expended for loans and guarantees for the specific climate change 
+13 
+mitigation projects or climate change resilience projects, including 
+14 
+the individual amounts therefor, to be introduced in each House in 
+15 
+the form of legislative appropriations bills.  
+16 
+ 
+On or before July 1 of each year, the Legislature shall approve an 
+17 
+appropriations act containing the Climate Change Mitigation and 
+18 
+Resilience Program Project Eligibility List, including any 
+19 
+amendatory or supplementary provisions thereto, which act shall 
+20 
+include the authorization of an aggregate amount of funds of the trust 
+21 
+to be expended for long-term loans and guarantees for the climate 
+22 
+change mitigation and resilience projects, including the individual 
+23 
+amounts for each project included on the list. 
+24 
+ 
+c.  On or before October 15 of each year, the trust may submit an 
+25 
+amended Climate Change Mitigation and Resilience Financing 
+26 
+Program Project Eligibility List to be introduced in each House in the 
+27 
+form of legislative appropriations bills for approval by the 
+28 
+Legislature on or before January 15 of the following calendar year in 
+29 
+the manner set forth in subsection a. and subsection b. of this section. 
+30 
+ 
+d.  The trust shall not expend any money for a long-term loan or 
+31 
+guarantee during a fiscal year for any climate change mitigation 
+32 
+project or climate change resilience project unless the expenditure 
+33 
+has been authorized pursuant to a State annual appropriations act of 
+34 
+the current or three immediately preceding fiscal years as provided 
+35 
+in the provisions of this section, or as otherwise set forth in an 
+36 
+appropriations act. 
+37 
+ 
+e.  The trust shall submit to the Secretary of the Senate and the 
+38 
+Clerk of the General Assembly on or before January 15 of each year 
+39 
+a report which shall identify the climate change mitigation projects 
+40 
+and climate change resilience projects financed during the prior fiscal 
+41 
+year, including a project description, the amount of the loan provided 
+42 
+for each project, and the duration of each loan. 
+43 
+ 
+44 
+ 
+13. (New section)  a.  On or before May 15 of each year, the trust 
+45 
+shall submit to the Legislature a financial plan designed to implement 
+46 
+the financing of the climate change mitigation projects and climate 
+47 
+change resilience projects on the Climate Change Mitigation and 
+48 
+
+
+=== Page 36 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+36 
+ 
+ 
+Resilience Financing Program Project Priority List or the Climate 
+1 
+Change Mitigation and Resilience Financing Program Project 
+2 
+Eligibility List.  The financial plan shall contain an enumeration of 
+3 
+the bonds, notes or other obligations of the trust which the trust 
+4 
+intends to issue, including the amounts thereof and the terms and 
+5 
+conditions thereof, a list of loans to be made to State entities, local 
+6 
+government units, and private entities, including the terms and 
+7 
+conditions thereof and the anticipated rate of interest per annum and 
+8 
+repayment schedule therefor and a list of loan guarantees or contracts 
+9 
+to guarantee the payment of all or a portion of the principal and 
+10 
+interest on bonds, notes or other obligations issued by a State entity 
+11 
+or local government unit to finance the cost of a climate change 
+12 
+mitigation project or climate change resilience project, and the terms 
+13 
+and conditions thereof. 
+14 
+ 
+The financial plan shall also set forth a complete operating and 
+15 
+financial statement covering proposed operations of the State Climate 
+16 
+Change Mitigation and Resilience Bank Fund during the forthcoming 
+17 
+fiscal year, including amounts of income from all sources, and the 
+18 
+uniform schedule of fees and charges established by the trust 
+19 
+pursuant to subsection o. of section 5 of P.L.1985, c.334  
+20 
+(C.58:11B-5), and the amounts to be derived therefrom, and shall 
+21 
+summarize the status of each climate change mitigation project and 
+22 
+climate change resilience project for which loans or guarantees have 
+23 
+been made by the trust. 
+24 
+ 
+b.  On or before June 30 of each year the Legislature may reject 
+25 
+the financial plan through the adoption by both houses of a 
+26 
+concurrent resolution.  If the Legislature rejects the financial plan, 
+27 
+the trust shall not undertake any of the proposed activities contained 
+28 
+therein.  If the Legislature takes no action on or before June 30, the 
+29 
+financial plan shall be deemed approved. 
+30 
+ 
+c.  The financial plan for the State Climate Change Mitigation and 
+31 
+Resilience Bank Fund shall not be eligible for inclusion in a 
+32 
+consolidated financial plan as established in section 27 of P.L.1997, 
+33 
+c.224 (C.58:11B-22.2).  
+34 
+ 
+35 
+ 
+14. (New section)  The trust shall, within two years after the 
+36 
+effective date of P.L.     , c.     (C.      ) (pending before the Legislature 
+37 
+as this bill), and every two years thereafter, prepare a report to the 
+38 
+Governor and, pursuant to section 2 of P.L.1991, c.164  
+39 
+(C.52:14-19.1), to the Legislature regarding the number, nature, 
+40 
+structure, and scope of climate change mitigation projects and 
+41 
+climate change resilience projects financed pursuant to P.L.    , 
+42 
+c.    (C.      ) (pending before the Legislature as this bill), including:  
+43 
+(1) a description of the types of projects financed; (2) the climate and 
+44 
+other environmental benefits of those projects; (3) benefits to public 
+45 
+health, safety, and the environment and critical infrastructure; (4) job 
+46 
+creation and other economic and societal benefits; and (5) costs 
+47 
+incurred.  The report shall also address any implementation issues, 
+48 
+
+
+=== Page 37 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+37 
+ 
+ 
+including staffing and resource requirements, and may provide 
+1 
+recommendations regarding how the New Jersey Climate Mitigation 
+2 
+and Resilience Financing Program may be improved, expanded, or 
+3 
+made more efficient. 
+4 
+ 
+5 
+ 
+15. Section 13 of P.L.1985, c.334 (C.58:11B-13) is amended to 
+6 
+read as follows: 
+7 
+ 
+13. Neither the directors of the trust nor any person executing 
+8 
+bonds, notes or other obligations of the trust issued pursuant to 
+9 
+P.L.1985, 
+c.334 
+(C.58:11B-1 
+et 
+seq.), 
+P.L.1997, 
+c.224  
+10 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+11 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+12 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or P.L.    ,  
+13 
+c.   (C.      ) (pending before the Legislature as this bill) shall be liable 
+14 
+personally on the bonds, notes or other obligations by reason of the 
+15 
+issuance thereof. 
+16 
+(cf: P.L.2016, c.56, s.24) 
+17 
+ 
+18 
+ 
+16. Section 14 of P.L.1985, c.334 (C.58:11B-14) is amended to 
+19 
+read as follows: 
+20 
+ 
+14. The State does pledge to and covenant and agree with the 
+21 
+holders of any bonds, notes or other obligations of the trust issued 
+22 
+pursuant to authorization of P.L.1985, c.334 (C.58:11B-1 et seq.), 
+23 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+24 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+25 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) 
+26 
+, or P.L.    , c.   (C.      ) (pending before the Legislature as this bill) 
+27 
+that the State shall not limit or alter the rights or powers vested in the 
+28 
+trust to perform and fulfill the terms of any agreement made with the 
+29 
+holders of the bonds, notes or other obligations or to fix, establish, 
+30 
+charge and collect any rents, fees, rates, payments or other charges 
+31 
+as may be convenient or necessary to produce sufficient revenues to 
+32 
+meet all expenses of the trust and to fulfill the terms of any agreement 
+33 
+made with the holders of bonds, notes or other obligations, including 
+34 
+the obligations to pay the principal of and interest and premium on 
+35 
+those bonds, notes or other obligations, with interest on any unpaid 
+36 
+installments of interest, and all costs and expenses in connection with 
+37 
+any action or proceedings by or on behalf of the holders, and shall 
+38 
+not limit or alter the rights and powers of any local government unit 
+39 
+or State entity, as applicable, to pay and perform its obligations owed 
+40 
+to the trust in connection with loans received from the trust, until the 
+41 
+bonds, notes and other obligations of the trust, together with interest 
+42 
+thereon, are fully met and discharged or provided for. 
+43 
+(cf: P.L.2016, c.56, s.25) 
+ 
+44 
+
+
+=== Page 38 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+38 
+ 
+ 
+ 
+17. Section 15 of P.L.1985, c.334 (C.58:11B-15) is amended to 
+1 
+read as follows: 
+2 
+ 
+15. The State and all public officers, governmental units and 
+3 
+agencies thereof, all banks, trust companies, savings banks and 
+4 
+institutions, building and loan associations, savings and loan 
+5 
+associations, investment companies, and other persons carrying on a 
+6 
+banking business, all insurance companies, insurance associations 
+7 
+and other persons carrying on an insurance business, and all 
+8 
+executors, administrators, guardians, trustees and other fiduciaries 
+9 
+may legally invest any sinking funds, moneys or other funds 
+10 
+belonging to them or within their control in any bonds, notes or other 
+11 
+obligations issued pursuant to P.L.1985, c.334 (C.58:11B-1 et seq.), 
+12 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+13 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+14 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+15 
+or P.L.    , c.   (C.      ) (pending before the Legislature as this bill), 
+16 
+and those bonds, notes or other obligations shall be authorized 
+17 
+security for any and all public deposits. 
+18 
+(cf: P.L.2016, c.56, s.26) 
+19 
+ 
+20 
+ 
+18. Section 17 of P.L.1985, c.334 (C.58:11B-17) is amended to 
+21 
+read as follows: 
+22 
+ 
+17. All property of the trust is declared to be public property 
+23 
+devoted to an essential public and governmental function and purpose 
+24 
+and the revenues, income and other moneys received or to be received 
+25 
+by the trust shall be exempt from all taxes of the State or any political 
+26 
+subdivision thereof.  All bonds, notes and other obligations of the 
+27 
+trust issued pursuant to P.L.1985, c.334 (C.58:11B-1 et seq.), 
+28 
+P.L.1997, c.224 (C.58:11B-10.1 et al.), [or] sections 22 and 34 
+29 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+30 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+31 
+or P.L.    , c.   (C.      ) (pending before the Legislature as this bill) 
+32 
+are declared to be issued by a body corporate and politic of the State 
+33 
+and for an essential public and governmental purpose and those 
+34 
+bonds, notes and other obligations, and interest thereon and the 
+35 
+income therefrom and from the sale, exchange or other transfer 
+36 
+thereof shall at all times be exempt from taxation, except for transfer 
+37 
+inheritance and estate taxes. 
+38 
+(cf: P.L.2016, c.56, s.27) 
+39 
+ 
+40 
+ 
+19.  Section 18 of P.L.1985, c.334 (C.58:11B-18) is amended to 
+41 
+read as follows: 
+42 
+ 
+18.  a.  If the trust defaults in the payment of principal of, or 
+43 
+interest on, any issue of its bonds, notes or other obligations after 
+44 
+these are due, whether at maturity or upon call for redemption, and 
+45 
+the default continues for a period of 30 days or if the trust defaults in 
+46 
+any agreement made with the holders of any issue of bonds, notes or 
+47 
+other obligations, the holders of 25 percent in aggregate principal 
+48 
+
+
+=== Page 39 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+39 
+ 
+ 
+amount of the bonds, notes or other obligations of the issue then 
+1 
+outstanding, by instrument or instruments filed in the office of the 
+2 
+clerk of any county in which the trust operates and has an office and 
+3 
+proved or acknowledged in the same manner as required for a deed 
+4 
+to be recorded, may direct a trustee to represent the holders of the 
+5 
+bonds, notes or other obligations of the issuers for the purposes 
+6 
+herein provided. 
+7 
+ 
+b. Upon default, the trustee may, and upon written request of the 
+8 
+holders of 25 percent in principal amount of the bonds, notes or other 
+9 
+obligations of the trust of a particular issue then outstanding shall, in 
+10 
+the trustee's own name: 
+11 
+ 
+(1) By suit, action or proceeding enforce all rights of the holders 
+12 
+of bonds, notes or other obligations of the issue, to require the trust 
+13 
+to carry out any other agreements with the holders of the bonds, notes 
+14 
+or other obligations of the issue and to perform its duties under 
+15 
+P.L.1985, 
+c.334 
+(C.58:11B-1 
+et 
+seq.), 
+P.L.1997, 
+c.224  
+16 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+17 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+18 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or P.L.    ,  
+19 
+c.   (C.      ) (pending before the Legislature as this bill) ; 
+20 
+ 
+(2) Bring suit upon the bonds, notes or other obligations of the 
+21 
+issue; 
+22 
+ 
+(3) By action or suit, require the trust to account as if it were the 
+23 
+trustee of an express trust for the holders of the bonds, notes or other 
+24 
+obligations of the issue; 
+25 
+ 
+(4) By action or suit, enjoin any acts or things which may be 
+26 
+unlawful or in violation of the rights of the holders of the bonds, notes 
+27 
+or other obligations of the issue; 
+28 
+ 
+(5) Sell or otherwise dispose of bonds and notes of local 
+29 
+government units , or State entities, as applicable, pledged pursuant 
+30 
+to resolution or trust indenture for benefit of holders of bonds, notes, 
+31 
+or other obligations of the issue on any terms as resolution or trust 
+32 
+indenture may provide; 
+33 
+ 
+(6) By action or suit, foreclose any mortgage pledged pursuant to 
+34 
+the resolution or trust indenture for the benefit of the holders of the 
+35 
+bonds, notes or other obligations of the issue; 
+36 
+ 
+(7) Declare all bonds, notes or other obligations of the issue due 
+37 
+and payable, and if all defaults are made good, then with the consent 
+38 
+of the holders of 50 percent of the principal amount of the bonds, 
+39 
+notes or other obligations of the issue then outstanding, to annul the 
+40 
+declaration and its consequences. 
+41 
+ 
+c. 
+The trustee shall, in addition to the foregoing, have those 
+42 
+powers necessary or appropriate for the exercise of any function 
+43 
+specifically set forth herein or incident to the general representation 
+44 
+of holders of bonds, notes or other obligations of the trust in the 
+45 
+enforcement and protection of their rights. 
+46 
+ 
+d. The Superior Court shall have jurisdiction over any suit, 
+47 
+action or proceeding by the trustees on behalf of the holders of bonds, 
+48 
+
+
+=== Page 40 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+40 
+ 
+ 
+notes or other obligations of the trust. The venue of any suit, action 
+1 
+or proceeding shall be in the county in which the principal office of 
+2 
+the trust is located. 
+3 
+ 
+e. 
+Before declaring the principal of bonds, notes or other 
+4 
+obligations of the trust due and payable as a result of a trust default 
+5 
+on any of its bonds, notes or other obligations, the trustee shall first 
+6 
+give 30 days' notice in writing to the trust and to the Governor, State 
+7 
+Treasurer, President of the Senate and Speaker of the General 
+8 
+Assembly. 
+9 
+(cf: P.L.2016, c.56, s.28) 
+10 
+ 
+11 
+ 
+20. Section 19 of P.L.1985, c.334 (C.58:11B-19) is amended to 
+12 
+read as follows: 
+13 
+ 
+19. Sums of money received pursuant to the authority of 
+14 
+P.L.1985, 
+c.334 
+(C.58:11B-1 
+et 
+seq.), 
+P.L.1997, 
+c.224  
+15 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+16 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+17 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), or P.L.    ,  
+18 
+c.   (C.      ) (pending before the Legislature as this bill), whether as 
+19 
+proceeds from the sale of particular bonds, notes or other obligations 
+20 
+of the trust or as particular revenues or receipts of the trust, are 
+21 
+deemed to be trust funds, to be held and applied solely as provided 
+22 
+in the resolution or trust indenture under which the bonds, notes or 
+23 
+obligations are authorized or secured.  Any officer with whom or any 
+24 
+bank or trust company with which those sums of money are deposited 
+25 
+as trustee thereof shall hold and apply the same for the purposes 
+26 
+thereof, subject to any provision as the aforementioned acts and the 
+27 
+resolution or trust indenture authorizing or securing the bonds, notes 
+28 
+or other obligations of the trust may provide. 
+29 
+(cf: P.L.2016, c.56, s.29) 
+30 
+  
+31 
+ 
+21. Section 23 of P.L.1985, c.334 (C.58:11B-23) is amended to 
+32 
+read as follows: 
+33 
+ 
+23. a.  No funds from State sources or State bond issues used to 
+34 
+capitalize the trust shall be available for use by the trust unless 
+35 
+appropriated by law to the trust. 
+36 
+ 
+b. No funds shall be expended by the trust for its annual 
+37 
+operating expenses unless appropriated by law to the trust.  Unless 
+38 
+required to be otherwise applied pursuant to law, funds generated by 
+39 
+the operation of the trust, including, but not limited to:  proceeds from 
+40 
+the sale of the trust's bonds, notes or other obligations; revenues 
+41 
+derived from investments by the trust; loan repayments from local 
+42 
+government units; and fees and charges levied by the trust, may 
+43 
+thereafter be applied in accordance with the provisions of P.L.1985, 
+44 
+c.334 (C.58:11B-1 et seq.), P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+45 
+[or] sections 22 and 34 through 38 of P.L.2016, c.56 (C.58:11B-10.3 
+46 
+through 
+C.58:11B-10.5, 
+C.58:11B-20.2, 
+C.58:11B-22.3, 
+and 
+47 
+C.58:11B-22.4) , or P.L.    , c.   (C.      ) (pending before the 
+48 
+
+
+=== Page 41 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+41 
+ 
+ 
+Legislature as this bill), for any corporate purpose of the trust without 
+1 
+appropriation; except that the funds shall only be used to make loans 
+2 
+or guarantees approved by the Legislature in accordance with the 
+3 
+provisions of sections 20, 21, and 22 of P.L.1985, c.334  
+4 
+(C.58:11B-20, C.58:11B-21 and C.58:11B-22), sections 24, 25, and 
+5 
+26 of P.L.1997, c.224 (C.58:11B-20.1, C.58:11B-21.1 and  
+6 
+C.58:11B-22.1), [or] sections 35 through 37 of P.L.2016, c.56 
+7 
+(C.58:11B-10.5, C.58:11B-20.2, and C.58:11B-22.3) , or P.L.    , 
+8 
+c.   (C.      ) (pending before the Legislature as this bill). 
+9 
+ 
+c. 
+The trust shall not apply for federal funds, including funds 
+10 
+which are authorized pursuant to the "Federal Water Pollution 
+11 
+Control Act Amendments of 1972," Pub.L. 92-500 (33 U.S.C. s.1251 
+12 
+et seq.), and any amendatory or supplementary acts thereto, except 
+13 
+the trust is expressly authorized to apply, in consultation with the 
+14 
+Department of Environmental Protection, for funds under the "Water 
+15 
+Infrastructure Finance and Innovation Act," (WIFIA) 33 U.S.C. 
+16 
+s.3901 et seq. as amended or superseded, with notice to the 
+17 
+Department of Transportation, for funds under the Transportation 
+18 
+Infrastructure Finance and Innovation Act (TIFIA) 23 U.S.C. 601 
+19 
+through 23 U.S.C. 609 as amended or superseded, and provisions of 
+20 
+the Moving Ahead for Progress in the 21st Century Act (MAP-21) 
+21 
+Pub. L. 112-141, the Fixing America's Surface Transportation Act 
+22 
+(FAST Act) Pub. L. 114-94, the Transportation Equity Act for the 
+23 
+21st Century (TEA-21) Pub. L. 105-178, the Safe, Accountable, 
+24 
+Flexible and Efficient Transportation Equity Act: a Legacy for User 
+25 
+("SAFETEA-LU") Pub. L. 109-59, and the Rail Safety Improvement 
+26 
+Act of 2008 Pub. L. 110-432, or any subsequent law concerning 
+27 
+federal surface transportation programs as applicable. 
+28 
+ 
+The trust, with the concurrence of the Commissioner of 
+29 
+Environmental Protection, may receive, accept or utilize moneys 
+30 
+received from local government units as repayments of principal and 
+31 
+interest on loans made from the State Revolving Fund Accounts 
+32 
+established pursuant to section 1 of P.L.1988, c.133. 
+33 
+ 
+Repayments of principal and interest on all federal funds for which 
+34 
+the New Jersey Infrastructure Bank is expressly permitted to apply 
+35 
+shall be the responsibility of the borrowers of New Jersey 
+36 
+Infrastructure Bank loans issued utilizing those federal funds, and in 
+37 
+no way shall it be the responsibility of the State of New Jersey or the 
+38 
+Department of Transportation. 
+39 
+(cf: P.L.2019, c.516, s.6) 
+40 
+ 
+41 
+ 
+22.  Section 25 of P.L.1985, c.334 (C.58:11B-25) is amended to 
+42 
+read as follows: 
+43 
+ 
+25.  The trust shall establish the rules and regulations governing 
+44 
+the making and use of loans or guarantees, including, but not limited 
+45 
+to, procedures for the submission of loan guarantee requests, 
+46 
+standards for the evaluation of requests, provisions implementing 
+47 
+priority systems for projects, reporting requirements of the recipient 
+48 
+
+
+=== Page 42 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+42 
+ 
+ 
+of any loan or guarantee concerning the progress and the expenditure 
+1 
+of funds, and limitations, restrictions or requirements concerning the 
+2 
+use of loan funds as the trust shall prescribe; provided that the rules 
+3 
+and regulations shall be in compliance with the terms and provisions 
+4 
+of P.L.1985, c.334 (C.58:11B-1 et seq.), P.L.1997, c.224  
+5 
+(C.58:11B-10.1 et al.), [or] sections 22 and 34 through 38 of 
+6 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through 
+C.58:11B-10.5,  
+7 
+C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4) , or P.L.    ,  
+8 
+c.   (C.      ) (pending before the Legislature as this bill), relating to 
+9 
+the making of or eligibility for loans or guarantees for environmental 
+10 
+infrastructure projects generally or for any particular type or class of 
+11 
+wastewater treatment system or water supply projects. 
+12 
+(cf: P.L.2016, c.56, s.31) 
+13 
+ 
+14 
+ 
+23.  Section 27 of P.L.1985, c.334 (C.58:11B-27) is amended to 
+15 
+read as follows: 
+16 
+ 
+27.  The trust shall adopt such rules and regulations as it deems 
+17 
+necessary 
+to 
+effectuate the 
+purposes of 
+P.L.1985, 
+c.334  
+18 
+(C.58:11B-1 et seq.) or P.L.1997, c.224 (C.58:11B-10.1 et al.), 
+19 
+including those required pursuant to sections 25 and 26 of P.L.1985, 
+20 
+c.334 (C.58:11B-25 and C.58:11B-26), [and] sections 22 and 34 
+21 
+through 
+38 
+of 
+P.L.2016, 
+c.56 
+(C.58:11B-10.3 
+through  
+22 
+C.58:11B-10.5, C.58:11B-20.2, C.58:11B-22.3, and C.58:11B-22.4), 
+23 
+and P.L.    , c.   (C.      ) (pending before the Legislature as this bill), 
+24 
+in accordance with the "Administrative Procedure Act," P.L.1968, 
+25 
+c.410 (C.52:14B-1 et seq.). 
+26 
+(cf: P.L.2016, c.56, s.33)  
+27 
+ 
+28 
+ 
+24. (New section)  a.  The board shall order each electric public 
+29 
+utility, beginning 120 days after the effective date of P.L.    , 
+30 
+c.   (C.        )(pending before the Legislature as this bill), to charge 
+31 
+and collect from each retail distribution customer a non-bypassable, 
+32 
+irrevocable charge in the amount of $0.0003 per kilowatt-hour sold 
+33 
+to the customer.  Revenues collected by each electric public utility 
+34 
+from the non-bypassable, irrevocable charge shall be remitted to the 
+35 
+State Treasurer for deposit into the State Climate Change Mitigation 
+36 
+and Resilience Bank Fund established pursuant to section 11 of 
+37 
+P.L.    , c.   (C.        )(pending before the Legislature as this bill) and 
+38 
+used solely for the purposes of that fund.    
+39 
+ 
+b. The charge imposed pursuant to subsection a. of this section 
+40 
+shall decrease to:  
+41 
+ 
+(1) $0.0002 per kilowatt-hour sold upon certification by the 
+42 
+President of the Board of Public Utilities that 50 percent of the 
+43 
+kilowatt hours sold in the State by each electric power supplier and 
+44 
+each basic generation service provider are from Class I and Class II 
+45 
+renewable energy sources;  
+46 
+ 
+(2) $0.0001 per kilowatt-hour sold upon certification by the 
+47 
+President of the Board of Public Utilities that 75 percent of the 
+48 
+
+
+=== Page 43 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+43 
+ 
+ 
+kilowatt hours sold in the State by each electric power supplier and 
+1 
+each basic generation service provider are from Class I and Class II 
+2 
+renewable energy sources.  
+3 
+ 
+c. 
+The charge imposed pursuant to subsection a. of this section 
+4 
+shall become inoperative upon certification by the President of the 
+5 
+Board of Public Utilities that 100 percent of the kilowatt hours sold 
+6 
+in the State by each electric power supplier and each basic generation 
+7 
+service provider are from Class I and Class II renewable energy 
+8 
+sources.  Any certification made by the President of the Board of 
+9 
+Public Utilities pursuant to this section shall take the form of a board 
+10 
+order issued pursuant to R.S.48:2-40.   
+11 
+ 
+12 
+ 
+25. This act shall take effect immediately. 
+13 
+ 
+14 
+ 
+15 
+STATEMENT 
+16 
+ 
+17 
+ 
+This bill would establish the Climate Change Mitigation and 
+18 
+Resilience Financing Program in the New Jersey Infrastructure Bank 
+19 
+(NJIB) and impose a per-kilowatt hour charge on electric public 
+20 
+utility customers to finance the program.   
+21 
+ 
+The purpose of the program would be to provide low interest loans 
+22 
+and other financial assistance, through the NJIB, for climate change 
+23 
+mitigation and resilience projects. Under the bill, “climate change 
+24 
+mitigation project” means a project whose primary purpose is the 
+25 
+construction, development, or production of energy sources, 
+26 
+infrastructure, land management techniques, or technologies that 
+27 
+eliminate, reduce, or sequester greenhouse gas emissions in the State.  
+28 
+Climate change mitigation projects would include Class I or Class II 
+29 
+renewable energy sources, community solar projects, energy 
+30 
+efficiency improvements, energy storage, zero-emission vehicle 
+31 
+infrastructure, zero-emission public transportation, carbon capture 
+32 
+and sequestration technologies, reforestation of degraded land, or 
+33 
+wetlands preservation and restoration.  “Climate change resilience 
+34 
+project” means an infrastructure project whose primary purpose is to 
+35 
+protect human health, safety, the environment, or public 
+36 
+infrastructure from the adverse effects of climate change including 
+37 
+drought, sea level rise, extreme weather events, and harmful algal 
+38 
+blooms.  Climate change resilience projects would include sea 
+39 
+barriers or other flood protection projects; water storage systems; the 
+40 
+removal, relocation, or redesign of public infrastructure; and projects 
+41 
+to mitigate harmful algal blooms.    
+42 
+ 
+The NJIB would be authorized to make both short-term and long-
+43 
+term loans to finance climate change mitigation and resilience 
+44 
+projects, and to issue bonds, notes, or other obligations to fund the 
+45 
+program.  Under the bill, the NJIB would be required to issue one or 
+46 
+more separate series of bonds to be known as “New Jersey Climate 
+47 
+Bonds.”  Proceeds from the bonds would be deposited into the State 
+48 
+
+
+=== Page 44 ===
+ 
+A1461 KARABINCHAK, KENNEDY 
+44 
+ 
+ 
+Climate Change Mitigation and Resilience Bank Fund, established 
+1 
+under the bill, and used to finance climate change mitigation and 
+2 
+resilience projects and for other costs associated with the financing 
+3 
+program.  Issuance of New Jersey Climate Bonds would be subject 
+4 
+to existing laws concerning bonding, except that the trust would, to 
+5 
+the greatest extent practicable, be required to make the bonds 
+6 
+available for sale to individual investors, rather than institutional 
+7 
+investors, and in denominations suitable for such sales.    
+8 
+ 
+The Department of Environmental Protection (DEP) and the 
+9 
+Board of Public Utilities (BPU) would be responsible for developing 
+10 
+a priority system, ranking criteria, and funding policies for climate 
+11 
+change mitigation and resilience projects financed under the bill.  The 
+12 
+DEP and the BPU would also be responsible for developing an annual 
+13 
+project priority list to be submitted for approval by the State 
+14 
+Legislature.  The DEP would prioritize projects that have the largest 
+15 
+impact on protecting human health, safety, the environment, and 
+16 
+critical infrastructure in the State from the adverse effects of climate 
+17 
+change; reducing the State’s greenhouse gas emissions; and meeting 
+18 
+the State’s clean energy goals.    
+19 
+ 
+The financing program would be funded by a non-bypassable, 
+20 
+irrevocable charge imposed on the customers of each electric public 
+21 
+utility in the State.  Beginning 120 days after the effective date of the 
+22 
+bill, the charge would be $0.0003 per kilowatt-hour sold to each 
+23 
+customer.  However, the charge would decrease over time as the State 
+24 
+meets certain renewable energy targets established in law.  The 
+25 
+charge would phase out completely upon certification by the BPU 
+26 
+that 100 percent of the kilowatt hours sold in the State are from Class 
+27 
+I and Class II renewable energy sources.     
+28 

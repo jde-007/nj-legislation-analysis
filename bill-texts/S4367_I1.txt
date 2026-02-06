@@ -1,0 +1,1116 @@
+=== Page 1 ===
+  
+SENATE, No. 4367  
+STATE OF NEW JERSEY 
+221st LEGISLATURE 
+   
+INTRODUCED MAY 12, 2025 
+ 
+ 
+Sponsored by: 
+Senator  JOHN J. BURZICHELLI 
+District 3 (Cumberland, Gloucester and Salem) 
+ 
+ 
+ 
+ 
+SYNOPSIS 
+ 
+Establishes requirements and prohibitions for sale and distribution of certain 
+products containing intentionally added perfluoroalkyl and polyfluoroalkyl 
+substances.  
+ 
+CURRENT VERSION OF TEXT  
+ 
+As introduced. 
+    
+
+
+=== Page 2 ===
+ 
+S4367 BURZICHELLI 
+2 
+ 
+ 
+AN ACT concerning perfluoroalkyl and polyfluoroalkyl substances 
+1 
+and supplementing Title 13 of the Revised Statutes. 
+2 
+ 
+3 
+ 
+BE IT ENACTED by the Senate and General Assembly of the State 
+4 
+of New Jersey: 
+5 
+ 
+6 
+ 
+1.  As used in this act: 
+7 
+ 
+“Apparel” means (1) clothing items intended for regular wear or 
+8 
+formal occasions, including, but not limited to, undergarments, 
+9 
+shirts, pants, skirts, dresses, overalls, bodysuits, costumes, vests, 
+10 
+dancewear, suits, saris, scarves, tops, leggings, school uniforms, 
+11 
+leisurewear, athletic wear, sports uniforms, everyday swimwear, 
+12 
+formal wear, onesies, bibs, diapers, footwear, and everyday 
+13 
+uniforms or work-wear; and (2) outdoor apparel. 
+14 
+ 
+“Architectural fabric structure” means a permanent fabric 
+15 
+structure that is intrinsic to a building’s design or construction. 
+16 
+ 
+“Carpet” means any covered product that is made from natural or 
+17 
+synthetic fabric that is marketed or intended for indoor use as a 
+18 
+floor covering. “Carpet” includes door mats intended for indoor use. 
+19 
+ 
+“Class B firefighting foam” means the same as the term is 
+20 
+defined in subsection k. of section 1 of P.L.2023, c.243 (C.56:8-
+21 
+229). 
+22 
+ 
+“Commissioner” means the Commissioner of Environmental 
+23 
+Protection. 
+24 
+ 
+“Covered product” means an item manufactured, assembled, 
+25 
+packaged or otherwise prepared for sale to consumers and intended 
+26 
+for personal or residential use.  “Covered product” does not include: 
+27 
+ 
+(1)  a product used in a manner that has been approved or 
+28 
+authorized by a federal or State agency, including: 
+29 
+ 
+(a)  drugs, medical devices, biologics,  or diagnostics approved 
+30 
+or authorized by the federal Food and Drug Administration or the 
+31 
+United States Department of Agriculture or otherwise subject to 
+32 
+regulation under the federal “Food, Drug, and Cosmetic Act” (21 
+33 
+U.S.C. s.301 et seq.); 
+34 
+ 
+(b)  packaging for drugs, medical devices, biologics, or 
+35 
+diagnostics or non-pulp based packaging for food approved or 
+36 
+authorized by the federal Food and Drug Administration or the 
+37 
+United States Department of Agriculture or is otherwise in scope of 
+38 
+the federal “Food, Drug, and Cosmetic Act” (21 U.S.C. s.301 et 
+39 
+seq.); 
+40 
+ 
+(c)  products registered or authorized for use under the “Federal 
+41 
+Insecticide, Fungicide, and Rodenticide Act” (7 U.S.C. s.136 et 
+42 
+seq.); 
+43 
+ 
+(d)  substances designated by rulemaking or otherwise as 
+44 
+acceptable substitutes in specific uses under the United States 
+45 
+Environmental Protection Agency’s Significant New Alternatives 
+46 
+Policy (SNAP) program, or substitutes needed to execute the 
+47 
+
+
+=== Page 3 ===
+ 
+S4367 BURZICHELLI 
+3 
+ 
+ 
+“American Innovation and Manufacturing (AIM) Act” (42 U.S.C. 
+1 
+s.7675); or 
+2 
+ 
+(e)  finished products certified or regulated by the federal 
+3 
+Aviation Administration or the Department of Defense, or both, 
+4 
+when used in a manner that was certified or regulated by such 
+5 
+agencies, including parts, materials, and processes when used to 
+6 
+manufacture or maintain such regulated or certified finished 
+7 
+products; 
+8 
+ 
+(2)  polymeric substances for which the main chain (backbone) 
+9 
+of the polymer is either a per- or poly-fluorinated carbon-only 
+10 
+backbone or a perfluorinated polyether backbone; 
+11 
+ 
+(3)  items that are required by federal or State laws and 
+12 
+regulations; 
+13 
+ 
+(4)  a used product offered for sale or resale; 
+14 
+ 
+(5)  motorized vehicles, including on and off-highway vehicles, 
+15 
+such as all-terrain vehicles, motorcycles, side-by-side vehicles, farm 
+16 
+equipment, construction equipment, and personal assistive mobility 
+17 
+devices;  
+18 
+ 
+(6)  inaccessible electronic components of a product;  
+19 
+ 
+(7)  cooling, heating, ventilation, air conditioning, and 
+20 
+refrigeration equipment, components, and servicing needs;  
+21 
+ 
+(8)  dielectric heat transfer fluids for immersion cooling of 
+22 
+electronic components;  
+23 
+ 
+(9)  infrastructure, devices, and other equipment used to transmit 
+24 
+voice, video, and data via broadcasting, cable, satellite, wireless, 
+25 
+wireline networks, or other means;  
+26 
+ 
+(10)  products used for the generation and distribution of 
+27 
+electricity; and 
+28 
+ 
+(11)  personal protective equipment. 
+29 
+ 
+“Cookware” means durable houseware items that are used in 
+30 
+homes and restaurants to prepare, dispense, or store food, 
+31 
+foodstuffs, or beverages. “Cookware” includes, but is not limited to, 
+32 
+pots, pans, skillets, grills, baking sheets, baking molds, trays, 
+33 
+bowls, and cooking utensils. 
+34 
+ 
+“Cosmetic” means a product that is intended to be rubbed, 
+35 
+poured, sprinkled, or sprayed on, introduced into, or otherwise 
+36 
+applied to the human body or any part thereof for cleansing, 
+37 
+beautifying, promoting attractiveness, or altering the appearance. 
+38 
+“Cosmetic” includes, but is not limited to, skin moisturizer, 
+39 
+perfume, lipstick, nail polish, eye or facial makeup preparation, 
+40 
+shampoo, conditioner, permanent wave products, hair dye, and 
+41 
+deodorant. “Cosmetic” does not include a product that requires a 
+42 
+prescription for distribution or dispensation or hydrofluorocarbons 
+43 
+or hydrofluoroolefins used as propellants in cosmetics. 
+44 
+ 
+“Department” 
+means 
+the 
+Department 
+of 
+Environmental 
+45 
+Protection. 
+46 
+ 
+“Fabric treatment” means a product applied by a consumer to a 
+47 
+finished fabric to give the fabric stain resistance and water 
+48 
+
+
+=== Page 4 ===
+ 
+S4367 BURZICHELLI 
+4 
+ 
+ 
+resistance characteristics.  “Fabric treatment” does not include 
+1 
+hydrofluorocarbons or hydrofluoroolefins used as propellants in 
+2 
+fabric treatments. 
+3 
+ 
+“Feminine hygiene products” means a product used to collect 
+4 
+menstrual and vaginal discharge, including tampons, pads, sponges, 
+5 
+menstrual underwear, disks, applicators, and menstrual cups, 
+6 
+whether disposable or reusable. 
+7 
+ 
+“Food packaging” means a nondurable package, packaging 
+8 
+component, or food serviceware that is intended to contain, serve, 
+9 
+store, handle, protect, or market food, foodstuffs, or beverages, and 
+10 
+is composed, in substantial part, of paper, paperboard, or other 
+11 
+materials originally derived from plant fibers. “Food packaging” 
+12 
+includes food or beverage containers, take-out food containers, unit 
+13 
+product boxes, liners, wrappers, serving vessels, eating utensils, 
+14 
+straws, food boxes, and disposable plates, bowls, or trays. 
+15 
+ 
+“Intentionally added PFAS” means PFAS added to a product or 
+16 
+one of the product's components to provide a specific characteristic, 
+17 
+appearance, or quality or to perform a specific function.  
+18 
+“Intentionally added PFAS” also includes any degradation 
+19 
+byproducts of PFAS. 
+20 
+ 
+“Juvenile product” means a product designed for use by infants 
+21 
+or children under the age of twelve. “Juvenile product” includes, 
+22 
+but is not limited to: bassinets and other bedside sleepers; booster 
+23 
+seats, car seats or other child restraint systems; changing pads; co-
+24 
+sleepers; crib or toddler mattresses; floor play matts; highchairs and 
+25 
+highchair pads; infant bouncers; infant carriers; infant or toddler 
+26 
+foam pillows; infant seats; infant sleep positioners; infant swings; 
+27 
+infant travel beds; infant walkers; nap cots; nursing pads and 
+28 
+pillows; play matts; playpens; play yards; foam matts, pads, or 
+29 
+pillows; portable foam nap matts; portable infant sleepers and hook-
+30 
+on chairs; soft-sided portable cribs; and strollers. “Juvenile product” 
+31 
+does not include: electronic products; including personal computers 
+32 
+and any associated equipment audio and video equipment; 
+33 
+calculators; wireless phones; gaming consoles; handheld devices 
+34 
+incorporating a video screen and any associated peripheral device 
+35 
+such as a mouse, keyboard, power supply unit, or power cord; an 
+36 
+internal component of a juvenile product that would not come into 
+37 
+direct contact with a child’s skin or mouth during reasonably 
+38 
+foreseeable use and abuse of the product; apparel; adult mattresses; 
+39 
+or sports equipment and accessories. 
+40 
+ 
+“Manufacturer” means the person that manufactures a product or 
+41 
+whose brand name is affixed to the product.  In the case of a 
+42 
+product imported into the United States, “manufacturer” includes 
+43 
+the importer or first domestic distributor of the product if the person 
+44 
+that manufactured or assembled the product or whose brand name is 
+45 
+affixed to the product does not have a presence in the United States. 
+46 
+ 
+“Outdoor apparel” means apparel that is intended primarily for 
+47 
+outdoor activities. 
+48 
+
+
+=== Page 5 ===
+ 
+S4367 BURZICHELLI 
+5 
+ 
+ 
+ 
+“Outdoor apparel designed for severe wet conditions” means 
+1 
+outdoor apparel designed for persons who engage in outdoor sports 
+2 
+not marketed for general consumer use to provide health and safety 
+3 
+protection against extended exposure to extreme rain conditions or 
+4 
+against extended immersion in water or wet conditions, such as 
+5 
+from snow.  “Apparel” shall not include personal protective 
+6 
+equipment or clothing items for exclusive use by the United States 
+7 
+military. 
+8 
+ 
+“Perfluoroalkyl and polyfluoroalkyl substances” or “PFAS” 
+9 
+means 
+non-polymeric 
+perfluoralkyl 
+substances, 
+saturated 
+10 
+polyfluoroalkyl substances, and side-chain fluorinated polymers 
+11 
+that contain at least two fully fluorinated sequential carbon atoms, 
+12 
+excluding gases and substances that become gases in use that are 
+13 
+regulated under various state, federal, and international programs. 
+14 
+ 
+“Personal protective equipment” means equipment worn to 
+15 
+minimize exposure to hazards that cause serious workplace injuries 
+16 
+and illnesses that may result from contact with chemical, 
+17 
+radiological, physical, biological, electrical, mechanical, or other 
+18 
+workplace or professional hazards. 
+19 
+ 
+“Ski wax” means a lubricant applied to the bottom of snow 
+20 
+runners, including, but not limited to, skis and snowboards, to 
+21 
+improve their grip or glide properties. “Ski wax” includes related 
+22 
+tuning products. 
+23 
+ 
+“Testing facility” means a location that allows for the discharge 
+24 
+of firefighting foam in non-emergency situations for the evaluation 
+25 
+of and calibration of firefighting equipment and firefighting foam. 
+26 
+ 
+“Textile” means any item made in whole or in part from a 
+27 
+natural, manmade, or synthetic fiber, yarn, or fabric, and includes, 
+28 
+but is not limited to, leather, cotton, silk, jute, hemp, wool, viscose, 
+29 
+nylon, or polyester. “Textile” shall not include single-use paper 
+30 
+hygiene products, including, but not limited to, toilet paper, paper 
+31 
+towels or tissues, or single-use absorbent hygiene products. 
+32 
+ 
+“Textile articles” means textile goods of a type customarily and 
+33 
+ordinarily used in households and businesses. “Textile articles” 
+34 
+includes, but is not limited to, apparel, accessories, handbags, 
+35 
+backpacks, draperies, shower curtains, furnishings, upholstery, 
+36 
+bedding, towels, napkins, and tablecloths.  “Textile articles” does 
+37 
+not include carpets and rugs; treatments containing PFAS for use on 
+38 
+converted textiles or leathers; a vehicle, including, but not limited 
+39 
+to, an off-highway motor vehicle, or its component parts; a vessel, 
+40 
+or its component parts, such as boat covers; filtration media and its 
+41 
+filter products used in industrial applications, including, but not 
+42 
+limited to, chemical or pharmaceutical manufacturing and 
+43 
+environmental control applications; textile articles used in or for 
+44 
+laboratory analysis and testing; an aircraft or its component parts; 
+45 
+stadium shades or other architectural fabric structures; articles 
+46 
+intended to provide a barrier against biological fluids and other 
+47 
+infections, such as medical gowns an caps, surgical drapes and 
+48 
+
+
+=== Page 6 ===
+ 
+S4367 BURZICHELLI 
+6 
+ 
+ 
+covers, hospital linens, wound care pads and dressings, and surgical 
+1 
+hosiery; and personal protective equipment. 
+2 
+ 
+3 
+ 
+2.  a.  Beginning three years after the effective date of this act, no 
+4 
+person shall sell, offer for sale, or distribute for sale in the State the 
+5 
+following covered products containing intentionally added PFAS: 
+6 
+ 
+(1)  apparel; 
+7 
+ 
+(2)  carpet; 
+8 
+ 
+(3)  fabric treatment; 
+9 
+ 
+(4)  cosmetics; 
+10 
+ 
+(5)  food packaging; 
+11 
+ 
+(6)  juvenile products; 
+12 
+ 
+(7)  feminine hygiene products; 
+13 
+ 
+(8)  ski wax; and 
+14 
+ 
+(9)  textile articles. 
+15 
+ 
+b.  Beginning two years after the effective date of this act, except 
+16 
+as provided in subsection c. of this section, no person shall sell, 
+17 
+offer for sale, or distribute for sale any new, not previously used, 
+18 
+outdoor apparel designed for severe wet conditions containing 
+19 
+intentionally added PFAS unless the outdoor apparel designed for 
+20 
+severe wet conditions is labeled with a legible and easily 
+21 
+discernable notification that reads “Made with PFAS” to inform 
+22 
+consumers that the product contains PFAS.  The labeling 
+23 
+requirements of this section shall also be required for online listings 
+24 
+of outdoor apparel designed for severe wet conditions. 
+25 
+ 
+c.  Beginning five years after the effective date of this act, no 
+26 
+person shall sell, offer for sale, or distribute for sale in the State 
+27 
+outdoor apparel designed for severe wet conditions containing 
+28 
+intentionally added PFAS. 
+29 
+ 
+30 
+ 
+3.  a.  Beginning one year after the effective date of this act, a 
+31 
+manufacturer of cookware sold in the State that contains 
+32 
+intentionally added PFAS in the handle of the product or in any 
+33 
+product surface that comes into contact with food, foodstuffs, or 
+34 
+beverages shall list the presence of PFAS on the product label. The 
+35 
+product label of a cookware product containing intentionally added 
+36 
+PFAS shall include a statement, in both English and Spanish, that 
+37 
+reads: “This product contains PFAS.”  The product label shall also 
+38 
+include the phrase “For more information about PFAS in the 
+39 
+product, please visit” followed by the following information: 
+40 
+ 
+(1)  an internet web site address for a web page that provides 
+41 
+information about the reasons that PFAS are intentionally added to 
+42 
+the product; and  
+43 
+ 
+(2)  a quick response (QR) code or other machine-readable code, 
+44 
+consisting of an array of squares, used for storing the internet 
+45 
+website for the web page established pursuant to paragraph (1) of 
+46 
+this subsection. 
+47 
+
+
+=== Page 7 ===
+ 
+S4367 BURZICHELLI 
+7 
+ 
+ 
+ 
+b.  A manufacturer of cookware sold in the State shall ensure that 
+1 
+the statement required on the product label pursuant to subsection a. 
+2 
+of this section is visible and legible to the consumer, including on 
+3 
+the product listing for online sales. 
+4 
+ 
+c.  Cookware that meets both of the following requirements shall 
+5 
+be exempt from the requirements of this section: 
+6 
+ 
+(1)  the surface area of the cookware cannot fit a product label of 
+7 
+at least two square inches; and 
+8 
+ 
+(2)  the cookware does not have either of the following: 
+9 
+ 
+(a)  an exterior container or wrapper on which a product label 
+10 
+can appear or be affixed; or 
+11 
+ 
+(b)  a tag or other attachment with information about the product 
+12 
+attached to the cookware. 
+13 
+ 
+d.  Beginning one year after the effective date of this act, a 
+14 
+manufacturer shall not make a claim, on a cookware product or its 
+15 
+packaging, that the cookware is free of PFAS unless the product 
+16 
+does not contain intentionally added PFAS. 
+17 
+ 
+e.  Beginning one year after the effective date of this act, no 
+18 
+person shall sell, offer for sale, or distribute for sale within the State 
+19 
+cookware containing intentionally added PFAS unless the cookware 
+20 
+and the manufacturer of the cookware have complied with the 
+21 
+labeling requirements established pursuant to this section. 
+22 
+ 
+23 
+ 
+4.  a.  Beginning two years after the effective date of this act, a 
+24 
+person, local government, or State agency shall not discharge for 
+25 
+training purposes class B firefighting foam that contains 
+26 
+intentionally added PFAS. 
+27 
+ 
+b.  Beginning two years after the effective date of this act, a 
+28 
+person, local government, or State agency shall not discharge for 
+29 
+testing purposes class B firefighting foam containing intentionally 
+30 
+added PFAS unless: 
+31 
+ 
+(1)  otherwise required by law or the authority having 
+32 
+jurisdiction; and 
+33 
+ 
+(2)  the testing facility has implemented appropriate containment, 
+34 
+treatment, and disposal measures to prevent releases of the class B 
+35 
+firefighting foam into the environment. 
+36 
+ 
+c.  The provisions of this section shall not restrict the 
+37 
+manufacture, sale, or distribution of class B firefighting foam 
+38 
+containing intentionally added PFAS or the discharge or use of 
+39 
+class B firefighting foam in emergency firefighting or fire 
+40 
+prevention operations. 
+41 
+ 
+d.  Beginning two years after the effective date of this act, for the 
+42 
+purposes of training for firefighting operations, fire departments 
+43 
+shall utilize non-fluorinated training foams or other non-fluorinated 
+44 
+surrogates.  Training for firefighting operations shall be conducted 
+45 
+under conditions conducive to the collection of spent firefighting 
+46 
+foam regardless of the type of foam being utilized. 
+ 
+47 
+
+
+=== Page 8 ===
+ 
+S4367 BURZICHELLI 
+8 
+ 
+ 
+ 
+5.  a.  Whenever the Commissioner of Environmental Protection 
+1 
+finds that a person has violated any provision of this act, or any rule 
+2 
+or regulation adopted pursuant thereto, the commissioner may:  
+3 
+ 
+(1) issue an order requiring the person found to be in violation 
+4 
+to comply in accordance with subsection b. of this section;  
+5 
+ 
+(2) bring a civil action in accordance with subsection c. of this 
+6 
+section;  
+7 
+ 
+(3) levy a civil administrative penalty in accordance with 
+8 
+subsection d. of this section; 
+9 
+ 
+(4) bring an action for a civil penalty in accordance with 
+10 
+subsection e. of this section;  
+11 
+ 
+(5)  direct a manufacturer or other person that is not in 
+12 
+compliance with the requirements of this act to stop offering for 
+13 
+sale or distributing certain products that contain intentionally-added 
+14 
+PFAS; or 
+15 
+ 
+(6)  notify the public of a manufacturer that is not in compliance 
+16 
+with the requirements of this act. 
+17 
+ 
+b. Whenever the commissioner finds that a person has violated 
+18 
+this act, or any rule or regulation adopted pursuant thereto, the 
+19 
+commissioner may issue an administrative enforcement order 
+20 
+specifying the provision or provisions of this act, or the rule or 
+21 
+regulation adopted pursuant thereto, of which the person is in 
+22 
+violation, citing the action that constituted the violation, requiring 
+23 
+compliance with the provision violated, and giving notice to the 
+24 
+person of the person's right to a hearing on the matters contained in 
+25 
+the administrative enforcement order.  The ordered person shall 
+26 
+have 20 calendar days from receipt of the order within which to 
+27 
+deliver to the commissioner a written request for a hearing.  After 
+28 
+the hearing and upon finding that a violation has occurred, the 
+29 
+commissioner may issue a final order.  If no hearing is requested, 
+30 
+the order shall become final after the expiration of the 20-day 
+31 
+period.  A request for hearing shall not automatically stay the effect 
+32 
+of the order. 
+33 
+ 
+c. 
+The commissioner is authorized to institute a civil action in 
+34 
+Superior Court for appropriate relief from any violation of the 
+35 
+provisions of this act, or any rule or regulation adopted pursuant 
+36 
+thereto.  This relief may include an assessment against the violator 
+37 
+for the costs of any investigation, inspection, or audit that led to the 
+38 
+discovery and establishment of the violation, and for the reasonable 
+39 
+costs of preparing and litigating the case under this subsection.  
+40 
+ 
+d.  The commissioner is authorized to impose a civil 
+41 
+administrative penalty of not less than $1,000 nor more than 
+42 
+$20,000 for each violation, provided that each day during which the 
+43 
+violation continues shall constitute an additional, separate and 
+44 
+distinct offense.  In assessing a civil administrative penalty, the 
+45 
+commissioner shall consider the severity of the violation, the 
+46 
+measures taken to prevent further violations, and whether the 
+47 
+penalty will maintain an appropriate deterrent.  Prior to assessment 
+48 
+
+
+=== Page 9 ===
+ 
+S4367 BURZICHELLI 
+9 
+ 
+ 
+of a civil administrative penalty, the person committing the 
+1 
+violation shall be notified by certified mail or personal service that 
+2 
+the penalty is being assessed.  The notice shall identify the section 
+3 
+of the statute, rule, regulation, or order violated; recite the facts 
+4 
+alleged to constitute a violation; state the basis for the amount of 
+5 
+the civil administrative penalties to be assessed; and affirm the 
+6 
+rights of the alleged violator to a hearing.  The ordered party shall 
+7 
+have 20 days from receipt of the notice within which to deliver to 
+8 
+the commissioner a written request for a hearing.  After the hearing 
+9 
+and upon finding that a violation has occurred, the commissioner 
+10 
+may issue a final order after assessing the amount of the fine 
+11 
+specified in the notice.  If no hearing is requested, the notice shall 
+12 
+become a final order after the expiration of the 20-day period.  
+13 
+Payment of the assessment is due when a final order is issued or the 
+14 
+notice becomes a final order.  The authority to levy an 
+15 
+administrative order is in addition to all other enforcement 
+16 
+provisions in this act, and the payment of any assessment shall not 
+17 
+be deemed to affect the availability of any other enforcement 
+18 
+provisions in connection with the violation for which the 
+19 
+assessment is levied.  The department may compromise any civil 
+20 
+administrative penalty assessed under this section in an amount and 
+21 
+with conditions the department determines appropriate. 
+22 
+ 
+e.  A person who violates any provision of this act, or any rule or 
+23 
+regulation adopted pursuant thereto, or an administrative order 
+24 
+issued pursuant to subsection b. of this section, or a court order 
+25 
+issued pursuant to subsection c. of this section, or who fails to pay a 
+26 
+civil administrative penalty in full pursuant to subsection d. of this 
+27 
+section, or who knowingly makes any false or misleading statement 
+28 
+on any application, record, report, or other document required to be 
+29 
+submitted to the department, shall be subject, upon order of a court, 
+30 
+to a civil penalty not to exceed $25,000 per day of the violation, and 
+31 
+each day during which the violation continues shall constitute an 
+32 
+additional, separate, and distinct offense.  Any civil penalty 
+33 
+imposed pursuant to this subsection may be collected with costs in a 
+34 
+summary proceeding pursuant to the "Penalty Enforcement Law of 
+35 
+1999," P.L.1999, c.274 (C.2A:58-10 et seq.), or may be collected in 
+36 
+a civil action commenced by the commissioner.  In addition to any 
+37 
+penalties, costs or interest charges, the Superior Court, or the 
+38 
+municipal court as the case may be, may assess against the violator 
+39 
+the amount of economic benefit accruing to the violator from the 
+40 
+violation. 
+41 
+ 
+f.  The exercise of any of the remedies provided in this section 
+42 
+shall not preclude the seeking of any other remedy specified. 
+43 
+ 
+44 
+ 
+6.  This act shall take effect immediately. 
+ 
+45 
+
+
+=== Page 10 ===
+ 
+S4367 BURZICHELLI 
+10 
+ 
+ 
+STATEMENT 
+1 
+ 
+2 
+ 
+This bill would establish requirements and prohibitions for the 
+3 
+sale, offer for sale, and distribution for sale of certain products 
+4 
+containing intentionally added perfluoroalkyl and polyfluoroalkyl 
+5 
+substances (PFAS).  As defined in the bill, “PFAS” means non-
+6 
+polymeric perfluoralkyl substances, saturated polyfluoroalkyl 
+7 
+substances, and side-chain fluorinated polymers that contain at least 
+8 
+two fully fluorinated sequential carbon atoms, excluding gases and 
+9 
+substances that become gases in use that are regulated under various 
+10 
+state, federal, and international programs, and “intentionally added 
+11 
+PFAS” means PFAS added to a product or one of the product's 
+12 
+components to provide a specific characteristic, appearance, or 
+13 
+quality or to perform a specific function.  “Intentionally added 
+14 
+PFAS” also includes any degradation byproducts of PFAS. 
+15 
+ 
+Specifically, the bill would prohibit, beginning three years after 
+16 
+the bill’s effective date, the sale, offer for sale, and distribution for 
+17 
+sale of the following covered products, if they are sold to customers 
+18 
+for residential use, in the State: (1) apparel; (2) carpet; (3) fabric 
+19 
+treatment; (4) cosmetics; (5) food packaging; (6) juvenile products; 
+20 
+(7) feminine hygiene products; (8) ski wax; and (9) textile articles.  
+21 
+Beginning two years after the bill’s effective date, the bill would 
+22 
+prohibit the sale, offer for sale, or distribution for sale in the State 
+23 
+of any new, not previously used, outdoor apparel designed for 
+24 
+severe wet conditions containing intentionally added PFAS unless 
+25 
+the outdoor apparel designed for severe wet conditions is labeled 
+26 
+with a legible and easily discernable notification that reads “Made 
+27 
+with PFAS” to inform consumers that the product contains PFAS.  
+28 
+The bill would also prohibit, beginning five years after the bill’s 
+29 
+effective date, the sale, offer for sale, or distribution for sale in the 
+30 
+State of outdoor apparel designed for severe wet conditions 
+31 
+containing intentionally added PFAS. 
+32 
+ 
+In addition, the bill would require, beginning one year after the 
+33 
+bill’s effective date, manufacturers of cookware sold in the State 
+34 
+that contains intentionally added PFAS in the handle of the product 
+35 
+or in any product surface that comes into contact with food, 
+36 
+foodstuffs, or beverages to list the presence of PFAS on the product 
+37 
+label.  The product label of a cookware product containing 
+38 
+intentionally added PFAS would be required to include a statement, 
+39 
+in both English and Spanish, that reads: “This product contains 
+40 
+PFAS,” and an internet website and quick response (QR) code that 
+41 
+links to a website providing information about the reasons PFAS is 
+42 
+intentionally added to the product.  The bill provides certain 
+43 
+exemptions to the labeling requirements for certain cookware.  
+44 
+Beginning one year after the bill’s effective date, the bill would 
+45 
+prohibit the sale, offer for sale, and distribution for sale of 
+46 
+cookware containing intentionally added PFAS unless the cookware 
+47 
+
+
+=== Page 11 ===
+ 
+S4367 BURZICHELLI 
+11 
+ 
+ 
+and the manufacturer of the cookware has complied with the bill’s 
+1 
+labeling requirements. 
+2 
+ 
+The bill would also prohibit, beginning two years after the bill’s 
+3 
+effective date, a person, local government, or State agency from 
+4 
+discharging for training purposes class B firefighting foam 
+5 
+containing intentionally added PFAS.  The bill would prohibit, 
+6 
+beginning two years after the bill’s effective date, a person, local 
+7 
+government, or State agency from discharging for testing purposes 
+8 
+class B firefighting foam containing intentionally added PFAS, 
+9 
+unless otherwise required by law or the authority having 
+10 
+jurisdiction and the testing facility has implemented appropriate 
+11 
+containment, treatment, and disposal measures to prevent releases 
+12 
+of the class B firefighting foam into the environment.  The bill’s 
+13 
+provisions concerning class B firefighting foam would not restrict 
+14 
+the manufacture, sale, or distribution of class B firefighting foam 
+15 
+containing intentionally added PFAS or the discharge or use of 
+16 
+class B firefighting foam in emergency firefighting or fire 
+17 
+prevention operations. In addition, beginning two years after the 
+18 
+bill’s effective date, for the purposes of training for firefighting 
+19 
+operations, fire departments would be required to utilize non-
+20 
+fluorinated training foams or other non-fluorinated surrogates.  
+21 
+Training for firefighting operations would be required to be 
+22 
+conducted under conditions conducive to the collection of spent 
+23 
+firefighting foam regardless of the type of foam being utilized. 
+24 
+ 
+The bill would establish a civil administrative penalty of not less 
+25 
+than $1,000 nor more than $20,000 for each violation of the bill's 
+26 
+provisions.  The bill would also establish a civil penalty not to 
+27 
+exceed $25,000 for a violation of the bill’s provisions.  The 
+28 
+penalties would be assessed for each day during which the 
+29 
+violations continued. 
+30 

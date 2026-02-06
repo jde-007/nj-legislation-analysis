@@ -1,0 +1,2426 @@
+=== Page 1 ===
+  
+SENATE, No. 2324  
+STATE OF NEW JERSEY 
+221st LEGISLATURE 
+   
+INTRODUCED JANUARY 25, 2024 
+ 
+ 
+Sponsored by: 
+Senator  JAMES BEACH 
+District 6 (Burlington and Camden) 
+ 
+ 
+ 
+ 
+SYNOPSIS 
+ 
+Provides for uniform regulation of small wireless facility deployment in this 
+State.  
+ 
+CURRENT VERSION OF TEXT  
+ 
+As introduced. 
+    
+
+
+=== Page 2 ===
+ 
+S2324 BEACH 
+2 
+ 
+ 
+AN ACT concerning deployment of small wireless facilities and 
+1 
+supplementing Title 40 of the Revised Statutes. 
+2 
+ 
+3 
+ 
+BE IT ENACTED by the Senate and General Assembly of the State 
+4 
+of New Jersey: 
+5 
+ 
+6 
+ 
+1. The Legislature finds and declares that: 
+7 
+ 
+a. 
+The deployment of small wireless facilities and other next-
+8 
+generation wireless and broadband network facilities is a matter of 
+9 
+federal and statewide concern and interest; 
+10 
+ 
+b. Wireless and broadband products and services are a 
+11 
+significant and continually growing part of the State’s economy and 
+12 
+encouraging the development of strong and robust wireless and 
+13 
+broadband communications networks throughout the State is 
+14 
+integral to the State’s economic competitiveness; 
+15 
+ 
+c. 
+Rapid deployment of small wireless facilities will serve 
+16 
+important Statewide goals, such as: meeting the growing consumer 
+17 
+demand for wireless data; increasing competitive options for 
+18 
+communications services available to the State’s residents; 
+19 
+promoting the ability of the State’s residents to communicate with 
+20 
+their neighbors and with their State and local governments; and 
+21 
+promoting public safety; 
+22 
+ 
+d. Small wireless facilities, including facilities commonly 
+23 
+referred to as small cells and distributed antenna systems, are most 
+24 
+cost-effective for a wireless service provider when deployed  in 
+25 
+rights-of-way; 
+26 
+ 
+e. 
+To 
+meet 
+the 
+key 
+objectives 
+of 
+federal 
+law 
+and 
+27 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill), 
+28 
+wireless providers must be granted access to rights-of-way and have 
+29 
+the ability to attach to infrastructure in rights-of-way on a 
+30 
+competitively neutral basis to densify wireless networks and to 
+31 
+provide next-generation wireless services; 
+32 
+ 
+f. 
+Rates and fees for the permitting and deployment of small 
+33 
+wireless facilities in rights-of-way and on authority infrastructure, 
+34 
+including utility poles, throughout the State, consistent with federal 
+35 
+law, is reasonable and will encourage the development of robust 
+36 
+next-generation wireless and broadband networks for the benefit of 
+37 
+residents throughout the State; 
+38 
+ 
+g. Authorities actively manage rights-of-way, acting as trustees 
+39 
+of this limited public asset, to protect residents’ safety, preserve the 
+40 
+character of communities, and maintain availability for current and 
+41 
+future uses; and 
+42 
+ 
+h. The 
+procedures, 
+rates, 
+and 
+fees 
+established 
+in 
+43 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill) 
+44 
+should be consistent with federal law and are fair, reasonable, and 
+45 
+further the State’s interest in facilitating and supporting a robust, 
+46 
+reliable, and technologically-advanced wireless and broadband 
+47 
+network and reflect a balancing of the interests of the wireless 
+48 
+
+
+=== Page 3 ===
+ 
+S2324 BEACH 
+3 
+ 
+ 
+providers deploying new small wireless facilities and the interests 
+1 
+of authorities in managing and recovering the cost of managing the 
+2 
+rights-of-way. 
+3 
+ 
+4 
+ 
+2. As used in P.L.    , c.    (C.        ) (pending before the 
+5 
+Legislature as this bill): 
+6 
+ 
+"Antenna" means an apparatus designed for the purpose of 
+7 
+emitting radio frequency, to be operated or operating from a fixed 
+8 
+location 
+pursuant 
+to 
+Federal 
+Communications 
+Commission 
+9 
+authorization, for the provision of personal wireless service and any 
+10 
+commingled information services.  
+11 
+ 
+“Antenna equipment” means equipment, switches, wiring, 
+12 
+cabling, power sources, shelters, or cabinets associated with an 
+13 
+antenna, located at the same fixed location as the antenna, and, 
+14 
+when collocated on a structure, is mounted or installed at the same 
+15 
+time as the antenna.  
+16 
+ 
+“Antenna facility” means an antenna and associated antenna 
+17 
+equipment. “Antenna facility” includes small wireless facilities. 
+18 
+“Antenna facility” shall not include:  
+19 
+ 
+a.  the structure or improvements on, under, or within which the 
+20 
+equipment is located;  
+21 
+ 
+b.  wireline backhaul facilities; or  
+22 
+ 
+c.  coaxial or fiber optic cables that are not immediately adjacent to 
+23 
+or directly associated with a particular antenna. 
+24 
+ 
+“Applicable codes” means uniform building, fire, electrical, 
+25 
+plumbing, or mechanical codes adopted by the Commissioner of the 
+26 
+Department of Community Affairs pursuant to P.L.1975, c.217 
+27 
+(C.52:27D-119 et seq.), or authority amendments to those codes that 
+28 
+are 
+of 
+general 
+application 
+and 
+are 
+consistent 
+with 
+29 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill). 
+30 
+ 
+"Applicant" means any person who submits an application and is 
+31 
+a wireless provider.  
+32 
+ 
+"Application" means a request submitted by an applicant to an 
+33 
+authority for a permit to: collocate a small wireless facility; install, 
+34 
+modify, or replace a pole on which a small wireless facility will be 
+35 
+collocated, mounted, or installed; mount or install a small wireless 
+36 
+facility on a new or replacement pole; or install associated antenna 
+37 
+equipment adjacent to a structure on which a small wireless facility 
+38 
+is or will be collocated, mounted, or installed.  
+39 
+ 
+"Authority" means the State and any unit of local government, 
+40 
+and any board, commission, committee, authority, agency, office, 
+41 
+officer, or employee thereof, which has jurisdiction and control 
+42 
+over the use of a right-of-way for the placement of a wireless 
+43 
+facility within the right-of-way or has zoning or land use control for 
+44 
+the placement of a wireless facility not within a right-of-way. 
+45 
+“Authority” shall not mean a State court having jurisdiction over an 
+46 
+authority. 
+47 
+
+
+=== Page 4 ===
+ 
+S2324 BEACH 
+4 
+ 
+ 
+ 
+"Authority pole" means a pole or utility pole owned or operated 
+1 
+by an authority in a right-of-way.  
+2 
+ 
+"Collocate" or "collocation" means: mounting or installing an 
+3 
+antenna facility on a pre-existing structure; or modifying a structure 
+4 
+for the purpose of mounting or installing an antenna facility on that 
+5 
+structure. 
+6 
+ 
+“Communications facility” means the equipment and network 
+7 
+components that provide communications services, including wires, 
+8 
+cables, and associated facilities used by: a cable operator, as 
+9 
+defined in 47 U.S.C. s.522; a telecommunications carrier, as defined 
+10 
+in 47 U.S.C. s.153; a provider of an information service, as defined 
+11 
+in 47 U.S.C. s.153; or a wireless service provider, as defined 
+12 
+pursuant to this section. 
+13 
+ 
+"Communications service" means: cable service, as defined 
+14 
+pursuant to 47 U.S.C. s.522, as amended; information service, as 
+15 
+defined 
+pursuant 
+to 
+47 
+U.S.C. 
+s.153, 
+as 
+amended; 
+16 
+telecommunications service, as defined in 47 U.S.C. s.153, as 
+17 
+amended; mobile service, as defined pursuant to 47 U.S.C. s.153, as 
+18 
+amended; or wireless service other than mobile service.  
+19 
+ 
+"Communications service provider" means: a cable operator, as 
+20 
+defined pursuant to 47 U.S.C. s.522, as amended; a provider of 
+21 
+information service, as defined pursuant to 47 U.S.C. s.153, as 
+22 
+amended; a telecommunications carrier, as defined pursuant to 47 
+23 
+U.S.C. s.153, as amended; or a wireless service provider as defined 
+24 
+pursuant to this section.  
+25 
+ 
+“Decorative pole” means an authority pole, or a pole that is 
+26 
+subsidized by an authority, that is specially designed and placed for 
+27 
+aesthetic purposes. 
+28 
+ 
+“Facility” means an antenna facility or a structure that is used for 
+29 
+the provision of personal wireless service, whether the personal 
+30 
+wireless service is provided on a stand-alone basis or comingled 
+31 
+with other wireless communications services. 
+32 
+ 
+"FCC" means the Federal Communications Commission of the 
+33 
+United States. 
+34 
+ 
+"Fee" means a one-time, nonrecurring charge.  
+35 
+ 
+"Historic district" or "historic landmark" means a building, 
+36 
+property, or site, or group of buildings, properties, or sites that are 
+37 
+either: 
+38 
+ 
+a. 
+listed on the National Register of Historic Places or formally 
+39 
+determined eligible for listing by the keeper of the National 
+40 
+Register of Historic Places, the individual who has been delegated 
+41 
+the authority by the federal agency to list properties and determine 
+42 
+their eligibility for the National Register of Historic Places, 
+43 
+pursuant to 47 C.F.R. Part 1, Appendix C; or 
+44 
+ 
+b. listed on the New Jersey Register of Historic Places or 
+45 
+identified in an authority’s master plan adopted pursuant to the 
+46 
+“Municipal Land Use Law,” P.L.1975, c.291 (C.40:55D-1 et seq.). 
+47 
+
+
+=== Page 5 ===
+ 
+S2324 BEACH 
+5 
+ 
+ 
+ 
+"Law" means a federal or State statute, common law, code, rule, 
+1 
+regulation, order, or local ordinance, or resolution.  
+2 
+ 
+“Make-ready work” means the process of ensuring that an 
+3 
+authority pole is in suitable condition to receive a small wireless 
+4 
+facility and associated antenna equipment. 
+5 
+ 
+"Micro wireless facility" means an antenna facility that is not 
+6 
+larger in dimension than 24 inches in length, 15 inches in width, 
+7 
+and 12 inches in height, and that has an exterior antenna, if any, no 
+8 
+longer than 11 inches.  
+9 
+ 
+"Permit" means an authorization required by an authority to 
+10 
+perform an action or initiate, continue, or complete a project for the 
+11 
+deployment of antenna facilities at a specified location in a right-of-
+12 
+way.  
+13 
+ 
+"Person" means an individual, corporation, limited liability 
+14 
+company, partnership, association, trust, or other entity or 
+15 
+organization, including an authority.  
+16 
+ 
+“Personal wireless service” means “commercial mobile service,” 
+17 
+“unlicensed wireless services,” and “common carrier wireless 
+18 
+exchange access services,” as those terms are defined pursuant to 47 
+19 
+U.S.C. s.332, “commercial mobile data service,” as defined 
+20 
+pursuant to 47 U.S.C. s.1401, and information service provided 
+21 
+through wireless fidelity or similar technologies utilizing unlicensed 
+22 
+spectrum. 
+23 
+ 
+“Pole” means a pole in the right-of-way that is or may be used in 
+24 
+whole or in part by or for wireline communications, electric 
+25 
+distribution, lighting, traffic control, signage, or a similar function, 
+26 
+or for the collocation of small wireless facilities. “Pole” shall not 
+27 
+mean a: tower, either guyed or self-supporting, built for the sole or 
+28 
+primary purpose of supporting wireless equipment other than a 
+29 
+small wireless facility; building; billboard; or electric transmission 
+30 
+structure. 
+31 
+ 
+“Public utility” shall have the same meaning as provided in 
+32 
+R.S.48:2-13. 
+33 
+ 
+"Rate" means a recurring charge.  
+34 
+ 
+"Right-of-way" means the area on, below, or above a public 
+35 
+roadway, highway, street, public sidewalk, alley, or utility easement 
+36 
+dedicated for compatible use, but shall not include a federal 
+37 
+interstate highway.  
+38 
+ 
+"Small wireless facility" means a facility that meets each of the 
+39 
+following conditions: the facility is mounted on a structure 50 feet 
+40 
+or less in height, including the antenna or is mounted on a structure 
+41 
+no more than 10 percent taller than other adjacent structures or does 
+42 
+not extend existing structures on which they are located to a height 
+43 
+of more than 50 feet or by more than 10 percent, whichever is 
+44 
+greater; each antenna associated with the deployment, excluding 
+45 
+associated antenna equipment, is no more than three cubic feet in 
+46 
+volume; all other wireless equipment associated with the structure, 
+47 
+including wireless equipment associated with the antenna and any 
+48 
+
+
+=== Page 6 ===
+ 
+S2324 BEACH 
+6 
+ 
+ 
+pre-existing associated antenna equipment on the structure, is no 
+1 
+more than 28 cubic feet in volume; the facility does not require 
+2 
+antenna structure registration under 47 C.F.R. Part 17; the facility is 
+3 
+not located on tribal lands, as defined pursuant to 36 C.F.R. 
+4 
+s.800.16; and the facility does not result in human exposure to radio 
+5 
+frequency in excess of the applicable safety standards specified 
+6 
+pursuant to 47 C.F.R. s.1.1307.   
+7 
+ 
+“Structure” means a pole, tower, base station, as defined 
+8 
+pursuant to 47 C.F.R. s.1.6100, or other building, whether or not it 
+9 
+has an existing antenna facility, which is used or is to be used for 
+10 
+the provision of personal wireless service. 
+11 
+ 
+“Technically feasible” means that, by virtue of engineering or 
+12 
+spectrum usage, the proposed placement for a small wireless 
+13 
+facility, or its design, concealment measures, or site location can be 
+14 
+implemented without a material reduction in the functionality of the 
+15 
+small wireless facility. 
+16 
+ 
+“Tower” shall have the same meaning as defined pursuant to 47 
+17 
+C.F.R. s.1.6100. 
+18 
+ 
+"Wireless infrastructure provider" means any person, including a 
+19 
+person authorized to provide telecommunications service in the 
+20 
+State, that builds or installs facilities for the provision of wireless 
+21 
+service, but that is not a wireless service provider. 
+22 
+ 
+"Wireless provider" means a wireless infrastructure provider or a 
+23 
+wireless service provider.  
+24 
+ 
+"Wireless service" means any services provided to the general 
+25 
+public and made available on a non-discriminatory basis using 
+26 
+licensed or unlicensed spectrum, whether at a fixed location or 
+27 
+mobile, provided using an antenna facility.  
+28 
+ 
+"Wireless service provider" means a person who provides 
+29 
+wireless services.  
+30 
+ 
+"Wireline backhaul facility” means a physical transmission path, 
+31 
+all or part of which is within the right-of-way, used for the transport of 
+32 
+communications services or other electronic communications by wire 
+33 
+from an antenna facility to a communications network. 
+34 
+ 
+35 
+ 
+3. a. An authority may not enter into an exclusive 
+36 
+arrangement with any person or entity for the use of the right-of-
+37 
+way for: 
+38 
+ 
+(1) the collocation of a small wireless facility;  
+39 
+ 
+(2) the mounting or installation of a small wireless facility on 
+40 
+new or replacement poles;  
+41 
+ 
+(3) the installation of associated antenna equipment adjacent to 
+42 
+a structure on which a small wireless facility is or will be 
+43 
+collocated, mounted, or installed; or 
+44 
+ 
+(4) the 
+installation, 
+operation, 
+marketing, 
+modification, 
+45 
+maintenance, or replacement of associated poles.   
+46 
+
+
+=== Page 7 ===
+ 
+S2324 BEACH 
+7 
+ 
+ 
+ 
+b. Subject to the provisions of this section, a wireless provider 
+1 
+shall have the right, as a permitted use not subject to zoning review 
+2 
+or approval, and without the need for authority consent, to: 
+3 
+ 
+(1) collocate small wireless facilities;  
+4 
+ 
+(2) mount or install small wireless facilities on new or 
+5 
+replacement poles;  
+6 
+ 
+(3) install associated antenna equipment adjacent to a structure 
+7 
+on which a small wireless facility is or will be collocated, mounted, 
+8 
+or installed; or  
+9 
+ 
+(4) install, modify, or replace its own poles, or, with the 
+10 
+permission of the owner, a third party’s poles, associated with a 
+11 
+small wireless facility, along, across, upon, and under the right-of-
+12 
+way.  
+13 
+ 
+Small wireless facilities, antenna equipment, and poles 
+14 
+collocated or installed pursuant to this section shall be installed and 
+15 
+maintained as not to obstruct or hinder the usual travel or public 
+16 
+safety in a right-of-way or obstruct the legal use of a right-of-way 
+17 
+by a public utility. Construction and maintenance by wireless 
+18 
+providers shall comply with the National Electrical Safety Code, 
+19 
+published by the Institute of Electrical and Electronics Engineers, and 
+20 
+all applicable laws and regulations for the protection of underground 
+21 
+and overhead public utility facilities. 
+22 
+ 
+23 
+ 
+4. a.  A new, replaced, or modified pole installed in a right-of-
+24 
+way after the effective date of P.L.    , c.    (C.        ) (pending 
+25 
+before the Legislature as this bill) for the purpose of collocating, 
+26 
+mounting, or installing a small wireless facility shall not exceed 50 
+27 
+feet in height above ground level or 10 percent taller than the tallest 
+28 
+existing 
+pole 
+in 
+place 
+as 
+of 
+the 
+effective 
+date 
+of 
+29 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill) in 
+30 
+the same right-of-way within 500 feet of the new, replaced, or 
+31 
+modified pole, whichever is greater.  
+32 
+ 
+b. 
+A new small wireless facility installed in a right-of-way after 
+33 
+the effective date of P.L.    , c.    (C.        ) (pending before the 
+34 
+Legislature as this bill) may not extend more than 10 percent above 
+35 
+the existing structure on which they are located or 50 feet above 
+36 
+ground level, whichever is greater.  
+37 
+ 
+c. 
+A wireless provider shall have the right to collocate, mount, 
+38 
+or install a small wireless facility and install, maintain, modify, and 
+39 
+replace a pole that exceeds the height limits pursuant to subsections 
+40 
+a. and b. of this section along, across, upon, and under the right-of-
+41 
+way, subject to section 3 of P.L.    , c.      (C.        ) (pending before 
+42 
+the Legislature as this bill) and applicable zoning regulations. 
+43 
+ 
+d. A wireless provider shall not apply to install a new pole 
+44 
+unless it has determined after diligent investigation that it cannot 
+45 
+meet its service objectives by collocating on an existing pole or 
+46 
+other structure on which: 
+47 
+
+
+=== Page 8 ===
+ 
+S2324 BEACH 
+8 
+ 
+ 
+ 
+(1) the wireless provider has the right to collocate subject to 
+1 
+reasonable terms and conditions, including the right to pole mount 
+2 
+antenna equipment; and 
+3 
+ 
+(2) that collocation would not impose technical limitations or 
+4 
+significant additional costs. The wireless provider shall certify that 
+5 
+it has made such a determination in good faith, based on the 
+6 
+assessment of a licensed engineer, and shall provide a written 
+7 
+summary of the basis for that determination. 
+8 
+ 
+e. 
+For applications for new poles in the right-of-way in areas 
+9 
+zoned for residential use, the authority may propose an alternate 
+10 
+location in the right-of-way within 100 feet of the location set forth 
+11 
+in the application, and the wireless provider shall use the authority's 
+12 
+proposed alternate location unless the location imposes technical 
+13 
+limits or significant additional costs. The wireless provider shall 
+14 
+certify that it has made the determination in good faith, based on the 
+15 
+assessment of a licensed engineer, and it shall provide a written 
+16 
+summary of the basis for that determination. 
+17 
+ 
+18 
+ 
+5. a. An 
+authority 
+may 
+adopt 
+aesthetics 
+requirements 
+19 
+governing the deployment of small wireless facilities and associated 
+20 
+antenna equipment and poles in a right-of-way, which may include 
+21 
+pre-approved designs for new poles in specified areas, subject to the 
+22 
+following: 
+23 
+ 
+(1) the aesthetic requirements shall be reasonable, in that they 
+24 
+are technically feasible and reasonably directed at avoiding or 
+25 
+remedying unsightly or out-of-character deployments, are no more 
+26 
+burdensome than those applied to 
+functionally equivalent 
+27 
+infrastructure deployments, and are published in advance; 
+28 
+ 
+(2) any design or concealment measures are not considered a 
+29 
+part of the small wireless facility for purposes of the size 
+30 
+parameters in the definition of small wireless facility; and 
+31 
+ 
+(3) an authority may deny an application for not complying with 
+32 
+an aesthetic requirement only if the authority finds that the denial 
+33 
+does not prohibit or have the effect of prohibiting the provision of 
+34 
+wireless service. 
+35 
+ 
+b. Aesthetic requirements applicable to deployment of small 
+36 
+wireless facilities on decorative poles and in historic districts shall, 
+37 
+in addition to the requirements of subsection a. of this section, 
+38 
+comply with the following:  
+39 
+ 
+(1) a wireless provider shall be permitted to collocate small 
+40 
+wireless facilities on, or modify or replace, decorative poles when 
+41 
+necessary to deploy a small wireless facility, provided that an 
+42 
+authority may require the collocation or decorative pole 
+43 
+replacement to reasonably conform to the design aesthetics of the 
+44 
+original decorative pole or poles; and 
+45 
+ 
+(2) an authority may adopt aesthetic requirements applicable in 
+46 
+historic districts that comply with this section. 
+47 
+
+
+=== Page 9 ===
+ 
+S2324 BEACH 
+9 
+ 
+ 
+ 
+6. a.  A wireless provider shall comply with undergrounding 
+1 
+requirements that are consistent with subsection a. of section 5 of 
+2 
+P.L.    , c.      (C.    ) (pending before the Legislature as this bill) 
+3 
+when:  
+4 
+ 
+(1) the 
+authority 
+has 
+required 
+all 
+electric 
+and 
+5 
+telecommunications lines to be placed underground by a date 
+6 
+certain that is three months prior to the submission of the 
+7 
+application;  
+8 
+ 
+(2) a pole the authority allows to remain shall be made available 
+9 
+to wireless providers for the collocation of small wireless facilities, 
+10 
+and a pole may be modified or replaced by a wireless provider to 
+11 
+accommodate the collocation, mounting, or installation of small 
+12 
+wireless facilities, in compliance with P.L.    , c.    (C.        ) 
+13 
+(pending before the Legislature as this bill); and  
+14 
+ 
+(3) subject to the application process established pursuant to 
+15 
+section 11 of P.L.    , c.    (C.        ) (pending before the Legislature 
+16 
+as this bill), a wireless provider may install a new pole in the 
+17 
+designated area that otherwise complies with P.L.    , c.    (C.        ) 
+18 
+(pending before the Legislature as this bill) when the wireless 
+19 
+provider is not able to provide wireless service by collocating on a 
+20 
+remaining structure.  
+21 
+ 
+b. For small wireless facilities installed before an authority 
+22 
+adopts requirements that electric and telecommunications lines be 
+23 
+placed underground, an authority adopting these requirements shall 
+24 
+permit: 
+25 
+ 
+(1) a wireless provider to maintain the small wireless facilities 
+26 
+in place on any pole not required to be removed, subject to any 
+27 
+applicable pole attachment agreement with the pole owner; or  
+28 
+ 
+(2) a wireless provider to replace an existing pole within 50 feet 
+29 
+of the prior location. 
+30 
+ 
+31 
+ 
+7. A wireless provider shall repair all damage to a right-of-way 
+32 
+caused by the activities of the wireless provider and return the right-
+33 
+of-way to its functional and aesthetic equivalence before the 
+34 
+damage, pursuant to the competitively neutral, reasonable 
+35 
+requirements and specifications of the authority. If the wireless 
+36 
+provider fails to make the repairs required by the authority within a 
+37 
+reasonable time after written notice, the authority may make those 
+38 
+repairs and charge the applicable party the reasonable, documented 
+39 
+cost of the repairs. 
+40 
+ 
+41 
+ 
+8. A wireless provider shall not be required to replace or 
+42 
+upgrade an existing pole except for reasons of structural necessity 
+43 
+or compliance with applicable codes. A wireless provider may, with 
+44 
+the permission of the pole owner, replace or modify the existing 
+45 
+pole, but any replacement or modification shall be consistent with 
+46 
+the design aesthetics of the pole being modified or replaced. 
+47 
+
+
+=== Page 10 ===
+ 
+S2324 BEACH 
+10 
+ 
+ 
+ 
+9. A wireless provider shall notify the authority at least 30 days 
+1 
+before the abandonment of a small wireless facility. Following 
+2 
+receipt of the notice, the authority shall direct the wireless provider 
+3 
+to remove all or any portion of the small wireless facility and 
+4 
+associated antenna equipment that the authority determines would 
+5 
+be in the best interest of the public. If the wireless provider fails to 
+6 
+remove the abandoned small wireless facility within 90 days after 
+7 
+the notice, the authority may undertake to remove the small wireless 
+8 
+facility and recover the actual and reasonable expenses of the 
+9 
+removal from the wireless provider, its successors, or assigns.   
+10 
+ 
+11 
+ 
+10. Except as provided in P.L.    , c.    (C.        ) (pending before 
+12 
+the Legislature as this bill), an authority may not prohibit, regulate, 
+13 
+or charge for the collocation, mounting, or installation of a small 
+14 
+wireless facility on a new, modified, or replacement pole, or the 
+15 
+installation, modification, or replacement of an associated pole or 
+16 
+antenna equipment that may be permitted in P.L.    , c.    (C.        ) 
+17 
+(pending before the Legislature as this bill).  
+18 
+ 
+19 
+ 
+11. a.  An authority may require an applicant to obtain a permit 
+20 
+for:  
+21 
+ 
+(1) the collocation of a small wireless facility not subject to the 
+22 
+provisions of P.L.2011, c.199 (C.40:55D-46.2);  
+23 
+ 
+(2) the mounting or installation of a small wireless facility on a 
+24 
+new, modified, or replacement pole; or  
+25 
+ 
+(3) the installation, modification, or replacement of a pole or 
+26 
+antenna equipment as provided in section 3 of P.L.    , c.      (C.    ) 
+27 
+(pending before the Legislature as this bill). 
+28 
+ 
+Each permit issued pursuant to this section shall be of general 
+29 
+applicability and shall not apply exclusively to a small wireless 
+30 
+facility. Only one application shall be required for all activities 
+31 
+associated with a permit issued pursuant to this section.  
+32 
+ 
+b. An authority shall receive and process applications subject to 
+33 
+the following requirements:  
+34 
+ 
+(1) small wireless facilities shall be classified as permitted uses 
+35 
+and not subject to zoning review or approval if they are located in the 
+36 
+right-of-way in any zone;  
+37 
+ 
+(2) an authority may not directly or indirectly require an applicant 
+38 
+to perform services or provide goods unrelated to the permit, such as 
+39 
+in-kind contributions to the authority including, but not limited to, 
+40 
+reserving fiber, conduit, or pole space for the authority;  
+41 
+ 
+(3) an applicant shall not be required to provide additional 
+42 
+information to obtain a permit than communications service providers 
+43 
+that are not wireless providers, provided that an applicant may be 
+44 
+required to include construction and engineering drawings and 
+45 
+information demonstrating compliance with the criteria in paragraph 
+46 
+(9) of this subsection; 
+ 
+47 
+
+
+=== Page 11 ===
+ 
+S2324 BEACH 
+11 
+ 
+ 
+ 
+(4) an authority may not require: 
+1 
+ 
+(a) the collocation, mounting, or installation of a small wireless 
+2 
+facility on any specific pole or category of poles or require multiple 
+3 
+antenna facilities on a single pole; 
+4 
+ 
+(b) the use of specific pole types or configurations when installing 
+5 
+a new or replacement pole; or  
+6 
+ 
+(c) the underground placement of a small wireless facility or 
+7 
+antenna equipment that is or are designated in an application to be 
+8 
+pole-mounted or ground-mounted, provided that an authority may: 
+9 
+ 
+(i)  require, pursuant to section 6 of P.L.    , c.      (C.    ) (pending 
+10 
+before the Legislature as this bill), that a wireless provider place 
+11 
+underground fiber that is part of a small wireless facility and not in or 
+12 
+on a pole; or  
+13 
+ 
+(ii)   prohibit, pursuant to section 6 of P.L.    , c.      (C.    ) 
+14 
+(pending before the Legislature as this bill), ground-mounted antenna 
+15 
+equipment; 
+16 
+ 
+(5) subject to the provisions of subparagraph (d) of paragraph (9) 
+17 
+of subsection b. of this section, an authority may not limit the 
+18 
+collocation of a small wireless facility or the mounting or installation 
+19 
+of a small wireless facility on a new or replacement pole by minimum 
+20 
+horizontal separation distance requirements from an existing small 
+21 
+wireless facility;  
+22 
+ 
+(6) the authority may require an applicant to include an attestation 
+23 
+that the small wireless facility shall be operational for use by a 
+24 
+wireless service provider within one year after the permit issuance 
+25 
+date, unless the authority and the applicant agree to extend this period 
+26 
+or a delay is caused by lack of commercial power, communications 
+27 
+facilities to the site, or any other factors outside of the applicant’s 
+28 
+control;  
+29 
+ 
+(7) within 10 days of receiving an application, an authority shall 
+30 
+determine and notify the applicant in writing whether the application is 
+31 
+complete. If an application is incomplete, an authority shall 
+32 
+specifically identify the missing information in writing. The 
+33 
+processing deadline provided in paragraph (8) of this subsection shall 
+34 
+restart on the date the applicant provides the missing information to 
+35 
+complete the application;  
+36 
+ 
+(8) an authority shall process an application in a non-
+37 
+discriminatory manner and the application shall be deemed approved if 
+38 
+the authority fails to approve or deny the application within: 
+39 
+ 
+(a) 60 days of receipt of an application for a permit involving 
+40 
+collocation of a small wireless facility using an existing structure; and  
+41 
+ 
+(b) 90 days for an application for a permit involving deployment of 
+42 
+a small wireless facility using a new or replacement pole.  
+43 
+ 
+If an authority provides written notification to the applicant within 
+44 
+10 days of receiving an application certifying that it is experiencing an 
+45 
+unusually high overall level of permitting activity or other 
+46 
+circumstances beyond the authority’s control that prevents the 
+47 
+authority from reviewing and processing the application by the 
+48 
+
+
+=== Page 12 ===
+ 
+S2324 BEACH 
+12 
+ 
+ 
+deadline, the processing deadline may be extended automatically for 
+1 
+up to 30 days. 
+2 
+ 
+The processing deadline may be tolled by agreement of the 
+3 
+applicant and the authority; 
+4 
+ 
+(9) an authority may deny the application for collocation, 
+5 
+mounting, or installation of a small wireless facility on a new or 
+6 
+replacement pole, or the installation or replacement of an associated 
+7 
+pole or antenna equipment that meets the requirements in section 4 of 
+8 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill), if 
+9 
+the authority finds that the proposed work:  
+10 
+ 
+(a) interferes with the safe operation of traffic control equipment;   
+11 
+ 
+(b) interferes with sight lines or clear zones for transportation or 
+12 
+pedestrians;  
+13 
+ 
+(c) interferes with compliance with the federal "Americans with 
+14 
+Disabilities Act of 1990" (42 U.S.C. s.12101 et seq.), or similar federal 
+15 
+or State standards regarding pedestrian access or movement;  
+16 
+ 
+(d) fails to comply with reasonable and non-discriminatory 
+17 
+horizontal spacing requirements of general application adopted by 
+18 
+ordinance that concern the location of ground-mounted antenna 
+19 
+equipment and new poles and which shall not prevent a wireless 
+20 
+provider from serving any location; 
+21 
+ 
+(e) fails to comply with applicable codes; or 
+22 
+ 
+(f) fails to comply with sections 4, 5, or 6 of P.L.    , c.    (C.        ) 
+23 
+(pending before the Legislature as this bill); 
+24 
+ 
+(10) the authority shall document the basis for an application 
+25 
+denial, including the specific code, rule, or statutory provisions on 
+26 
+which the denial was based, and send the documentation to the 
+27 
+applicant on or before the day the authority denies an application. The 
+28 
+applicant may cure the deficiencies identified by the authority and 
+29 
+resubmit the application within 30 days of the denial without paying 
+30 
+an additional application fee. The authority shall approve or deny the 
+31 
+revised application within 30 days of resubmission and limit its review 
+32 
+to the deficiencies cited in the denial; 
+33 
+ 
+(11) an applicant seeking to collocate, mount, or install more than 
+34 
+one small wireless facility within the jurisdiction of a single authority 
+35 
+may file a consolidated application for small wireless facilities and 
+36 
+associated poles and antenna equipment and receive a single permit for 
+37 
+the collocation, mounting, or installation of up to 25 small wireless 
+38 
+facilities and the placement of associated poles and antenna 
+39 
+equipment, provided that all small wireless facilities within the 
+40 
+consolidated application are substantially the same type and proposed 
+41 
+for collocation on substantially the same types of structures;  
+42 
+ 
+(12) an applicant shall not file within a 60-day period, three 
+43 
+consolidated applications; or multiple applications that collectively 
+44 
+seek permits for a combined total of more than 75 small wireless 
+45 
+facilities and associated poles and antenna equipment; 
+46 
+ 
+(13) the denial of one or more small wireless facilities in a 
+47 
+consolidated application shall not delay processing of any other small 
+48 
+
+
+=== Page 13 ===
+ 
+S2324 BEACH 
+13 
+ 
+ 
+wireless facilities, poles, or antenna equipment in the same 
+1 
+consolidated application. A consolidated application shall be 
+2 
+collectively processed in accordance with the procedures in this 
+3 
+section. A consolidated application that includes a new or replacement 
+4 
+pole deployment shall be subject to a 90-day timeframe for approval;   
+5 
+ 
+(14)  installations, mountings, modifications, replacements, and 
+6 
+collocations for which a permit is granted pursuant to this section shall 
+7 
+be completed by the applicant within one year after the permit 
+8 
+issuance date unless the authority and the applicant agree to extend 
+9 
+this period, or a delay is caused by the lack of commercial power or 
+10 
+communications facilities at the site; 
+11 
+ 
+(15)  approval of an application authorizes the applicant to: 
+12 
+ 
+(a) undertake the installation, modification, replacement or 
+13 
+collocation of the approved small wireless facility and any associated 
+14 
+pole and antenna equipment; and 
+15 
+ 
+(b) subject to applicable relocation requirements and the 
+16 
+applicant’s right to terminate at any time, operate and maintain the 
+17 
+small wireless facility and any associated pole and antenna equipment 
+18 
+covered by the permit for a period of not less than 10 years, which 
+19 
+must be renewed for equivalent durations so long as the facilities 
+20 
+comply with the criteria set forth in paragraph (9) of this subsection;   
+21 
+ 
+(16)  an authority may not institute, either expressly or de facto, a 
+22 
+moratorium on: 
+23 
+ 
+(a) filing, receiving, or processing applications; or  
+24 
+ 
+(b) issuing permits or other required approvals, if any, for the 
+25 
+collocation, mounting, or installing of a small wireless facility or the 
+26 
+installation, modification, or replacement of associated antenna 
+27 
+equipment or poles.   
+28 
+ 
+If the State or another authority has declared an emergency and the 
+29 
+State or another authority institutes a temporary moratorium that is 
+30 
+generally applicable and competitively neutral, is necessary to address 
+31 
+the emergency, disaster, or related public safety needs within the 
+32 
+authority’s jurisdiction, is targeted to those geographic areas that are 
+33 
+affected by the disaster or emergency, and applies only for the duration 
+34 
+of declaration of emergency, then the provisions of subparagraphs (a) 
+35 
+and (b) of this paragraph shall not apply. 
+36 
+ 
+c. An authority shall not require an application for: 
+37 
+ 
+(1) routine maintenance;  
+38 
+ 
+(2) the replacement of a small wireless facility or antenna 
+39 
+equipment, provided the replacement small wireless facility or antenna 
+40 
+equipment is substantially similar to or the same size as or smaller than 
+41 
+the original small wireless facility or antenna equipment and continues 
+42 
+to meet all other requirements of the original permit; or  
+43 
+ 
+(3) the installation, placement, maintenance, operation, or 
+44 
+replacement of a micro wireless facility that is suspended on cables 
+45 
+that are strung between existing poles, in compliance with the 
+46 
+applicable codes.  
+47 
+
+
+=== Page 14 ===
+ 
+S2324 BEACH 
+14 
+ 
+ 
+ 
+An authority may require a permit for work pursuant to subsection 
+1 
+a. of this section that requires excavation or closure of sidewalks or 
+2 
+vehicular lanes within the right-of-way and the permit shall be issued 
+3 
+to the applicant on a non-discriminatory basis upon terms and 
+4 
+conditions applied to any other person’s activities in the right-of-way 
+5 
+that require excavation, closing of sidewalks, or vehicular lanes.  
+6 
+ 
+7 
+ 
+12. A person owning, managing, or controlling an authority pole 
+8 
+in the right-of-way may not enter into an exclusive arrangement 
+9 
+with any person for the right to attach to the pole. A person who 
+10 
+purchases or otherwise acquires an authority pole is subject to the 
+11 
+requirements of P.L.    , c.    (C.         ) (pending before the 
+12 
+Legislature as this bill). 
+13 
+ 
+14 
+ 
+13. An authority shall allow the collocation of a small wireless 
+15 
+facility and the installation of associated antenna equipment on an 
+16 
+existing authority pole, and the mounting or installation of a small 
+17 
+wireless facility and the installation of associated antenna 
+18 
+equipment on a replacement authority pole, on non-discriminatory 
+19 
+terms and conditions using the standards in section 5 of P.L.    , c.    
+20 
+(C.        ) (pending before the Legislature as this bill) and the 
+21 
+application requirements in section 11 of P.L.    , c.    (C.        ) 
+22 
+(pending before the Legislature as this bill).  
+23 
+ 
+24 
+ 
+14. a. The rates, fees, and terms and conditions for any make-
+25 
+ready work to collocate, mount, or install a small wireless facility 
+26 
+on an authority pole and to install associated antenna equipment 
+27 
+shall be non-discriminatory, competitively neutral, commercially 
+28 
+reasonable, and shall comply with P.L.    , c.    (C.        ) (pending 
+29 
+before the Legislature as this bill).  
+30 
+ 
+b. The authority shall provide a good faith estimate for any 
+31 
+make-ready work necessary to enable the authority pole to support 
+32 
+the requested collocation, mounting, or installation by a wireless 
+33 
+provider, including authority pole replacement if necessary, within 
+34 
+60 days after receipt of a complete application. Make-ready work 
+35 
+including any authority pole replacement shall be completed within 
+36 
+60 days of written acceptance of the good faith estimate by the 
+37 
+applicant. An authority may require replacement of the authority 
+38 
+pole only if it demonstrates that the collocation would make the 
+39 
+authority pole structurally unsound.  
+40 
+ 
+c. 
+The person owning, managing, or controlling the authority 
+41 
+pole shall not require more make-ready work than required to meet 
+42 
+applicable codes or industry standards. Fees for make-ready work 
+43 
+shall not include costs related to pre-existing or prior damage or 
+44 
+noncompliance. Fees for make-ready work, including any pole 
+45 
+replacement, shall not exceed either actual costs or the amount 
+46 
+charged to other communications service providers for similar work 
+47 
+
+
+=== Page 15 ===
+ 
+S2324 BEACH 
+15 
+ 
+ 
+and shall not include any revenue or contingency-based consultant’s 
+1 
+fees or expenses. 
+2 
+ 
+3 
+ 
+15. a. All rates and fees established pursuant to subsection b. of 
+4 
+this section shall be a reasonable approximation of the authority’s 
+5 
+reasonable costs, and shall be applied by the authority in a non-
+6 
+discriminatory manner. An authority may not require a wireless 
+7 
+provider to pay any rates, fees, or compensation to the authority or 
+8 
+other person other than what is expressly authorized by P.L.    , 
+9 
+c.    (C.        ) (pending before the Legislature as this bill) for the 
+10 
+right to use or occupy the right-of-way for the collocation, 
+11 
+mounting, or installation of a small wireless facility on a pole in the 
+12 
+right-of-way, or for the installation, maintenance, modification, or 
+13 
+replacement of associated antenna equipment or a pole in the right-
+14 
+of-way. 
+15 
+ 
+b. Application fees for any permit issued pursuant to 
+16 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill) 
+17 
+shall not exceed: 
+18 
+ 
+(1) $500 for a single up-front application for collocation of a 
+19 
+small wireless facility that includes up to five small wireless 
+20 
+facilities, with an additional $100 for each small wireless facility 
+21 
+included in the same application thereafter; 
+22 
+ 
+(2) $250 for the modification or replacement of an existing pole, 
+23 
+together with the mounting or installation of an associated small 
+24 
+wireless facility in the right-of-way; and 
+25 
+ 
+(3) $1,000 for the installation of a new pole, together with the 
+26 
+mounting or installation of an associated small wireless facility in 
+27 
+the right of. 
+28 
+ 
+c. 
+Notwithstanding the provisions of any law, rule, regulation, 
+29 
+or order to the contrary, an authority may elect to charge for use of 
+30 
+the right-of-way or the collocation of a small wireless facility on an 
+31 
+authority pole in the right-of-way, provided, however, that the rate 
+32 
+for that use shall not exceed $200 per small wireless facility per 
+33 
+year for right-of-way access and $70 per authority pole per year for 
+34 
+a small wireless facility collocated, mounted, or installed on an 
+35 
+authority pole. The rates established pursuant to this paragraph, 
+36 
+together with a one-time application fee, shall be the total 
+37 
+compensation that the wireless provider is required to pay the 
+38 
+authority for the deployment of each small wireless facility in the 
+39 
+right-of-way and any associated antenna equipment or pole.  
+40 
+ 
+41 
+ 
+16. a. An authority shall not have or exercise any jurisdiction 
+42 
+or authority over the design, engineering, construction, installation, 
+43 
+or operation of a small wireless facility located in an interior 
+44 
+structure or upon the site of a campus, stadium, or athletic facility 
+45 
+not owned or controlled by the authority, other than to require 
+46 
+compliance with applicable codes.  
+47 
+
+
+=== Page 16 ===
+ 
+S2324 BEACH 
+16 
+ 
+ 
+ 
+b. Except as it relates to small wireless facilities subject to the 
+1 
+permit 
+and 
+fee 
+requirements 
+established 
+pursuant 
+to 
+2 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill) or 
+3 
+otherwise specifically authorized by State or federal law, an 
+4 
+authority shall not adopt or enforce any regulations or requirements 
+5 
+on the placement or operation of communications facilities in the 
+6 
+right-of-way by a communications service provider authorized by 
+7 
+federal, State, or local law to operate in a right-of-way, regulate any 
+8 
+communications services, or impose or collect any tax, fee, rate, or 
+9 
+charge for the provision of additional communications service over 
+10 
+the communications service provider’s communications facilities in 
+11 
+a right-of-way.  
+12 
+ 
+13 
+ 
+17. a. An authority may adopt an ordinance that makes 
+14 
+available to wireless providers rates, fees, and other terms and 
+15 
+conditions that comply with P.L.    , c.      (C.    ) (pending before 
+16 
+the Legislature as this bill). In the absence of an ordinance, a 
+17 
+wireless provider may install and operate a small wireless facility 
+18 
+and any associated poles and antenna equipment under the 
+19 
+requirements of P.L.    , c.    (C.        ) (pending before the 
+20 
+Legislature as this bill). An authority may not require a wireless 
+21 
+provider 
+to 
+enter 
+into 
+an 
+agreement 
+to 
+implement 
+22 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill), 
+23 
+but agreements are permissible if voluntary and non-discriminatory. 
+24 
+ 
+b. An ordinance or agreement or any provision thereof that 
+25 
+does not comply with P.L.    , c.    (C.        ) (pending before the 
+26 
+Legislature as this bill) shall apply only to small wireless facilities 
+27 
+and any associated poles and antenna equipment that were 
+28 
+operational before the effective date of P.L.    , c.    (C.        ) 
+29 
+(pending before the Legislature as this bill) and shall be deemed 
+30 
+invalid and unenforceable beginning on the 181st day after the 
+31 
+effective date of P.L.    , c.    (C.        ) (pending before the 
+32 
+Legislature as this bill) unless amended to comply with P.L.    , c.    
+33 
+(C.        ) (pending before the Legislature as this bill). If an 
+34 
+ordinance or agreement or any provision thereof is invalid pursuant 
+35 
+to this subsection, small wireless facilities and associated poles and 
+36 
+antenna equipment that became operational before the effective date 
+37 
+of P.L.    , c.    (C.        ) (pending before the Legislature as this 
+38 
+bill), pursuant to the ordinance or agreement, may remain installed 
+39 
+and be operated under the requirements of the remaining valid 
+40 
+portions of the ordinance or agreement or P.L.    , c.    (C.        ) 
+41 
+(pending before the Legislature as this bill), as applicable.  
+42 
+ 
+c. 
+Any provision of an agreement or ordinance that applies to 
+43 
+small wireless facilities and associated poles and antenna equipment 
+44 
+that becomes operational on or after the effective date of P.L.    , c.    
+45 
+(C.        ) (pending before the Legislature as this bill) is invalid and 
+46 
+unenforceable unless it complies with P.L.    , c.    (C.        ) 
+47 
+(pending before the Legislature as this bill). In the absence of an 
+48 
+
+
+=== Page 17 ===
+ 
+S2324 BEACH 
+17 
+ 
+ 
+ordinance or agreement that complies with P.L.    , c.    (C.        ) 
+1 
+(pending before the Legislature as this bill), a wireless provider 
+2 
+may install and operate a small wireless facility and associated 
+3 
+poles and antenna equipment in a right-of-way pursuant to the 
+4 
+requirements of the remaining valid portions of the ordinance or 
+5 
+agreement or P.L.    , c.    (C.        ) (pending before the Legislature 
+6 
+as this bill), as applicable. 
+7 
+ 
+8 
+ 
+18. a.  An authority may adopt reasonable indemnification, 
+9 
+insurance, and bonding requirements related to a small wireless 
+10 
+facility and associated pole permits and antenna equipment pursuant 
+11 
+to 
+the 
+requirements 
+of 
+this 
+section 
+and 
+section 
+6 
+of 
+12 
+P.L.    , c.    (C.        ) (pending before the Legislature as this bill). 
+13 
+ 
+b. Any wireless provider that owns or operates small wireless 
+14 
+facilities or utility poles in the right-of-way shall indemnify, 
+15 
+protect, defend, and hold the authority and its elected officials, 
+16 
+officers , employees, agents, and volunteers harmless against any 
+17 
+and all claims, lawsuits, judgments, costs, liens, losses, expenses, 
+18 
+fees including reasonable attorney fees and costs of defense, 
+19 
+proceedings, actions, demands, causes of action, liability, and suits 
+20 
+of any kind and nature, including but not limited to personal or 
+21 
+bodily injury or death, property damage or other harm for which 
+22 
+recovery of damages is sought, to the extent that it is caused by the 
+23 
+negligence of the wireless provider who owns or operates small 
+24 
+wireless facilities or utility poles in the right-of-way, any agent, 
+25 
+officer, 
+director, 
+representative, 
+employee, 
+affiliate, 
+or 
+26 
+subcontractor of the wireless provider, or their respective officers, 
+27 
+agents, employees, directors, or representatives while installing, 
+28 
+repairing, operating, or maintaining facilities in rights-of-way. 
+29 
+ 
+c. 
+Except for a wireless provider with an existing agreement to 
+30 
+occupy and operate in the rights-of-way, during the period in which 
+31 
+the wireless provider’s facilities are located on the authority 
+32 
+improvements or rights-of-way, the authority may require the 
+33 
+wireless provider to carry, at the wireless provider’s own cost and 
+34 
+expense, the following insurance: 
+35 
+ 
+(1) property insurance for its property’s replacement cost 
+36 
+against all risks; 
+37 
+ 
+(2) workers’ compensation insurance, as required by law; or 
+38 
+ 
+(3) commercial general liability insurance with respect to its 
+39 
+activities on the authority improvements or rights-of-way to afford 
+40 
+minimum protection limits consistent with its requirements of other 
+41 
+users of authority improvements or rights-of-way, including 
+42 
+coverage for bodily injury and property damage. An authority may 
+43 
+require a wireless provider to include the authority as an additional 
+44 
+insured on the commercial general liability policy and provide 
+45 
+certification and documentation of inclusion of the authority in a 
+46 
+commercial general liability policy as reasonably required by the 
+47 
+authority. 
+48 
+
+
+=== Page 18 ===
+ 
+S2324 BEACH 
+18 
+ 
+ 
+ 
+A wireless provider may self-insure all or a portion of the 
+1 
+insurance coverage and limit requirements required by an authority. 
+2 
+A wireless provider that self-insures is not required, to the extent of 
+3 
+the self-insurance, to comply with the requirement for the naming 
+4 
+of additional insureds under this section. A wireless provider that 
+5 
+elects to self-insure shall provide to the authority evidence 
+6 
+sufficient to demonstrate its financial ability to self-insure the 
+7 
+insurance coverage and limits required by the authority. 
+8 
+ 
+d. An authority may impose reasonable and non-discriminatory 
+9 
+requirements for bonds, escrow deposits, letters of credit, or any 
+10 
+other type of financial surety to ensure removal of abandoned or 
+11 
+unused wireless facilities or damage to the right-of-way or authority 
+12 
+property caused by the wireless provider or its agent. 
+13 
+ 
+14 
+ 
+19. a.  Nothing in P.L.    , c.    (C.        ) (pending before the 
+15 
+Legislature as this bill) shall be construed to allow any person or 
+16 
+entity to provide cable services regulated pursuant to 47 U.S.C. 
+17 
+s.521 through 47 U.S.C. s.573 without compliance with all laws 
+18 
+applicable to those cable operators, nor shall it be interpreted to 
+19 
+impose any new requirements on cable operators for the provision 
+20 
+of cable service in this State. 
+21 
+ 
+b. Nothing in P.L.    , c.    (C.        ) (pending before the 
+22 
+Legislature as this bill) shall be construed to allow any entity to 
+23 
+provide communications services without compliance with all laws 
+24 
+applicable to communications service providers, nor shall it be 
+25 
+construed to authorize the collocation, installation, placement, 
+26 
+maintenance, or operation of any communications facility, 
+27 
+including a wireline backhaul facility, in the right-of-way, other 
+28 
+than a small wireless facility. 
+29 
+ 
+c. 
+Nothing in P.L.    , c.    (C.        ) (pending before the 
+30 
+Legislature as this bill) shall authorize the State or any political 
+31 
+subdivision thereof, including an authority, to require small wireless 
+32 
+facility deployment or to regulate wireless service. 
+33 
+ 
+d. Nothing in P.L.    , c.    (C.        ) (pending before the 
+34 
+Legislature as this bill) authorize a person to collocate a small 
+35 
+wireless facility on property owned by a public utility without 
+36 
+consent of the public utility nor be construed to impact, modify, or 
+37 
+supersede any construction standard, engineering practice, tariff 
+38 
+provision, collective bargaining agreement, contractual obligation 
+39 
+or right, or federal or State law or regulation relating to facilities or 
+40 
+equipment owned or controlled by a public utility or its affiliate, an 
+41 
+electric cooperative, or an independent electric transmission 
+42 
+company, 
+that 
+is 
+not 
+a 
+wireless 
+provider, 
+nor 
+shall 
+43 
+P.L.    , c.    (C.         ) (pending before the Legislature as this bill) 
+44 
+be construed to apply to a public utility’s use of its own poles, 
+45 
+facilities, or both for communications associated with its public 
+46 
+utility operations. 
+47 
+
+
+=== Page 19 ===
+ 
+S2324 BEACH 
+19 
+ 
+ 
+ 
+20. A court of competent jurisdiction shall have jurisdiction to 
+1 
+determine disputes arising pursuant to P.L.    , c.    (C.        ) 
+2 
+(pending before the Legislature as this bill). Pending resolution of a 
+3 
+dispute concerning rates for collocation, mounting, and installation 
+4 
+of small wireless facilities on authority poles in the right-of-way 
+5 
+and the installation of associated antenna equipment, the authority 
+6 
+owning or controlling the pole shall allow the collocating person or 
+7 
+entity to collocate at annual rates established pursuant to section 15 
+8 
+of P.L.    , c.    (C.        ) (pending before the Legislature as this 
+9 
+bill), with rates to be reconciled upon final resolution of the dispute. 
+10 
+A dispute shall be pursued in accordance with accelerated docket or 
+11 
+complaint procedures, where available. 
+12 
+ 
+13 
+ 
+21. This act shall take effect on the first day of the seventh 
+14 
+month next following enactment. 
+15 
+ 
+16 
+ 
+17 
+STATEMENT 
+18 
+ 
+19 
+ 
+This bill provides for the uniform regulation of small wireless 
+20 
+facility deployment in the State by the State government and local 
+21 
+government units (authorities). The bill prohibits an authority from 
+22 
+regulating small wireless facilities in a manner inconsistent with the 
+23 
+bill, including entering into an exclusive arrangement with any person 
+24 
+or entity for the use of the right-of-way for: 
+25 
+ 
+1) the collocation of a small wireless facility;  
+26 
+ 
+2) the mounting or installation of a small wireless facility on new 
+27 
+or replacement poles;  
+28 
+ 
+3) the installation of associated antenna equipment adjacent to a 
+29 
+structure on which a small wireless facility is or will be collocated, 
+30 
+mounted, or installed; or 
+31 
+ 
+4) the 
+installation, 
+operation, 
+marketing, 
+modification, 
+32 
+maintenance, or replacement of associated poles.   
+33 
+ 
+The bill provides that a wireless provider, as defined in the bill, is 
+34 
+to have the right, as a permitted use not subject to zoning review or 
+35 
+approval, and without the need for authority consent to: 
+36 
+ 
+1) collocate small wireless facilities;  
+37 
+ 
+2) mount or install small wireless facilities on new or replacement 
+38 
+poles;  
+39 
+ 
+3) install associated antenna equipment adjacent to a structure on 
+40 
+which a small wireless facility is or will be collocated, mounted, or 
+41 
+installed; or  
+42 
+ 
+4) install, modify, or replace its own poles, or, with the 
+43 
+permission of the owner, a third party’s poles, associated with a small 
+44 
+wireless facility, along, across, upon, and under the right-of-way.  
+45 
+ 
+The bill provides that each new, replaced, or modified pole 
+46 
+installed in the right-of-way for the purpose of collocating, mounting, 
+47 
+or installing a small wireless facility is to follow certain height 
+48 
+
+
+=== Page 20 ===
+ 
+S2324 BEACH 
+20 
+ 
+ 
+restrictions pursuant to the bill. A wireless provider is not to install a 
+1 
+new pole unless the wireless provider has determined it cannot meet its 
+2 
+service objectives by collocating on existing poles or structures. An 
+3 
+authority may adopt aesthetics requirements governing the deployment 
+4 
+of small wireless facilities and associated antenna equipment and poles 
+5 
+in the right-of-way, subject to certain requirements pursuant to the bill. 
+6 
+A wireless provider is to comply with undergrounding requirements 
+7 
+that are consistent with the bill.  
+8 
+ 
+The bill requires a wireless provider to repair all damage to the 
+9 
+right-of-way caused by the activities of the wireless provider and to 
+10 
+return the right-of-way to its functional and aesthetic equivalence 
+11 
+before the damage, pursuant to the competitively neutral, reasonable 
+12 
+requirements, and specifications of the authority. If the wireless 
+13 
+provider fails to make the repairs required by the authority within a 
+14 
+reasonable time after written notice, the authority may make those 
+15 
+repairs and charge the applicable party the reasonable documented cost 
+16 
+of the repairs. 
+17 
+ 
+Under the bill, a wireless provider is not required to replace or 
+18 
+upgrade an existing pole, except for reasons of structural necessity or 
+19 
+compliance with applicable building codes. A wireless provider may, 
+20 
+with the permission of the pole owner, replace or modify the existing 
+21 
+pole, but any replacement or modification is to be consistent with the 
+22 
+design aesthetics of the pole being modified or replaced. The bill 
+23 
+requires wireless provider to notify an authority at least 30 days before 
+24 
+the abandonment of a small wireless facility located within the 
+25 
+authority’s jurisdiction. Following receipt of the notice, the authority is 
+26 
+to direct the wireless provider to remove all or any portion of the small 
+27 
+wireless facility and associated antenna equipment that the authority 
+28 
+determines would be in the best interest of the public. If the wireless 
+29 
+provider fails to remove the abandoned small wireless facility within 
+30 
+90 days after the notice, the authority may undertake to remove the 
+31 
+small wireless facility and recover the actual and reasonable expenses 
+32 
+of the removal from the wireless provider, its successors, or assigns.   
+33 
+ 
+The bill allows an authority to require an applicant to obtain a 
+34 
+permit for:  
+35 
+ 
+1) the collocation of a small wireless facility;  
+36 
+ 
+2) the mounting or installation of a small wireless facility on a 
+37 
+new, modified, or replacement pole; or  
+38 
+ 
+3) the installation, modification, or replacement of a pole or 
+39 
+antenna equipment as provided in the bill. 
+40 
+ 
+Each permit issued pursuant to the bill is to be of general 
+41 
+applicability and is not to apply exclusively to a small wireless facility 
+42 
+and an authority is to receive and process applications following 
+43 
+certain requirements pursuant to the bill. Application fees for any 
+44 
+permit issued pursuant to the bill are not to exceed certain amounts 
+45 
+pursuant to the bill. 
+46 
+ 
+Under the bill, the rates, fees, and terms and conditions for any 
+47 
+make-ready work to collocate, mount, or install a small wireless 
+48 
+
+
+=== Page 21 ===
+ 
+S2324 BEACH 
+21 
+ 
+ 
+facility on an authority pole and to install associated antenna 
+1 
+equipment are to be non-discriminatory, competitively neutral, 
+2 
+commercially reasonable, and are in compliance with the provisions of 
+3 
+the bill. The bill further provides that all rates and fees established 
+4 
+pursuant to the bill are to be a reasonable approximation of the 
+5 
+authority’s reasonable costs, and are to be applied by the authority in a 
+6 
+non-discriminatory manner. An authority may not require a wireless 
+7 
+provider to pay any rates, fees, or compensation to the authority or 
+8 
+other person other than what is expressly authorized by the bill for the 
+9 
+right to use or occupy the right-of-way for the collocation, mounting, 
+10 
+or installation of a small wireless facility on a pole in the right-of-way, 
+11 
+or for the installation, maintenance, modification, or replacement of 
+12 
+associated antenna equipment or a pole in the right-of-way. 
+13 
+ 
+The bill provides that an authority is not to have or exercise any 
+14 
+jurisdiction or authority over the design, engineering, construction, 
+15 
+installation, or operation of a small wireless facility located in an 
+16 
+interior structure or upon the site of a campus, stadium, or athletic 
+17 
+facility not owned or controlled by the authority, other than to require 
+18 
+compliance with applicable building codes. Further, except as it relates 
+19 
+to small wireless facilities subject to the permit and fee requirements 
+20 
+established pursuant the bill or otherwise specifically authorized by 
+21 
+State or federal law, an authority is not to adopt or enforce any 
+22 
+regulations or requirements on the placement or operation of 
+23 
+communications facilities in the right-of-way by a communications 
+24 
+service provider authorized by federal, State, or local law to operate in 
+25 
+the right-of-way, regulate any communications services, or impose or 
+26 
+collect any tax, fee, rate, or charge for the provision of additional 
+27 
+communications service over the communications service provider’s 
+28 
+communications facilities in the right-of-way.  
+29 
+ 
+The bill allows an authority to adopt an ordinance that makes 
+30 
+available to wireless providers rates, fees, and other terms and 
+31 
+conditions that comply with the provisions of the bill. In the absence 
+32 
+of an ordinance, a wireless provider may install and operate a small 
+33 
+wireless facility and any associated poles and antenna equipment 
+34 
+under the requirements of the bill. An authority may not require a 
+35 
+wireless provider to enter into an agreement to implement the 
+36 
+provisions of the bill, but agreements are permissible if voluntary and 
+37 
+non-discriminatory. 
+38 
+ 
+The bill provides that an authority may adopt reasonable 
+39 
+indemnification, insurance, and bonding requirements related to a 
+40 
+small wireless facility and associated pole permits and antenna 
+41 
+equipment.  The bill requires a wireless provider that owns or operates 
+42 
+a small wireless facility or utility pole in the right-of-way to 
+43 
+indemnify, protect, defend, and hold the authority and its elected 
+44 
+officials, officers, and employees, agents, and volunteers harmless 
+45 
+against all claims, lawsuits, judgements, costs, liens, losses, expenses, 
+46 
+and fees. 
+47 
+
+
+=== Page 22 ===
+ 
+S2324 BEACH 
+22 
+ 
+ 
+ 
+The bill further provides that an authority may require a wireless 
+1 
+provider to have in effect certain insurance coverage as provided in the 
+2 
+bill. The bill also allows an authority to impose reasonable and non-
+3 
+discriminatory requirements for bonds, escrow deposits, letters of 
+4 
+credit, or any other type of financial surety to ensure removal of 
+5 
+abandoned or unused wireless facilities or damage to the right-of-way 
+6 
+or authority property caused by the wireless provider or its agent. 
+7 
+ 
+The bill provides that nothing in the bill is to be construed to 
+8 
+authorize certain actions, including authorizing a person to collocate a 
+9 
+small wireless facility on property owned by a public utility without 
+10 
+consent of the public utility, to impact, modify or supersede any 
+11 
+construction standard or other obligation applicable to certain entities 
+12 
+that are not wireless providers, or to apply to a public utility’s use of 
+13 
+its own poles, facilities, or both for communications associated with its 
+14 
+public utility operations.  
+15 
+ 
+The bill provides that a court of competent jurisdiction is to have 
+16 
+jurisdiction to determine disputes arising pursuant to the bill. A dispute 
+17 
+is to be pursued in accordance with accelerated docket or complaint 
+18 
+procedures, where available.  
+19 

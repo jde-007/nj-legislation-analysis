@@ -1,0 +1,1015 @@
+=== Page 1 ===
+  
+(Sponsorship Updated As Of: 5/16/2024) 
+ASSEMBLY, No. 4367  
+STATE OF NEW JERSEY 
+221st LEGISLATURE 
+   
+INTRODUCED MAY 16, 2024 
+ 
+ 
+Sponsored by: 
+Assemblywoman  ALIXON COLLAZOS-GILL 
+District 27 (Essex and Passaic) 
+Assemblywoman  GARNET R. HALL 
+District 28 (Essex and Union) 
+ 
+ 
+ 
+ 
+SYNOPSIS 
+ 
+Requires producers of plastic packaging and certain other plastic products to 
+reduce quantity of plastic sold; restricts additional substances under "Toxic 
+Packaging Reduction Act."  
+ 
+CURRENT VERSION OF TEXT  
+ 
+As introduced. 
+    
+
+
+=== Page 2 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+2 
+ 
+ EXPLANATION – Matter enclosed in bold-faced brackets [thus] in the above bill is 
+not enacted and is intended to be omitted in the law. 
+ 
+ Matter underlined thus is new matter. 
+ 
+ 
+AN ACT concerning packaging and plastic products, supplementing 
+1 
+Title 13 of the Revised Statues, and amending P.L.1991, c.520. 
+2 
+ 
+3 
+ 
+BE IT ENACTED by the Senate and General Assembly of the State 
+4 
+of New Jersey: 
+5 
+ 
+6 
+ 
+1.  (New section) As used in sections 1 through 4 of P.L.    , 
+7 
+c.    (C.          ) (pending before the Legislature as this bill): 
+8 
+ 
+"Commissioner" means the Commissioner of Environmental 
+9 
+Protection. 
+10 
+ 
+"Covered material" means plastic packaging material, single-use 
+11 
+plastic products collected in the municipal solid waste stream, and 
+12 
+plastic products that have the effect of disrupting recycling 
+13 
+processes, including, but not limited to, single-use plastic items 
+14 
+such as straws, utensils, cups, plates, and plastic bags.  "Covered 
+15 
+material" shall not include: (1) medical devices and packaging 
+16 
+which are included with products regulated as a drug, medical 
+17 
+device, or dietary supplement by the United States Food and Drug 
+18 
+Administration under the federal "Food, Drug, and Cosmetic Act," 
+19 
+21 U.S.C. s.301 et seq., 21 C.F.R. s.3.2(e), or Pub.L. 103-417, 
+20 
+known as the Dietary Supplement Health and Education Act; (2) 
+21 
+animal biologics, including vaccines, bacterins, antisera, diagnostic 
+22 
+kits, and other products or biological origin, and other packaging 
+23 
+materials regulated by the United States Department of Agriculture 
+24 
+pursuant to 21 U.S.C. ss.151-159, known as the Virus-Serum-Toxin 
+25 
+Act; (3) packaging regulated by the federal "Insecticide, Fungicide, 
+26 
+and Rodenticide Act, 7 U.S.C. s.136 et seq. or any other applicable 
+27 
+federal law, rule, or regulation; (4) packaging used to contain 
+28 
+hazardous or flammable products regulated by the 2012 federal 
+29 
+Occupational 
+Safety 
+and 
+Health 
+Administration 
+Hazard 
+30 
+Communications Standard, 29 C.F.R. s.1910.1200; (5) infant 
+31 
+formula as defined in 21 U.S.C. s.301 et seq.; and (6) medical foods 
+32 
+as defined in 21 U.S.C. s.301 et seq. 
+33 
+ 
+"Department" 
+means 
+the 
+Department 
+of 
+Environmental 
+34 
+Protection. 
+35 
+ 
+"Packaging material" means a discrete material or category of 
+36 
+material, regardless of recyclability, including, but not limited to, 
+37 
+material types that are flexible, foam, or rigid, which are used for 
+38 
+the 
+containment, 
+protection, 
+handling, 
+delivery, 
+transport, 
+39 
+distribution, or presentation of another product that is sold, offered 
+40 
+for sale, imported, or distributed in the State, including through an 
+41 
+internet transaction. 
+42 
+ 
+"Producer" means: (1) the in-State manufacturer of a covered 
+43 
+material, or a product that is packaged in a covered material, which 
+44 
+is sold, offered for sale, or distributed in the State, or (2) if the 
+45 
+
+
+=== Page 3 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+3 
+ 
+ 
+covered material or product is manufactured outside the State, the 
+1 
+producer is the person that first distributes the covered material, or 
+2 
+product packaged in a covered material, in or into the State for the 
+3 
+purposes of selling or offering for sale the covered material or 
+4 
+product, as applicable, in the State. 
+5 
+ 
+"Recycling" means a process by which materials which would 
+6 
+otherwise become solid waste are collected, separated or processed, 
+7 
+and returned to the economic mainstream in the form of raw 
+8 
+materials or products.  "Recycling" shall not include: (1) energy 
+9 
+recovery or energy generation by any means, including, but not 
+10 
+limited to, combustion, incineration, pyrolysis, gasification, 
+11 
+solvolysis, or waste-to-fuel; (2) any chemical conversion process; 
+12 
+or (3) landfill disposal. 
+13 
+ 
+"Toxic Packaging Task Force" or "task force" means the task 
+14 
+force established by section 3 of P.L.    , c.    (C.          ) (pending 
+15 
+before the Legislature as this bill). 
+16 
+ 
+"Toxic substance" means a chemical or chemical class identified 
+17 
+by a state agency, federal agency, international intergovernmental 
+18 
+agency, accredited research university, or other scientific entity 
+19 
+deemed authoritative by the department on the basis of credible 
+20 
+scientific evidence as being one or more of the following: (1) a 
+21 
+chemical or chemical class that is a carcinogen, mutagen, 
+22 
+reproductive toxicant, immunotoxin, neurotoxicant, or endocrine 
+23 
+disruptor; (2) a chemical or chemical class that is persistent or 
+24 
+bioaccumulative; (3) a chemical or chemical class that may harm 
+25 
+the normal development of a fetus or child or cause other 
+26 
+developmental toxicity in humans or wildlife; (4) a chemical or 
+27 
+chemical class that may harm organs or cause other systemic 
+28 
+toxicity; (5) a chemical or chemical class that may have adverse air 
+29 
+quality impacts, adverse ecological impacts, adverse soil quality 
+30 
+impacts, or adverse water quality impacts; or (6) a chemical or 
+31 
+chemical class that the department has determined has equivalent 
+32 
+toxicity to the above criteria. 
+33 
+ 
+34 
+ 
+2.  (New section)  a.  Each producer shall reduce the amount, by 
+35 
+weight, of covered material annually sold, offered for sale, or 
+36 
+distributed in the State, including as packaging for products sold, 
+37 
+offered for sale, or distributed in the State by the producer, as 
+38 
+compared to the baseline value of the sales during the 12-month 
+39 
+period prior to the effective date of P.L.    , c.    (C.          ) (pending 
+40 
+before the Legislature as this bill), according to the following 
+41 
+schedule: 
+42 
+ 
+(1)  no later than two years after the effective date of P.L.    , 
+43 
+c.    (C.          ) (pending before the Legislature as this bill), the 
+44 
+amount shall be reduced to 90 percent of the baseline value; 
+45 
+ 
+(2)  no later than four years after the effective date of P.L.    , 
+46 
+c.    (C.          ) (pending before the Legislature as this bill), the 
+47 
+amount shall be reduced to 80 percent of the baseline value; 
+48 
+
+
+=== Page 4 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+4 
+ 
+ 
+ 
+(3)  no later than six years after the effective date of P.L.    , 
+1 
+c.    (C.          ) (pending before the Legislature as this bill), the 
+2 
+amount shall be reduced to 70 percent of the baseline value; 
+3 
+ 
+(4)  no later than eight years after the effective date of P.L.    , 
+4 
+c.    (C.          ) (pending before the Legislature as this bill), the 
+5 
+amount shall be reduced to 60 percent of the baseline value; and 
+6 
+ 
+(5)  no later than 10 years after the effective date of P.L.    , 
+7 
+c.    (C.          ) (pending before the Legislature as this bill), the 
+8 
+amount shall be reduced to 50 percent of the baseline value. 
+9 
+ 
+b.  Commencing two years after the effective date of P.L.    , 
+10 
+c.    (C.          ) (pending before the Legislature as this bill), no 
+11 
+producer shall sell, offer for sale, or distribute in the State a 
+12 
+cardboard packaging material, or a product packaged in such a 
+13 
+material, unless the cardboard packaging material contains a 
+14 
+minimum of 75 percent postconsumer recycled content, by weight, 
+15 
+and is recycled at a rate of at least 75 percent. 
+16 
+ 
+17 
+ 
+3.  (New section)  a.  There is established within the department 
+18 
+a Toxic Packaging Task Force.  The duties of the task force shall be 
+19 
+to review the toxicity of packaging in the State, and to recommend 
+20 
+to the department the designation of additional toxic substances 
+21 
+which shall be subject to the same prohibitions as those substances 
+22 
+listed in subsection c. of section 4 of P.L.1991, c.520 (C.13:1E-
+23 
+99.47). 
+24 
+ 
+b.  The Toxic Packaging Task Force shall be composed of five 
+25 
+members as follows: 
+26 
+ 
+(1)  the Commissioner of Environmental Protection, or the 
+27 
+commissioner's designee, who shall serve as chair; 
+28 
+ 
+(2)  one representative of the packaging industry, appointed by 
+29 
+the commissioner; 
+30 
+ 
+(3)  one representative of environmental organizations, appointed 
+31 
+by the commissioner; and 
+32 
+ 
+(4)  two members of the public with significant professional or 
+33 
+academic expertise in public health and toxicology, one of whom 
+34 
+shall be appointed by the President of the Senate and one of whom 
+35 
+shall be appointed by the Speaker of the General Assembly. 
+36 
+ 
+c.  Appointments to the task force shall be for a term of five 
+37 
+years.  An appointed member shall not serve consecutive terms.  
+38 
+Any vacancy in the public membership of the council shall be 
+39 
+filled, within six months after the date on which the vacancy occurs, 
+40 
+in the same manner provided for the initial appointments. 
+41 
+ 
+d.  The task force shall meet at least four times per year, at the 
+42 
+call of the chair, to review and recommend to the department 
+43 
+whether there are additional toxic substances or classes of toxic 
+44 
+substances that should be subject to the same prohibitions as those 
+45 
+substances listed in subsection c. of section 4 of P.L.1991, c.520 
+46 
+(C.13:1E-99.47). 
+47 
+
+
+=== Page 5 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+5 
+ 
+ 
+ 
+e.  No later than one year after the Toxic Packaging Task Force 
+1 
+recommends to the department an additional substance to restrict 
+2 
+pursuant to subsection d. of this section, the department shall 
+3 
+implement this recommendation by adopting rules and regulations 
+4 
+in accordance with the "Administrative Procedure Act," P.L.1968, 
+5 
+c.410 (C.52:14B-1 et seq.). 
+6 
+ 
+7 
+ 
+4.  (New section)  a.  Whenever the Commissioner of 
+8 
+Environmental Protection finds that a person has violated the 
+9 
+provisions of section 2 of P.L.    , c.    (C.          ) (pending before 
+10 
+the Legislature as this bill), the commissioner may:  
+11 
+ 
+(1) issue an order, in accordance with subsection c. of this 
+12 
+section, requiring the violator to comply with the provisions of 
+13 
+P.L.    , c.    (C.          ) (pending before the Legislature as this bill) 
+14 
+or the rules or regulations adopted pursuant thereto; 
+15 
+ 
+(2) bring a civil action in accordance with subsection d. of this 
+16 
+section;  
+17 
+ 
+(3) levy a civil administrative penalty in accordance with 
+18 
+subsection e. of this section; 
+19 
+ 
+(4) bring an action for a civil penalty in accordance with 
+20 
+subsection f. of this section; or 
+21 
+ 
+(5) notify the public of a producer that is not in compliance with 
+22 
+the requirements of section 2 of P.L.    , c.    (C.          ) (pending 
+23 
+before the Legislature as this bill).   
+24 
+ 
+b.  Pursuit of any of the remedies specified under subsection a. of 
+25 
+this section shall not preclude the seeking of any other remedy 
+26 
+specified. 
+27 
+ 
+c. 
+Whenever the commissioner finds that a producer has 
+28 
+violated the provisions of section 2 of P.L.    , c.    (C.          ) 
+29 
+(pending before the Legislature as this bill), the commissioner may 
+30 
+issue an administrative enforcement order to the person:  specifying 
+31 
+the provision or provisions that the person has violated; citing the 
+32 
+action that constituted the violation; requiring the person’s 
+33 
+compliance with the provision violated; and giving notice of the 
+34 
+person's right to a hearing on the matters contained in the 
+35 
+administrative enforcement order.  The person subject to the order 
+36 
+shall have 20 calendar days from receipt of the order within which 
+37 
+to deliver to the commissioner a written request for a hearing.  After 
+38 
+the hearing, and upon finding that a violation has occurred, the 
+39 
+commissioner may issue a final order.  If no hearing is requested, 
+40 
+the order shall become final after the expiration of the 20-day 
+41 
+period.  A request for a hearing shall not automatically stay the 
+42 
+effect of the order. 
+43 
+ 
+d. The commissioner shall be authorized to institute a civil 
+44 
+action in Superior Court for appropriate relief from any violation of 
+45 
+the provisions of section 2 of P.L.    , c.    (C.          ) (pending 
+46 
+before the Legislature as this bill), or of any rule or regulation 
+47 
+
+
+=== Page 6 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+6 
+ 
+ 
+adopted pursuant thereto.  Such relief may include, singly or in 
+1 
+combination:  
+2 
+ 
+(1) a temporary or permanent injunction;  
+3 
+ 
+(2) recovery of the reasonable costs of any investigation or 
+4 
+inspection that led to the discovery of the violation, and for the 
+5 
+recovery of the reasonable costs of preparing and bringing a civil 
+6 
+action commenced under this subsection; 
+7 
+ 
+(3) recovery of reasonable costs incurred by the State in 
+8 
+removing, correcting, or terminating the adverse effects resulting 
+9 
+from the violation for which a civil action has been commenced and 
+10 
+brought under this subsection; 
+11 
+ 
+(4) recovery of compensatory damages caused by a violation for 
+12 
+which a civil action has been commenced and brought under this 
+13 
+subsection.  Assessments under this subsection shall be paid to the 
+14 
+State Treasurer, except that compensatory damages may be paid by 
+15 
+specific order of the court to any persons who have been aggrieved 
+16 
+by the violation.  
+17 
+ 
+e. 
+(1)  The commissioner shall be authorized to assess a civil 
+18 
+administrative penalty of not less than $5,000 nor more than 
+19 
+$10,000 for each violation, provided that each day during which the 
+20 
+violation continues shall constitute an additional, separate, and 
+21 
+distinct offense.  In assessing a civil administrative penalty, the 
+22 
+commissioner shall consider the severity of the violation, the 
+23 
+measures taken to prevent further violations, and whether the 
+24 
+penalty will act as an appropriate deterrent.  
+25 
+ 
+(2) Prior to the assessment of a civil administrative penalty 
+26 
+under this subsection, the person committing the violation shall be 
+27 
+notified by certified mail or personal service that the penalty is 
+28 
+being assessed.  The notice shall identify the section of the statute, 
+29 
+rule, regulation, or order that was violated; recite the facts alleged 
+30 
+to constitute a violation; state the basis for the amount of the civil 
+31 
+administrative penalties to be assessed; and affirm the rights of the 
+32 
+alleged violator to a hearing.  The ordered party shall have 35 days 
+33 
+from receipt of the notice within which to deliver to the 
+34 
+commissioner a written request for a hearing.  After the hearing and 
+35 
+upon finding that a violation has occurred, the commissioner may 
+36 
+issue a final order after assessing the amount of the fine specified in 
+37 
+the notice.  If no hearing is requested, the notice shall become a 
+38 
+final order after the expiration of the 35-day period.  Payment of the 
+39 
+assessment is due when a final order is issued or the notice becomes 
+40 
+a final order.   
+41 
+ 
+(3) The authority to levy an administrative order is in addition to 
+42 
+all other enforcement provisions in this act, and the payment of any 
+43 
+assessment shall not be deemed to affect the availability of any 
+44 
+other enforcement provisions in connection with the violation for 
+45 
+which the assessment is levied.  The department may compromise 
+46 
+any civil administrative penalty assessed under this section in an 
+47 
+amount and with conditions the department determines appropriate. 
+48 
+
+
+=== Page 7 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+7 
+ 
+ 
+ 
+f. 
+A producer who violates any provision of section 2 of 
+1 
+P.L.    , c.    (C.          ) (pending before the Legislature as this bill), 
+2 
+any rule or regulation adopted pursuant thereto, an administrative 
+3 
+order issued pursuant to subsection b. of this section, or a court 
+4 
+order issued pursuant to subsection c. of this section, or who fails to 
+5 
+pay a civil administrative penalty in full pursuant to subsection d. of 
+6 
+this section, or who knowingly makes any false or misleading 
+7 
+statement on any application, record, report, or other document 
+8 
+required to be submitted to the department, shall be subject, upon 
+9 
+order of a court, to a civil penalty not to exceed $10,000 per day of 
+10 
+the violation, and each day during which the violation continues 
+11 
+shall constitute an additional, separate, and distinct offense.  Any 
+12 
+civil penalty imposed pursuant to this subsection may be collected 
+13 
+with costs in a summary proceeding pursuant to the "Penalty 
+14 
+Enforcement Law of 1999," P.L.1999, c.274 (C.2A:58-10 et seq.), 
+15 
+or may be collected in a civil action commenced by the 
+16 
+commissioner.  In addition to any penalties, costs, or interest 
+17 
+charges, the Superior Court, or the municipal court as the case may 
+18 
+be, may assess against the violator the amount of economic benefit 
+19 
+accruing to the violator from the violation. 
+20 
+ 
+21 
+ 
+5. Section 4 of P.L.1991, c.520 (C.13:1E-99.47) is amended to 
+22 
+read as follows: 
+23 
+ 
+4.  a.  On or after January 1, 1993, no person shall sell, offer for 
+24 
+sale, or offer for promotional purposes in this State any package or 
+25 
+packaging component which includes, in the package itself or in 
+26 
+any packaging component, inks, dyes, pigments, adhesives, 
+27 
+stabilizers or any other additives containing any lead, cadmium, 
+28 
+mercury or hexavalent chromium which has been intentionally 
+29 
+introduced as a chemical element during manufacturing or 
+30 
+distribution as opposed to the incidental presence of any of these 
+31 
+elements. 
+32 
+ 
+b. On or after January 1, 1993, no person shall sell, offer for 
+33 
+sale, or offer for promotional purposes in this State any product 
+34 
+contained in a package which includes, in the package itself or in 
+35 
+any packaging component, inks, dyes, pigments, adhesives, 
+36 
+stabilizers or any other additives containing any lead, cadmium, 
+37 
+mercury or hexavalent chromium which has been intentionally 
+38 
+introduced as a chemical element during manufacturing or 
+39 
+distribution as opposed to the incidental presence of any of these 
+40 
+elements. 
+41 
+ 
+c. 
+The sum of the concentration levels of lead, cadmium, 
+42 
+mercury or hexavalent chromium present in any package or 
+43 
+packaging component, which shall constitute an incidental 
+44 
+presence, shall not exceed the following levels: 
+45 
+ 
+(1)  Not more than 600 parts per million by weight (0.06 [%] 
+46 
+percent) after January 1, 1993; 
+47 
+
+
+=== Page 8 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+8 
+ 
+ 
+ 
+(2)  Not more than 250 parts per million by weight (0.025 [%] 
+1 
+percent) after January 1, 1994; 
+2 
+ 
+(3)  Not more than 100 parts per million by weight (0.01 [%] 
+3 
+percent) after January 1, 1995. 
+4 
+ 
+As used in this section [, "incidental] : 
+5 
+ 
+"Incidental presence" means the presence [or a regulated metal] 
+6 
+of a substance as an unintended or undesired ingredient of a 
+7 
+package or packaging component. 
+8 
+ 
+[As used in this section, "intentionally] "Intentionally 
+9 
+introduced" means the deliberate use of a [regulated heavy metal] 
+10 
+substance to provide a desired characteristic, appearance, or quality.  
+11 
+"Intentionally introduced" shall not include: 
+12 
+ 
+(1)  Using [a regulated metal] lead, cadmium, mercury, or 
+13 
+hexavalent chromium as a processing agent or intermediate to 
+14 
+impart certain chemical or physical changes during manufacturing, 
+15 
+whereupon the incidental retention of a residue of [a regulated 
+16 
+metal] lead, cadmium, mercury, or hexavalent chromium in the 
+17 
+final package or packaging component is neither desired nor 
+18 
+deliberate, if the final package or packaging component is in 
+19 
+compliance with [this act] the provisions of P.L.1991, c.520 
+20 
+(C.13:1E-99.44 et seq.) ; or 
+21 
+ 
+(2)  Using recycled materials as feed stock for the manufacture 
+22 
+of new packaging materials, where some portion of the recycled 
+23 
+materials may contain amounts of the regulated [metals if] 
+24 
+substance, provided that the new package or packaging component 
+25 
+is in compliance with [this act] the provisions of P.L.1991, c.520 
+26 
+(C.13:1E-99.44 et seq.) . 
+27 
+ 
+d.  Commencing two years after the effective date of P.L.    , 
+28 
+c.    (C.          ) (pending before the Legislature as this bill), no 
+29 
+person shall sell, offer for sale, or offer for promotional purposes in 
+30 
+this State any package or packaging component, or any product 
+31 
+contained in a package, which includes, in the package itself or in 
+32 
+any packaging component, inks, dyes, pigments, adhesives, 
+33 
+stabilizers or any other additives containing any of the following 
+34 
+substances, which has been intentionally introduced as a chemical 
+35 
+element during manufacturing or distribution as opposed to the 
+36 
+incidental presence of any of these elements: 
+37 
+ 
+(1)  perfluoroalkyl and polyfluoroalkyl substances (PFAS); 
+38 
+ 
+(2)  ortho-phthalates; 
+39 
+ 
+(3)  bisphenols; 
+40 
+ 
+(4)  halogenated and organophosphorus flame retardants (HFRS, 
+41 
+OPFRS) 
+42 
+ 
+(5)  non-detectable pigments including carbon black; 
+43 
+ 
+(6)  oxo-degradable additives including oxo-biodegradable 
+44 
+additives; 
+45 
+
+
+=== Page 9 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+9 
+ 
+ 
+ 
+(7)  UV-328, 2-(2h-benzotriazol-2-yl)-4, 6-di-tert-pentylphenol, 
+1 
+or any other ultraviolet light absorbers including benzophenone and 
+2 
+its derivatives; 
+3 
+ 
+(8)  short-, medium-, and long-chained chlorinated paraffins; 
+4 
+ 
+(9)  toxic metals other than lead, cadmium, mercury, and 
+5 
+hexavalent chromium; 
+6 
+ 
+(10)  antimony trioxide; 
+7 
+ 
+(11)  formaldehyde; 
+8 
+ 
+(12)  perchlorate; 
+9 
+ 
+(13)  toluene; or 
+10 
+ 
+(14)  vinyl chloride, including polyvinylidene chloride. 
+11 
+ 
+e.  The department may, upon the recommendation of the Toxic 
+12 
+Packaging Task Force established pursuant to section 3 of P.L.    , 
+13 
+c.    (C.          ) (pending before the Legislature as this bill), 
+14 
+designate additional substances to be prohibited from being 
+15 
+included in packaging and packaging components by adopting rules 
+16 
+and regulations in accordance with the "Administrative Procedure 
+17 
+Act," P.L.1968, c.410 (C.52:14B-1 et seq.). 
+18 
+(cf:  P.L.1997, c.307, s.2) 
+19 
+ 
+20 
+ 
+6.  The Department of Environmental Protection shall, in 
+21 
+accordance with the "Administrative Procedure Act," P.L.1968, 
+22 
+c.410 (C.52:14B-1 et seq.), adopt rules and regulations as necessary 
+23 
+to implement this act. 
+24 
+ 
+25 
+ 
+7.  This act shall take effect immediately. 
+26 
+ 
+27 
+ 
+28 
+STATEMENT 
+29 
+ 
+30 
+ 
+This bill would require the producers of plastic packaging and 
+31 
+certain other plastic products sold in the State to reduce the amount, 
+32 
+by weight, of their packaging or products sold annually.  The bill 
+33 
+would also restrict additional substances under the "Toxic 
+34 
+Packaging Reduction Act," P.L.1991, c.520 (C.13:1E-99.44 et seq.). 
+35 
+ 
+Specifically, the source reduction component of the bill would 
+36 
+apply to (1) plastic packaging, (2) single-use plastic products that 
+37 
+are collected in the municipal solid waste stream, and (3) plastic 
+38 
+products that have the effect of disrupting recycling processes, 
+39 
+including, but not limited to, single-use plastic items such as straws, 
+40 
+utensils, cups, plates, and plastic bags.  The definition of "covered 
+41 
+material" in section 1 of the bill would exclude various types of 
+42 
+products, including those regulated under certain federal laws.  
+43 
+Under the bill, producers of the products described above (including 
+44 
+producers of products that are packaged in plastic packaging) would 
+45 
+be required to decrease the amount of the packaging or products 
+46 
+that are sold annually, by weight, such that, after two years, the 
+47 
+quantity sold is 90 percent of the baseline amount, after four years, 
+48 
+
+
+=== Page 10 ===
+ 
+A4367 COLLAZOS-GILL, HALL 
+10 
+ 
+ 
+the quantity sold is 80 percent of the baseline amount, after six 
+1 
+years, the quantity sold is 70 percent of the baseline amount, after 
+2 
+eight years, the quantity sold is 60 percent of the baseline amount, 
+3 
+and, after 10 years, the quantity sold is 50 percent of the baseline 
+4 
+amount. 
+5 
+ 
+The bill would also prohibit the sale of cardboard packaging 
+6 
+materials (including products sold in cardboard packaging 
+7 
+materials) unless the cardboard contains at least 75 percent 
+8 
+postconsumer recycled content and is recycled at a rate of at least 
+9 
+75 percent.  Producers who violate these requirements would be 
+10 
+liable to civil and civil administrative penalties of up to $10,000 per 
+11 
+day of noncompliance. 
+12 
+ 
+The bill would also amend the "Toxic Packaging Reduction Act" 
+13 
+to prohibit the sale of packaging (and products that are packaged in 
+14 
+packaging) that contains certain substances, including toxic metals, 
+15 
+per- and polyfluoroalkyl substances (PFAS), and vinyl chloride.  
+16 
+Under current law, only packaging that contains lead, mercury, 
+17 
+cadmium, or hexavalent chromium is restricted under the "Toxic 
+18 
+Packaging Reduction Act."  Persons who violate the provisions of 
+19 
+the "Toxic Packaging Reduction Act" are liable to civil and civil 
+20 
+administrative penalties of up to $7,500 per day of noncompliance, 
+21 
+for a first offense.  
+22 
+ 
+Finally, the bill would also establish a Toxic Packaging Task 
+23 
+Force, composed of the DEP commissioner or a designee and four 
+24 
+members of the public, appointed by the DEP commission and the 
+25 
+presiding officers of the Legislature.  The task force would be 
+26 
+charged with recommending additional chemicals to regulate under 
+27 
+the "Toxic Packaging Reduction Act."  Under the bill, the DEP 
+28 
+would be required to adopt rules and regulations to regulate a 
+29 
+chemical no later than one year after the task force's 
+30 
+recommendation. 
+31 
