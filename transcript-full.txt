@@ -1,0 +1,2933 @@
+
+--- PAGE 1 ---
+ 
+Meeting Recorded and Transcribed by 
+The Office of Legislative Services, Public Information Office, 
+Hearing Unit, State House Annex, PO 068, Trenton, New Jersey 
+ 
+ 
+ 
+Committee Meeting 
+Of 
+SENATE ENVIRONMENT AND ENERGY COMMITTEE 
+ 
+ASSEMBLY ENVIRONMENT, NATURAL RESOURCES,  
+AND SOLID WASTE COMMITTEE 
+ 
+“The Committees will meet to discuss the issue of plastic pollution. The Committees will jointly receive testimony 
+from invited guests on the extent of plastic pollution in the State, its potential and actual effects on human health, and 
+methods that may be used to protect against, or to mitigate, the negative effects of plastic pollution on human health 
+and the environment” 
+ 
+LOCATION: 
+Committee Room 4 
+State House Annex 
+Trenton, New Jersey 
+DATE: 
+April 22, 2024 
+10:00 a.m. 
+ 
+MEMBERS OF COMMITTEE PRESENT: 
+ 
+Senator Bob Smith, Chair 
+Senator Linda R. Greenstein, Vice Chair 
+ 
+Assemblyman James J. Kennedy, Chair 
+Assemblywoman Shavonda E. Sumter, Vice Chair 
+Assemblywoman Alixon Collazos-Gill 
+Assemblywoman Garnet R. Hall 
+Assemblywoman Andrea Katz 
+Assemblyman Michael Inganamort 
+ 
+ALSO PRESENT: 
+ 
+Eric Hansen 
+Adaline B. Kaser 
+ 
+ 
+ 
+Celia Smits 
+ 
+ 
+ 
+Greg Harris 
+Office of Legislative Services 
+ 
+ 
+Senate Majority  
+ 
+ 
+Senate Republican 
+Committee Aides 
+ 
+ 
+ 
+Committee Aide  
+ 
+ 
+Committee Aide 
+ 
+Elizabeth Theodore 
+ 
+ 
+ 
+Natalie Ghaul  
+Assembly Majority 
+ 
+ 
+ 
+Assembly Republican 
+Committee Aide  
+ 
+ 
+ 
+Committee Aide 
+ 
+
+--- PAGE 2 ---
+
+--- PAGE 3 ---
+
+--- PAGE 4 ---
+ 
+ 
+TABLE OF CONTENTS 
+ 
+Page 
+Gary Sondermeyer 
+Vice President of Operations 
+Bayshore Family of Companies, 
+Representing 
+Association of New Jersey Recyclers 
+4 
+ 
+Phoebe Stapleton, Ph.D. 
+Associate Professor 
+Department of Pharmacology and Toxicology 
+Ernest Mario School of Pharmacy 
+Rutgers University, and 
+Resident Scientist 
+Environmental and Occupational Health Sciences Institute 
+Rutgers University 
+5 
+ 
+ 
+Judith Enck 
+President 
+Beyond Plastics 
+32 
+ 
+Shanna H. Swan, Ph.D. 
+Professor 
+Environmental Medicine and Public Health 
+Icahn School of Medicine 
+Mount Sinai, and 
+Senior Scientist 
+Environmental Health Sciences 
+52 
+ 
+ 
+APPENDIX: 
+ 
+Testimony 
+submitted by 
+Phoebe Stapleton, Ph.D. 
+1x 
+ 
+Testimony 
+submitted by 
+Gary Sondermeyer 
+10x 
+ 
+Testimony 
+submitted by 
+Judith Enck 
+15x 
+
+--- PAGE 5 ---
+ 
+ 
+TABLE OF CONTENTS (continued) 
+APPENDIX (continued) 
+ 
+Testimony, and 
+Additional materials 
+submitted by 
+Danielle Fortunato 
+Regional Director, State Government Affairs 
+Plastics Industry Association 
+24x 
+ 
+Testimony 
+submitted by 
+George Braddon 
+Vice President of Government Affairs 
+Tekni-Plex 
+30x 
+ 
+mej: 1-62 
+ 
+
+--- PAGE 6 ---
+ 
+ 
+ 
+1 
+ 
+ 
+SENATOR BOB SMITH (Chair):  Welcome everyone to the 
+two most interesting committees in the Legislature -- Assembly Solid Waste 
+and Senate Energy and Environment. 
+ 
+ 
+Before we get started, let me introduce my members. 
+ 
+ 
+Senator Greenstein was just here -- are you here, Senator 
+Greenstein? 
+ 
+ 
+UNIDENTIFIED SPEAKER:  (indiscernible) 
+ 
+ 
+SENATOR SMITH:  Oh, she’s getting coffee.  That’s--  That’s 
+definitely a permitted absence. 
+ 
+ 
+And, Senator McKeon is out of state, I believe, traveling.  And, 
+then, the two members from the minority party said they would look today. 
+ 
+ 
+Chairman Kennedy, how about I turn it over to you and you can 
+introduce your members. 
+ 
+ 
+ASSEMBLYMAN JAMES J. KENNEDY (Chair):  OK. 
+ 
+ 
+Well, it’s a pleasure to be here, I can tell you that. 
+ 
+ 
+And, I’ll let my members introduce themselves, because I’m not 
+sure which ones are my members anymore.  (laughter) 
+ 
+ 
+I think I only have one. 
+ 
+ 
+UNIDENTIFIED 
+SPEAKER: 
+ 
+No, 
+you 
+actually 
+have 
+(indiscernible) 
+ 
+ 
+Oh, OK. 
+ 
+ 
+ASSEMBLYWOMAN SHAVONDA E. SUMTER (Vice 
+Chair):  Assemblywoman Shavonda Sumter, Vice Chair of the Committee. 
+ 
+ 
+Always good to be here with our Senate counterparts. 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  Assemblywoman 
+Collazos-Gill.  I am in the 27th Legislative District. 
+
+--- PAGE 7 ---
+ 
+ 
+ 
+2 
+ 
+ 
+ASSEMBLYWOMAN HALL:  Good morning. 
+ 
+ 
+Assemblywoman Garnet Hall; 28th District. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  Assemblywoman Andrea Katz, 
+the 8th Legislative District. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Good morning. 
+ 
+ 
+Assemblyman Mike Inganamort, the 24th Legislative District. 
+ 
+ 
+Thank you, Chairs. 
+ 
+ 
+SENATOR SMITH:  So, the point of today’s hearing is to bring 
+New Jersey citizens up to date on the growing threat to the health of our 
+citizens as well as the environment. 
+ 
+ 
+When people think about plastics, they think about the ocean of 
+-- almost a continent -- of plastics in the Pacific Ocean.  They’re not really 
+thinking so much about human health. 
+ 
+ 
+And, what we’ve been finding out over the years, if we took any 
+of the Assembly people to the hospital here in Trenton and we had a blood 
+test done on you, guess what’s going to be in your blood?  And, Star-Ledger 
+recently did articles about brain surgery, where the brain surgeon is finding 
+plastic particles in our brains.  Rutgers just completed a study saying plastic 
+particles are in our bottled water.  And, I thought we were buying the bottled 
+water because it had some exceptional level of purity. 
+ 
+ 
+Anyway, we’re going to hear about all that today.  And, my 
+partner in the Assembly, Assemblyman Kennedy, has indicated this is a very 
+important topic to him and the Assembly as well. 
+ 
+ 
+Anything you’d like to say, Jim? 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  No, I don’t really have anything 
+to add to that; that’s fine. 
+
+--- PAGE 8 ---
+ 
+ 
+ 
+3 
+ 
+ 
+SENATOR SMITH:  All right, so-- 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Let’s get going. 
+ 
+ 
+SENATOR SMITH:  We have one pre-meeting order of 
+importance, and that is the presentation of the Joint Legislative Resolution 
+by all of us to Gary Sondermeyer.  Gary is the good-looking guy with the 
+almost perfect haircut. 
+ 
+ 
+Gary has been a major leader in New Jersey on environmental 
+issues.  And, one of the reasons for that is that he spent many decades with 
+the New Jersey Department of Environmental Protection, and was a major 
+leader in the Department.  And, when he retired from the DEP, he then 
+joined the largest recycling -- one of the major recycling entities in New Jersey, 
+Bayshore, who are also very, very pro-environment in everything that they 
+do. 
+ 
+ 
+With Chairman Kennedy’s indulgence, I am just going to take a 
+couple of excerpts out of the Joint Resolution. 
+ 
+ 
+Whereas, the Senate, General Assembly, and the State of New 
+Jersey are pleased to salute Gary Sondermeyer, highly esteemed member of 
+his community, on the felicitous occasion of his retirement from an illustrious 
+career in the environmental sector that has spanned more than 40 years -- a 
+whole bunch about his birth and growing up and all that.  But, also, he was 
+the Assistant Commissioner in the DEP’s permitting programs; he was the 
+DEP’s lead for Homeland Security; and he was the Director of Solid Waste 
+and the Recycling Programs.  Thirty-year tenure with the DEP.  Real, serious 
+public service. 
+ 
+ 
+Whereas, widely admired for his tireless work ethic; his 
+unwavering professionalism; and his thorough command of State processes 
+
+--- PAGE 9 ---
+ 
+ 
+ 
+4 
+and procedures regarding sustainability, waste reduction, recycling, and more; 
+this consummate public servant has lent his considerable expertise as the 
+Chair of Sustainable New Jersey and its Waste Management Taskforce; as 
+Vice Chair of the New Jersey Plastics Advisory Council; and as an active 
+member of several prominent boards and commissions. 
+ 
+ 
+And, he has uplifted and inspired the next generation of 
+environmental trailblazers through his efforts to create a sustainable New 
+Jersey Schools Program, and through his mentorship of countless students 
+and young professionals. 
+ 
+ 
+You’ve done a great job for all of us, and the resolution goes on 
+to say the Senate and the Legislature -- the Assembly -- recognize all those 
+efforts, and Assemblyman Kennedy and I have a very nice framed resolution 
+to present to him. 
+ 
+ 
+Should we do that right now? 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Sure. 
+ 
+ 
+SENATOR SMITH:  Gary, come on up, get the resolution and a 
+handshake and a cheer. 
+ 
+ 
+(audience applause) 
+ 
+ 
+Somebody should get a picture. 
+ 
+ 
+Gary, come on in between the two of us. 
+G A R Y   S O N D E R M E Y E R:  Thank you, sir, this is absolutely 
+amazing. 
+ 
+ 
+SENATOR SMITH:  Well, it’s true. 
+ 
+ 
+MR. SONDERMEYER:  Thank you, sir. 
+ 
+ 
+SENATOR SMITH:  I’m wondering where the time goes. 
+
+--- PAGE 10 ---
+ 
+ 
+ 
+5 
+ 
+ 
+So, it’s official:  Gary Sondermeyer is hereby recognized for his 
+great work on behalf of New Jersey’s environment. 
+ 
+ 
+And, somebody should get a picture. 
+ 
+ 
+MR. SONDERMEYER:  I’m stunned. 
+ 
+ 
+SENATOR SMITH:  OK, it’s Chairman Kennedy and my 
+intention to bring forward witnesses who can update the State of New Jersey 
+on our current plastic situation. 
+ 
+ 
+We have four witnesses who we want to put up.  The first one is 
+Shanna Swan, but she asked if she could go last. 
+ 
+ 
+So, next in the batting order is Dr. Phoebe Stapleton, Associate 
+Professor at Rutgers University, the Ernest Mario School of Pharmacy.  By 
+way of her background, she of course has a Ph.D.; she is currently an 
+Associate Professor at the Rutgers University Ernest Mario School of 
+Pharmacy.  Her lab research focuses on identifying how particles inhaled 
+during pregnancy may affect an expectant mother, developing fetus, and 
+health of the next generation.  She was recently involved in a landmark study 
+that found a strikingly large number of nanoplastics -- which are smaller than 
+microplastics -- in bottled water. 
+ 
+ 
+Dr. Stapleton, you are already at the fore.  You don’t have to 
+swear.  You don’t have to have--  This is not sworn testimony, but we really 
+are very respectful of what you’re doing and being here today. 
+ 
+ 
+So, with Chairman Kennedy’s OK, please take it away.  Tell us 
+what we’re looking at. 
+P H O E B E   S T A P L E T O N, Ph.D.:  Thank you, Senator Smith, and 
+your office, for inviting me to speak this morning. 
+ 
+ 
+And, thank you, Chairman Kennedy, for this opportunity. 
+
+--- PAGE 11 ---
+ 
+ 
+ 
+6 
+ 
+ 
+And, thank the members of both the committees of the Senate 
+Environment and Energy Committee, and the Assembly Environment and 
+Natural Resources and Solid Waste Committee, for your time and attention 
+this morning. 
+ 
+ 
+So, I have been asked to speak today regarding our work in 
+micro- and nanoplastics, and the impacts of plastic pollution and human 
+health. 
+ 
+ 
+So, first, I would like to begin this session with a definition of 
+micro- and nanoplastics. 
+ 
+ 
+Microplastics are a small piece of plastic, less than 5 millimeters 
+of a single dimension.  These particles, or fragments, may be of any type of 
+plastic, and may be seen with the naked eye.  These are often described as 
+the size of or smaller than a sesame seed or a grain of sand.  And, in the 
+handout I provided earlier, you can see these on Figure 1 in the back of the 
+handout.  Now, in fact, we’ve all been exposed to microplastics this morning, 
+in the form of our toothbrush bristles. 
+ 
+ 
+Nanoplastics have two definitions, depending on -- depending on 
+their source.  In environmental studies, nanoplastics are defined as particles 
+that are less than 1,000 nanometers, or one micron in size.  This is beneath 
+the level of detection with the naked eye.  Furthermore, nanoparticles -- or 
+nanoplastics -- in a laboratory setting are defined as particles less than 100 
+nanometers in a single dimension.  Now, this is an important nuance, as the 
+particles that are less than 100 nanometers have specific and unique 
+characteristics and properties at this size, including the capability to cross 
+biological barriers. 
+
+--- PAGE 12 ---
+ 
+ 
+ 
+7 
+ 
+ 
+And, the question is, “Where are they coming from?”  So, the 
+majority of microplastics are released from larger products.  These may 
+include plastics from environmental sources, including tire wear; incineration 
+or landfill; and plastic waste.  The primary wearing of bulk products to 
+microplastics is through mechanical wearing and UV and thermal stresses.  
+These weaken and fracture the products.  Nanoplastics are produced from 
+the breakdown of microsized plastics.  Plastics are initially produced through 
+a series of chemical reactions.  This unites a single monomer to a multi-chain 
+polymer. 
+ 
+ 
+Now, it’s because of these chemical reactions these cannot easily 
+be broken back down to their monomer form.  And, therefore, any breakdown 
+or degradation of both products not only produces smaller micro-sized 
+plastics, but, furthermore, nano-sized plastics.  Which means they’re not 
+truly gone, and return back to their -- excuse me -- return back to their 
+monomer form. 
+ 
+ 
+Now, microplastics have been found, as Senator Smith alluded 
+to, on all continents and in all landscapes.  They’ve been found in urban air, 
+glacier water, and remote locations.  These are not only concerns of “other 
+places,” but, here in New Jersey, scientists at Rutgers University have 
+identified microplastics within the Raritan and the Passaic rivers, and the 
+locations of where they’ve been identified can be found in Figure 2.  Scientists 
+have identified stormwater as a primary contributor to those found in the 
+Raritan and Hudson estuaries. 
+ 
+ 
+Of equal concern, microplastics have also been measured in 
+indoor air.  These measures can often be more than 100 times greater than 
+the measures in outdoor air. 
+
+--- PAGE 13 ---
+ 
+ 
+ 
+8 
+ 
+ 
+Microplastics have also been identified in food and beverage 
+sources.  These are not limited to highly processed foods as one may assume, 
+but they can be identified within the source products as well.  This includes 
+not only the well-identified ocean-based products, including the oysters and 
+fish on the coast of New Jersey, but also includes the pollens to make honey, 
+farmlands for agriculture, and water for irrigation as well.  These products 
+include tap water; bottled water; beer; wine; sea salt; honey; rice; a variety of 
+different produce products, including apples and carrots; and a variety of 
+protein sources as well, both meat-based and vegetable-based. 
+ 
+ 
+Nanoplastics or plastic particles are at least 1,000 times smaller 
+than a microplastic particle.  As microplastics have been identified in 
+environmental and domestic settings, it is likely that nanoparticles persist in 
+these settings as well.  However, because of their small size, nanoplastics are 
+exceedingly difficult to identify, visualize, and quantify.  Only very few 
+studies have measured nanoparticles within the environment or consumable 
+products. 
+ 
+ 
+Recently, our collaborative group with Columbia University 
+identified hundreds of thousands of nanoplastic particles within three brands 
+of commercially available bottled water using a specialized microscope.  It is 
+notable that many of these nanoplastics were not derived from the packaging 
+of this bottled water, nor the cap, but were identified as sources that were 
+upstream before the water even reached into the bottle -- likely from filtration 
+sources or from the source water itself. 
+ 
+ 
+Prior to our work, the National Institute of Standards and 
+Technology have found the use of common disposable consumer products -- 
+including tea bags and hot container cups -- found that these uses of these 
+
+--- PAGE 14 ---
+ 
+ 
+ 
+9 
+products could release trillions of nanoplastic particles into that single-use 
+product during that single use of the product.  And, the temperature to which 
+they are used could vary this concentration greatly. 
+ 
+ 
+Given this, it is clear that humans are exposed to micro- and 
+nanoplastics through dermal, or skin; inhalation, or lung; and ingestion, or 
+gut routes.  Of greater concern, micro- and nanoplastics do not stay at or 
+within the site of exposure.  To date, plastic particles have been identified in 
+the human lung; human liver; human kidney; urine; feces; heart; placenta; 
+blood; and breast milk.  Trends with human tissues have identified an 
+increase in this particle deposition as well. 
+ 
+ 
+Recently, placental samples that were saved in the state of 
+Hawaii and acquired over the last 15 years were evaluated for microplastic 
+contamination.  You can find this figure as Figure 3 in the handout.  These 
+studies identify that in 2006, only 60% of the samples contained 
+microplastics -- only 60% of the samples.  That rose to 90% in 2013, and 
+100% of the samples that were analyzed from pregnancies in 2021. 
+ 
+ 
+In animal models, we and others have recapitulated these 
+findings.  Not only have micro- and nanoplastics been identified throughout 
+the organs of rodent models of exposure, but, concerningly, micro- and 
+nanoplastic particles have been identified within the brain, kidney, lung, and 
+liver after exposure via drinking water.  My laboratory has identified 
+nanoplastic particles within the placenta and fetal tissues.  These include the 
+lung, heart, kidney, liver, and brain of rat samples within 24 hours after 
+exposure through either ingestion or pulmonary routes. 
+ 
+ 
+Further, our preliminary studies indicate that these particles 
+persist and can be identified in the offspring for a minimum of six months -- 
+
+--- PAGE 15 ---
+ 
+ 
+ 
+10 
+a minimum of six months because we haven’t analyzed the samples past that 
+time point.  Therefore, this bio-accumulation presents a significant concern 
+for the next generation. 
+ 
+ 
+To date, few studies have identified a link between micro and 
+nanoplastic exposure, or deposition directly to human health outcomes.  And, 
+this is the linchpin that we need in our studies.  Recently, two studies have 
+identified a positive correlation or association with microplastic particles and 
+human health outcomes.  These centralize around the state of inflammation 
+within the system. 
+ 
+ 
+The first had identified that individuals who have significant 
+amounts of microplastics within their fecal matter was associated with an 
+increased severity of inflammatory bowel disease in these patients. 
+ 
+ 
+Second and most recently was a study that came out of the New 
+England Journal of Medicine in March of 2024.  The deposition of micro- and 
+nanoplastics within the carotid plaque of cardiovascular-disease patients was 
+correlated with increased inflammation within the site in the coronary artery 
+and, furthermore, increased risk of cardiovascular episodes within these 
+patients.  Studies are currently ongoing to identify the doubt -- the dose, 
+excuse me -- the route of exposure; the type of plastics found within these 
+samples; and the cellular interactions that may lead to the greatest toxicities. 
+ 
+ 
+I will leave you with a number of closing points.  First, according 
+to the United Nations Environment Program, 9.2 billion tons of plastic was 
+made between 1950 and 2017.  In 2022, it was estimated that 400 million 
+tons of plastics are produced per year.  These production rates are estimated 
+to continue to increase exponentially, leading to the production of 590 
+million tons per year by 2050.  That’s a 30% increase between 2025 and 
+
+--- PAGE 16 ---
+ 
+ 
+ 
+11 
+2050.  These products will inevitably be discarded, break down, and continue 
+to collect within the environment and within human tissues as micro- and 
+nanoplastic particles. 
+ 
+ 
+Sample collections or filtrations have often included netting with 
+pores approximately 333 microns in size.  This allows for the passage of all 
+nano-sized particles.  Thus, the studies underrepresent the number of micro- 
+and nanoplastic particles within the environment and within the original 
+samples. 
+ 
+ 
+Plastic has the capability to absorb and release additionally 
+carried chemicals.  These then can be highlighted, as the plastic material may 
+be a vector for additional toxicants.  These chemicals may be added during 
+the production of plastic -- these are identified as plasticizing chemicals -- 
+which have been identified as endocrine-disrupting compounds, including 
+BPA and phthalates and PFOAs. They may also collect other toxicants due 
+to their interaction during the product life cycle.  This may be carbon-based 
+products, metallics, or other organics during incineration or energy recovery 
+attempts. 
+ 
+ 
+Overall, micro- and nanoplastics are ubiquitous and pervasive.  
+These products and particles have been found everywhere scientists have 
+looked.  If there’s a location, product, or tissue that has not yet been 
+identified, it is likely that this product or tissue has not yet been examined.  
+We know that these particles are entering our environment and entering our 
+bodies.  We do not yet understand how, if, or when they may be eliminated 
+from our bodies.  Therefore, bio-accumulation of micro- and nanoplastics 
+over one’s lifetime, including that of fetal development, is of great concern. 
+
+--- PAGE 17 ---
+ 
+ 
+ 
+12 
+ 
+ 
+Federal and State support is paramount to unravel the human 
+health concerns of micro- and nanoplastic particle exposure. 
+ 
+ 
+I thank you each for your time and attention this morning. 
+ 
+ 
+SENATOR SMITH:  That was very shocking news. 
+ 
+ 
+That--  What was the figure you used for plastics production?  
+The huge figure? 
+ 
+ 
+DR. STAPLETON:  The huge figure of current time? 
+ 
+ 
+SENATOR SMITH:  I remember the words “billions of tons.” 
+ 
+ 
+DR. STAPLETON:  Yes, from 1950 to 2017 -- 9.2 billion tons 
+of plastics have been produced during that time period. 
+ 
+ 
+However, in 2022, 400 million tons of plastics were to be 
+produced in that year. 
+ 
+ 
+SENATOR SMITH:  Right. 
+ 
+ 
+And, I’m probably going to say this for Gary Sondermeyer, but 
+my understanding of the rate of recycling in Western countries -- we’re not 
+talking about Asia, Africa, wherever -- the Western countries is 9%. 
+ 
+ 
+So, take all those billions and millions of tons -- 90, over 90% of 
+it is in the environment and working its way down to microplastics and 
+nanoplastics.  And, it’s not just us, it’s fish, it’s everything. 
+ 
+ 
+But, the good doctor is open for questions.  Any questions? 
+ 
+ 
+Yes, ma’am. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  So, when you’re talking about 
+the-- 
+ 
+ 
+SENATOR SMITH:  You might want to hit your mic. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  Sorry.  I forget that my voice isn’t 
+quite that loud. 
+
+--- PAGE 18 ---
+ 
+ 
+ 
+13 
+ 
+ 
+When you were talking about the microplastics in the air, would 
+air-filtration systems like those of the schools and public facilities that were 
+upgraded during COVID, would they filter out those particles within the air? 
+ 
+ 
+DR. STAPLETON:  They would filter out a portion of the micro-
+sized plastics.  Unfortunately, even the HEPA-sized filters have a struggle 
+filtering out those nano-sized plastic particles, just because of the size and 
+diameter of that range. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  Thank you. 
+ 
+ 
+DR. STAPLETON:  One other point -- I’m sorry -- additionally, 
+many times those filters are often made out of plastic materials themselves.  
+So, with the wear of those filters, there’s a concern to add to those filtrations 
+as well. 
+ 
+ 
+SENATOR SMITH:  Thank you so much for your participation 
+today. 
+ 
+ 
+Chairman Kennedy. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  OK, next we have Gary 
+Sondermeyer, Vice President of Operations at Bayshore Family. 
+ 
+ 
+SENATOR SMITH:  There is a request to move the microphone 
+as close to your mouth as possible so everybody can hear. 
+G A R Y   S O N D E R M E Y E R:  Let me turn this on. 
+ 
+ 
+Is that right?  You hear me OK? 
+ 
+ 
+Terrific. 
+ 
+ 
+Well, good morning, Chairman Smith, Chairman Kennedy, 
+esteemed members of the Joint Committees.  Happy Earth Day. 
+ 
+ 
+It is certainly an honor to be here. 
+
+--- PAGE 19 ---
+ 
+ 
+ 
+14 
+ 
+ 
+Gary Sondermeyer, Vice President of Operations for Bayshore 
+Recycling in Woodbridge Township.  
+ 
+ 
+And, today, I have the honor or representing the Association of 
+New Jersey Recyclers to speak about how recycling helps to mitigate the 
+impacts and reduce the amount of virgin petrochemical used in plastic 
+manufacturing. 
+ 
+ 
+Plastics recycling in New Jersey is highly effective -- highly 
+effective.  Through the Recycling Enhancement Act as well as DEP 
+regulations, we have among the most detailed databases on recycling at the 
+State level, county level, and municipal level, with information -- tonnage 
+information calculated every single year.  I don’t know of any other state that 
+does that. 
+ 
+ 
+From that database, our most recent data year tells us we 
+recovered 113,000 tons of plastic containers and 14,000 tons of plastic scrap, 
+for a total of 127,000 tons of plastics that take away from the need for virgin 
+material manufacturing.  So, highly, highly effective. 
+ 
+ 
+We achieved an overall 75% container recycling rate in New 
+Jersey -- that’s all containers, glass, aluminum, plastics -- and a 57% container 
+recycling rate.  And, this trend in plastics recycling is very consistent.  I looked 
+at the data from DEP over the past five years and we averaged 133,000 tons 
+of plastics recovered per year during that time. 
+ 
+ 
+From a climate perspective, according to U.S. EPA -- I’ll throw 
+out a metric from EPA -- approximately 1.67 metric tons of carbon dioxide 
+equivalents are avoided for every ton of municipal solid waste recycled.  And, 
+from a plastics standpoint, for every pound of recycled PET or Number 1 
+
+--- PAGE 20 ---
+ 
+ 
+ 
+15 
+plastic flake used in lieu of virgin petrochemical (indiscernible) greenhouse-
+gas emissions are reduced by 71%, which is a very impressive statistic. 
+ 
+ 
+As general background, which you know very well through our 
+Legislature, we’re the first state in the country to adopt mandatory recycling 
+37 years ago back in 1987.  And, one of the amazing things in New Jersey is 
+almost every single town -- 564 towns and 9.2 million people -- have access 
+to curbside collection.  It’s really important, because recycling is about 
+convenience for people, and getting everyone to participate in that.  Our 21 
+counties all require the recycling of Number 1 and Number 2 plastics -- it’s 
+mandated -- and many -- and, we’re approaching most -- also require the 
+recycling of Number 5 polypropylene plastic as well. 
+ 
+ 
+And, where does this material go?  New Jersey, over time, has 
+built an infrastructure of some 23 -- they’re called “intermediate processing 
+facilities,” the acronym of art that is commonly used is a MRF.  We have 23 
+MRFs; Bayshore is a MRF.  What a MRF simply does is takes back apart 
+what you mix together in your kitchen or your garage and then sends that 
+material, separated, as individual commodities out to markets. 
+ 
+ 
+There’s been a lot of rhetorical information in the media that I 
+really want to address that recycling isn’t real; that material simply is 
+collected and goes in the garbage.  And, I’m sure you hear this from your 
+constituents.  It is utter nonsense and economically absurd.  And, I want to 
+give you an example. 
+ 
+ 
+I work for Bayshore.  We take curbside material from about 60 
+New Jersey towns -- aggregate population of 1.2 million people, about 15% 
+of the state’s population.  Again, we take all that stuff back apart and we send 
+it out to markets.  The average cost of disposal at disposal facilities, landfills, 
+
+--- PAGE 21 ---
+ 
+ 
+ 
+16 
+and incinerators, is $90 a ton.  If we took that stuff and were disingenuous 
+and we sent it for disposal, it would cost Bayshore $125,000 a week -- or, 
+$500,000 a month; $6 million a year.  That’s a quick pathway to bankruptcy.  
+Absolutely does not happen -- doesn’t happen at all. 
+ 
+ 
+Plastics, in fact, are the highest revenue for MRFs next to 
+aluminum.  Aluminum is Number 1, but after aluminum it’s plastics.  They 
+are highly valuable to recyclers.  The average revenue for plastic containers 
+exceeds $300 per ton, and that metric comes from one of our public MRFs.  
+So, here’s the choice:  If it weren’t recycling material, we’d be paying $90 a 
+ton versus getting paid $300 a ton.  Assertions that recycling isn’t real are 
+absurd.  And, it’s a big country, maybe it’s different in other states.  That’s 
+not what we do in the State of New Jersey.  This material is getting recycled. 
+ 
+ 
+I would like to turn quickly to waste reduction.  Waste reduction, 
+as we know, is the highest element within the hierarchy of sustainable-
+materials management.  And, this is where we have to do more in particular.  
+EPA has an amazing line graph on their sustainable-materials management 
+website, and it shows just about 60 years of data which shows that solid waste 
+generation -- material generation -- has continued to increase.  Every one of 
+those nearly 60 years.  This is where we need to make a difference, and there’s 
+some really creative waste-reduction strategies nationally and in-state, but, 
+unfortunately, they’re not yet at scale.  And, this is where we need to go.  To 
+supplement, again, reducing the amount of material that we need to make 
+from virgin petrochemical feed stocks. 
+ 
+ 
+So, one of the other honors that I have is serving as Vice Chair 
+the last two years of the Governor’s Plastics Advisory Council.  And, we really 
+took this issue of waste reduction up this year and studied it.  And, what we 
+
+--- PAGE 22 ---
+ 
+ 
+ 
+17 
+did -- which was really interesting -- one of my colleagues, Nandini Checko 
+from NJEC, New Jersey Environmental Commissions, and I convened 34 
+national and State experts in the area of waste reduction to see what specific 
+things we could do.  We focused on things like -- a lot of it is very 
+fundamental -- disposable-free dining.  We have nearly 20,000 restaurants in 
+the State of New Jersey.  We should have no single-use plastics that are used.  
+That should be a common goal that we strive for.  We should have zero-waste 
+events, in particular looking at government-sponsored events where we don’t 
+need to generate any waste.  We also looked at opportunities for plastic waste 
+reduction in schools -- 3,200 schools in New Jersey; we shouldn’t be 
+generating plastics.  We shouldn’t be buying plastics, if possible, from these 
+schools.  Also, opportunities in businesses and in government facilities. 
+ 
+ 
+So, our second-year report of the Plastics Advisory Council 
+should be finished in a month or two.  And, one of the things that was very 
+obvious to us, and this will probably be one of our recommendations, is to 
+form an ongoing waste-reduction steering committee as part of the Plastics 
+Advisory Council, to really focus and drill in on things we can do to push the 
+envelope on waste reduction.  We also will hopefully be identifying some 
+short- and long-term strategies that this steering committee can consider 
+working -- but not out of DEP, so the committee would be making 
+recommendations to DEP.  And, some of them certainly will lend themselves, 
+I believe, to coming forward to your committees to talk about potential 
+legislation to push the envelope on waste reduction. 
+ 
+ 
+So, in closing, I do want to focus on the need to do better and 
+recycling -- flipping back to recycling.  We certainly recognize we need to do 
+better.  Your committees have done some absolutely amazing things -- the 
+
+--- PAGE 23 ---
+ 
+ 
+ 
+18 
+recycled content legislation, that we hit some important milestones, I think 
+it was January 18 when the initial targets came in for the recycled content 
+numbers.  When we testified, Senator Smith, I think I testified (indiscernible) 
+saying that this is the most important piece of recycling legislation since the 
+mandatory law was first enacted.  Very, very, important, so we need to track 
+and follow that. 
+ 
+ 
+Another thing that your committees did is pass a law to create a 
+Recycling Market Development Council.  That body did its work; it produced 
+a report in April of 2022.  There were 15 very specific recommendations.  I’m 
+certainly not going to go through the recommendations, but I did want to 
+just touch upon some of the areas where we need to improve. 
+ 
+ 
+First one is statewide recycling education.  Recycling is still 
+confusing.  It’s too confusing.  We need to make it simpler.  And, we need to 
+do that through statewide education.  
+ 
+ 
+Second thing we’re contemplating and looked at through ANJR 
+and some stakeholder discussions is creating one uniform list of what’s 
+required for recycling in New Jersey.  The allegation is we have 21 different 
+lists.  That’s a little bit overplayed.  The lists are very similar.  But, they are 
+a little different, and it does lead to confusion, so we’re really looking at trying 
+to develop a platform for having one uniform list.  Three states have done 
+this, and they’re really good models that we’ve been looking at -- in particular, 
+Colorado, Oregon, and Connecticut. 
+ 
+ 
+Another area that we’ve been focusing on in stakeholder 
+discussion is truth in labeling.  And, truth in labeling kind of goes hand in 
+hand with a uniform list.  You know, it’s all about the chasing hours, whether 
+
+--- PAGE 24 ---
+ 
+ 
+ 
+19 
+they make sense and we should not have them anymore.  So, we’re trying to 
+look at those two public policy issues at the same time together. 
+ 
+ 
+Financial-assistance programs -- we used to have really aggressive 
+-- progressive, I’m sorry -- financial-assistance programs through the Recycling 
+Enhancement Act, that sunset, to build additional recycling infrastructure 
+and to improve it and to make it better.  That’s another area that I think we 
+need to focus on.  And, really, the game changer for changing the whole 
+platform of recycling and waste reduction in the State will be extended 
+producer responsibility. 
+ 
+ 
+ANJR has come to the table, Senator Smith, at each of your 
+hearings, to testify in support of EPR.  I really think this is an absolutely 
+critical element for us to focus on -- in particular, the needs-assessment 
+component, to understand our full system before we go forward with EPR 
+legislation. 
+ 
+ 
+So, in closing, there’s really no question that recycling is a core 
+element of fighting plastic pollution and displacing significant amounts of our 
+virgin petrochemical feedstock.  And, we look forward to continuing to work 
+with the Legislature; with the DEP sister nonprofit organizations; to push the 
+envelope to improve our system and reduce plastics. 
+ 
+ 
+Thank you. 
+ 
+ 
+Any questions, I can probably answer. 
+ 
+ 
+SENATOR SMITH:  We have a lot of questions. 
+ 
+ 
+First of all, we’re looking forward to the Plastics Council’s 
+recommendations.  They have a very distinguished crew, including the Chair, 
+Cindy Zipf, on that crew.  I think the product of your deliberations are going 
+to be very much sought after by the Legislature. 
+
+--- PAGE 25 ---
+ 
+ 
+ 
+20 
+ 
+ 
+Now, that being said, in some states where they have plastic 
+bottle deposit legislation, the rates of recycling plastic are at least five times 
+more than the State of New Jersey.  And, I’m talking about the 9% figure 
+versus over 60%.  Should we be thinking about plastic bottle deposit 
+legislation? 
+ 
+ 
+MR. SONDERMEYER:  The position of ANJR is absolutely not. 
+ 
+ 
+We think that a bottle bill would basically dismantle the system 
+that we currently have in New Jersey.  We simply built a different system, 
+Mr. Chairman, and I’m sure you know this.  Back when our mandatory law 
+went in place, seven out of the 10 bottle-bill states already have bottle-bill 
+legislation.  It is far more limited.  It deals with, essentially, bottles and cans.  
+Bottles and cans are 13% of what we recycle. 
+ 
+ 
+The determination in ’87 by the Legislature is we should do 
+something far more comprehensive; we should focus on total recycling.  And, 
+that’s what we do.  Two-thirds of all recycling is fiber.  And, what I mean by 
+fiber -- it’s cardboard; paper; junk mail; all that stuff.  That’s really important 
+for climate as well.  Very important, you know, we need our trees -- carbon 
+sequestration, all the things we talk about.  
+ 
+ 
+We have put in place a very strong platform for total recycling.  
+A bottle bill would take us backward, and there are incredibly negative 
+potential repercussions of a bottle bill.  But the things that have run the State 
+-- that the Legislature put in place economically:  Our municipal tonnage 
+grants program, where $22 million a year is generated and it goes, largely, to 
+support municipal recycling coordinators.  They’re our little engines that 
+could, that drive recycling in the state. 
+
+--- PAGE 26 ---
+ 
+ 
+ 
+21 
+ 
+ 
+As you know really well, right before mandatory recycling, we 
+passed the Clean Communities Law in 1986 -- incredibly comprehensive -- to 
+address all litter, not just bottles and cans.  Who pays for that?  The Clean 
+Communities Law was New Jersey’s first extended producer-responsibility 
+law 38 years ago.  And, I think sometimes we forget that.  It’s paid for by the 
+litter-producing industries.  And, they’re not going to pay twice.  They’re not 
+going to pay for Clean Communities and pay for a bottle bill, because it’s 
+expensive for manufacturers when you have a bottle bill in place. 
+ 
+ 
+So, Clean Communities would be in jeopardy; municipal tonnage 
+grants would be in jeopardy.  As I testify -- and, this is really important -- we 
+built a recycling infrastructure of these 23 MRFs in New Jersey.  The highest-
+value material is aluminum.  Aluminum can be as much as 30% of the revenue 
+stream for MRFs.  If you put aluminum and plastics together, it’s as high as 
+40%.  Imagine running any business and you have taken away from you 40% 
+of your revenue.  What you’re going to do is put in jeopardy the entire 
+recycling infrastructure of the State of those 23 MRFs.  I don’t know how 
+Bayshore would stay in operation; I don’t really think we could with that 
+kind of an impact. 
+ 
+ 
+And, the last thing I’ll say--  I’m sorry I’m rambling on, sir, but I 
+think it’s important-- 
+ 
+ 
+SENATOR SMITH:  You’re trying to answer the question. 
+ 
+ 
+MR. SONDERMEYER:  Yes-- 
+ 
+ 
+SENATOR SMITH:  And, that may be something we’re going to 
+consider, so we’d like to hear what you have to say. 
+ 
+ 
+MR. SONDERMEYER:  The last one, which is very, very 
+important is the word “convenience.” 
+
+--- PAGE 27 ---
+ 
+ 
+ 
+22 
+ 
+ 
+And, I think we have to remember this.  As I said, it’s important 
+to remember the chronology here.  Most of the bottle-bill states adopted their 
+legislation in the ’70s -- that was their first initiative in recycling.  We did not 
+do that.  We chose -- our Legislature chose -- to do something a lot more 
+comprehensive -- again, mandatory recycling.  So, each one of us -- each one 
+of your constituents -- has nearly 40 years of curbside collection.  I mean, 
+what do you have to do to recycle?  Basically, you’ve got to clean your stuff 
+out in the kitchen, put it in the garage, and wheel it out to the curb. 
+ 
+ 
+That doesn’t happen with a bottle bill.  You’ve got to put your 
+stuff in the car, and you’ve got to drive to a supermarket to put it in one 
+container at a time into a reverse vending machine, or drop it off at what’s 
+called a redemption center.  Incredible change to what the norm has been in 
+New Jersey.  
+ 
+ 
+And, I’ll tell you -- I’ll speak, if it’s OK, a little bit from a personal 
+standpoint.  My family has been honored to have a home in New York State.  
+And, whenever we go there and we go to recycle and go to the reverse vending 
+machine, they are most commonly either full or broken.  And, if they’re not, 
+you wait in line.  So, where it would take, normally, at your house to wheel 
+out that cart, what, a minute or two?  For the convenience of recycling.  The 
+line, sometimes, are hours long to be able to recycle.  And, our greatest 
+concern with ANJR is people just aren’t going to do it.  So, instead of it 
+enhancing recycling, you’re going to go way, way backward. 
+ 
+ 
+And, the last thing I want to say, Senator, we’ve looked at 
+recycling numbers and numbers are very difficult because there’s never been 
+a national standard.  The states all count differently, so it’s really hard to 
+compare, but the numbers we’ve looked at show that New Jersey’s recycling 
+
+--- PAGE 28 ---
+ 
+ 
+ 
+23 
+rate for containers is better than seven out of the 10 of the bottle-bill states.  
+So, we don’t really even understand why we would have to have that 
+discussion, because we think it only -- for all the reasons I said -- is going to 
+take us backward. 
+ 
+ 
+SENATOR SMITH:  Are there questions from Committee 
+members? 
+ 
+ 
+Senator Greenstein. 
+ 
+ 
+SENATOR GREENSTEIN (Vice Chair):  Thanks very much 
+for the testimony. 
+ 
+ 
+I wanted to ask, since today’s topic is plastics, and I know you 
+did talk a bit about it.  But, generally speaking, are there any types of plastic 
+that can’t be recycled, and, how does that work in terms of your process? 
+ 
+ 
+MR. SONDERMEYER:  Yes, absolutely, Senator. 
+ 
+ 
+The polyvinyl chloride -- PVC, like the pipes, stuff -- there’s no 
+market for that.  It’s junk; it’s waste.  We happen to know of markets where 
+we actually accept one to seven plastics, and we don’t really get any PVC; it’s 
+really not there.  But, we will take the other plastics. 
+ 
+ 
+We individually--  We actually market six different blends of 
+plastics.  There’s clear PET -- clear polyethylene terephthalate; there’s color; 
+then clear high-density polyethylene; there’s different films.  And, we can 
+market a blend of three to seven plastics to a further processor that mines out 
+the polypropylene.  The value -- beyond ones and twos -- the real value is 
+Number 5’s polypropylene, and they’ll mine that out for polypropylene 
+recycling uses in products. 
+ 
+ 
+And, then the balance they use for lower-level products like 
+composite things.  We’ve heard of Trex lumber and other different products 
+
+--- PAGE 29 ---
+ 
+ 
+ 
+24 
+that are made with composites of plastics.  So, for the most part, ones, twos, 
+and fives are the strong markets and the others are not.  They truly are not. 
+ 
+ 
+SENATOR GREENSTEIN:  In terms of the issue of deciding 
+whether recycling is successful or not, there’s no question that you’re -- that 
+Bayshore is the number of communities you serve. 
+ 
+ 
+What about the rest of the industry? And, if it isn’t that 
+successful, what do you think it would take to make it more successful? 
+ 
+ 
+MR. SONDERMEYER:  Yes, that’s a great question. 
+ 
+ 
+And, you’re right.  I mean, in your question, it sort of draws a 
+question of these--  I mentioned 23 MRFs -- they’re not all at the same of 
+technology of Bayshore.  Our system is 100% fully automated, and it’s like 
+crazy, we have optical scanners that are so precise they can tell a difference 
+between a Number 1 and a Number 2 plastic instantaneously and blow a 
+different stream of air at one versus the other and they go in different places.  
+That’s the highest end of technology. 
+ 
+ 
+There probably are more like a dozen of our level of facilities that 
+are out there that would be just like Bayshore -- very, very successful.  There 
+are less automated systems out there, and that’s where the comment I made 
+about EPR comes in, and financial-assistance programs.  Bringing up -- we 
+should build off of the very successful platform we have, right to your 
+question, and make it better, and make it better, and get all the facilities that 
+are taking substantial amounts of curbside material up to the same level of 
+automation and recovery as Bayshore.  That’s really what it was argued our 
+objective should be, because they’re not all at the same level. 
+
+--- PAGE 30 ---
+ 
+ 
+ 
+25 
+ 
+ 
+Are any of them disposing of a (indiscernible) -- no, they’re just 
+not.  I gave an example because I wanted to sort of put some numbers out 
+there of how absurd that is; they’re not disposing of this material. 
+ 
+ 
+SENATOR GREENSTEIN:  Thanks; thank you. 
+ 
+ 
+SENATOR SMITH:  Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN HALL:  Thank you. 
+ 
+ 
+And, thank you for all the information. 
+ 
+ 
+I hail from the 35th District City of Paterson, and a lot of the 
+confusion is around what to recycle. 
+ 
+ 
+And, you touched on that, so what do we need to do to create 
+that list, if you will, that people can keep in their homes?  
+ 
+ 
+And, also, is there a business partnership in that regard?  
+Because, it seems that the residents have the curbside pickup, but I think for 
+businesses, it’s scheduled private contracting pickup, without the same onus 
+of separating plastics from your general garbage. 
+ 
+ 
+MR. SONDERMEYER:  Yes. 
+ 
+ 
+And, first, I grew up on the corner of Main and Grand, on top of 
+Irving’s Pharmacy in downtown Paterson. 
+ 
+ 
+ASSEMBLYWOMAN HALL:  Oh, there we go.  (indiscernible) 
+ 
+ 
+MR. SONDERMEYER:  And, yes, it is very confusing. 
+ 
+ 
+Each of the 21 counties, there’s a piece of the Recycling 
+Enhancement Act.  It’s 10% that goes to education, and the counties all have 
+very clear websites on what you can and can’t recycle. 
+ 
+ 
+But, to your good point, as an older person -- at this point, as a 
+senior citizen -- we rely too much on people going to websites.  We need to 
+
+--- PAGE 31 ---
+ 
+ 
+ 
+26 
+do more outreach like we used to do to get to community folks who have a 
+lot of other things to do. 
+ 
+ 
+And, I like what you just said.  Middlesex County, Mr. 
+Chairman, has a magnet that you put on the refrigerator, and says, “This is 
+what I can recycle, this is what I can’t recycle.” 
+ 
+ 
+The other thing -- and, this is a real tribute to DEP -- there is an 
+app.  It is called “Recycle Coach.”  I hope every single member has Recycle 
+Coach; it’s free to download it.  DEP bought this app for all 564 towns in the 
+21 counties, and it is an amazing tool.  To your point, it’s not for everyone.  
+If you’re an older person who’s not comfortable with stuff like apps, then it’s 
+like the old-fashioned calendar, but the app is amazing.  It tells you 
+everything about when your solid-waste collection is; household hazardous 
+waste day; consumer electronics day; what I can recycle; what I can’t recycle.  
+They just added a module on it for litter abatement, on cleanup from Clean 
+Communities.  I am actually working with them on doing a food component 
+of it to try to get real-time recovery of food from the 20,000 restaurants in 
+the state to food pantries on a nightly basis. 
+ 
+ 
+A really effective tool.  But, to your point, we have to do better.  
+We really do have to do better.  And, we think that this uniform list might 
+make it simpler to take away at least some element of that confusion.  Because 
+if you don’t know what to recycle, we have two things that happen:  One is 
+wishful recycling, and all that stuff that comes to us that’s junk -- I mean, at 
+Bayshore we could open a sports store.  We get bats, balls -- I don’t know, 
+bowling balls; everybody thinks they can recycle bowling balls.  The other 
+one are garden hoses -- we get so many garden hoses.  Pool liners; bags of 
+
+--- PAGE 32 ---
+ 
+ 
+ 
+27 
+needles and syringes from at-home diabetics, because they think one part is 
+metal, one part is plastic, it must be recyclable.  We have to do better. 
+ 
+ 
+But, I think the uniform list -- hopefully, before the end of this 
+year, we’ll have recommendations to potentially come forward to the 
+committees about the uniform list.  Because, the way it works now, it was 
+pretty brilliant.  I think in 1987, the law said every county plan has to 
+embrace (indiscernible) and it was a ban on leaf disposal.  But that was a 
+floor. 
+ 
+ 
+So, the average number of materials required for recycling in 
+county plants is 16.  So, it’s very comprehensive.  So, the question becomes, 
+do we need to change the law or not change the law?  Connecticut actually 
+did their uniform list voluntarily, and that’s something we’re looking at 
+because it might be a more expedient way to move forward.  
+ 
+ 
+ASSEMBLYWOMAN HALL:  Thank you for your information 
+today. 
+ 
+ 
+I come from and represent Maplewood.  Maplewood, New 
+Jersey, has been a leader in recycling and environmental issues, so we have 
+gone through the papers on the refrigerator, and the arguments between 
+Number 1 and Number 7 and Number 5 and whether it’s recyclable. 
+ 
+ 
+So, I would suggest that we need to start talking to the youth in 
+the schools as a requirement for graduation, or -- they’re the ones who are 
+using the product. 
+ 
+ 
+You mentioned convenience.  That’s why they use the plastic 
+bottles -- for convenience.  And, parents like us want to use that as a 
+convenience, too. 
+
+--- PAGE 33 ---
+ 
+ 
+ 
+28 
+ 
+ 
+So, I think that we have to look at the youth in the schools to 
+promote the change, not so much-- 
+ 
+ 
+MR. SONDERMEYER:  I could not agree with you more.  You 
+are so right. 
+ 
+ 
+And, another hat I get to wear -- I am Chairman of the Board of 
+the Sustainable New Jersey Program.  We’re up to 466 towns, 1,185 schools 
+actively involved.  And, a big part -- I actually manage what’s called the Waste 
+Management Action Area, it’s all recycling and waste-reduction actions; we 
+have 16 of them to do exactly what you said. 
+ 
+ 
+And, look at what New Jersey did.  Look what our Legislature 
+did.  First state in the country to require climate education K-12 schools.  
+Absolutely awesome.  And, what that gives us is a platform to do exactly what 
+you said, and to make recycling a part of the curriculum -- to make 
+composting a part of curriculum.  Every single school in New Jersey should 
+have a school garden; they should harvest that material through the kids; they 
+should serve it in the cafeteria; they should have separation of food in the 
+cafeteria and go right to a composter on site and then back into the school 
+garden.  That’s called sustainability. 
+ 
+ 
+So, you are spot on.  We really need to focus on our schools, 
+because they’re our future.  That’s the next generation. 
+ 
+ 
+ASSEMBLYWOMAN HALL:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Any other questions? 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  I have one. 
+ 
+ 
+Thank you for all the information. 
+
+--- PAGE 34 ---
+ 
+ 
+ 
+29 
+ 
+ 
+How much wishful recycling do you get a year?  Like, just a 
+ballpark of how much is coming in that people are trying to recycle, but just 
+can’t? 
+ 
+ 
+MR. SONDERMEYER:  Yes, and that’s -- that translates in 
+recycling nomenclature to residue -- “How much residue do you get?” 
+ 
+ 
+And, on average, it’s about 10%.  It’s about 10% of what comes 
+in.  And, that’s -- you know, the variety of materials, it’s fascinating to us on 
+what people pick.  Like, I mentioned some of the examples.  It’s kind of crazy. 
+ 
+ 
+But, I really think people are just well-intended.  And, like, when 
+you’re sitting there, you have that moment.  It’s in my hand -- do I drop it in 
+the garbage container or the recycling container?  And, you want to put it in 
+the recycling container.  So, most of the counties have campaigns, and it kind 
+of hurts for me to say this, but the pitch is, “When it doubt, throw it out,” 
+and don’t put it in the recycling stream, because then it goes through this 
+whole system and winds up onto the landfill anyway. 
+ 
+ 
+So, what I would say to your big question is every county has an 
+excellent website on what you can and can’t recycle.  So, the best advice is to 
+look at what the county plan says and follow that, and we’ll really reduce the 
+amount of wishful recycling. 
+ 
+ 
+But, what we feel is more important--  Because we have 21 
+pockets of education, which each county, doing an education platform, we 
+also need to bring back something we have in the past -- statewide education.  
+So, we have a uniformity of messaging, which we haven’t had in many years.  
+ 
+ 
+SENATOR SMITH:  Sir. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you, Chairman. 
+ 
+ 
+Thank you, Mr. Sondermeyer. 
+
+--- PAGE 35 ---
+ 
+ 
+ 
+30 
+ 
+ 
+Congratulations on your award, obviously well deserved. 
+ 
+ 
+I was getting my kids out the door this morning for school, and 
+we were talking about the three R’s:  Reduce, reuse, recycle.  And, it strikes 
+me that we’ve spent a lot of time and emphasis as a state on the reduce 
+component; the various material bans, straws and bags and so forth.  And, I 
+really appreciate your perspective and expertise when it comes to recycling, 
+which is critically important.  I think that’s really our way out of this. 
+ 
+ 
+I want to ask about the reuse part of that triangle, if you will, 
+because I think it sometimes gets overlooked.  Can you speak to what amount 
+of the recycling material that you’re collecting is ultimately reused?  Either 
+by the consumer -- which we can’t speak to, because that’s before the point 
+at which you collect it -- or by those who are -- those entities to whom you’re 
+selling this material, so that we don’t have to create an additional 400 million 
+pounds next year. 
+ 
+ 
+MR. SONDERMEYER:  Great question. 
+ 
+ 
+And, so, just to say this -- recycling is an extraordinarily complex 
+business and industry.  It is -- the floor -- I’ve always explained this, when I 
+teach, it’s the floor of the New York Stock Exchange.  It is commodities 
+exchange. 
+ 
+ 
+So, I can say in the aggregate, 90% -- round numbers -- of what 
+recyclers get go to markets.  People are paying us for that material, which 
+means they’re going to use it in some form.  Exactly how they do that, I can’t 
+answer.  It’s so complicated.  We have people who do nothing all day who 
+look for outlets to be able to market our materials.  But, about 90% are being 
+used, and that’s what’s important. 
+
+--- PAGE 36 ---
+ 
+ 
+ 
+31 
+ 
+ 
+That goes to the, I think, misinformation that this stuff goes in 
+the garbage.  It doesn’t go in the garbage; it’s going to markets, and it’s 
+making new--  And, it depends on the commodity.  Aluminum cans are going 
+back to new aluminum cans; Number 1 and Number 2 plastics are going back 
+to make those products.  Others, it’s ancillary.  Third -- other side kind of 
+products, like I mentioned Trex is an example with plastics.  So, it depends 
+on the commodity. 
+ 
+ 
+Cardboard -- huge.  Paper, we continually capitalize to bring in 
+more equipment to get better and better paper separation, because if you get 
+sort of too much color material in paper, that can only go to make toilet 
+paper.  If you have a higher grade of paper, that can go to paper towels.  If 
+you have really good paper, it can go back to making new ledger; new writing 
+paper.  So, you understand what it means. 
+ 
+ 
+I think the metric is 90% is going back to the market. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Got it. 
+ 
+ 
+And, 90% sounds good.  Is 90% good? Are there things we can 
+be doing to enhance that efficiency?  Do we have consumers and residents 
+recycling? 
+ 
+ 
+MR. SONDERMEYER:  Yes, and that’s a great question. 
+ 
+ 
+That’s why the committees created -- passed a law to create that 
+Recycling Market Development Council, and the report lays out 15 
+recommendations.  I mentioned a bunch of them in my testimony today.  
+We’ve got to do them all. 
+ 
+ 
+It’s really--  It’s a combination of education; financial-assistance 
+programs to upgrade the infrastructure to be mechanized like Bayshore is, at 
+all the core recycling facilities to make it simpler for folks so they know what 
+
+--- PAGE 37 ---
+ 
+ 
+ 
+32 
+they can and they can’t recycle.  And, these other really important public 
+policy platforms like extended producer responsibility; recycled content; 
+truth in labeling--  So, unfortunately, it’s very complicated.  What I would 
+say from a statewide standpoint, New Jersey recycles over 50% of the stuff 
+that it generates.  Like I said, generation, sadly, continues to increase.  We 
+continue to buy and make more waste every year.  We need to change that.  
+But, we’re recycling over 50% of that stuff.  The national recycling metric is 
+32%. 
+ 
+ 
+So, we’re doing much better than the vast majority of states in the 
+country.  I think we’re in the top echelon of recycling in the country.  But, as 
+I said, we constantly strive as our association to do better.  And, we can do 
+better, and we need to do better. 
+ 
+ 
+SENATOR SMITH:  OK, if there are no other questions, thank 
+you, Gary, once again, for your service to the State. 
+ 
+ 
+Our third witness of four is Judith Enck.  Judith Enck is the 
+founder of Beyond Plastics.  She’s a Senior Fellow and Visiting Faculty 
+Member at Benington College, Vermont; and she is the former EPA Region 
+2 Regional Administrator. 
+ 
+ 
+Ms. Enck. 
+J U D I T H   E N C K:  Good morning. 
+ 
+ 
+Happy Earth Day. 
+ 
+ 
+I have such great respect for Gary Sondermeyer, and congrats on 
+passing the resolution for his impressive public service career. 
+ 
+ 
+But, while we’re talking about recycling, I am going to go out of 
+order with my testimony, which mostly deals with health. 
+
+--- PAGE 38 ---
+ 
+ 
+ 
+33 
+ 
+ 
+I want you all to understand that for 40 years, the plastics 
+industry has said, “Don’t worry about the massive amount of plastics we are 
+producing.  We can just recycle it.”  That turns out not to be true.  Less than 
+10% of plastics are actually recycled.  It’s not just my report from Beyond 
+Plastics -- these are numbers from Department of Energy; from EPA.  And, I 
+want to explain why, because numbers get numbing.  I travel with plastic 
+packaging. 
+ 
+ 
+And, I want you to understand why plastic recycling doesn’t 
+work.  Let’s keep recycling everything else.  I started my town’s recycling 
+program as a volunteer in Upstate New York.  Keep recycling paper, metal, 
+glass, cardboard; compost yard waste and food waste if you’ve got the space.  
+But, we have to be honest that plastic recycling has been an abysmal failure.  
+ 
+ 
+The reason is because if you have an aluminum can, you can 
+recycle it into a new aluminum can.  If you have newsprint, you can recycle 
+it into another paper product or cardboard.  But plastics have 16,000 
+different chemicals, many different colors, and many different plastic 
+polymers.  These three items cannot be recycled together, and that’s why the 
+plastic recycling rate is so low. 
+ 
+ 
+The plastics industry has launched a pretty significant PR 
+campaign saying “Recycling is real.”  I would just an asterisk -- “Recycling is 
+real, except for plastics.”  And, plastics is Plan B for the fossil fuel industry.  
+Thankfully, we are shifting to more renewable energy and electrification of 
+vehicles.  The two big markets for fossil fuel companies is power generation 
+at power plants, and petroleum that they sell at the gas pump.  Little mom-
+and-pop companies like Shell and Exxon Mobil recognize that they’re losing 
+
+--- PAGE 39 ---
+ 
+ 
+ 
+34 
+their market for electricity generation and transportation, so they are shifting 
+to plastic production. 
+ 
+ 
+None of us asked for more plastic; nothing tastes good in plastics; 
+but we have a glut of plastic because the fossil fuel industry wants to sell more 
+fossil fuel -- specifically fracked gas. 
+ 
+ 
+In 1950, 2 million tons of plastic were produced a year.  Now, 
+we’re producing 450 million tons of plastic a year.  Congress is not expected 
+to take significant action, and there’s only so much we can do as individuals.  
+So, we need the State of New Jersey to act. 
+ 
+ 
+When I served as EPA Regional Administrator, I zipped around 
+the region.  I visited sewage-treatment plants, Superfund sites, recycling 
+centers.  I was living the dream.  I really loved visiting sewage-treatment 
+plants, I learned a lot.  But, I met with the gentleman who ran material 
+recovery facility in the Hudson Valley, and they were collecting one through 
+seven plastic when I knew there were only markets for Number 1 and Number 
+2 plastic.  And, for the soda bottles, most of the plastic gets recycled if you’re 
+in a bottle-bill state.  So, I very gently said to this man, “So, I’m surprised 
+you’re telling everyone to put one through seven in the recycling bin.  Where 
+are your markets?  Where is it going?”  His response was, “A waste broker 
+takes it off my hands, and I’m not sure where it goes.” 
+ 
+ 
+Where a lot of it probably went -- other than Number 1 and 
+Number 2 -- is export to countries like Malaysia, Vietnam, Philippines, 
+Turkey, and, now, Africa.  Because plastics are fundamentally not recyclable; 
+plastics are a human health threat.  You heard from the distinguished doctor 
+from Rutgers.  We’ve got a real problem with plastics and health.  They may 
+
+--- PAGE 40 ---
+ 
+ 
+ 
+35 
+leach directly from the packaging into food and beverages; chemicals 
+hitchhike on microplastics or nanoplastics, exposing us to chemicals. 
+ 
+ 
+And, while it’s been mentioned before, I want to direct you to 
+Page 2 of my testimony.  We really need to understand this.  Scientific journal 
+articles are coming out at breakneck speed.  Microplastics and nanoplastics 
+have been found in human lungs; in human blood; liver; fatty tissues.  Plastics 
+have been found in our kidneys; and in breast milk.  Microplastics have been 
+found in the human placenta -- both the maternal side and the fetal side.  
+And, remember, the baby is just hanging out in the placenta for eight or nine 
+months, so that’s a short period of time. 
+ 
+ 
+Now, the plastics industry will say, “Well, there’s no evidence 
+that this causes harm.”  I am willing to go out on a limb and say microplastics 
+in our bodies are not helping us.  It’s not like they have nutritional value.  
+ 
+ 
+And, we are very interested in a report that was published in the 
+distinguished New England Journal of Medicine just about a month ago.  They 
+did a study with over 40 medical researchers, and they identified 
+microplastics in samples of plaque taken from arteries in the heart; and, 
+unfortunately, they found a four-fold increased risk of cardiac incident.  
+Specifically, they looked at patients who had microplastics in their heart and 
+arteries, and those who did not.  Patients who had microplastics and 
+nanoplastics in their heart and arteries increased risk of heart attack, stroke, 
+and premature death.  The plaque specimen studied included polyvinyl 
+chloride -- PVC -- and polyethylene; both are used in plastic packaging. 
+ 
+ 
+From a health perspective, this is also an environmental-justice 
+issue.  I work closely with allies in Louisiana, Texas, Appalachia.  You’ve 
+heard of Cancer Alley in Louisiana.  It kind of hurts my heart to even say 
+
+--- PAGE 41 ---
+ 
+ 
+ 
+36 
+there’s a region in the United States today referred to as “Cancer Alley.”  
+That’s where there’s a concentration of petrochemical facilities and plastic 
+production facilities.  I am speaking to a group in Louisiana tomorrow night.  
+They are getting seriously sick from the pollution from plastic-production 
+facilities.  It’s called Cancer Alley because of the higher rate of cancer in these 
+communities.  So, the production of plastic is a health issue. 
+ 
+ 
+Because plastic recycling is so abysmally low, that means that a 
+lot of plastics wind up at landfills and incinerators.  I am particularly 
+concerned about the four garbage incinerators operating in New Jersey, 
+specifically Camden, Essex, Gloucester, and Union counties.  When you burn 
+plastic, you get a number of air contaminants, including dioxin -- which is the 
+most toxic chemical known to science. 
+ 
+ 
+As Senator Smith mentioned in the opening, plastics are in the 
+ocean.  What got me really, really interested in the plastics issue--  So, I 
+worked at EPA during the Obama Administration.  It was an honor to be 
+appointed by President Obama to serve at the EPA.  And, I actually got most 
+of my work done after 5 o’clock, when the endless meetings would wrap up 
+and I could actually read things.  And, I read a scientific report that said by 
+2030, unless we change public policy -- like at the state level -- for every three 
+pounds of fish in the ocean there will be one pound of plastic.  And, that just 
+stopped me in my tracks. 
+ 
+ 
+Further, if we don’t adopt strong policies like strong bottle bills 
+and strong packaging-reduction law, by 2050 it’s going to be one-to-one -- for 
+every fish in the ocean, there will be one pound of fish to one pound of plastic.  
+And, what happens when plastic gets into the ocean is it’s exposed to sunlight, 
+so it gets really brittle, and then the wave action will break this bottle into 
+
+--- PAGE 42 ---
+ 
+ 
+ 
+37 
+hundreds if not thousands of pieces of plastic.  And, it’s eaten by fish; by sea 
+birds; by marine life. 
+ 
+ 
+As a coastal state, New Jersey has a keen interest in the health of 
+the ocean.  One estimate places the value of commercial and recreational 
+fishing in New Jersey at $8 billion per year.  We are seeing microplastics in 
+fish around the world.   
+ 
+ 
+So, what the plastics industry is mostly saying now -- a lot of 
+them will say -- “Yes, you know, we can’t argue with the consistent numbers 
+that plastic recycling is under 10%.”  So, now, they’ve launched something 
+called “chemical recycling.”  And, that absolutely is not the answer.  Chemical 
+recycling is taking high heat and attempting to turn plastics into pyrolysis oil, 
+a type of fossil fuel.  Or, a few of the facilities attempt to turn plastic into 
+plastic, but they need to use a massive amount of hazardous waste -- 
+hazardous materials -- to do that, which becomes hazardous waste.  Most of 
+these facilities are cited in low-income communities or communities of color, 
+making this another environmental-justice issue. 
+ 
+ 
+My organization, Beyond Plastics, produced a major report last 
+October called, “Why Chemical Recycling Won’t Solve the Plastic Pollution 
+Problem,” which we co-published with the international group IPEN.  If I 
+haven’t convinced you on the environmental and health problems with 
+chemical recycling, I want to tell you that only 1.3% of total plastic generated 
+in the United States is handled by chemical recycling facilities.  And, this is 
+not new.  They’ve been trying this since the ’80s.  They always say, “Oh, the 
+breakthrough is around the corner.”  So, let’s say they double.  Well, that 
+gets us to 2.6% of the plastic.  Triple, still under 10%.  So, it is not a solution 
+to the plastics problem. 
+
+--- PAGE 43 ---
+ 
+ 
+ 
+38 
+ 
+ 
+Just two weeks ago--  I want to direct you to an important article 
+in The New York Times on chemical recycling.  The title in The New York Times 
+article is, “There is an Explosion of Plastic Waste,” “Big brands like Procter 
+& Gamble and Nestlé say a new generation of plants will help them meet 
+environmental goals, but the technology is struggling to deliver.” 
+ 
+ 
+So, unfortunately, keep recycling your other material, but let’s 
+be honest about the failure of plastic recycling.  Let’s be honest that chemical 
+recycling is not a solution.  Twenty-five states have adopted laws to promote 
+chemical recycling, to classify it as manufacturing.  Why are they doing that?  
+So there’s less environmental regulation and access to taxpayer subsidies.  
+Because the average plant costs $500 million, and lots of taxpayer dollars are 
+spent on that. 
+ 
+ 
+What is the real solution?  I have two important policy 
+recommendations for you, but I want to start with an illustration about what 
+this means.  Assemblyman, you mentioned the hierarchy that we are all 
+familiar with:  Reduce, reuse, recycle.  Very little is being done with reduction 
+and reuse.  We need a strong packaging-reduction law in New Jersey for the 
+following reason: 
+ 
+ 
+I have a wonderful colleague at Beyond Plastics, and she really 
+pays attention to what she purchases.  But, she orders from Amazon.  You’re 
+familiar with this package, right?  So, she ordered something, and it came in 
+this.  And, then it came in this.  And, then it came in this.  And, then, finally, 
+another package for her eco highlighters.  So, if you want to reduce packaging, 
+you need to adopt a law that requires an actual reduction in plastic packaging.  
+Amazon is a very innovative company; they can get stuff to us pretty quickly.  
+Who pays for all of this?  We do, as taxpayers. 
+
+--- PAGE 44 ---
+ 
+ 
+ 
+39 
+ 
+ 
+And, there was an important report by John Weber’s group, 
+Oceana, that just came out last week that said when Amazon is selling 
+products in states and countries that have strong packaging-reduction laws, 
+you get your package in this, and not all of this.  Right now, packaging 
+companies have no skin in the game, because we, as taxpayers, pay to get rid 
+of all of this.  And, it is super expensive. 
+ 
+ 
+So, packaging-reduction laws--  Here’s how I want you to think 
+of it.  At the Federal level, we have the Clean Air Act, and we have fuel-
+efficiency standards.  So, cars that you buy today are much more efficient 
+than a car you even bought 10 years ago.  When I served at EPA, EPA rolled 
+out some new fuel-efficiency standards for cars.  And, I remember--  I was just 
+like a little regional administrator.  I wasn’t like Lisa Jackson, making big 
+policy in Washington.  I just tried to clean up the environment in two states 
+and two territories in the Indian nations.  But, when EPA would announce a 
+fuel-efficiency standard regulation change, the regional administrators were 
+sent out to meet with stakeholders. 
+ 
+ 
+So, I had the opportunity to meet with car dealers.  And, I was 
+explaining the fuel-efficiency standard update so you and I pay less at the 
+pump.  I hate paying for gasoline, so a hybrid electric car, an electric car, gives 
+us options.  I remember one gentleman who owned a car dealership said, 
+“Judith, it sounds like what you’re trying to do is force the market toward 
+electric vehicles.”  And, I said, “Hmm, that’s one way to look at it.  Yes.”  We 
+need fuel-efficiency standards for cars, for appliances.  If you buy a 
+refrigerator today, it’s much more energy efficient than even if you bought it 
+five years ago.  So, what packaging-reduction laws do -- also known as 
+
+--- PAGE 45 ---
+ 
+ 
+ 
+40 
+extended producer responsibility -- is it’s environmental standards for 
+packaging, so that taxpayers don’t have to keep carrying the load. 
+ 
+ 
+We’ve got to get the details right.  The plastics industry knows 
+that laws are coming, and, so, they’re promoting bills that don’t really get the 
+job done and that allow for chemical recycling, which would be a mistake. 
+ 
+ 
+Quickly, I want to make a pitch for a bottle bill -- a refundable 
+deposit container law.  One of the best benefits of bottle bills is litter 
+reduction.  If you go to a bottle-bill state, you do not see soda and beer and 
+water bottles littered in any community.  And, the recycling rate is much 
+higher.  I rely on numbers from the Container Recycling Institute, because 
+they pay a lot of money purchasing industry market data.  They looked at 
+states that have bottle bills versus states that don’t.  So, if you are in a bottle-
+bill state, your aluminum can recycling rate is 77% versus 36%.  Glass bottles 
+are recycled at 66% as opposed to 22%, and PET plastic bottles, 57% versus 
+17%. 
+ 
+ 
+The only real recycling success story with plastic is beverage 
+bottles in bottle-bill states.  And, why?  Because the material is kept separate.  
+I go to my supermarket; there are reverse vending machines; and you feed the 
+empty bottles and you get a little receipt back.  There’s also innovation.  
+There’s a company -- and, I’m not pitching particular companies, but there is 
+a company called Clynk -- C-L-Y-N-K -- I hate it when they spell words wrong, 
+like Dunkin’ Donuts.  But, with Clynk, you just take -- you take all your 
+deposit containers; you put it, unfortunately, in a plastic bag; you drop it 
+down the shoot; and there’s a little barcode you get when you sign up.  I used 
+it recently; it took me 10 seconds.  I’ve never heard of anyone standing on 
+line for hours to return containers. 
+
+--- PAGE 46 ---
+ 
+ 
+ 
+41 
+ 
+ 
+So, my strongest recommendation to you today is we need 
+environmental standards for packaging in the form of a strong packaging-
+reduction law.  Fifty percent of plastic packaging should be reduced in the 
+next 10 years.  And, you can do a glide path -- 10% reduction in the first two 
+years; 20% in four years; etc.  Companies can innovate when legislative bodies 
+tell them the rules of the road. 
+ 
+ 
+And, then, second, there’s so much data about the benefits of 
+bottle bills across the country, and I would also recommend that a New Jersey 
+bottle bill, long awaited, include a provision to promote refillable containers.  
+Coca-Cola announced last year that they want 25% of beverage containers in 
+refillable containers.  They say they’re going to do it voluntarily; I’m not sure 
+I believe that, so let’s put that in statute. 
+ 
+ 
+Happy to take any questions. 
+ 
+ 
+SENATOR SMITH:  Any questions? 
+ 
+ 
+Yes. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  Thank you. 
+ 
+ 
+Thank you for your testimony. 
+ 
+ 
+What other states have those packaging laws?  You referenced a 
+few.  Which ones, specifically, are they? 
+ 
+ 
+MS. ENCK:  So, there are extended producer-responsibility laws 
+on the books in the last two years in California, Maine, Oregon, and 
+Colorado. 
+ 
+ 
+And, they’re not very strong, because they rely on the myth of 
+plastic recycling as opposed to reduction.  California has a reduction 
+requirement. 
+
+--- PAGE 47 ---
+ 
+ 
+ 
+42 
+ 
+ 
+I would say, of the four, the weakest is Colorado.  You do not 
+want to use that as a model. 
+ 
+ 
+SENATOR SMITH:  What do you think is the strongest? 
+ 
+ 
+MS. ENCK:  California.  But, it has some terrible loopholes.  
+Like, there’s a sentence in the California law that says, “Packaging that 
+presents unique challenges in complying are exempt from the law.”  That’s 
+terrible, because polystyrene will say, “We have unique challenges in 
+complying.” 
+ 
+ 
+I think that’s the sort of sentence that gets added in the middle 
+of the night.  So, California, we’ve got to make sure we close loopholes. 
+ 
+ 
+So, California, the reason they adopted it is because the plastics 
+industry wanted to keep an initiative off the ballot.  California voters were 
+going to vote on whether or not to ban polystyrene statewide, and there was 
+private, behind-closed-doors negotiations; knocked that initiative off the 
+ballot and do a weaky PR bill. 
+ 
+ 
+The other problem with the California law is that it’s really 
+murky on chemical recycling.  It is unclear whether chemical recycling can 
+count as recycling.  And, here’s the big picture:  We finally have some honesty 
+that plastic recycling mostly doesn’t work.  And, remember, collection is not 
+recycling.  So, now, the plastics, chemical, and fossil fuel industry is saying, 
+“Shift to chemical recycling.”  And, chemical recycling is not going to work; it 
+won’t handle most of the plastic waste; and it gives us a whole new generation 
+of problems. 
+ 
+ 
+California says they’re not going to have chemical recycling in 
+the state, but what they could do is send plastics out of state to other chemical 
+recycling facilities.  And, you don’t want that to count as recycling. 
+
+--- PAGE 48 ---
+ 
+ 
+ 
+43 
+ 
+ 
+SENATOR SMITH:  So, on that topic, the--  If plastics recycling 
+was defined in New Jersey as plastics to plastic pellets, which could be reused 
+to make new plastic materials, that’s not offensive or objectionable, right? 
+ 
+ 
+MS. ENCK:  No. 
+ 
+ 
+SENATOR SMITH:  It’s the chemical recycling that’s the 
+problem. 
+ 
+ 
+MS. ENCK:  Chemical recycling is the big problem.  And, I think-
+-  You know, plastic recycling, it’s just going the way of the dodo bird; it’s 
+just collapsing on its own. 
+ 
+ 
+Where a lot of the plastics that are collected--  For years, it was 
+sent to China, and China said, “You’re sending us too much non-recyclables,” 
+in the recycling bins, the shipping containers that were sent over.  So, China 
+warned the U.S. and the E.U. for eight years, “Stop sending us so much non-
+recyclables.”  We kept doing it.  So, China actually closed their door to plastic 
+and all recyclables from the U.S. 
+ 
+ 
+So, what did these plastic waste brokers do?  And, by the way, 
+New Jersey exports the second-most amount of plastics in the country besides 
+California.  And, that’s a whole different topic, plastic exports, which I urge 
+you to look at and watch the PBS Frontline segment called, “Plastic Wars,” 
+where they document the devastating health and environmental impacts of 
+what happens when this gets sent to Indonesia; to the Philippines; to 
+Vietnam. 
+ 
+ 
+So, we want to make sure that New Jersey stops exporting so 
+much plastics to other countries as well. 
+ 
+ 
+SENATOR SMITH:  One more question from me -- 
+(indiscernible) from anybody else who would like to. 
+
+--- PAGE 49 ---
+ 
+ 
+ 
+44 
+ 
+ 
+But -- and, I’m not trying to do Saturday Night Live point-
+counterpoint -- but, Gary Sondermeyer said that if there was a bottle bill that 
+the recyclers would be in big trouble.  Do you have any response to that? 
+ 
+ 
+MS. ENCK:  I do, and I don’t want the recyclers to be in big 
+trouble. 
+ 
+ 
+But, a lot of this is, “Who pays?”  So, right now, taxpayers are 
+paying to collect the recyclables and get it processed at the MRF.  Bottle bills 
+are extended producer responsibility.  It means Coke and Pepsi and Coors -- 
+they have to take responsibility for all the recyclables.  So, yes, MRFs will get 
+less material, which could translate into taxpayer savings, but there’s so much 
+potential for composting yard waste and food waste. 
+ 
+ 
+I mean, I could envision--  If you’ve got municipal waste trucks 
+going around neighborhoods, right now they’ve got compartments.  A lot of 
+them collect regular trash in one compartment, recyclables in another.  And, 
+if the recyclable section is smaller because we’re getting rid of beverage 
+containers that are part of bottle bills -- now, don’t get upset with this new 
+idea -- but maybe another section could be for yard waste and food waste, 
+and bring that for composting.  There is no shortage of opportunities for 
+recycling and composting. 
+ 
+ 
+But, yes, we’re going to have fewer beverage containers going to 
+MRFs, and that can translate into taxpayer savings when they re-negotiate 
+contracts. 
+ 
+ 
+SENATOR SMITH:  Other questions? 
+ 
+ 
+Assemblywoman. 
+ 
+ 
+ASSEMBLYWOMAN COLLAZOS-GILL:  Thank you. 
+
+--- PAGE 50 ---
+ 
+ 
+ 
+45 
+ 
+ 
+So, I completely agree with the need to reduce and 
+(indiscernible) in plastics.  I mean, at my house we recycle; we do all of those 
+kinds of things.  And, yes, I am constantly trying to find a way to use less 
+plastic.  So, I completely agree.  I really do like the idea of just destroying the 
+idea of most of the packaging it comes in.  It doesn’t (indiscernible) things 
+that I (indiscernible) with. 
+ 
+ 
+But, on this bottle bill, just so I can understand a little bit more 
+about this.  Right now, the way we recycle -- to your point -- we recycle.  We 
+have our containers, our blue plastic container; we put our recyclables, plastic, 
+and glass; and then we put it on the curb.  This is the way families and 
+residential--  This is how it happens right now.  
+ 
+ 
+With the bottle bill, families would have to go to a specific place, 
+is that what we’re saying, to recycle?  To just bring your materials?  
+ 
+ 
+And, I’m just thinking out loud.  How much complicated would 
+that be for your residents?  Because a couple of years ago, we did the plastic 
+bag ban, and it worked.  It’s working out really well, in many different ways.  
+But, one of the things is that we said, “OK, now we have this additional 
+plastic bags that can be made out of plastics,” and we’re not recycling it now, 
+although they are making it so you can actually recycle your recyclable bags 
+-- you can just bring it to different locations.  And, I don’t think we’re doing 
+enough on that end. 
+ 
+ 
+So, my question is, on the bottle ban, or bottle bill, how do we 
+see that working for residents, just your regular consumers? 
+ 
+ 
+MS. ENCK:  Sure, yes; great question. 
+ 
+ 
+So, you’re super busy.  I’m super busy.  I’m hanging on by my 
+fingernails.  I am just going to meeting, to meeting, and every so often I stop 
+
+--- PAGE 51 ---
+ 
+ 
+ 
+46 
+at a supermarket and I buy food.  And, my husband cooks it and we have a 
+good dinner, because he cooks.  But, I am in the supermarket once or twice a 
+week, and that’s where I bring my empty containers back.  So, I’m there 
+anyway, and then I spend my redeemable money in that supermarket. 
+ 
+ 
+Now, environmental justice groups have raised a really important 
+issue.  There are a lot of food deserts.  There are neighborhoods where you 
+don’t have access to supermarkets.  The solution there is the creation of 
+redemption centers.  There’s one I want to particularly mention in Brooklyn 
+called “Sure We Can.”  They are a nonprofit redemption center.  Low-income 
+people go around collecting empty bottles and cans and they get the deposit 
+for people who don’t want to go to the supermarket. 
+ 
+ 
+I am old enough to say I worked on the original bottle bill in New 
+York, which passed in 1982.  I was an infant when I worked on it.  And, we 
+never envisioned what would happen.  We thought this would be 
+supplemental money for Boy Scouts and Girl Scouts -- and they do do bottle 
+and can drives.  It’s now a major source of income for people who are 
+economically struggling.  There are 11,000 people in New York City who rely 
+on that money.  I have met amazing women who put their kids through 
+college because they go out and they collect bottles and cans from people who 
+just want to keep putting it in their--  And, you can keep putting it in your 
+recycling bin. 
+ 
+ 
+I am very fiscally frugal, so I return my bottles and cans, and it 
+is simple because I am at the store anyway, and then these redemption centers 
+are a supplement.  Most redemption centers are for-profit; they’re small 
+business; they’re creating local jobs.  The nonprofit redemption center model 
+is unusual, but it could happen in food deserts in New Jersey. 
+
+--- PAGE 52 ---
+ 
+ 
+ 
+47 
+ 
+ 
+Compared to other issues we’re working on--  I mean, climate 
+change is huge; cleaning up federal Superfund sites takes billions of dollars.  
+We have to protect wetlands; we have to clean the ocean.  The bottle bill is 
+easy compared to the other challenges.  And, we have the benefit of 10, 11 
+states that have already done it.  And, it gets better over time. 
+ 
+ 
+For instance, if New Jersey does a bottle bill, don’t just do beer 
+and soda -- do Snapple bottles, because those bottles are the same as other 
+bottles.  New York and other -- I think Connecticut just added wine and 
+liquor.  And, the amazing thing is the reduction in litter; not having the litter 
+is key.  
+ 
+ 
+At Beyond Plastics, we hear a lot from people who are very 
+concerned about--  Do you know the problem with these little liquor bottles 
+called “nip” bottles?  And, they are on the side of the road everywhere.  We 
+need to put a deposit on them, and then people will pick it up.  Even for a 
+nickel, but you should start with a dime deposit.  It’s not regressive, because 
+when you return your containers, you get your deposit back. 
+ 
+ 
+ASSEMBLYWOMAN KATZ:  I share the concerns here, that 
+you want to make this easier for people to recycle.  And, I know that I myself 
+am running around like a crazy person all the time.  I could see myself 
+forgetting to take things to a grocery store.  You know, my municipality 
+doesn’t accept grass clippings, or they don’t pick up grass clippings, and I will 
+tell you every weekend I say potty words as I am mowing my lawn and trying 
+to deal with my grass clippings.  It’s just easier when I’m able to put things 
+at the curb to be able to be dealt with in my busy life. 
+ 
+ 
+And, I just think a lot of my peers might have that same--  And, 
+I want recycling to continue to happen; I don’t want people to say, “Oh, that’s 
+
+--- PAGE 53 ---
+ 
+ 
+ 
+48 
+going to be too hard, let me put it in the garbage instead.”  I don’t want that, 
+you know? 
+ 
+ 
+But, you did reference the rates of recycling in bottle-bill states 
+compared to not bottle-bill states.  But, the gentleman who testified -- I’m so 
+sorry, I’m bad with names; in the wonderful tie -- had mentioned that we 
+have a 75% container recycling rate in New Jersey. 
+ 
+ 
+So, how does that sort of measure--  What are our numbers here 
+in New Jersey with our low-cost programs that we already have in place? 
+ 
+ 
+MS. ENCK:  That would make New Jersey like no other state in 
+the world.  And, those numbers don’t match with the industry numbers that 
+we have. 
+ 
+ 
+And, I am a member of the “running around like a lunatic club,” 
+you know, that’s my every day.  But, I want to ask you, when the plastic bag 
+ban took effect in New Jersey -- so, maybe the first two times you went to the 
+store and you forgot your bags, but now you remember your reusable bags all 
+the time, because you leave them in the car, or if--  Right?  Or, if you don’t 
+leave them in the car, you get those little collapsable bags you put in your 
+purse, the ChicoBags. 
+ 
+ 
+So, that’s how the bottle bill works.  It just becomes second 
+nature.  It’s really not hard. 
+ 
+ 
+SENATOR SMITH:  Yes, sir. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  I am a lunatic running 
+around a lot, and I’ll be holding everything in my hands walking out of Shop 
+Rite.  So, it’s a double whammy. 
+
+--- PAGE 54 ---
+ 
+ 
+ 
+49 
+ 
+ 
+Just a couple quick questions while we’re still on the bottle bill.  
+A lot of great questions on that subject, but I just want to point a really fine 
+point out. 
+ 
+ 
+Do you prefer the bottle bill in place of curbside, in addition to 
+curbside?  How do they -- how do they work together?  We heard testimony 
+that this (indiscernible) 
+ 
+ 
+MS. ENCK:  They are perfect together.  So, keep curbside in 
+place, do a bottle bill -- which has the enormous benefit of litter prevention -
+- and then you have Coke, Pepsi, Coors taking financial responsibility to 
+either refill or recycle all of that rather than taxpayers.  And, then, the third 
+lane is a strong packaging-reduction bill. 
+ 
+ 
+But, I would keep the bottle bill separate from packaging because 
+bottle bill has a very deep history in the United States, an existing return 
+process -- which you don’t have, for instance, for like baby food plastic 
+pouches.  They’re going to have a whole other approach on that. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you. 
+ 
+ 
+And, I think, just reacting in real time at a very high level, I think 
+intuitively you’re right that we could probably reduce litter -- those bottles, 
+you know, on the side of the road and whatnot. 
+ 
+ 
+And, candidly, I’m intrigued by a concept that provides a 
+financial incentive to influence human behavior.  I prefer that to a ban of 
+certain products, but that’s a conversation for another day. 
+ 
+ 
+Going in a separate direction if I could.  You have concerns with 
+chemical recycling.  What is your preferred method of recycling plastic -- 
+without getting too technical.  Is there a rearranging of the particles that you 
+support? 
+
+--- PAGE 55 ---
+ 
+ 
+ 
+50 
+ 
+ 
+MS. ENCK:  I support reducing plastics, full stop.  Because we 
+have tried plastic recycling for decades, and it just doesn’t work because it’s 
+all different colors; 16,000 different chemicals; all different polymers. 
+ 
+ 
+So, you know, you could say in New Jersey, you can only sell 
+Number 1 and Number 2 plastic, which you do have a fighting chance of 
+getting recycled. 
+ 
+ 
+I don’t think that would work.  I think the emphasis has to be 
+on reduction, reuse, refill. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  I’m just going to push you 
+a little bit if I can. 
+ 
+ 
+So, I mean, is there a scenario where you think we can be more 
+effectively -- strike effectively -- recycling plastic in New Jersey? 
+ 
+ 
+MS. ENCK:  No. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  No; OK. 
+ 
+ 
+I am going to ask you one last time, and then I’ll move onto 
+another question. 
+ 
+ 
+If we eliminated plastic recycling in New Jersey, would it have 
+any impact on the environment? 
+ 
+ 
+MS. ENCK:  I’m not suggesting you eliminate plastic recycling, 
+but I am suggesting that you be honest with the public and say it’s really just 
+Number 1 and Number 2 plastic that, realistically, gets recycled. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  OK. 
+ 
+ 
+My last question:  You mentioned the 10% figure on plastic 
+recycling.  Is that New Jersey, or broadly? 
+ 
+ 
+MS. ENCK:  It’s a nationwide figure.  It’s actually 5-6% recycling 
+nationwide. 
+
+--- PAGE 56 ---
+ 
+ 
+ 
+51 
+ 
+ 
+It’s 5-6% nationwide, and that’s not just my numbers.  That’s 
+U.S. Department of Energy.  EPA is very late on its numbers, but it’s under 
+10%. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Nationally. 
+ 
+ 
+MS. ENCK:  Nationally. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Do we know the number in 
+New Jersey? 
+ 
+ 
+MS. ENCK:  I do not. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  OK, because that’s the part 
+I’m a little bit unclear on coming out of this hearing.  I heard 9%, 10%, 50%, 
+and 90% on what amount of New Jersey plastics are recycled.  I don’t know 
+the answer-- 
+ 
+ 
+MS. ENCK:  But, let me--  Let me maybe help figure this out. 
+ 
+ 
+The word was used, “recovered,” the word was used, “collected.”  
+That does not necessarily translate into acted, actually being recycled. 
+ 
+ 
+And, I really think you want to take a look at exports to other 
+countries.  I was surprised in the last year to read that New Jersey is the 
+Number 2 exporter of plastic to other countries.  That’s not good, because 
+other countries do not have markets and infrastructure to handle it. 
+ 
+ 
+ASSEMBLYMAN INGANAMORT:  Thank you. 
+ 
+ 
+SENATOR SMITH:  Thank you, Judith. 
+ 
+ 
+We’re going to need a lot more of your advice as we go forward. 
+ 
+ 
+MS. ENCK:  Thank you. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  OK, last, we have Dr. Shanna 
+Swan joining us on video. 
+ 
+ 
+ 
+
+--- PAGE 57 ---
+ 
+ 
+ 
+52 
+ 
+ 
+SENATOR SMITH:  Would you do her background, too? 
+ 
+S H A N N A   H.   S W A N, Ph.D.:  Hi, can you all see me?  I guess there’s 
+a screen somewhere. 
+ 
+ 
+SENATOR SMITH:  Hold on one second. 
+ 
+ 
+DR. SWAN:  Yes. 
+ 
+ 
+SENATOR SMITH:  We just want to make sure the audience 
+knows of your distinguished background. 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  Her distinguished background 
+includes she’s the Professor of Environmental Medicine and Public Health at 
+the Icahn School of Medicine at Mount Sinai.   
+ 
+ 
+DR. SWAN:  Thank you. 
+ 
+ 
+Yes, my department is Environmental Medicine and Public 
+Health.  I am an epidemiologist, and I am a reproductive and environmental 
+epidemiologist.  My work examines the impacts of environmental exposure 
+on health -- particularly reproductive health and neurodevelopment. 
+ 
+ 
+Why am I talking to you today?  Well, I am committed to use 
+my science and the science of my colleagues to protect public health and the 
+environment.  Hopefully, this will help that. (laughter) 
+ 
+ 
+So, I appreciate the opportunity to talk to you today about 
+chemicals in plastic and their impacts on human health.  We’ve heard a great 
+deal about recycling.  This has been a fabulous discussion about recycling; 
+we’ve heard about microplastics; but, we haven’t heard much about health.  
+And, so, as an epidemiologist, that’s what I’m going to focus on. 
+ 
+ 
+And, it’s timely.  I want to point out that this hearing is taking 
+place on today:  This is Earth Day, Earth Day 2024, and it’s also the time 
+that governments and NGOs from around the world are gathering in Ottawa 
+
+--- PAGE 58 ---
+ 
+ 
+ 
+53 
+to -- and, the meeting starts tomorrow -- to continue negotiating the terms of 
+the United Nations Global Plastic Treaty.  I invite you to follow those 
+discussions, because they’re going to be really informative about the problems 
+we’re discussing today. 
+ 
+ 
+OK, so, plastic -- which includes a wide range of synthetic or 
+semi-synthetic polymer-based materials, as you’ve heard, has been produced 
+at an exponentially increasing rate.  The number of tons in the billions that 
+has been produced since it was introduced in the 1950s is perhaps arguable.  
+You’ll hear many numbers, but perhaps 10 billion tons. 
+ 
+ 
+And, more than 15,000 chemicals are used to manufacture these 
+materials.  Twenty-five percent of these chemicals have been classified as 
+“chemicals of concern.”  That’s a general term, but it refers to chemicals that 
+have been associated with potential acute or chronic human health effects.  
+So, that’s 25% of 15,000 chemicals.  That’s a lot of chemicals that are of 
+concern.  But, this number is actually an underestimate, because for at least 
+40% of chemicals in plastic, we don’t know about their health risks.  So, we 
+have this huge number of chemicals whose risk is unknown, and another huge 
+number, which is of concern.  And, these things are affecting human health. 
+ 
+ 
+I am going to give you two examples of how they can affect 
+human health.  But, before I do that, I just want to say there is a wide range 
+of harms that have been demonstrated for chemicals in plastic chemicals of 
+concern.  And, these include cancer; neurodevelopment; obesity; reproductive 
+failure; immune dysfunction; every system in the body can be affected by 
+chemicals that have the ability to affect our body’s hormones. 
+ 
+ 
+That’s maybe new to some of you -- I hope not.  But let’s--  That’s 
+what I’m going to talk about next.  So, some chemicals in plastic act through 
+
+--- PAGE 59 ---
+ 
+ 
+ 
+54 
+the same pathways as our body’s natural hormones.  Everybody--  Every man 
+knows about his testosterone, or knows about his testosterone level.  Women 
+are interested in the hormones that affect their menstrual cycle.  So, we’re 
+very familiar with these steroid hormones that affect sexual and reproductive 
+function. 
+ 
+ 
+And, the chemicals that affect the body’s hormones have been 
+called endocrine-disrupting chemicals, or EDCs.  And, this is a class of 
+chemicals that is regulated separately from carcinogens, for example, in some 
+places, such as the state of California. 
+ 
+ 
+So, let me give you two examples. Bisphenols -- I think most 
+people have heard of Bisphenol, BPA, that’s an example of a Bisphenol -- this 
+is a plasticizer.  It’s put in plastic for the purpose of making that plastic hard.  
+And, it is estrogenic, like your body’s own estrogen, or estrogenic pills that 
+you take for medical reasons -- similar pathway.  On the other hand, we have 
+the chemicals that kind of -- I call these the evil twins -- that make plastic soft 
+and flexible.  And, those are the phthalates.  And, so, every time you see a 
+squishy bottle, think rubber duckies, you’re looking at something that 
+contains a lot of phthalates. 
+ 
+ 
+OK, so, these are examples of endocrine-disrupting chemicals.  
+More than 25 years of research has shown that these endocrine-disrupting 
+chemicals can and do damage our health in multiple ways by interfering with 
+our body’s own hormones.  So, they mess up the signaling that these 
+hormones are trying to conduct; they interfere with the transport of these 
+hormones; and so on and so forth.  And, one of the most clear pictures is that 
+they can sit in the receptors that are there to lodge the estrogens and the 
+progesterones, and actually displace them so that you’re not getting the real 
+
+--- PAGE 60 ---
+ 
+ 
+ 
+55 
+thing, you’re getting this mimic.  And, they enter our bodies silently, all the 
+time, without our knowledge, and -- of course -- without our permission.  
+California’s Prop 65 has listed over 900 chemicals as known or potential 
+endocrine disruptors. 
+ 
+ 
+So, today, I have a little time, I’m just going to talk about what 
+happens when a pregnant woman is exposed to the chemical class phthalates, 
+those chemicals that make plastic soft and flexible -- in those bottles that 
+we’ve been discussing, for example -- and the impact of that exposure on male 
+reproductive health.  This is an area I’ve worked in for over 20 years. 
+ 
+ 
+So, let’s go back a quarter of a century.  The National Toxicology 
+Program, in 2000, showed that when you fed these phthalates to pregnant 
+rats, it caused changes in the reproductive system of their male pups when 
+they were born.  Measurable, demonstrable, clear, significant changes in the 
+genitals of the male offspring.  I hope everybody in this room is cringing a 
+little bit about this, because it’s not comfortable. 
+ 
+ 
+They called this -- they named this -- the Phthalate Syndrome.  
+This is unusual to have a syndrome named after a chemical class.  I don’t 
+know of any other.  And, at the same time that this information was coming 
+out, the Centers for Disease Control was testing representative samples of 
+people in the United States and seeing what was in their bodies.  Now, I can’t 
+ask you how much phthalate is in your body.  You have no idea -- I have no 
+idea.  How do we know this?  We look in the urine for phthalates, or in blood 
+for fat-soluble chemicals.  Phthalates are water-soluble.  They actually leave 
+the body very quickly -- in four hours.  So, if we take the urine from pregnant 
+women, we can see what they are carrying, and then what their fetus is 
+exposed to, because these cross the placental barrier. 
+
+--- PAGE 61 ---
+ 
+ 
+ 
+56 
+ 
+ 
+OK, so, I looked at that literature on the Phthalate Syndrome 
+and I thought, “Well, that’s rats and we’re exposed, so, natural question, is 
+there a Phthalate Syndrome in humans?”  Now, if you want to think about 
+how hard it is to answer this, just bear with me for a second and just do this 
+little experiment.  You want to study this; you think it’s plausible; you think 
+it’s important.  What do you have to do?  Well, first of all, you’ve got to get 
+a lot of money.  And, the only way I know to do that is you go to NIH.  To 
+do that, you have to write a grant.  That process is a multi-year process, but 
+I did that, I got the money, and then I have to conduct the study. 
+ 
+ 
+What do I do?  Well, I have to what?  I have to have urine from 
+pregnant women, because I know that will show me how much phthalates are 
+in their body, and then I have to see what it does to their male offspring.  So, 
+I have to have them bring in their babies.  That makes sense, right?  And, 
+then, I have to examine the babies; what do I look for?  Well, I have to look 
+for changes in the male offspring that are analogous to what the NTP saw in 
+their pups, male pups, right?  So, we had to design an experiment, design an 
+exam, to actually measure the right thing-- So, we really looked for the human 
+Phthalate Syndrome, if it existed. 
+ 
+ 
+So, I did that.  I did that, I did that in a large study for which I 
+got a lot of NIH money -- about $5 million, it cost -- and I happened to have 
+urine stored from pregnant women, which was extremely lucky, and so I 
+looked.  And, I found the Phthalate Syndrome in humans.  When this was 
+published in 2005, it was really big news, and it did influence legislation -- 
+for example, the Consumer Protection Act of 2008, after I testified about 
+this. 
+
+--- PAGE 62 ---
+ 
+ 
+ 
+57 
+ 
+ 
+And, then, I had to repeat the whole thing, because in science 
+you have to replicate your work.  And, so, I did that.  Another $5 million, 
+another five years, and we found it again.  And, at that point, we had this 
+finding in rodents and in humans and replicated in humans, and I could 
+confidently say that when the pregnant woman is exposed to phthalates, her 
+male offspring may exhibit the Phthalate Syndrome. 
+ 
+ 
+Now, does this matter?  Who cares if the genitals are a little 
+different?  It turns out it does matter.  And, here we were at sort of an impasse, 
+because these were babies.  And, they don’t produce sperm, and they don’t 
+try to get pregnant for a long time.  And, I didn’t want to wait 20 years, 25 
+years, to see whether that exposure or that Phthalate Syndrome made a 
+difference for their function. 
+ 
+ 
+So, what I did was I went to college students, and I said, “Would 
+you let us measure your genitals and give us a semen sample?”  And, what we 
+found was that the aberrations that we had seen in the Phthalate Syndrome 
+were directly related to sperm count.  So, the more changes we saw in these 
+measurements -- I’ll just mention the most important one, don’t cringe -- it’s 
+called the anogenital distance or AGD, known on the street as the taint or 
+the gooch.  This measurement -- which is a measure of the size of the genitals 
+-- if that’s small, then the male has, on average, a lower sperm count. 
+ 
+ 
+And, then, a colleague did a similar thing in California and 
+showed that men who had never had children had a shorter measure than 
+men who had had children. 
+ 
+ 
+So, together, this body of research, that took I would say over 10 
+years -- 10 to 15 years -- established that when the mother is exposed to 
+
+--- PAGE 63 ---
+ 
+ 
+ 
+58 
+phthalates, the fetus is exposed, the fetus is affected, the male -- particularly 
+for this chemical class -- and, finally, that he will have trouble having a baby. 
+ 
+ 
+Now, we looked at sperm count in another study worldwide, and 
+I published a study in 2017 which showed that worldwide sperm counts -- 
+you may have heard this -- sperm counts are declining.  They’re declining 
+pretty rapidly, and they’ve decreased -- since we started studying in about 
+1970 -- 50%, on average, worldwide.  Fifty percent.  And, that’s about a rate 
+of 1% per year.  Now, you think 1% per year is not very much -- nothing, 
+right?  But, think about 50 years, 50%.  If I told you that over the past 50 
+years, I, too, have dropped 1% per year, you would be really concerned.  I 
+think we should be really concerned about this decline in sperm count. 
+ 
+ 
+And, by the way, we updated this study recently.  In 2023, we 
+published that the rate of decline has not leveled off.  It has significantly 
+increased.  So, the decline is now faster. 
+ 
+ 
+What about fertility?  Fertility is a hard thing to measure.  One 
+measure it called “total fertility rate,” it’s the number of pregnancies that a 
+woman will have in her lifetime.  So, the total fertility rate has been tracked 
+by the World Bank, of all things.  If you look up, “World Bank fertility data,” 
+you will see that fertility has declined worldwide at exactly the same rate as 
+sperm count:  1% per year.  And, this is everywhere.  One exception being 
+Israel.  Why?  Because the total fertility rate includes assisted reproduction 
+and in Israel citizens are paid -- can recover the costs of two -- of IVF for two 
+live births.  And, so, the number of births in Israel has not declined because 
+of the use of assisted reproduction. 
+ 
+ 
+I don’t think this is a healthy situation for our species.  But, when 
+I talk about fertility, skeptics will say, “Well, these are voluntary declines.  
+
+--- PAGE 64 ---
+ 
+ 
+ 
+59 
+People are delaying childbearing because they want fewer children, or because 
+they now have contraception available,” and so on and so forth.  That’s 
+correct.  And, skeptics will say, “Well, people are smoking more; they’re more 
+stressed” or, they’re more obese and all these are interfering -- that is correct.  
+ 
+ 
+However, this is not the case for non-human species.  And, if we 
+look at non-human species worldwide, the number of endangered species has 
+more than doubled between 2007 and 2022.  And, if you do the numbers, 
+this is an increase of somewhat more than the same 1% per year.  So, it’s not 
+just humans, it’s all species.  And, these are species that cannot use 
+contraception or delay their childbearing voluntarily.  These are species that 
+are exposed to the same chemicals -- chemicals in plastic and other endocrine-
+disrupting chemicals -- that is driving down everyone’s fertility. 
+ 
+ 
+I cannot stress how important this is, and I think you get the 
+picture that this is--  In East Asia, the rate of fertility, the fertility rate is now, 
+in some countries like South Korea, down to 0.8 children for a woman or 
+couple.  To replace the population, we need 2.1 children per couple.  So, 
+we’re not doing that, and the economic and social implications of this are 
+huge.  And, there are direct links between these declines and chemicals in 
+plastic. 
+ 
+ 
+OK, let me turn to something else, if I can find these notes.   
+ 
+ 
+(laughter) 
+ 
+ 
+Sorry. 
+ 
+ 
+OK, so, I am going to give you one more example, and it’s very 
+different; it’s breast cancer. 
+ 
+ 
+So, there was a recent study -- a quite brilliant, small study -- 
+which showed that EDCs increased the risk of breast cancer.  And, what this 
+
+--- PAGE 65 ---
+ 
+ 
+ 
+60 
+study did was take volunteers in California and ask them to reduce their use 
+of personal-care products that contain EDCs -- phthalates and others.  They 
+gave them substitute products.  And they did this for 28 days -- one month 
+only -- and what they found was a reduced risk of progression to breast cancer 
+using genetic markers that predict who will go on to get breast cancer.  These 
+changes indicated a reduced risk, and showed that healthy breast cells are 
+programmed to be pre-cancerous by EDC chemicals that have been assumed 
+to be safe and have been put into market.  
+ 
+ 
+So, this is a very small study. It’s a pioneering study, but it’s very 
+important because it clearly makes the link between--  These are makeup, 
+personal-care products, and progression to breast cancer.  It’s--  These things 
+come in everywhere.  They come in our makeup; they come in our personal-
+care products; they come in our food; they come in our cleaning products; 
+they come in our laundry detergents.  They are everywhere and by every 
+means that they get into our body, they are disrupting our hormones and 
+increasing our health risks.  I’ve only given you two examples. 
+ 
+ 
+So, I want to close by saying that it is unacceptable to assume 
+that a chemical is safe before it is put into commerce.  That is the status quo 
+in the United States.  That is not the status quo in the E.U., which has 
+legislation that requires a chemical to be proven safe before it’s put into 
+commerce. 
+ 
+ 
+The studies I described each cost millions of dollars, and took a 
+very long time.  And, they only could examine a limited number of health 
+outcomes and a limited number of exposures.  Think about the job of testing 
+every chemical for all of these outcomes.  It’s not possible. 
+
+--- PAGE 66 ---
+ 
+ 
+ 
+61 
+ 
+ 
+So, we cannot wait for human health risks to be established 
+before we remove these (indiscernible) from our daily lives. 
+ 
+ 
+Thank you. 
+ 
+ 
+SENATOR SMITH:  Thank you, Dr. Swan. 
+ 
+ 
+Questions for Dr. Swan?  (no response) 
+ 
+ 
+OK, thank you very much. 
+ 
+ 
+And, I think you’re tuning in from California? 
+ 
+ 
+DR. SWAN:  Yes, I am. 
+ 
+ 
+SENATOR SMITH:  Thank you for how early you got up this 
+morning.   
+ 
+ 
+DR. SWAN:  (laughter) 
+ 
+ 
+It was a bit of a (indiscernible) 
+ 
+ 
+SENATOR SMITH:  We appreciate the information. 
+ 
+ 
+Dr. Swan is our last witness. 
+ 
+ 
+Assemblyman Kennedy and I are planning to close the hearing, 
+but, special event -- within five minutes we’re going to put on the TV the We 
+are All Plastic People Now movie -- it’s an Emmy-winning documentary, 
+featured at the 2024 Sante Fe Film Festival.  The documentary focuses on 
+the pervasiveness of plastics in our environment and in our bodies and the 
+detriments that plastics have on public health.   
+ 
+ 
+Is there anything anybody wants to say?  (no response) 
+ 
+ 
+So, we have a whole bunch of bills that are being constructed, 
+and Chairman Kennedy said he would like to take responsibility for the 
+distribution of bills, if you’re interested -- especially after today’s program, 
+but we’re doing the same thing on this side. 
+
+--- PAGE 67 ---
+ 
+ 
+ 
+62 
+ 
+ 
+And, I hope this is the first of many meetings of the Joint 
+Environment Committees in April of every year.  And, usually, in August, we 
+do a joint hearing at the shore.  Followed by a party.  So, hopefully we can 
+all get together again. 
+ 
+ 
+So, Assemblyman Kennedy, thank you so much for all your help 
+today.  Is there anything you want to finish up with? 
+ 
+ 
+ASSEMBLYMAN KENNEDY:  I really have nothing, you pretty 
+much summed it all up. 
+ 
+ 
+So, I guess we could just adjourn. 
+ 
+ 
+SENATOR SMITH:  Adjourned. 
+ 
+ 
+Movie, five minutes. 
+ 
+(MEETING CONCLUDED) 
+ 
