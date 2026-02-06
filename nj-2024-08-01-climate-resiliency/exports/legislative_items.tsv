@@ -1,0 +1,14 @@
+id	item_type	name	description	status	mentioned_by	page_ref
+1	pending_rule	NJ PACT REAL Rules	Resilient Environments and Landscapes - updates coastal zone management rules to account for sea-level rise, requires climate-adjusted flood elevation (FEMA 1% storm + 5ft sea level rise)	Pending formal proposal	Nick Angarone, Lindsey Sigmund-Massih	6
+2	existing_law	Inland Flood Protection Rule	Amendment to State flood rules based on more recent NJ-specific rainfall data, updating building and stormwater design standards	Adopted 2023	Nick Angarone	6
+3	existing_law	Flood Disclosure Law	Requires sellers to disclose flood history, DEP to provide online mapping tool at flooddisclosure.nj.gov	Enacted	Nick Angarone, Senator Smith	10
+4	program	Blue Acres Program	Voluntary buyout program for flood-prone properties, over 1,100 properties purchased since 1995	Active	Nick Angarone, Lt. Amin	9
+5	existing_law	Shore Protection Fund	Established 1992, allows NJ to leverage Federal dollars for beach/dune restoration	Active - funding needs increasing	Dr. Herrington	57
+6	pending_bill	Climate Change Cost Recovery	Vermont-style legislation to hold fossil fuel companies responsible for funding resiliency projects	Under consideration	Senator McKeon	17
+7	recommendation	Stormwater Utilities	Legal in NJ with DEP guidelines, only 1 municipality using them, 1,500 exist nationwide	Available tool	Senator Smith	24
+8	existing_law	Master Plan Climate Element	Requires sustainability and resilience elements in municipal master plans every 10 years	Enacted	Senator Smith	24
+9	program	Resilient NJ Program	DEP local planning assistance program, worked with over 40 municipalities	Active	Nick Angarone	12
+10	recommendation	Water Infrastructure Center	Academic institution-based center to examine water and climate issues (Senator Greenstein bill)	Pending	Peter Kasabach	83
+11	program	Extreme Heat Resilience Action Plan	135 specific actions for state agencies, third such plan in the nation	Released July 2024	Nick Angarone	11
+12	existing_law	Executive Order 100	Governor directive to DEP to develop regulations for GHG mitigation and climate resilience	2020 - partial implementation	Senator McKeon	18
+13	funding	NOAA Climate Resilience Regional Challenge	$72 million award to DEP for Building a Climate-Ready NJ initiative	Awarded July 2024	Nick Angarone	12

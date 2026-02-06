@@ -1,0 +1,11 @@
+id,name,title,organization,credentials,speaker_type,page_start,testimony_submitted
+1,"Nick Angarone","Chief Resilience Officer and Manager, Office of Climate Resilience","New Jersey Department of Environmental Protection",,government,3,0
+2,"Lt. Dinan Amin","State Hazard Mitigation Officer; Unit Head, Mitigation Unit","NJ Office of Emergency Management / NJ State Police",,government,26,0
+3,"Anthony J. Broccoli","Distinguished Professor of Atmospheric Science; Faculty Advisor, NJ Climate Change Resource Center","Rutgers University",Ph.D.,scientist,32,1
+4,"Ning Lin","Professor, Civil and Environmental Engineering","Princeton University",Ph.D.,scientist,39,0
+5,"Lisa Auermuller","Administrative Director, Megalopolitan Coastal Transformation Hub","Rutgers University",,policy_expert,45,1
+6,"Kimberly McKenna","Interim Executive Director, Coastal Research Center","Stockton University",,scientist,51,1
+7,"Thomas Herrington","NY/NJ Vice President","American Shore and Beach Preservation Association",Ph.D.,scientist,56,0
+8,"Tim Dillingham","Executive Director","American Littoral Society",,advocate,59,1
+9,"Peter Kasabach","Executive Director","New Jersey Future",,policy_expert,73,0
+10,"Lindsey Sigmund-Massih","Manager, Mainstreaming Green Infrastructure Program","New Jersey Future",,policy_expert,74,0

@@ -1,0 +1,9 @@
+id,name,title,chamber,role,district,party
+1,"Bob Smith",Senator,Senate,Chair,,D
+2,"Linda R. Greenstein",Senator,Senate,"Vice Chair",,D
+3,"John F. McKeon",Senator,Senate,Member,"Essex County",D
+4,"Latham Tiver",Senator,Senate,Member,"Burlington (4 towns in Atlantic)",R
+5,"James J. Kennedy",Assemblyman,Assembly,Chair,,D
+6,"Alixon Collazos-Gill",Assemblywoman,Assembly,Member,"27th (Montclair)",D
+7,"Michael Inganamort",Assemblyman,Assembly,Member,"24th (Morris, Sussex, Warren)",R
+8,"Gerry Scharfenberger",Assemblyman,Assembly,Member,"13th (Monmouth)",R
