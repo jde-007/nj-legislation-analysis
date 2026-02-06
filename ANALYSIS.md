@@ -350,3 +350,124 @@ Database location: `nj_legislation.db`
 
 *Analysis prepared February 5, 2026*
 *Database: nj_legislation.db | Transcript: transcript-full.txt*
+
+---
+
+## Part VIII: Quantitative Analysis
+
+### Hearing Metrics
+
+| Metric | Value |
+|--------|-------|
+| Total transcript pages | 67 |
+| Total characters | 107,751 |
+| Estimated duration | ~2.5 hours |
+| Committees present | 2 |
+| Committee members present | 8 |
+| Oral testimony witnesses | 4 |
+| Written testimony only | 2 |
+
+### Testimony Time Allocation
+
+| Speaker Type | Pages | Percent of Testimony |
+|--------------|-------|---------------------|
+| Scientists (PhD) | 18 | 31.0% |
+| Policy Expert | 20 | 34.5% |
+| Industry Representative | 20 | 34.5% |
+| Opening/Closing | 9 | — |
+
+### Scientific Claims Analysis
+
+**Total claims extracted and coded: 42**
+
+#### By Evidence Type
+| Type | Count | Percent |
+|------|-------|---------|
+| Government Data | 15 | 35.7% |
+| Peer-Reviewed Study | 11 | 26.2% |
+| Industry Data | 8 | 19.0% |
+| Personal Research | 5 | 11.9% |
+| Meta-Analysis | 3 | 7.1% |
+
+#### By Evidence Strength
+| Strength | Count | Percent |
+|----------|-------|---------|
+| Strong | 34 | 81.0% |
+| Moderate | 8 | 19.0% |
+| Weak | 0 | 0.0% |
+
+#### By Speaker
+| Speaker | Claims | Type |
+|---------|--------|------|
+| Dr. Phoebe Stapleton | 13 | Scientist |
+| Dr. Shanna Swan | 11 | Scientist |
+| Judith Enck | 10 | Policy Expert |
+| Gary Sondermeyer | 8 | Industry |
+
+### Q&A Engagement
+
+| Metric | Value |
+|--------|-------|
+| Total questions asked | ~15 |
+| Questions to scientists | 4 (27%) |
+| Questions to policy expert | 7 (47%) |
+| Questions to industry | 4 (27%) |
+
+**Most active questioners:**
+- Senator Smith (Chair): 4 questions
+- Assemblywoman Katz: 3 questions
+- Assemblyman Inganamort: 3 questions
+
+### Communication Effectiveness Scoring
+
+| Dimension | Score (0-100) | Notes |
+|-----------|---------------|-------|
+| Scientific Rigor | 93.7 | 81% of claims rated "strong" evidence |
+| Local Relevance | 75 | NJ-specific studies cited, but limited |
+| Policy Specificity | 85 | Named bills, states, specific provisions |
+| Legislator Engagement | 37.5 | 3.75 questions per witness average |
+| **Overall** | **72.8** | Weighted average |
+
+### Legislative Themes by Frequency
+
+1. Recycling rates (6 claims)
+2. Reproductive health (4 claims)
+3. Exposure pathways (4 claims)
+4. Production scale (3 claims)
+5. Policy effectiveness (3 claims)
+
+---
+
+## Appendix D: Source Verification
+
+### Quote Accuracy Statement
+
+All quotes in this analysis are **verbatim extractions** from the official transcript published by the Office of Legislative Services, Public Information Office, Hearing Unit, State House Annex, Trenton, New Jersey.
+
+Page references correspond to the PDF page numbers in the original document:
+- `plastic-pollution-hearing-2024-04-22.pdf` (711 KB, 67 pages)
+
+### Page Reference Guide
+
+| Speaker | Testimony Pages | Q&A Pages |
+|---------|-----------------|-----------|
+| Dr. Phoebe Stapleton | 5-12 | 12-13 |
+| Gary Sondermeyer | 13-18 | 18-32 |
+| Judith Enck | 32-41 | 41-51 |
+| Dr. Shanna Swan | 52-61 | 61 |
+| Opening/Closing | 1-4, 61-67 | — |
+
+### Data Export Files
+
+All structured data is available in the `exports/` directory:
+
+| File | Contents |
+|------|----------|
+| `hearings.csv` | Hearing metadata |
+| `speakers.csv` | Witness profiles with credentials |
+| `scientific_claims.csv` | 42 claims with page references |
+| `legislative_outcomes.csv` | 13 legislative items |
+| `committee_members.csv` | 8 legislators present |
+| `quantitative_analysis.json` | Full metrics object |
+
+TSV versions also provided for Excel compatibility.

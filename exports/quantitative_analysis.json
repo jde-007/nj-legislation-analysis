@@ -1,0 +1,112 @@
+{
+  "hearing_metrics": {
+    "total_pages": 67,
+    "total_characters": 107751,
+    "hearing_duration_estimated_hours": 2.5,
+    "committee_members_present": 8,
+    "committees": 2,
+    "total_witnesses_oral": 4,
+    "total_witnesses_written": 2
+  },
+  "testimony_breakdown": {
+    "total_speakers": 6,
+    "scientists_phd": 2,
+    "policy_experts": 1,
+    "industry_representatives": 3,
+    "oral_testimony": 4,
+    "written_testimony_only": 2
+  },
+  "scientific_engagement": {
+    "total_claims": 42,
+    "claims_by_evidence_type": {
+      "government_data": 15,
+      "industry_data": 8,
+      "meta_analysis": 3,
+      "peer_reviewed_study": 11,
+      "personal_research": 5
+    },
+    "claims_by_strength": {
+      "moderate": 8,
+      "strong": 34
+    },
+    "claims_by_category": {
+      "recycling_rates": 6,
+      "reproductive_health": 4,
+      "exposure_pathways": 4,
+      "production_scale": 3,
+      "policy_effectiveness": 3,
+      "health_outcomes": 3,
+      "material_composition": 2,
+      "human_presence": 2,
+      "environmental_impact": 2,
+      "environmental_benefit": 2
+    },
+    "claims_per_speaker": {
+      "Dr. Stapleton (scientist)": 13,
+      "Gary Sondermeyer (industry)": 8,
+      "Judith Enck (policy)": 10,
+      "Dr. Swan (scientist)": 11
+    }
+  },
+  "evidence_quality": {
+    "strong_evidence_count": 34,
+    "strong_evidence_percent": 81.0,
+    "moderate_evidence_count": 8,
+    "moderate_evidence_percent": 19.0,
+    "weak_evidence_count": 0,
+    "weak_evidence_percent": 0.0,
+    "peer_reviewed_citations": 11,
+    "government_data_citations": 15,
+    "personal_research_citations": 5,
+    "evidence_quality_score": 93.7
+  },
+  "legislative_impact": {
+    "existing_legislation_referenced": 6,
+    "new_legislation_recommended": 7,
+    "total_legislative_items": 13,
+    "bipartisan_support_items": [
+      "EPR",
+      "Uniform Recyclables List"
+    ],
+    "contested_items": [
+      "Bottle Bill"
+    ],
+    "legislative_themes": [
+      "recycling_rates",
+      "reproductive_health",
+      "exposure_pathways",
+      "production_scale",
+      "policy_effectiveness"
+    ]
+  },
+  "testimony_time_allocation": {
+    "scientists_pages": 18,
+    "scientists_percent": 31.0,
+    "policy_expert_pages": 20,
+    "policy_expert_percent": 34.5,
+    "industry_pages": 20,
+    "industry_percent": 34.5,
+    "opening_closing_pages": 9
+  },
+  "qa_engagement": {
+    "total_questions_asked": 15,
+    "questions_to_scientists": 4,
+    "questions_to_policy_expert": 7,
+    "questions_to_industry": 4,
+    "questions_by_member": {
+      "Assemblywoman Katz": 3,
+      "Senator Smith": 4,
+      "Senator Greenstein": 1,
+      "Assemblywoman Hall": 2,
+      "Assemblywoman Collazos-Gill": 2,
+      "Assemblyman Inganamort": 3
+    }
+  },
+  "communication_effectiveness": {
+    "scientific_rigor_score": 93.7,
+    "local_relevance_score": 75,
+    "policy_specificity_score": 85,
+    "engagement_score": 37.5,
+    "overall_effectiveness_score": 72.8
+  }
+}

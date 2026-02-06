@@ -1,0 +1,9 @@
+id	hearing_id	name	chamber	role	party	created_at
+1	1	"Bob Smith"	Senate	Chair	Democrat	"2026-02-06 03:49:43"
+2	1	"Linda R. Greenstein"	Senate	"Vice Chair"	Democrat	"2026-02-06 03:49:43"
+3	1	"James J. Kennedy"	Assembly	Chair	Democrat	"2026-02-06 03:49:43"
+4	1	"Shavonda E. Sumter"	Assembly	"Vice Chair"	Democrat	"2026-02-06 03:49:43"
+5	1	"Alixon Collazos-Gill"	Assembly	Member	Democrat	"2026-02-06 03:49:43"
+6	1	"Garnet R. Hall"	Assembly	Member	Democrat	"2026-02-06 03:49:43"
+7	1	"Andrea Katz"	Assembly	Member	Democrat	"2026-02-06 03:49:43"
+8	1	"Michael Inganamort"	Assembly	Member	Republican	"2026-02-06 03:49:43"
