@@ -192,15 +192,25 @@ CREATE TABLE IF NOT EXISTS claim_bill_positions (
     UNIQUE(claim_id, bill_id)
 );
 
--- Evidence: Evidence cited for claims
+-- Evidence: Evidence cited for claims with full citation details
 CREATE TABLE IF NOT EXISTS evidence (
     id INTEGER PRIMARY KEY,
     claim_id INTEGER NOT NULL REFERENCES claims(id),
     evidence_text TEXT NOT NULL,           -- description of evidence cited
     evidence_type TEXT,                    -- peer-reviewed, government-data, institutional, anecdotal
     quality_tier INTEGER,                  -- 1=peer-reviewed, 2=govt/institutional, 3=single-study, 4=anecdotal
-    source_citation TEXT,                  -- if a specific study was named
-    is_nj_specific INTEGER DEFAULT 0       -- NJ-specific data (more persuasive)
+    source_citation TEXT,                  -- brief citation reference
+    is_nj_specific INTEGER DEFAULT 0,      -- NJ-specific data (more persuasive)
+    -- Full citation details
+    authors TEXT,                          -- Author list (Last F, Last F, et al.)
+    title TEXT,                            -- Publication/report title
+    journal TEXT,                          -- Journal or publication name
+    publication_date TEXT,                 -- YYYY-MM-DD or YYYY
+    volume TEXT,                           -- Volume(issue)
+    pages TEXT,                            -- Page range
+    doi TEXT,                              -- Digital Object Identifier
+    url TEXT,                              -- Direct URL to source
+    accessed_date TEXT                     -- When source was accessed
 );
 
 -- ============================================================

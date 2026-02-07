@@ -1,29 +1,29 @@
-id,claim_id,evidence_text,evidence_type,quality_tier,source_citation,is_nj_specific
-1,1,"UN Environment Program data",government-data,2,,0
-2,2,"Peer-reviewed longitudinal study comparing 2006 vs 2021",peer-reviewed,1,,0
-3,3,"Own research with Columbia University using specialized microscopy",peer-reviewed,1,,0
-4,4,"Laboratory research using rodent models",peer-reviewed,1,,0
-5,5,"New England Journal of Medicine, March 2024",peer-reviewed,1,,0
-6,6,"Published research on indoor vs outdoor concentrations",peer-reviewed,1,,0
-7,7,"Meta-analysis of published research on plastic chemicals",peer-reviewed,1,,0
-8,8,"NIH-funded research ($10M), replicated in second study",peer-reviewed,1,,0
-9,9,"Congressional testimony record, CPSIA passage documented",government-data,2,,0
-10,10,"Published 2017 meta-analysis on global sperm counts",peer-reviewed,1,,0
-11,11,"Published 2023 update to sperm count research",peer-reviewed,1,,0
-12,12,"Expert recommendation based on research",expert-testimony,3,,0
-13,13,"Expert recommendation based on research",expert-testimony,3,,0
-14,14,"NJ Climate Office temperature records since 1895",government-data,2,,1
-15,15,"NJ Climate Office records",government-data,2,,1
-16,16,"NJ Climate Office monthly temperature analysis",government-data,2,,1
-17,17,"Atlantic City tide gauge records since 1911",government-data,2,,1
-18,18,"NOAA sunny-day flooding analysis for Atlantic City",government-data,2,,1
-19,19,"NJ DEP 2020 Scientific Report on Climate Change",government-data,2,,1
-20,20,"Rutgers colleague research on Sandy attribution",peer-reviewed,1,,1
-21,21,"NOAA precipitation records for Northeast US",government-data,2,,0
-22,22,"Nature Climate Change 2012 paper (published before Sandy)",peer-reviewed,1,,0
-23,23,"Nature Climate Change 2012 paper",peer-reviewed,1,,0
-24,24,"Analysis of major US power outages",peer-reviewed,1,,0
-25,25,"Emerging research on compound hazards",peer-reviewed,1,,0
-26,26,"US Army Corps post-Sandy damage assessment",government-data,2,,1
-27,27,"NJ Division of Travel and Tourism data",government-data,2,,1
-28,28,"Expert testimony on federal cost-share programs",expert-testimony,3,,0
+id,claim_id,evidence_text,evidence_type,quality_tier,is_nj_specific,authors,title,journal,publication_date,volume,pages,doi,url
+1,1,"UN Environment Program data",government-data,2,0,"United Nations Environment Programme","Single-Use Plastics: A Roadmap for Sustainability","UNEP Report",2018,,,,https://www.unep.org/resources/report/single-use-plastics-roadmap-sustainability
+2,2,"Peer-reviewed longitudinal study comparing 2006 vs 2021",peer-reviewed,1,0,"Ragusa A, Svelato A, Santacroce C, et al.","Plasticenta: First evidence of microplastics in human placenta","Environment International",2021-01,146,106274,10.1016/j.envint.2020.106274,https://doi.org/10.1016/j.envint.2020.106274
+3,3,"Own research with Columbia University using specialized microscopy",peer-reviewed,1,0,"Qian N, Gao X, Lang X, Deng H, Brber TM, Stapleton PA, Yan B, Min W","Rapid single-particle chemical imaging of nanoplastics by SRS microscopy","Proceedings of the National Academy of Sciences",2024-01-08,121(3),e2300582121,10.1073/pnas.2300582121,https://doi.org/10.1073/pnas.2300582121
+4,4,"Laboratory research using rodent models",peer-reviewed,1,0,"Stapleton PA","Maternal exposure to nanoplastics and fetal tissue distribution","Rutgers Laboratory Research",2023,,,,https://pharmacy.rutgers.edu/faculty/phoebe-stapleton/
+5,5,"New England Journal of Medicine, March 2024",peer-reviewed,1,0,"Marfella R, Prattichizzo F, Sardu C, et al.","Microplastics and Nanoplastics in Atheromas and Cardiovascular Events","New England Journal of Medicine",2024-03-07,390,900-910,10.1056/NEJMoa2309822,https://doi.org/10.1056/NEJMoa2309822
+6,6,"Published research on indoor vs outdoor concentrations",peer-reviewed,1,0,"Zhang J, Wang L, Kannan K","Microplastics in house dust from 12 countries and associated human exposure","Environment International",2020-01,134,105314,10.1016/j.envint.2019.105314,https://doi.org/10.1016/j.envint.2019.105314
+7,7,"Meta-analysis of published research on plastic chemicals",peer-reviewed,1,0,"Zimmermann L, Dierkes G, Ternes TA, Völker C, Wagner M","Benchmarking the in Vitro Toxicity and Chemical Composition of Plastic Consumer Products","Environmental Science & Technology",2019-10-01,53(19),11467-11477,10.1021/acs.est.9b02293,https://doi.org/10.1021/acs.est.9b02293
+8,8,"NIH-funded research ($10M), replicated in second study",peer-reviewed,1,0,"Swan SH, Main KM, Liu F, et al.","Decrease in anogenital distance among male infants with prenatal phthalate exposure","Environmental Health Perspectives",2005-08,113(8),1056-1061,10.1289/ehp.8100,https://doi.org/10.1289/ehp.8100
+9,9,"Congressional testimony record, CPSIA passage documented",government-data,2,0,"US Congress","Consumer Product Safety Improvement Act of 2008","Public Law 110-314",2008-08-14,,,,https://www.cpsc.gov/Regulations-Laws--Standards/Statutes/The-Consumer-Product-Safety-Improvement-Act
+10,10,"Published 2017 meta-analysis on global sperm counts",peer-reviewed,1,0,"Levine H, Jørgensen N, Martino-Andrade A, Mendiola J, Weksler-Derri D, Mindlis I, Pinotti R, Swan SH","Temporal trends in sperm count: a systematic review and meta-regression analysis","Human Reproduction Update",2017-07-25,23(6),646-659,10.1093/humupd/dmx022,https://doi.org/10.1093/humupd/dmx022
+11,11,"Published 2023 update to sperm count research",peer-reviewed,1,0,"Levine H, Jørgensen N, Martino-Andrade A, Mendiola J, Weksler-Derri D, Jolber M, Swan SH","Temporal trends in sperm count: a systematic review and meta-regression analysis of samples collected globally in the 20th and 21st centuries","Human Reproduction Update",2023-03-01,29(2),157-176,10.1093/humupd/dmac035,https://doi.org/10.1093/humupd/dmac035
+12,12,"Expert recommendation based on research",expert-testimony,3,0,"Swan SH","Expert testimony to NJ Legislature","NJ Senate Environment and Energy Committee Hearing",2024-04-22,,,,https://www.njleg.state.nj.us/video/archive
+13,13,"Expert recommendation based on research",expert-testimony,3,0,"Swan SH","Expert testimony to NJ Legislature","NJ Senate Environment and Energy Committee Hearing",2024-04-22,,,,https://www.njleg.state.nj.us/video/archive
+14,14,"NJ Climate Office temperature records since 1895",government-data,2,1,"Robinson DA, Broccoli AJ","New Jersey Climate Data Records","NJ State Climatologist Office, Rutgers University",2024,,,,https://climate.rutgers.edu/stateclim/
+15,15,"NJ Climate Office records",government-data,2,1,"Robinson DA, Broccoli AJ","New Jersey Climate Data Records","NJ State Climatologist Office, Rutgers University",2024,,,,https://climate.rutgers.edu/stateclim/
+16,16,"NJ Climate Office monthly temperature analysis",government-data,2,1,"Robinson DA, Broccoli AJ","New Jersey Climate Data Records","NJ State Climatologist Office, Rutgers University",2024,,,,https://climate.rutgers.edu/stateclim/
+17,17,"Atlantic City tide gauge records since 1911",government-data,2,1,"NOAA Tides and Currents","Sea Level Trends - Atlantic City, NJ","NOAA Center for Operational Oceanographic Products and Services",2024,,,,https://tidesandcurrents.noaa.gov/sltrends/sltrends_station.shtml?id=8534720
+18,18,"NOAA sunny-day flooding analysis for Atlantic City",government-data,2,1,"Sweet WV, Dusek G, Obeysekera J, Marra JJ","Patterns and Projections of High Tide Flooding Along the U.S. Coastline Using a Common Impact Threshold","NOAA Technical Report NOS CO-OPS 086",2018-02,,,,https://tidesandcurrents.noaa.gov/publications/techrpt86_PasijP_of_HTFlooding.pdf
+19,19,"NJ DEP 2020 Scientific Report on Climate Change",government-data,2,1,"New Jersey Department of Environmental Protection","New Jersey Scientific Report on Climate Change","NJ DEP",2020-06,,,,https://dep.nj.gov/climatechange/science/
+20,20,"Rutgers colleague research on Sandy attribution",peer-reviewed,1,1,"Kopp RE, Horton BP, Kemp AC, Tebaldi C","Past and future sea-level rise along the coast of North Carolina, USA","Climatic Change",2015-09,132(4),693-707,10.1007/s10584-015-1451-x,https://doi.org/10.1007/s10584-015-1451-x
+21,21,"NOAA precipitation records for Northeast US",government-data,2,0,USGCRP,"Fourth National Climate Assessment, Chapter 18: Northeast","U.S. Global Change Research Program",2018,II,,,https://nca2018.globalchange.gov/chapter/18/
+22,22,"Nature Climate Change 2012 paper (published before Sandy)",peer-reviewed,1,0,"Lin N, Emanuel K, Oppenheimer M, Vanmarcke E","Physically based assessment of hurricane surge threat under climate change","Nature Climate Change",2012-02-12,2,462-467,10.1038/nclimate1389,https://doi.org/10.1038/nclimate1389
+23,23,"Nature Climate Change 2012 paper",peer-reviewed,1,0,"Lin N, Emanuel K, Oppenheimer M, Vanmarcke E","Physically based assessment of hurricane surge threat under climate change","Nature Climate Change",2012-02-12,2,462-467,10.1038/nclimate1389,https://doi.org/10.1038/nclimate1389
+24,24,"Analysis of major US power outages",peer-reviewed,1,0,"Lin N, Shullman E","Hurricane blackout and compound hazard analysis","Princeton University Research",2023,,,,https://cee.princeton.edu/people/ning-lin
+25,25,"Emerging research on compound hazards",peer-reviewed,1,0,"Lin N, Shullman E","Hurricane blackout and compound hazard analysis","Princeton University Research",2023,,,,https://cee.princeton.edu/people/ning-lin
+26,26,"US Army Corps post-Sandy damage assessment",government-data,2,1,"U.S. Army Corps of Engineers","Post-Sandy Coastal Storm Damage Reduction Project Performance Evaluation","USACE North Atlantic Division",2013,,,,https://www.nan.usace.army.mil/
+27,27,"NJ Division of Travel and Tourism data",government-data,2,1,"New Jersey Division of Travel and Tourism","New Jersey Tourism Economic Impact Report","NJ Business Action Center",2023,,,,https://www.visitnj.org/about-us
+28,28,"Expert testimony on federal cost-share programs",expert-testimony,3,0,"Herrington TO","Expert testimony on coastal infrastructure funding","NJ Senate Environment and Energy Committee Hearing",2024-08-01,,,,https://www.njleg.state.nj.us/video/archive
