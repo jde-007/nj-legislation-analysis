@@ -1,178 +1,111 @@
-# [HEARING TITLE]
+# Hearing Analysis Template v2
 
-**Date:** [YYYY-MM-DD]  
-**Committees:** [Committee names]  
-**Source:** [URL to official transcript]
+## Basic Information
 
----
+| Field | Value |
+|-------|-------|
+| Date | YYYY-MM-DD |
+| Title | |
+| Topic | |
+| Location | |
+| Source URL | |
+| Committee Notice | [Link to notice/agenda] |
 
-## Executive Summary
+## Committees & Bodies
 
-[2-3 paragraph overview of the hearing, key findings, and significance]
+### Primary Committee
+- **Name**: 
+- **Chamber**: Senate / Assembly / Joint
+- **Chair**: 
+- **Vice Chair**: 
 
-**Key Finding:** [One-sentence takeaway about effective scientific engagement from this hearing]
+### Joint Committees / Task Forces / Councils / Commissions
+| Name | Type | Role in Hearing |
+|------|------|-----------------|
+| | | |
 
----
+## Committee Members Present
 
-## Part I: Hearing Context
+| Name | Role | Party | District | Eagleton Fellow? |
+|------|------|-------|----------|------------------|
+| | Chair | | | |
+| | Member | | | |
 
-### Committees Present
-- [Committee 1]
-- [Committee 2]
+## Also Present (Staff, Observers)
 
-### Legislative Members Present
+| Name | Title/Affiliation | Role | Eagleton Fellow? |
+|------|-------------------|------|------------------|
+| | | | |
 
-| Name | Chamber | Role | Party |
-|------|---------|------|-------|
-| [Name] | Senate/Assembly | Chair/Member | D/R |
+## Bills on Agenda
 
-### Stated Purpose
+| Bill # | Title | Scheduled Action | Actual Action | Vote (Y-N-A) |
+|--------|-------|------------------|---------------|--------------|
+| | | Discussion | | |
+| | | Testimony | | |
+| | | Vote | Passed/Failed/Held | |
 
-> "[Quoted purpose from transcript header]"
+## Testimony
 
----
+### Witness 1: [Name]
+- **Title/Affiliation**: 
+- **Expertise**: 
+- **Eagleton Fellow?**: Yes/No (Year if yes)
+- **Transcript Pages**: pp. X-Y
 
-## Part II: Scientific Witnesses and Testimony
+#### Bill Positions
+| Bill # | Position | Summary |
+|--------|----------|---------|
+| | For/Against/Neutral/Mixed | |
 
-### Witness 1: [Name, Credentials]
+#### Key Claims
+1. **Claim**: 
+   - **Type**: Empirical / Causal / Predictive / Policy-Recommendation
+   - **Evidence**: 
+   - **Evidence Type**: Peer-reviewed / Government-data / Institutional / Anecdotal
+   - **Quality Tier**: 1-4
+   - **NJ-Specific?**: Yes/No
+   - **Related Bill**: 
 
-**Affiliation:** [Institution/Organization]  
-**Expertise:** [Area of expertise]
+### Witness 2: [Name]
+(Repeat structure)
 
-#### Key Scientific Claims
+## Bill Actions Taken
 
-| Claim | Evidence Type | Strength | Page Ref |
-|-------|---------------|----------|----------|
-| [Claim] | [Type] | Strong/Moderate/Weak | p. [X] |
+| Bill # | Action | Result | Notes |
+|--------|--------|--------|-------|
+| | Vote | Passed 5-2-1 | |
+| | Amendment | Adopted | |
+| | Substitution | | |
+| | Held | | |
 
-#### Direct Quotes
+## Terminology Transfers Identified
 
-> "[Verbatim quote]" (p. [X])
+| Testimony Term | Bill # | Bill Term | Section | Transfer Type | Confidence |
+|----------------|--------|-----------|---------|---------------|------------|
+| | | | | TERMINOLOGICAL_TRANSFER | High |
+| | | | | SUBSTANTIVE_ALIGNMENT | |
+| | | | | EVIDENTIARY_CONTRADICTION | |
 
-#### Legislative Engagement
+## Metrics Summary
 
-[How did legislators respond to this witness? Questions asked? Follow-up?]
+| Metric | Value |
+|--------|-------|
+| Total Witnesses | |
+| Scientist Witnesses | |
+| Eagleton Fellows Present | |
+| Total Claims | |
+| Strong Evidence % | |
+| NJ-Specific % | |
+| Terminology Transfers | |
+| Effectiveness Score | |
 
----
+## Committee Notice
 
-<!-- REPEAT WITNESS SECTION FOR EACH SCIENTIFIC WITNESS -->
-
----
-
-## Part III: Legislative Outcomes
-
-### Bills Discussed During Hearing
-
-| Bill # | Title | Status at Hearing | Current Status |
-|--------|-------|-------------------|----------------|
-| [S/A####] | [Title] | [Pending/Passed Committee] | [Enacted/Died/Pending] |
-
-### Bills Influenced by Hearing
-
-| Bill # | Title | Connection to Testimony | Status |
-|--------|-------|------------------------|--------|
-| [S/A####] | [Title] | [Which testimony/claims influenced this bill] | [Status] |
-
-### Bill Text Analysis
-
-#### [Bill Number]: [Bill Title]
-
-**Source:** [URL to full bill text]
-
-**Key Provisions:**
-1. [Provision 1]
-2. [Provision 2]
-
-**Scientific Testimony Reflected in Bill Language:**
-
-| Bill Section | Scientific Claim | Witness | Match Quality |
-|--------------|-----------------|---------|---------------|
-| Section [X] | [Claim from testimony] | [Witness name] | Direct/Partial/Inspired |
-
-**Quotes from Committee Statement:**
-
-> "[Quote from committee statement that references scientific testimony]"
-
----
-
-## Part IV: Quantitative Analysis
-
-### Evidence Quality Summary
-
-| Strength | Count | Percentage |
-|----------|-------|------------|
-| Strong | [N] | [X]% |
-| Moderate | [N] | [X]% |
-| Weak | [N] | [X]% |
-| **Total** | [N] | 100% |
-
-### Effectiveness Metrics
-
-**Overall Effectiveness Score:** [X]%
-
-| Metric | Weight | Score | Weighted |
-|--------|--------|-------|----------|
-| Scientific Rigor | 25% | [X] | [X] |
-| Local Relevance | 25% | [X] | [X] |
-| Policy Specificity | 25% | [X] | [X] |
-| Legislative Engagement | 25% | [X] | [X] |
+[Paste or attach the full committee notice/agenda here]
 
 ---
 
-## Part V: Key Findings
+## Notes
 
-### What Worked
-
-1. [Effective strategy 1]
-2. [Effective strategy 2]
-3. [Effective strategy 3]
-
-### What Could Improve
-
-1. [Gap or missed opportunity 1]
-2. [Gap or missed opportunity 2]
-
-### Lessons for Future Testimony
-
-1. [Actionable lesson 1]
-2. [Actionable lesson 2]
-
----
-
-## Part VI: Cross-Reference
-
-### Related Hearings
-
-| Date | Topic | Connection |
-|------|-------|------------|
-| [Date] | [Topic] | [How it relates] |
-
-### Scientists Who Appeared in Multiple Hearings
-
-| Scientist | This Hearing | Other Hearings |
-|-----------|--------------|----------------|
-| [Name] | [Topic] | [Other appearances] |
-
----
-
-## Appendix A: Full Witness List
-
-| Order | Name | Title/Affiliation | Type |
-|-------|------|-------------------|------|
-| 1 | [Name] | [Title] | Scientific/Industry/Advocacy/Government |
-
-## Appendix B: All Bills Referenced
-
-| Bill # | Title | Primary Sponsor | Status | URL |
-|--------|-------|-----------------|--------|-----|
-| [S/A####] | [Title] | [Sponsor] | [Status] | [URL] |
-
-## Appendix C: Methodology Notes
-
-[Any notes about how this analysis was conducted, data sources, limitations]
-
----
-
-*Analysis completed: [DATE]*  
-*Analyst: Johnny D Eggplant (AI research assistant)*  
-*Framework version: 1.0*
+- 
