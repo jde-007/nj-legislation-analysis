@@ -232,7 +232,74 @@ Aggregate across all committees for a legislative session:
 
 ---
 
-## Part 7: Eagleton Impact Metrics
+## Part 7: The Core Analysis — Fellow Impact on Evidence Quality
+
+### The Central Question
+
+> For each hearing over time, how much scientific evidence was presented? How did this evidence impact bills? If there was a Science Fellow involved, how does that change the amount or quality of evidence?
+
+### Comparative Analysis Design
+
+We measure Fellow impact by comparing outcomes **with** vs **without** Fellow involvement.
+
+#### Comparison Groups
+
+| Group A (With Fellow) | Group B (Without Fellow) |
+|----------------------|--------------------------|
+| Hearings where Fellow testified | Hearings with no Fellow testimony |
+| Hearings where Fellow on committee staff | Hearings without Fellow staff |
+| Bills with Fellow involvement in drafting | Bills with no Fellow involvement |
+| Committees with Fellow placement | Committees without Fellow placement |
+
+#### Metrics to Compare
+
+| Metric | Group A (With) | Group B (Without) | Δ (Difference) |
+|--------|---------------|-------------------|----------------|
+| Avg claims per hearing | ? | ? | ? |
+| % Tier 1-2 evidence | ? | ? | ? |
+| Avg EBLS of related bills | ? | ? | ? |
+| Contradiction rate | ? | ? | ? |
+| Terminology transfer count | ? | ? | ? |
+| NJ-specific evidence % | ? | ? | ? |
+
+### Time Series Analysis
+
+Track metrics **over time** to identify:
+1. **Trends**: Is evidence quality improving?
+2. **Inflection points**: Do Fellow placements correlate with quality improvements?
+3. **Committee differences**: Which committees show most Fellow impact?
+
+#### Visualization Plan
+
+```
+Evidence Quality Over Time
+Y-axis: Average Evidence Tier (1-4)
+X-axis: Year (2015-2026)
+Series: 
+  - All hearings (baseline)
+  - Hearings with Fellow involvement
+  - Hearings without Fellow involvement
+```
+
+```
+Fellow Impact by Committee
+Y-axis: EBLS Score (0-100)
+X-axis: Committee
+Bars:
+  - Bills with Fellow involvement (blue)
+  - Bills without Fellow involvement (gray)
+```
+
+### Causation Considerations
+
+Correlation ≠ causation. Fellows might be placed where evidence culture already exists. To strengthen causal claims:
+
+1. **Before/After**: Compare same committee before and after Fellow placement
+2. **Matched Pairs**: Compare similar hearings differing only in Fellow presence
+3. **Dose-Response**: Do more Fellow interactions = better scores?
+4. **Mechanism Tracing**: Document specific terminology transfers from Fellow testimony
+
+## Part 8: Eagleton Impact Metrics
 
 ### Fellow-Specific Metrics
 

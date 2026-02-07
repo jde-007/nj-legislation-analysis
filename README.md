@@ -6,6 +6,37 @@
 
 This project analyzes how scientific testimony—particularly from Eagleton Science Fellows—influences legislative outcomes. We define, measure, and quantify what it means for legislation to be "evidence-based" and track the degree to which NJ legislative activity incorporates scientific evidence.
 
+## The Big Question
+
+> **For each hearing over time, how much scientific evidence was presented to legislators and committee members? How did this evidence impact the bills that the hearings influenced? If there was a Science Fellow as part of the committee, how does that impact the amount or quality of scientific evidence being presented?**
+
+We want to surface whether legislation was impacted by evidence-based input from Science Fellows.
+
+### Unpacking the Question
+
+| Question | What We Measure | How |
+|----------|-----------------|-----|
+| How much evidence per hearing? | Claims count, evidence tier distribution, scientist witnesses | Per-hearing metrics |
+| How did evidence impact bills? | Terminology transfer, EBLS scores, alignment with testimony | Bill-hearing cross-reference |
+| Does Fellow presence change evidence quality? | Compare hearings/bills WITH vs WITHOUT Fellow involvement | Comparative analysis |
+
+### Key Comparisons
+
+1. **Hearings WITH Science Fellow** vs **Hearings WITHOUT**
+   - Average # of scientific claims
+   - Evidence quality distribution (% Tier 1-2)
+   - Subsequent bill EBLS scores
+
+2. **Bills influenced by Fellow testimony** vs **Bills without Fellow involvement**
+   - Evidence-Based Legislation Score
+   - Contradiction rate
+   - Terminology transfer from testimony
+
+3. **Committees WITH Fellow staff** vs **Committees WITHOUT**
+   - Volume of scientist testimony invited
+   - Bill passage rates for evidence-aligned legislation
+   - Evidence quality trends over time
+
 ## Research Questions
 
 1. **What makes legislation "evidence-based"?**
