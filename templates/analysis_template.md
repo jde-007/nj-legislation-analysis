@@ -58,14 +58,27 @@
 |--------|----------|---------|
 | | For/Against/Neutral/Mixed | |
 
-#### Key Claims
+#### Scientific Claims
+
+| Claim | Type | Bill(s) | Position | Evidence | Tier |
+|-------|------|---------|----------|----------|------|
+| [Claim text] | Empirical | A4367 | For | Peer-reviewed study | 1 |
+| [Claim text] | Causal | S1481 | Neutral | EPA data | 2 |
+
+**Claim Types**: Empirical, Causal, Predictive, Policy-Recommendation
+**Positions**: For (supports bill), Against (opposes bill), Neutral (informational)
+**Evidence Tiers**: 1=Peer-reviewed, 2=Govt/Institutional, 3=Expert opinion, 4=Anecdotal
+
+##### Detailed Claims
+
 1. **Claim**: 
    - **Type**: Empirical / Causal / Predictive / Policy-Recommendation
+   - **Bill(s) Referenced**: [Bill number(s)]
+   - **Position on Bill**: For / Against / Neutral
    - **Evidence**: 
    - **Evidence Type**: Peer-reviewed / Government-data / Institutional / Anecdotal
    - **Quality Tier**: 1-4
-   - **NJ-Specific?**: Yes/No
-   - **Related Bill**: 
+   - **NJ-Specific?**: Yes/No 
 
 ### Witness 2: [Name]
 (Repeat structure)

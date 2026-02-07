@@ -1,0 +1,4 @@
+bill_number,title,claims_for,claims_against,claims_neutral,total_claims,avg_evidence_tier,scientists
+A2104,"Flood Mitigation",9,0,0,9,1.5,"Dr. Anthony Broccoli,Dr. Ning Lin,Dr. Thomas Herrington"
+A4367,"Toxic Packaging Reduction Act",4,0,0,4,1.5,"Dr. Shanna Swan"
+A1481,"Microplastics in Drinking Water",0,0,3,3,1.0,"Dr. Phoebe Stapleton"

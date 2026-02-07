@@ -178,8 +178,18 @@ CREATE TABLE IF NOT EXISTS claims (
     claim_text TEXT NOT NULL,              -- the actual claim
     claim_type TEXT,                       -- empirical, causal, predictive, policy-recommendation
     topic_tags TEXT,                       -- comma-separated: "microplastics,health,water"
-    page_reference INTEGER,                -- transcript page
-    related_bill_id INTEGER REFERENCES bills(id)  -- if claim specifically relates to a bill
+    page_reference INTEGER                 -- transcript page
+);
+
+-- Claim-Bill Positions: Which bill(s) each claim was presented regarding
+-- and whether the claim supports, opposes, or is neutral to the bill
+CREATE TABLE IF NOT EXISTS claim_bill_positions (
+    id INTEGER PRIMARY KEY,
+    claim_id INTEGER NOT NULL REFERENCES claims(id),
+    bill_id INTEGER NOT NULL REFERENCES bills(id),
+    position TEXT NOT NULL,                -- for, against, neutral
+    position_notes TEXT,                   -- explanation of how claim relates to bill
+    UNIQUE(claim_id, bill_id)
 );
 
 -- Evidence: Evidence cited for claims
