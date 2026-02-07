@@ -1,8 +1,23 @@
-# Evidence-Based Legislation Framework
+# Science-Based Legislation Framework
+
+## Scope: Scientific Evidence Only
+
+> **Throughout this framework, "evidence" refers exclusively to SCIENTIFIC EVIDENCE:**
+> - Peer-reviewed research publications
+> - Empirical studies and data
+> - Government scientific data and agency research
+> - Expert testimony from credentialed scientists (PhD, MD, etc.)
+>
+> **We explicitly exclude:**
+> - Legal arguments or precedents
+> - Political positions or party platforms
+> - Industry-funded claims without peer review
+> - Anecdotal accounts or personal testimony
+> - Advocacy group assertions without scientific backing
 
 ## Purpose
 
-This framework provides **definitions and quantification methods** for measuring how "evidence-based" a piece of legislation is. It enables:
+This framework provides **definitions and quantification methods** for measuring how grounded in scientific evidence a piece of legislation is. It enables:
 
 1. Objective comparison across bills
 2. Tracking improvement over time
@@ -33,17 +48,27 @@ This framework provides **definitions and quantification methods** for measuring
 
 ---
 
-## Part 2: Evidence Quality Tiers
+## Part 2: Scientific Evidence Quality Tiers
 
 ### Tier Definitions
 
 | Tier | Name | Definition | Examples |
 |------|------|------------|----------|
-| **1** | Peer-Reviewed Research | Published in peer-reviewed journals, ideally replicated | "A 2023 meta-analysis in The Lancet found..." |
-| **2** | Government/Institutional Data | Official statistics, agency reports, institutional research | "EPA data shows...", "NJ DEP monitoring indicates..." |
-| **3** | Expert Testimony | Professional opinion from qualified experts, without specific citation | "Dr. Smith, a toxicologist at Rutgers, testified that..." |
-| **4** | Anecdotal/Unattributed | Personal experience, "research shows" without citation | "Residents have reported...", "Studies indicate..." |
-| **0** | No Evidence | Assertions without any supporting evidence | "This bill will reduce pollution" (no data cited) |
+| **1** | Peer-Reviewed Research | Published in peer-reviewed scientific journals, ideally replicated | "A 2023 meta-analysis in The Lancet found..." |
+| **2** | Government Scientific Data | Official scientific data, agency research reports, institutional studies | "EPA monitoring data shows...", "NJ DEP scientific assessment indicates..." |
+| **3** | Expert Scientific Testimony | Professional scientific opinion from PhD/MD-level experts, without specific citation | "Dr. Smith, a toxicologist at Rutgers, testified that..." |
+| **4** | Unattributed Scientific Claims | "Research shows" without citation, vague references to studies | "Studies indicate...", "Scientists have found..." |
+| **0** | No Scientific Evidence | Assertions without any scientific support | "This bill will reduce pollution" (no scientific data cited) |
+
+### What Does NOT Count as Scientific Evidence
+
+| Type | Example | Why Excluded |
+|------|---------|--------------|
+| Legal precedent | "The Supreme Court ruled..." | Legal, not scientific |
+| Political position | "Our party believes..." | Political, not empirical |
+| Industry claims | "Manufacturers report..." | Commercial interest, not peer-reviewed |
+| Anecdotal | "My constituent experienced..." | Personal, not systematic |
+| Advocacy assertion | "Environmental groups say..." | Advocacy, not research |
 
 ### Scoring
 
@@ -55,11 +80,11 @@ This framework provides **definitions and quantification methods** for measuring
 
 ---
 
-## Part 3: Evidence-Based Legislation Score (EBLS)
+## Part 3: Science-Based Legislation Score (SBLS)
 
 ### Overview
 
-The **Evidence-Based Legislation Score (EBLS)** is a composite metric from 0-100 that quantifies how evidence-based a piece of legislation is.
+The **Science-Based Legislation Score (SBLS)** is a composite metric from 0-100 that quantifies how grounded in scientific evidence a piece of legislation is.
 
 ### Components
 
@@ -74,7 +99,7 @@ The **Evidence-Based Legislation Score (EBLS)** is a composite metric from 0-100
 ### Calculation
 
 ```
-EBLS = (EQ × 0.40) + (SD × 0.20) + (SE × 0.20) + (NJS × 0.10) + (CA × 0.10)
+SBLS = (EQ × 0.40) + (SD × 0.20) + (SE × 0.20) + (NJS × 0.10) + (CA × 0.10)
 ```
 
 Each component is normalized to 0-100 before weighting.
@@ -175,7 +200,7 @@ CA = 100 - (Number of contradictions × 20)
 
 ## Part 5: Classifying Bills
 
-### EBLS Ranges
+### SBLS Ranges
 
 | Score | Classification | Description |
 |-------|---------------|-------------|
@@ -215,7 +240,7 @@ Aggregate across all hearings for a committee:
 
 | Metric | Definition |
 |--------|------------|
-| Average EBLS of Bills Passed | Mean score of bills voted out |
+| Average SBLS of Bills Passed | Mean score of bills voted out |
 | Scientist Testimony Volume | Total scientist witnesses per session |
 | Evidence Improvement Trend | Change in average evidence quality over time |
 | Eagleton Fellow Engagement | Total Fellow appearances |
@@ -226,7 +251,7 @@ Aggregate across all committees for a legislative session:
 
 | Metric | Definition |
 |--------|------------|
-| Evidence-Based Legislation Rate | % of bills with EBLS ≥ 60 |
+| Evidence-Based Legislation Rate | % of bills with SBLS ≥ 60 |
 | Scientific Contradiction Rate | % of bills contradicting expert testimony |
 | Eagleton Impact Score | Composite of Fellow influence metrics |
 
@@ -257,7 +282,7 @@ We measure Fellow impact by comparing outcomes **with** vs **without** Fellow in
 |--------|---------------|-------------------|----------------|
 | Avg claims per hearing | ? | ? | ? |
 | % Tier 1-2 evidence | ? | ? | ? |
-| Avg EBLS of related bills | ? | ? | ? |
+| Avg SBLS of related bills | ? | ? | ? |
 | Contradiction rate | ? | ? | ? |
 | Terminology transfer count | ? | ? | ? |
 | NJ-specific evidence % | ? | ? | ? |
@@ -283,7 +308,7 @@ Series:
 
 ```
 Fellow Impact by Committee
-Y-axis: EBLS Score (0-100)
+Y-axis: SBLS Score (0-100)
 X-axis: Committee
 Bars:
   - Bills with Fellow involvement (blue)
@@ -320,7 +345,7 @@ For each Eagleton Science Fellow:
 |--------|------------|
 | Fellow Coverage | % of environment/health/energy hearings with Fellow present |
 | Influence Reach | # of bills with traceable Fellow impact |
-| Evidence Uplift | EBLS difference: bills with Fellow involvement vs. without |
+| Evidence Uplift | SBLS difference: bills with Fellow involvement vs. without |
 | Placement Effectiveness | Impact metrics by placement type (legislative vs. executive) |
 
 ---
@@ -354,7 +379,7 @@ For each Eagleton Science Fellow:
 ### What This Framework Cannot Measure
 
 1. **Legislative intent**: We measure evidence cited, not whether legislators believed it
-2. **Political feasibility**: High-EBLS bills may still fail for political reasons
+2. **Political feasibility**: High-SBLS bills may still fail for political reasons
 3. **Implementation quality**: Evidence-based legislation may be poorly implemented
 4. **Completeness**: We can only analyze publicly available documents
 5. **Causation**: Correlation between Fellow presence and bill quality ≠ causation

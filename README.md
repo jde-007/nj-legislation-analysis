@@ -2,9 +2,11 @@
 
 ## Mission
 
-**Demonstrate the impact of the Eagleton Science Fellowship on evidence-based policy making in New Jersey.**
+**Demonstrate the impact of the Eagleton Science Fellowship on science-based policy making in New Jersey.**
 
-This project analyzes how scientific testimony—particularly from Eagleton Science Fellows—influences legislative outcomes. We define, measure, and quantify what it means for legislation to be "evidence-based" and track the degree to which NJ legislative activity incorporates scientific evidence.
+This project analyzes how **scientific evidence**—particularly from Eagleton Science Fellows—influences legislative outcomes. We define, measure, and quantify what it means for legislation to be grounded in scientific evidence and track the degree to which NJ legislative activity incorporates peer-reviewed research, empirical data, and expert scientific testimony.
+
+> **Note:** Throughout this project, "evidence" refers exclusively to **scientific evidence**: peer-reviewed research, empirical studies, government scientific data, and expert testimony from credentialed scientists. We do not include legal arguments, political positions, industry claims, or anecdotal accounts in our evidence metrics.
 
 ## The Big Question
 
@@ -17,7 +19,7 @@ We want to surface whether legislation was impacted by evidence-based input from
 | Question | What We Measure | How |
 |----------|-----------------|-----|
 | How much evidence per hearing? | Claims count, evidence tier distribution, scientist witnesses | Per-hearing metrics |
-| How did evidence impact bills? | Terminology transfer, EBLS scores, alignment with testimony | Bill-hearing cross-reference |
+| How did evidence impact bills? | Terminology transfer, SBLS scores, alignment with testimony | Bill-hearing cross-reference |
 | Does Fellow presence change evidence quality? | Compare hearings/bills WITH vs WITHOUT Fellow involvement | Comparative analysis |
 
 ### Key Comparisons
@@ -25,7 +27,7 @@ We want to surface whether legislation was impacted by evidence-based input from
 1. **Hearings WITH Science Fellow** vs **Hearings WITHOUT**
    - Average # of scientific claims
    - Evidence quality distribution (% Tier 1-2)
-   - Subsequent bill EBLS scores
+   - Subsequent bill SBLS scores
 
 2. **Bills influenced by Fellow testimony** vs **Bills without Fellow involvement**
    - Evidence-Based Legislation Score
@@ -77,7 +79,7 @@ See [framework/EVIDENCE-BASED-FRAMEWORK.md](framework/EVIDENCE-BASED-FRAMEWORK.m
 | 4 | Anecdotal/Unattributed | "Studies show...", personal experience | 1 |
 | 0 | No evidence | Assertion without support | 0 |
 
-### Evidence-Based Legislation Score (EBLS)
+### Evidence-Based Legislation Score (SBLS)
 
 A composite metric (0-100) measuring:
 - **Evidence Quality** (40%): Average tier of evidence cited
@@ -117,7 +119,7 @@ legislation/
 - Terminology transfers to subsequent legislation
 
 ### Per Bill
-- Evidence-Based Legislation Score (EBLS)
+- Evidence-Based Legislation Score (SBLS)
 - Source quality of claims in bill statement
 - Alignment with expert testimony
 - Contradictions with scientific evidence
@@ -132,7 +134,7 @@ legislation/
 ## Current Status
 
 ### Analyzed Hearings
-| Date | Topic | Scientists | EBLS | Eagleton Fellows |
+| Date | Topic | Scientists | SBLS | Eagleton Fellows |
 |------|-------|------------|------|------------------|
 | 2024-04-22 | Plastic Pollution | 3 | 72.8 | TBD |
 | 2024-08-01 | Climate Resiliency | 4 | 78.5 | TBD |
