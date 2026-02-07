@@ -1,11 +1,29 @@
 id,claim_id,evidence_text,evidence_type,quality_tier,source_citation,is_nj_specific
-1,1,"Peer-reviewed laboratory studies on nanoplastic tissue penetration",peer-reviewed,1,,0
-2,2,"Published studies detecting nanoplastics in human placental samples",peer-reviewed,1,,0
-3,4,"Multiple peer-reviewed studies on phthalate endocrine disruption",peer-reviewed,1,,0
-4,5,"CDC biomonitoring data showing reduced phthalate levels post-CPSIA",government-data,2,,0
-5,8,"NJ Climate Office temperature records since 1900",government-data,2,,1
-6,10,"IPCC attribution studies",peer-reviewed,1,,0
-7,11,"Princeton storm surge modeling research",peer-reviewed,1,,0
-8,12,"Published hurricane frequency projections under warming scenarios",peer-reviewed,1,,0
-9,15,"USACE post-Sandy damage assessment",government-data,2,,1
-10,15,"FEMA claims data for NJ shore communities",government-data,2,,1
+1,1,"UN Environment Program data",government-data,2,,0
+2,2,"Peer-reviewed longitudinal study comparing 2006 vs 2021",peer-reviewed,1,,0
+3,3,"Own research with Columbia University using specialized microscopy",peer-reviewed,1,,0
+4,4,"Laboratory research using rodent models",peer-reviewed,1,,0
+5,5,"New England Journal of Medicine, March 2024",peer-reviewed,1,,0
+6,6,"Published research on indoor vs outdoor concentrations",peer-reviewed,1,,0
+7,7,"Meta-analysis of published research on plastic chemicals",peer-reviewed,1,,0
+8,8,"NIH-funded research ($10M), replicated in second study",peer-reviewed,1,,0
+9,9,"Congressional testimony record, CPSIA passage documented",government-data,2,,0
+10,10,"Published 2017 meta-analysis on global sperm counts",peer-reviewed,1,,0
+11,11,"Published 2023 update to sperm count research",peer-reviewed,1,,0
+12,12,"Expert recommendation based on research",expert-testimony,3,,0
+13,13,"Expert recommendation based on research",expert-testimony,3,,0
+14,14,"NJ Climate Office temperature records since 1895",government-data,2,,1
+15,15,"NJ Climate Office records",government-data,2,,1
+16,16,"NJ Climate Office monthly temperature analysis",government-data,2,,1
+17,17,"Atlantic City tide gauge records since 1911",government-data,2,,1
+18,18,"NOAA sunny-day flooding analysis for Atlantic City",government-data,2,,1
+19,19,"NJ DEP 2020 Scientific Report on Climate Change",government-data,2,,1
+20,20,"Rutgers colleague research on Sandy attribution",peer-reviewed,1,,1
+21,21,"NOAA precipitation records for Northeast US",government-data,2,,0
+22,22,"Nature Climate Change 2012 paper (published before Sandy)",peer-reviewed,1,,0
+23,23,"Nature Climate Change 2012 paper",peer-reviewed,1,,0
+24,24,"Analysis of major US power outages",peer-reviewed,1,,0
+25,25,"Emerging research on compound hazards",peer-reviewed,1,,0
+26,26,"US Army Corps post-Sandy damage assessment",government-data,2,,1
+27,27,"NJ Division of Travel and Tourism data",government-data,2,,1
+28,28,"Expert testimony on federal cost-share programs",expert-testimony,3,,0

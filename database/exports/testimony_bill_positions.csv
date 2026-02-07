@@ -1,0 +1,7 @@
+id,testimony_id,bill_id,position,position_summary
+1,101,4,neutral,"Provided scientific background on microplastics, no explicit position"
+2,102,1,for,"Explicitly supports banning phthalates and bisphenols in packaging"
+3,103,5,for,"Data supports need for flood mitigation measures"
+4,103,7,for,"Climate projections support updated hazard planning"
+5,104,5,for,"Storm surge modeling supports flood mitigation"
+6,105,5,for,"Beach nourishment cost-effectiveness supports flood mitigation"
