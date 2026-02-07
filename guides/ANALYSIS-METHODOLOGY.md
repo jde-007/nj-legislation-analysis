@@ -77,7 +77,28 @@ Extract from transcript table of contents or opening remarks:
 | Page Start | 52 |
 | Written Testimony | Yes/No |
 
-### 2.2 Extract Scientific Claims
+### 2.2 Document Testimony Bill Positions
+
+For each witness, identify which bills they addressed and their position:
+
+| Bill # | Position | Summary |
+|--------|----------|---------|
+| A4367 | For | Strongly supports banning phthalates in packaging |
+| S1481 | Neutral | Provided technical information only |
+| A5338 | Against | Opposes repealing bag ban, cited evidence it works |
+
+**Position Types:**
+- **For:** Explicitly supports the bill
+- **Against:** Explicitly opposes the bill
+- **Neutral:** Provides information without taking position
+- **Mixed:** Supports some provisions, opposes others
+
+**Capture explicit statements:**
+> "I urge this committee to pass A4367" → **For**
+> "This bill would be a mistake" → **Against**
+> "I'm here to provide scientific context" → **Neutral**
+
+### 2.3 Extract Scientific Claims
 
 For each witness, identify factual claims with:
 
@@ -127,14 +148,80 @@ SPECIFICITY: [General | Specific bill reference | Regulatory action]
 PAGE: [Transcript page]
 ```
 
-### 2.5 Document Committee Member Presence
+### 2.5 Document Committee Structure
 
-List all legislators present with:
-- Name
-- Chamber (Senate/Assembly)
-- Party
-- Role (Chair, Vice Chair, Member)
-- Questions asked (with page references)
+#### Primary Committee
+| Field | Example |
+|-------|---------|
+| Name | Senate Environment and Energy Committee |
+| Chamber | Senate / Assembly / Joint |
+| Type | Standing / Joint / Taskforce / Council / Commission |
+| Chair | Sen. Bob Smith |
+| Vice Chair | Sen. Linda Greenstein |
+
+#### Joint Committees, Taskforces, Councils, Commissions
+If multiple bodies are involved, document each:
+
+| Body Name | Type | Role in Hearing |
+|-----------|------|-----------------|
+| NJ Climate Change Resource Center | Council | Co-host |
+| Coastal Resilience Task Force | Taskforce | Presenting findings |
+
+### 2.6 Document All People Present
+
+#### Committee Members
+| Name | Role | Party | District | Eagleton Fellow? |
+|------|------|-------|----------|------------------|
+| Sen. Bob Smith | Chair | D | 17 | No |
+| Sen. Michael Testa | Member | R | 1 | No |
+
+#### Also Present (Staff, Observers, Advisors)
+| Name | Title/Affiliation | Role | Eagleton Fellow? |
+|------|-------------------|------|------------------|
+| Dr. Jane Doe | DEP Science Advisor | Staff | Yes (2022-2023) |
+
+**Eagleton Science Fellow Cross-Reference:**
+Check all attendees against the Eagleton Science Fellows database (`database/exports/eagleton_fellows.csv`). Flag any matches with fellowship year.
+
+### 2.7 Retain Committee Notice/Agenda
+
+**Required:** Save the official committee notice or hearing agenda.
+- Store in hearing folder as `committee-notice.pdf` or `agenda.pdf`
+- Path recorded in database: `committee_notice_path`
+- Agenda often lists bills to be discussed and scheduled actions
+
+### 2.8 Document Bills on Agenda
+
+Extract from committee notice or hearing record:
+
+| Bill # | Title | Scheduled Action | Sponsor |
+|--------|-------|------------------|---------|
+| A4367 | Toxic Packaging Reduction Act | First Reading | Collazos-Gill |
+| S1481 | Microplastics Testing | Vote | Smith |
+
+**Scheduled Action Types:**
+- Discussion / First Reading
+- Testimony
+- Vote
+- Amendment consideration
+- Substitution
+
+### 2.9 Document Bill Actions Taken
+
+Record what actually happened to each bill at the hearing:
+
+| Bill # | Action | Result | Vote (Y-N-A) | Notes |
+|--------|--------|--------|--------------|-------|
+| S1481 | Vote | Passed | 5-2-1 | Amended before vote |
+| A4367 | Held | — | — | Deferred to next session |
+
+**Action Types:**
+- Vote (passed/failed with counts)
+- Amendment (adopted/rejected)
+- Substitution (bill replaced)
+- Held (deferred)
+- Released (from committee)
+- Tabled
 
 ---
 
@@ -359,16 +446,30 @@ Every report should acknowledge:
 
 ### Before Starting
 - [ ] Hearing transcript obtained (text format)
-- [ ] Relevant bills identified
+- [ ] Committee notice/agenda obtained and saved
+- [ ] Relevant bills identified (from agenda + discussed)
 - [ ] Bill texts obtained (text format)
 - [ ] Timeline established
 
+### Committee & Attendance
+- [ ] Primary committee documented (name, chamber, type)
+- [ ] Joint committees/taskforces/councils/commissions documented
+- [ ] All committee members present listed with roles
+- [ ] All other attendees listed (staff, observers)
+- [ ] Cross-referenced against Eagleton Fellows database
+- [ ] Committee notice retained in hearing folder
+
+### Bills on Agenda
+- [ ] All bills on agenda listed with scheduled actions
+- [ ] Actual actions taken documented (votes, amendments, held)
+- [ ] Vote counts recorded where applicable
+
 ### Extraction
 - [ ] Witnesses catalogued with credentials
+- [ ] Testimony-bill positions documented (for/against/neutral/mixed per bill)
 - [ ] Scientific claims extracted with evidence types
 - [ ] Technical terminology indexed
 - [ ] Policy recommendations documented
-- [ ] Committee attendance verified
 
 ### Bill Analysis
 - [ ] Bill structure parsed
@@ -452,6 +553,17 @@ A complete analysis should produce:
 
 ---
 
-*Methodology version: 1.0*
+*Methodology version: 2.0*
 *Developed: February 6, 2026*
+*Updated: February 7, 2026*
 *Based on analysis of NJ legislative hearings, 2024-2025*
+
+## Changelog
+
+### v2.0 (2026-02-07)
+- Added committee structure documentation (joint committees, taskforces, councils, commissions)
+- Added bill agenda tracking with scheduled vs actual actions
+- Added testimony-bill position tracking (for/against/neutral/mixed)
+- Added Eagleton Science Fellow cross-referencing
+- Added committee notice retention requirement
+- Added all-people-present tracking (not just committee members)
