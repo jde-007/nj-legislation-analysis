@@ -1,0 +1,47 @@
+id,name,title,affiliation,department,expertise_area,person_type,party,district,is_eagleton_fellow,eagleton_fellowship_year,email,notes
+1,"Dr. Phoebe Stapleton","Associate Professor","Rutgers University","Department of Pharmacology and Toxicology","nanoplastics, cardiovascular toxicology",scientist,,,0,,,
+2,"Dr. Shanna Swan",Professor,"Icahn School of Medicine at Mount Sinai","Environmental Medicine and Public Health","phthalates, reproductive health, endocrine disruption",scientist,,,0,,,
+3,"Dr. Philip Demokritou",Professor,"Rutgers University","Environmental and Occupational Health Sciences","nanoplastics, exposure science",scientist,,,0,,,
+4,"Dr. Anthony Broccoli","Distinguished Professor","Rutgers University","Department of Environmental Sciences","atmospheric science, climate modeling",scientist,,,0,,,
+5,"Dr. Ning Lin","Associate Professor","Princeton University","Civil and Environmental Engineering","storm surge modeling, hurricane risk",scientist,,,0,,,
+6,"Dr. Thomas Herrington","Associate Director","Monmouth University Urban Coast Institute","Coastal Engineering","coastal resilience, beach nourishment",scientist,,,0,,,
+7,"David Robinson","NJ State Climatologist","Rutgers University","NJ Climate Office","NJ climate trends, precipitation patterns",scientist,,,0,,,
+8,"Jeff Tittel",Director,"Sierra Club NJ Chapter",,"environmental advocacy",advocate,,,0,,,
+9,"Ed Potosnak","Executive Director","NJ League of Conservation Voters",,"environmental policy",advocate,,,0,,,
+10,"Angelica Barreto-Galvez",Ph.D.,"Rutgers University","Cell and Developmental Biology","cell biology, developmental biology",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Health"
+11,"Saadia Chaudrhy",Ph.D.,"Purdue University","Organic Chemistry","organic chemistry",scientist,,,1,,,"Eagleton Fellow - Placement: Board of Public Utilities"
+12,"Adam Coleman",Ph.D.,"Northwestern University",Chemistry,"chemistry, clean energy",scientist,,,1,,,"Eagleton Fellow - Placement: Board of Public Utilities – Division of Clean Energy"
+13,"Krista Connelly",Ph.D.,"Temple University",Neuroscience,"neuroscience, mental health",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Corrections: Mental Health Services"
+14,"Ellenore Craine",Ph.D.,"University of Alabama at Birmingham",Biochemistry,"biochemistry, environment",scientist,,,1,,,"Eagleton Fellow 2024-2025 - Placement: NJ Department of Environmental Protection"
+15,"Florence Dou",Ph.D.,"University of Washington","Inorganic Chemistry","inorganic chemistry, energy",scientist,,,1,,,"Eagleton Fellow 2024-2025 - Placement: NJ Board of Public Utilities"
+16,"Aileen Eagleton",Ph.D.,"Dartmouth College","Materials Chemistry","materials chemistry, energy",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Board of Public Utilities"
+17,"Virginia Folgado Marco",Ph.D.,"Albert Einstein College of Medicine","Biomedical Sciences","biomedical sciences, COVID, data",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Office of Innovation – COVID19 Contact Tracing"
+18,"Peter Frank",Ph.D.,"University of New Hampshire","Organic Chemistry","chemistry, education",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Education – Science Education Standards"
+19,"Walker Gosrich",Ph.D.,"University of Pennsylvania","Mechanical Engineering","robotics, AI, mechanical engineering",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Office of Innovation"
+20,"Joseph Gurrentz",Ph.D.,"University of Texas at Austin","Inorganic Chemistry","inorganic chemistry",scientist,,,1,,,"Eagleton Fellow - Placement: Senate Majority Office"
+21,"Christina Marie Hernandez",Ph.D.,"Rutgers University","Biomedical Sciences","biomedical sciences, agriculture",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Agriculture"
+22,"Jesse Kolodin",Ph.D.,"Montclair State University","Environmental Science and Management","environmental science, catastrophe planning, insurance",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Banking and Insurance"
+23,"Federica Lari",Ph.D.,"University of Oxford","Cancer Biology","cancer biology, sustainability, climate",scientist,,,1,,,"Eagleton Fellow - Placement: NJ DEP – Bureaus of Sustainability and Climate Change"
+24,"Kira Lawrence",Ph.D.,"Lafayette College",Geology,"geology, offshore wind, energy storage, grid",scientist,,,1,,,"Eagleton Fellow - Placement: NJ BPU – Offshore Wind; Energy Storage; Grid Modernization"
+25,"Shin-Yi Lin",Ph.D.,"Princeton University","Molecular Biology and Neuroscience","molecular biology, neuroscience, maternal health",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Human Services – NJ Medicaid"
+26,"Andrew McAllister",Ph.D.,"University of Michigan","Applied Physics","applied physics, telecommunications, technology",scientist,,,1,,,"Eagleton Fellow - Placement: Assembly Majority Office – Telecommunications and Utilities"
+27,"Allison McCague",Ph.D.,"Johns Hopkins University","Human Genetics","human genetics, newborn screening, health policy",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Health – Newborn Screening Program"
+28,"Ian McLaughlin",Ph.D.,"University of Pennsylvania",Neuroscience,neuroscience,scientist,,,1,,,"Eagleton Fellow - Placement: Assembly Majority Office"
+29,"Dayna Mercadante",Ph.D.,"Worcester Polytechnic Institute","Bioinformatics and Computational Biology","bioinformatics, computational biology",scientist,,,1,,,"Eagleton Fellow - Placement: New Jersey Legislature"
+30,"Allison Meyers",Ph.D.,"Wake Forest School of Medicine","Molecular and Cellular Biosciences","molecular biology, cell biology",scientist,,,1,,,"Eagleton Fellow - Placement: New Jersey Legislature"
+31,"Gabriel Moore",Ph.D.,"Princeton University","Molecular Biology","molecular biology, multicultural health",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Health – Office of Multicultural Health"
+32,"Sawyer Morgan",Ph.D.,"University of Washington","Chemical Engineering","chemical engineering, solar, EVs, energy storage",scientist,,,1,,,"Eagleton Fellow - Placement: NJ BPU – Solar Energy, Energy Storage, Electric Vehicles"
+33,"Evvan Morton",Ph.D.,"Arizona State University","Civil, Environmental, and Sustainable Engineering","civil engineering, environmental engineering, sustainability",scientist,,,1,,,"Eagleton Fellow - Placement: Senate Majority Office"
+34,"Sadie Novak",Ph.D.,"Syracuse University",Chemistry,chemistry,scientist,,,1,,,"Eagleton Fellow - Placement: New Jersey Senate Majority Office"
+35,"Mai Nguyen",Ph.D.,"Princeton University",Psychology,"psychology, children and families",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Children and Families"
+36,"Uchenna Orji",MD,"Rutgers Robert Wood Johnson Medical School",Medicine,"medicine, education",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Education"
+37,"Indrani Pal",Ph.D.,"University of Cambridge","Environmental Engineering and Sustainability","environmental engineering, sustainability, clean energy",scientist,,,1,,,"Eagleton Fellow - Placement: Board of Public Utilities – Division of Clean Energy"
+38,"Julia Palmucci",Ph.D.,"Duke University","Molecular Genetics and Microbiology","genetics, microbiology",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Assembly Minority Office"
+39,"Aidan Preston",Ph.D.,"University of Utah","Cancer Biology","cancer biology, environment",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Environmental Protection"
+40,"Erin Reagan",Ph.D.,"University of Pennsylvania","Cell and Molecular Biology","cell biology, molecular biology",scientist,,,1,,,"Eagleton Fellow - Placement: New Jersey Legislature"
+41,"Hanna Sherrill",Ph.D.,"Brown University",Neuroscience,"neuroscience, COVID response, health technology",scientist,,,1,,,"Eagleton Fellow - Placement: NJ DOH – NJ COVID Mobile App Development"
+42,"Celia Smits",Ph.D.,"Princeton University","Molecular Biology","molecular biology",scientist,,,1,,,"Eagleton Fellow - Placement: New Jersey Legislature"
+43,"Natalie Stuart",Ph.D.,"Drexel University",Chemistry,"chemistry, clean energy",scientist,,,1,,,"Eagleton Fellow - Placement: Board of Public Utilities – Division of Clean Energy"
+44,"Liana Vaccari",Ph.D.,"University of Pennsylvania","Chemical Engineering","chemical engineering, climate resiliency, transportation",scientist,,,1,,,"Eagleton Fellow - Placement: Department of Transportation – Climate Resiliency"
+45,"Justin Wang",Ph.D.,"The Scripps Research Institute","Molecular and Cell Biology","molecular biology, cell biology",scientist,,,1,,,"Eagleton Fellow - Placement: NJ Department of Children and Families"
+46,"Zixuan Wang",Ph.D.,"University of Michigan","Chemical Engineering","chemical engineering, environment, utilities, education",scientist,,,1,,,"Eagleton Fellow - Placement: Assembly Majority Office – Environment and Solid Waste"
