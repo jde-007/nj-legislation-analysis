@@ -1,0 +1,8 @@
+scientist,affiliation,expertise_area,hearings_attended,total_claims,avg_evidence_quality,nj_specific_claims,terms_adopted_in_bills
+"Dr. Shanna Swan","Icahn School of Medicine at Mount Sinai","phthalates, reproductive health, endocrine disruption",1,5,1.5,0,4
+"Dr. Thomas Herrington","Monmouth University Urban Coast Institute","coastal resilience, beach nourishment",1,4,2.0,2,0
+"Dr. Phoebe Stapleton","Rutgers University","nanoplastics, cardiovascular toxicology",1,3,1.0,0,0
+"Dr. Anthony Broccoli","Rutgers University","atmospheric science, climate modeling",1,3,1.5,1,0
+"Dr. Ning Lin","Princeton University","storm surge modeling, hurricane risk",1,3,1.0,0,0
+"Dr. Philip Demokritou","Rutgers University","nanoplastics, exposure science",1,0,,0,0
+"David Robinson","Rutgers University","NJ climate trends, precipitation patterns",1,0,,0,0

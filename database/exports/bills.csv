@@ -1,0 +1,9 @@
+id,bill_number,title,session,introduced_date,sponsors,primary_sponsor,status,topic,bill_text_path,pdf_path
+1,A4367,"Toxic Packaging Reduction Act",2024-2025,2024-05-16,,Collazos-Gill,introduced,plastic,bill-texts/A4367_I1.txt,bill-texts/A4367_I1.pdf
+2,S4367,"Toxic Packaging Reduction Act (Senate)",2024-2025,2024-05-16,,,introduced,plastic,bill-texts/S4367_I1.txt,bill-texts/S4367_I1.pdf
+3,A5338,"Bag Ban Repeal",2024-2025,2024-09-12,,Inganamort,introduced,plastic,bill-texts/A5338_I1.txt,bill-texts/A5338_I1.pdf
+4,A1481,"Microplastics in Drinking Water",2024-2025,,,,introduced,plastic,bill-texts/A1481_I1.txt,bill-texts/A1481_I1.pdf
+5,A2104,"Flood Mitigation",2024-2025,,,,introduced,climate,bill-texts/A2104_I1.txt,bill-texts/A2104_I1.pdf
+6,S2104,"Flood Mitigation (Senate)",2024-2025,,,,introduced,climate,bill-texts/S2104_I1.txt,bill-texts/S2104_I1.pdf
+7,A2324,"Hazard Mitigation Plans",2024-2025,,,,introduced,climate,bill-texts/A2324_I1.txt,bill-texts/A2324_I1.pdf
+8,A1461,"Climate Mitigation Financing",2024-2025,,,,introduced,climate,bill-texts/A1461_I1.txt,bill-texts/A1461_I1.pdf

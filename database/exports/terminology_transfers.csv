@@ -1,0 +1,6 @@
+id,claim_id,bill_id,testimony_term,bill_term,bill_section,transfer_type,confidence,notes
+1,6,1,ortho-phthalates,ortho-phthalates,"Section 3 definitions",TERMINOLOGICAL_TRANSFER,high,"Exact term from Swan testimony appears in bill definitions"
+2,7,1,bisphenols,bisphenols,"Section 3 definitions",TERMINOLOGICAL_TRANSFER,high,"Exact term from Swan testimony"
+3,4,1,"endocrine disruptor","endocrine disrupting compound","Section 3 definitions",TERMINOLOGICAL_TRANSFER,high,"Nearly verbatim terminology"
+4,6,1,"regulate as a class","class of chemicals","Section 4",SUBSTANTIVE_ALIGNMENT,high,"Bill adopts class-based approach recommended in testimony"
+5,,3,"bag ban working","increased waste","Findings section",EVIDENTIARY_CONTRADICTION,high,"Bill claims opposite of hearing testimony"

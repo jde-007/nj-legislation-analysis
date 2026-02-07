@@ -1,0 +1,9 @@
+id,bill_id,hearing_id,relationship,days_between
+1,1,1,post-hearing,24
+2,2,1,post-hearing,24
+3,3,1,post-hearing,143
+4,4,1,pre-hearing,
+5,5,2,pre-hearing,
+6,6,2,pre-hearing,
+7,7,2,pre-hearing,
+8,8,2,pre-hearing,

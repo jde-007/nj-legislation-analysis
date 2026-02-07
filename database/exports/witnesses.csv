@@ -1,0 +1,10 @@
+id,name,title,affiliation,department,expertise_area,witness_type
+1,"Dr. Phoebe Stapleton","Associate Professor","Rutgers University","Department of Pharmacology and Toxicology","nanoplastics, cardiovascular toxicology",scientist
+2,"Dr. Shanna Swan",Professor,"Icahn School of Medicine at Mount Sinai","Environmental Medicine and Public Health","phthalates, reproductive health, endocrine disruption",scientist
+3,"Dr. Philip Demokritou",Professor,"Rutgers University","Environmental and Occupational Health Sciences","nanoplastics, exposure science",scientist
+4,"Dr. Anthony Broccoli","Distinguished Professor","Rutgers University","Department of Environmental Sciences","atmospheric science, climate modeling",scientist
+5,"Dr. Ning Lin","Associate Professor","Princeton University","Civil and Environmental Engineering","storm surge modeling, hurricane risk",scientist
+6,"Dr. Thomas Herrington","Associate Director","Monmouth University Urban Coast Institute","Coastal Engineering","coastal resilience, beach nourishment",scientist
+7,"David Robinson","NJ State Climatologist","Rutgers University","NJ Climate Office","NJ climate trends, precipitation patterns",scientist
+8,"Jeff Tittel",Director,"Sierra Club NJ Chapter",,"environmental advocacy",advocate
+9,"Ed Potosnak","Executive Director","NJ League of Conservation Voters",,"environmental policy",advocate

@@ -1,0 +1,3 @@
+id,date,title,committee,topic,location,transcript_path,pdf_path,source_url,total_witnesses,scientist_witnesses,analysis_status
+1,2024-04-22,"Plastic Pollution and Health","Senate Environment and Energy Committee",plastic-pollution,,nj-2024-04-22-plastic-pollution/transcript.txt,nj-2024-04-22-plastic-pollution/plastic-pollution-hearing-2024-04-22.pdf,https://www.njleg.state.nj.us/video/archive,12,3,complete
+2,2024-08-01,"Climate Resiliency","Senate Environment and Energy Committee",climate-resiliency,,nj-2024-08-01-climate-resiliency/transcript.txt,nj-2024-08-01-climate-resiliency/senaen08012024.pdf,https://www.njleg.state.nj.us/video/archive,10,4,complete

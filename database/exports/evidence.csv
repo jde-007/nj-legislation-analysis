@@ -1,0 +1,11 @@
+id,claim_id,evidence_text,evidence_type,quality_tier,source_citation,is_nj_specific
+1,1,"Peer-reviewed laboratory studies on nanoplastic tissue penetration",peer-reviewed,1,,0
+2,2,"Published studies detecting nanoplastics in human placental samples",peer-reviewed,1,,0
+3,4,"Multiple peer-reviewed studies on phthalate endocrine disruption",peer-reviewed,1,,0
+4,5,"CDC biomonitoring data showing reduced phthalate levels post-CPSIA",government-data,2,,0
+5,8,"NJ Climate Office temperature records since 1900",government-data,2,,1
+6,10,"IPCC attribution studies",peer-reviewed,1,,0
+7,11,"Princeton storm surge modeling research",peer-reviewed,1,,0
+8,12,"Published hurricane frequency projections under warming scenarios",peer-reviewed,1,,0
+9,15,"USACE post-Sandy damage assessment",government-data,2,,1
+10,15,"FEMA claims data for NJ shore communities",government-data,2,,1

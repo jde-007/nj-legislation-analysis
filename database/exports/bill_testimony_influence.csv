@@ -1,0 +1,12 @@
+bill_number,title,primary_sponsor,introduced_date,status,topic,testimony_term,bill_term,transfer_type,confidence,source_witness,hearing_date
+A1461,"Climate Mitigation Financing",,,introduced,climate,,,,,,2024-08-01
+A1481,"Microplastics in Drinking Water",,,introduced,plastic,,,,,,2024-04-22
+A2104,"Flood Mitigation",,,introduced,climate,,,,,,2024-08-01
+A2324,"Hazard Mitigation Plans",,,introduced,climate,,,,,,2024-08-01
+A4367,"Toxic Packaging Reduction Act",Collazos-Gill,2024-05-16,introduced,plastic,ortho-phthalates,ortho-phthalates,TERMINOLOGICAL_TRANSFER,high,"Dr. Shanna Swan",2024-04-22
+A4367,"Toxic Packaging Reduction Act",Collazos-Gill,2024-05-16,introduced,plastic,bisphenols,bisphenols,TERMINOLOGICAL_TRANSFER,high,"Dr. Shanna Swan",2024-04-22
+A4367,"Toxic Packaging Reduction Act",Collazos-Gill,2024-05-16,introduced,plastic,"endocrine disruptor","endocrine disrupting compound",TERMINOLOGICAL_TRANSFER,high,"Dr. Shanna Swan",2024-04-22
+A4367,"Toxic Packaging Reduction Act",Collazos-Gill,2024-05-16,introduced,plastic,"regulate as a class","class of chemicals",SUBSTANTIVE_ALIGNMENT,high,"Dr. Shanna Swan",2024-04-22
+A5338,"Bag Ban Repeal",Inganamort,2024-09-12,introduced,plastic,"bag ban working","increased waste",EVIDENTIARY_CONTRADICTION,high,,2024-04-22
+S2104,"Flood Mitigation (Senate)",,,introduced,climate,,,,,,2024-08-01
+S4367,"Toxic Packaging Reduction Act (Senate)",,2024-05-16,introduced,plastic,,,,,,2024-04-22
