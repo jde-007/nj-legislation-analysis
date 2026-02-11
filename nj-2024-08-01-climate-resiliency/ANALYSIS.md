@@ -1,3 +1,16 @@
+---
+title: "Effective Scientific Engagement in Climate Resiliency Legislation"
+subtitle: "A Case Study: NJ Joint Committee Hearing (August 1, 2024)"
+author: "Shannon Erwin"
+date: "February 2026"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[L]{DRAFT}
+  - \fancyhead[C]{NJ Climate Resiliency Hearing Analysis}
+  - \fancyhead[R]{Shannon Erwin}
+---
+
 # Effective Scientific Engagement in Climate Resiliency Legislation
 
 ## A Case Study: NJ Joint Committee Hearing on Beach Replenishment, Climate Resiliency, and PACT Regulations
@@ -7,6 +20,7 @@
 ---
 
 **Author:** Shannon Erwin  
+**Status:** DRAFT  
 **Published:** February 2026
 
 ---
@@ -287,5 +301,4 @@ The hearing centered on the pending Resilient Environments and Landscapes (REAL)
 
 ---
 
-*Analysis by Shannon Erwin*  
-*February 2026*
+*DRAFT — Analysis by Shannon Erwin — February 2026*

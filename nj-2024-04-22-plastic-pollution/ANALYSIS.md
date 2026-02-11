@@ -1,3 +1,16 @@
+---
+title: "Effective Scientific Engagement in the Legislative Process"
+subtitle: "A Case Study: New Jersey Plastic Pollution Hearing (April 22, 2024)"
+author: "Shannon Erwin"
+date: "February 2026"
+header-includes:
+  - \usepackage{fancyhdr}
+  - \pagestyle{fancy}
+  - \fancyhead[L]{DRAFT}
+  - \fancyhead[C]{NJ Plastic Pollution Hearing Analysis}
+  - \fancyhead[R]{Shannon Erwin}
+---
+
 # Effective Scientific Engagement in the Legislative Process
 
 ## A Case Study: New Jersey Plastic Pollution Hearing
@@ -7,6 +20,7 @@
 ---
 
 **Author:** Shannon Erwin  
+**Status:** DRAFT  
 **Published:** February 2026
 
 ---
@@ -284,5 +298,4 @@ All quotes in this analysis are verbatim extractions from the official transcrip
 
 ---
 
-*Analysis by Shannon Erwin*  
-*February 2026*
+*DRAFT — Analysis by Shannon Erwin — February 2026*
